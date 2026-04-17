@@ -19,6 +19,9 @@ const KEYWORD_GROUPS = [
   { query: 'site:yomiuri.co.jp 聴覚障害', defaultCategory: 'general' },
   { query: 'site:prtimes.jp 聴覚障害', defaultCategory: 'general' },
   { query: 'site:rehab.go.jp 聴覚障害', defaultCategory: 'medical' },
+  { query: 'ろう者 演劇 OR ろう劇団', defaultCategory: 'culture' },
+  { query: '手話 舞台 OR 手話パフォーマンス', defaultCategory: 'culture' },
+  { query: 'ろう芸術 OR ろう映画 OR デフシアター', defaultCategory: 'culture' },
 ];
 
 const DIRECT_FEEDS = [
@@ -35,16 +38,31 @@ const DIRECT_FEEDS = [
     defaultCategory: 'policy',
   },
   {
-    url: 'https://shikaku.in/feed/',
-    sourceName: 'しかくタイムズ',
+    // 旧 /feed/ は2012年で停止。イベントフィードに切替（稼働中）
+    url: 'https://shikaku.in/feed/event/',
+    sourceName: 'しかくタイムズ（イベント）',
     sourceUrl: 'https://shikaku.in/',
-    defaultCategory: 'general',
+    defaultCategory: 'culture',
   },
   {
     url: 'https://www.tfd.deaf.tokyo/feed/',
     sourceName: '東京都聴覚障害者連盟',
     sourceUrl: 'https://www.tfd.deaf.tokyo/',
     defaultCategory: 'local',
+  },
+  {
+    // マガジンハウス運営の福祉クリエイティブマガジン。ろう文化系の深い記事を拾う
+    url: 'https://co-coco.jp/feed/',
+    sourceName: 'こここ',
+    sourceUrl: 'https://co-coco.jp/',
+    defaultCategory: 'culture',
+  },
+  {
+    // 日本ろう者劇団（アメブロ）
+    url: 'https://rssblog.ameba.jp/jtd2009/rss20.xml',
+    sourceName: '日本ろう者劇団',
+    sourceUrl: 'https://ameblo.jp/jtd2009/',
+    defaultCategory: 'culture',
   },
 ];
 
@@ -54,6 +72,10 @@ const RELEVANT_KEYWORDS = [
   '新生児スクリーニング', '手話言語', '手話通訳', '要約筆記',
   '電話リレー', '音声認識', '聴力', '聴覚', '耳が聞こえ',
   '中途失聴', '難聴者', 'ろう学校', '聴覚特別支援',
+  // 文化・芸能系
+  'ろう文化', 'ろう劇団', '手話演劇', '手話狂言', '手話能', 'ろう映画',
+  '手話落語', 'ろう芸術', 'デフシアター', '手話パフォーマンス',
+  'ろう映画祭', '手話詩', 'ろうアーティスト', '手話文学',
 ];
 
 function isRelevantArticle(title, description) {
@@ -63,6 +85,8 @@ function isRelevantArticle(title, description) {
 
 function guessCategory(title, summary) {
   const text = (title + ' ' + summary).toLowerCase();
+  // culture は最優先（「ろう演劇」「手話映画」等が他カテゴリに誤判定されるのを防ぐ）
+  if (/ろう[文劇芸映]|手話[演舞映落狂詩]|デフシアター|ろう映画|ろう芸術|手話パフォーマンス|手話能|手話狂言|手話文学|ろうアーティスト|デフリンピック.*(文化|芸術|プログラム)/.test(text)) return 'culture';
   if (/制度|政策|法律|条例|給付|支援|雇用|助成|補助|手当/.test(text)) return 'policy';
   if (/医療|病院|治療|手術|補聴器|人工内耳|診断|検査|耳鼻/.test(text)) return 'medical';
   if (/学校|教育|就学|大学|授業|入試|保育|幼稚|研究/.test(text)) return 'education';

@@ -36,6 +36,7 @@
   --cat-policy:    #8b6b93; /* lavender */
   --cat-medical:   #b35e4b; /* terracotta */
   --cat-education: #5a7a9a; /* dusty blue */
+  --cat-culture:   #a66b73; /* muted rose-wine (arts) */
   --cat-local:     #5a7a48; /* forest */
   --cat-general:   #7d694f; /* earth */
 
@@ -433,12 +434,14 @@ main {
 .chip--policy::before    { background: var(--cat-policy); }
 .chip--medical::before   { background: var(--cat-medical); }
 .chip--education::before { background: var(--cat-education); }
+.chip--culture::before   { background: var(--cat-culture); }
 .chip--local::before     { background: var(--cat-local); }
 .chip--general::before   { background: var(--cat-general); }
 
 .chip--policy    { color: var(--cat-policy); }
 .chip--medical   { color: var(--cat-medical); }
 .chip--education { color: var(--cat-education); }
+.chip--culture   { color: var(--cat-culture); }
 .chip--local     { color: var(--cat-local); }
 .chip--general   { color: var(--text-secondary); }
 
