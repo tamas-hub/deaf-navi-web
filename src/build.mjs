@@ -11,6 +11,14 @@ const STYLES_SRC = join(__dirname, 'styles.css');
 const STYLES_OUT = join(DOCS, 'styles.css');
 const APP_SRC = join(__dirname, 'app.js');
 const APP_OUT = join(DOCS, 'app.js');
+const OG_SRC = join(__dirname, 'og-image.svg');
+const OG_OUT = join(DOCS, 'og-image.svg');
+
+const SITE_URL = 'https://tamas-hub.github.io/deaf-navi-web/';
+const SITE_NAME = 'Deaf Navi Web';
+const SITE_TAGLINE = '聴覚障害・難聴・ろう者コミュニティの最新ニュース';
+const SITE_DESC = '聴覚障害・難聴・ろう者コミュニティ向けに、全日本ろうあ連盟や主要報道機関から最新ニュースを厳選。制度・政策・医療・教育・地域情報を毎時自動更新するキュレーションサイト。手話・情報保障・補聴器・人工内耳・手話言語条例など幅広いテーマをカバー。';
+const SITE_KEYWORDS = '聴覚障害,難聴,ろう者,ろうあ者,中途失聴,手話,情報保障,補聴器,人工内耳,手話言語条例,聴覚障害ニュース,手話ニュース,難聴者,デフ,deaf,字幕,電話リレー,要約筆記,ろう学校,聴覚特別支援';
 
 const CATEGORY_ORDER = ['all', 'policy', 'medical', 'education', 'local', 'general'];
 const CATEGORY_UI = {
@@ -31,15 +39,20 @@ function escapeHtml(s) {
     .replace(/'/g, '&#39;');
 }
 
-function formatDate(iso) {
+/** ISO → "YYYY-MM-DD HH:mm JST"（日本標準時固定） */
+function formatDateJST(iso) {
   const d = new Date(iso);
   if (Number.isNaN(d.getTime())) return '';
-  const y = d.getFullYear();
-  const m = String(d.getMonth() + 1).padStart(2, '0');
-  const day = String(d.getDate()).padStart(2, '0');
-  const hh = String(d.getHours()).padStart(2, '0');
-  const mm = String(d.getMinutes()).padStart(2, '0');
-  return `${y}-${m}-${day} ${hh}:${mm}`;
+  const fmt = new Intl.DateTimeFormat('sv-SE', {
+    timeZone: 'Asia/Tokyo',
+    year: 'numeric',
+    month: '2-digit',
+    day: '2-digit',
+    hour: '2-digit',
+    minute: '2-digit',
+    hour12: false,
+  });
+  return `${fmt.format(d).slice(0, 16)} JST`;
 }
 
 function relativeTime(iso) {
@@ -47,6 +60,7 @@ function relativeTime(iso) {
   const t = new Date(iso).getTime();
   const diff = Math.max(0, now - t);
   const mins = Math.floor(diff / 60000);
+  if (mins < 1) return '今';
   if (mins < 60) return `${mins}分前`;
   const hours = Math.floor(mins / 60);
   if (hours < 24) return `${hours}時間前`;
@@ -62,11 +76,11 @@ function renderArticle(a) {
       <article class="card" data-category="${escapeHtml(a.category)}">
         <header class="card__head">
           <span class="chip chip--${escapeHtml(a.category)}">${escapeHtml(catLabel)}</span>
-          <time class="card__time" datetime="${escapeHtml(a.publishedAt)}" title="${escapeHtml(formatDate(a.publishedAt))}">${escapeHtml(relativeTime(a.publishedAt))}</time>
+          <time class="card__time" datetime="${escapeHtml(a.publishedAt)}" title="${escapeHtml(formatDateJST(a.publishedAt))}">${escapeHtml(relativeTime(a.publishedAt))}</time>
         </header>
-        <h2 class="card__title">
+        <h3 class="card__title">
           <a href="${escapeHtml(a.id)}" target="_blank" rel="noopener noreferrer">${escapeHtml(a.title)}</a>
-        </h2>
+        </h3>
         <p class="card__summary">${escapeHtml(a.summary)}</p>
         <footer class="card__foot">
           <a class="card__source" href="${escapeHtml(a.sourceUrl)}" target="_blank" rel="noopener noreferrer">${escapeHtml(a.sourceName)}</a>
@@ -81,26 +95,134 @@ function renderFilterButtons() {
   ).join('\n          ');
 }
 
+/** 構造化データ JSON-LD（WebSite + Organization + ItemList of NewsArticle） */
+function renderJsonLd({ generatedAt, articles }) {
+  const topArticles = articles.slice(0, 30); // ItemListは上位30件に絞る
+  const itemList = topArticles.map((a, i) => ({
+    '@type': 'ListItem',
+    position: i + 1,
+    url: a.id,
+    item: {
+      '@type': 'NewsArticle',
+      '@id': a.id,
+      headline: a.title,
+      url: a.id,
+      datePublished: a.publishedAt,
+      dateModified: a.publishedAt,
+      inLanguage: 'ja-JP',
+      description: a.summary,
+      publisher: {
+        '@type': 'Organization',
+        name: a.sourceName,
+        url: a.sourceUrl,
+      },
+      articleSection: CATEGORY_UI[a.category] ?? '一般',
+    },
+  }));
+
+  const data = {
+    '@context': 'https://schema.org',
+    '@graph': [
+      {
+        '@type': 'WebSite',
+        '@id': `${SITE_URL}#website`,
+        url: SITE_URL,
+        name: SITE_NAME,
+        alternateName: 'Deaf Navi ニュース',
+        description: SITE_DESC,
+        inLanguage: 'ja-JP',
+        dateModified: generatedAt,
+        publisher: { '@id': `${SITE_URL}#organization` },
+      },
+      {
+        '@type': 'Organization',
+        '@id': `${SITE_URL}#organization`,
+        name: 'TAMA',
+        url: SITE_URL,
+      },
+      {
+        '@type': 'CollectionPage',
+        '@id': `${SITE_URL}#webpage`,
+        url: SITE_URL,
+        name: `${SITE_NAME} | ${SITE_TAGLINE}`,
+        description: SITE_DESC,
+        inLanguage: 'ja-JP',
+        isPartOf: { '@id': `${SITE_URL}#website` },
+        dateModified: generatedAt,
+        about: [
+          { '@type': 'Thing', name: '聴覚障害' },
+          { '@type': 'Thing', name: '難聴' },
+          { '@type': 'Thing', name: 'ろう者' },
+          { '@type': 'Thing', name: '手話' },
+          { '@type': 'Thing', name: '情報保障' },
+        ],
+      },
+      {
+        '@type': 'ItemList',
+        '@id': `${SITE_URL}#itemlist`,
+        name: '聴覚障害関連ニュース最新記事',
+        numberOfItems: topArticles.length,
+        itemListElement: itemList,
+      },
+    ],
+  };
+
+  return `<script type="application/ld+json">
+${JSON.stringify(data, null, 2)}
+</script>`;
+}
+
 function renderPage({ generatedAt, count, articles }) {
   const articlesHtml = articles.map(renderArticle).join('\n');
-  const generatedLocal = formatDate(generatedAt);
+  const generatedLocal = formatDateJST(generatedAt);
+  const jsonLd = renderJsonLd({ generatedAt, articles });
+
+  const pageTitle = `${SITE_NAME} | ${SITE_TAGLINE} - 毎時自動更新`;
+  const ogImage = `${SITE_URL}og-image.svg`;
 
   return `<!DOCTYPE html>
 <html lang="ja">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Deaf Navi Web - 聴覚障害・ろう者向けニュースキュレーション</title>
-  <meta name="description" content="聴覚障害・難聴・ろう者コミュニティ向けに厳選したニュースを一覧できるキュレーションサイト。制度・医療・教育・地域情報を定期更新。">
-  <meta name="theme-color" content="#0b3d91">
-  <meta property="og:title" content="Deaf Navi Web">
-  <meta property="og:description" content="聴覚障害・ろう者コミュニティ向けニュースキュレーション">
+  <title>${escapeHtml(pageTitle)}</title>
+  <meta name="description" content="${escapeHtml(SITE_DESC)}">
+  <meta name="keywords" content="${escapeHtml(SITE_KEYWORDS)}">
+  <meta name="author" content="TAMA">
+  <meta name="robots" content="index,follow,max-image-preview:large,max-snippet:-1">
+  <meta name="googlebot" content="index,follow">
+  <meta name="theme-color" content="#5a7a48">
+
+  <link rel="canonical" href="${SITE_URL}">
+  <link rel="alternate" type="application/rss+xml" title="${escapeHtml(SITE_NAME)}" href="${SITE_URL}feed.xml">
+
+  <!-- Open Graph -->
   <meta property="og:type" content="website">
+  <meta property="og:site_name" content="${escapeHtml(SITE_NAME)}">
+  <meta property="og:title" content="${escapeHtml(pageTitle)}">
+  <meta property="og:description" content="${escapeHtml(SITE_DESC)}">
+  <meta property="og:url" content="${SITE_URL}">
+  <meta property="og:image" content="${ogImage}">
+  <meta property="og:image:width" content="1200">
+  <meta property="og:image:height" content="630">
+  <meta property="og:image:alt" content="Deaf Navi Web - 聴覚障害・ろう者向けニュースキュレーション">
+  <meta property="og:locale" content="ja_JP">
+  <meta property="og:updated_time" content="${escapeHtml(generatedAt)}">
+
+  <!-- Twitter Card -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="${escapeHtml(pageTitle)}">
+  <meta name="twitter:description" content="${escapeHtml(SITE_DESC)}">
+  <meta name="twitter:image" content="${ogImage}">
+  <meta name="twitter:image:alt" content="Deaf Navi Web - 聴覚障害・ろう者向けニュースキュレーション">
+
+  <!-- Fonts -->
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Shippori+Mincho+B1:wght@500;600;700&display=swap">
   <link rel="stylesheet" href="./styles.css">
-  <link rel="canonical" href="./">
+
+  ${jsonLd}
 </head>
 <body>
   <a class="skip-link" href="#main">メインコンテンツにスキップ</a>
@@ -117,7 +239,7 @@ function renderPage({ generatedAt, count, articles }) {
     </div>
     <div class="container">
       <h1 class="site-title"><span class="site-title__brand">Deaf Navi</span><span class="site-title__sub">Web</span></h1>
-      <p class="site-lead">聴覚障害・ろう者コミュニティのための、静かで確かなニュースキュレーション。</p>
+      <p class="site-lead">聴覚障害・難聴・ろう者コミュニティのための、静かで確かなニュースキュレーション。手話・情報保障・制度・医療・教育・地域情報を毎時自動更新。</p>
     </div>
   </header>
 
@@ -130,9 +252,14 @@ function renderPage({ generatedAt, count, articles }) {
   </nav>
 
   <main id="main" class="container" role="main">
+    <section class="intro" aria-label="サイト紹介">
+      <h2 class="intro__title">聴覚障害・ろう者コミュニティの最新ニュースをひとつに</h2>
+      <p class="intro__text">Deaf Navi Web は、<strong>聴覚障害・難聴・ろう者・中途失聴者</strong>に関わる情報を、信頼できる情報源から自動収集・分類してお届けする無料ニュースキュレーションサイトです。<strong>全日本ろうあ連盟</strong>、<strong>東京都聴覚障害者連盟</strong>、しかくタイムズなどの専門媒体と、主要報道機関（朝日新聞・読売新聞・PR TIMES・国立リハビリテーションセンター等）の記事を横断し、<strong>手話・情報保障・補聴器・人工内耳・手話言語条例・要約筆記・電話リレー</strong>など幅広いトピックをカバー。毎時自動更新されるため、常に最新の動向を確認できます。</p>
+    </section>
+
     <section aria-labelledby="articles-heading">
       <div class="articles-head">
-        <h2 id="articles-heading" class="sr-only">記事一覧</h2>
+        <h2 id="articles-heading">最新ニュース</h2>
         <p class="meta">
           全 <strong id="total-count">${count}</strong> 件 /
           最終更新: <time datetime="${escapeHtml(generatedAt)}">${escapeHtml(generatedLocal)}</time>
@@ -162,8 +289,9 @@ ${articlesHtml}
 
   <footer class="site-footer" role="contentinfo">
     <div class="container">
-      <p>Deaf Navi Web は <a href="https://www.jfd.or.jp/" target="_blank" rel="noopener noreferrer">全日本ろうあ連盟</a> 等のRSSフィードと Google News RSS を情報源にしています。</p>
+      <p>Deaf Navi Web は <a href="https://www.jfd.or.jp/" target="_blank" rel="noopener noreferrer">全日本ろうあ連盟</a>・<a href="https://www.tfd.deaf.tokyo/" target="_blank" rel="noopener noreferrer">東京都聴覚障害者連盟</a> 等のRSSフィードと Google News RSS を情報源にしています。</p>
       <p>記事の著作権は各発信元に帰属します。リンク先は外部サイトです。更新は自動で1時間毎に行われます。</p>
+      <p><a href="${SITE_URL}feed.xml">RSSフィード</a> ・ <a href="${SITE_URL}sitemap.xml">サイトマップ</a></p>
       <hr class="site-footer__divider" aria-hidden="true">
       <p class="site-footer__copyright">
         <span>&copy; ${new Date().getFullYear()} TAMA.</span>
@@ -181,6 +309,70 @@ ${articlesHtml}
 `;
 }
 
+function renderSitemap({ generatedAt }) {
+  const lastmod = new Date(generatedAt).toISOString();
+  return `<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>${SITE_URL}</loc>
+    <lastmod>${lastmod}</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1.0</priority>
+  </url>
+</urlset>
+`;
+}
+
+function renderRobots() {
+  return `User-agent: *
+Allow: /
+Disallow: /articles.json$
+
+Sitemap: ${SITE_URL}sitemap.xml
+`;
+}
+
+function renderRss({ generatedAt, articles }) {
+  const items = articles.slice(0, 50).map((a) => {
+    const pubDate = new Date(a.publishedAt).toUTCString();
+    return `    <item>
+      <title>${escapeXml(a.title)}</title>
+      <link>${escapeXml(a.id)}</link>
+      <guid isPermaLink="true">${escapeXml(a.id)}</guid>
+      <pubDate>${pubDate}</pubDate>
+      <description>${escapeXml(a.summary)}</description>
+      <category>${escapeXml(CATEGORY_UI[a.category] ?? '一般')}</category>
+      <source url="${escapeXml(a.sourceUrl)}">${escapeXml(a.sourceName)}</source>
+    </item>`;
+  }).join('\n');
+
+  const lastBuildDate = new Date(generatedAt).toUTCString();
+
+  return `<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>${escapeXml(SITE_NAME)}</title>
+    <link>${SITE_URL}</link>
+    <atom:link href="${SITE_URL}feed.xml" rel="self" type="application/rss+xml" />
+    <description>${escapeXml(SITE_DESC)}</description>
+    <language>ja-JP</language>
+    <lastBuildDate>${lastBuildDate}</lastBuildDate>
+    <ttl>60</ttl>
+${items}
+  </channel>
+</rss>
+`;
+}
+
+function escapeXml(s) {
+  return String(s)
+    .replace(/&/g, '&amp;')
+    .replace(/</g, '&lt;')
+    .replace(/>/g, '&gt;')
+    .replace(/"/g, '&quot;')
+    .replace(/'/g, '&apos;');
+}
+
 async function fileExists(p) {
   try {
     await stat(p);
@@ -195,8 +387,18 @@ async function main() {
   const data = JSON.parse(raw);
 
   await mkdir(DOCS, { recursive: true });
+
   await writeFile(HTML_OUT, renderPage(data), 'utf8');
   console.log(`書き出し: ${HTML_OUT}`);
+
+  await writeFile(join(DOCS, 'sitemap.xml'), renderSitemap(data), 'utf8');
+  console.log(`書き出し: ${join(DOCS, 'sitemap.xml')}`);
+
+  await writeFile(join(DOCS, 'robots.txt'), renderRobots(), 'utf8');
+  console.log(`書き出し: ${join(DOCS, 'robots.txt')}`);
+
+  await writeFile(join(DOCS, 'feed.xml'), renderRss(data), 'utf8');
+  console.log(`書き出し: ${join(DOCS, 'feed.xml')}`);
 
   if (await fileExists(STYLES_SRC)) {
     await copyFile(STYLES_SRC, STYLES_OUT);
@@ -205,6 +407,10 @@ async function main() {
   if (await fileExists(APP_SRC)) {
     await copyFile(APP_SRC, APP_OUT);
     console.log(`コピー: ${APP_OUT}`);
+  }
+  if (await fileExists(OG_SRC)) {
+    await copyFile(OG_SRC, OG_OUT);
+    console.log(`コピー: ${OG_OUT}`);
   }
 }
 
