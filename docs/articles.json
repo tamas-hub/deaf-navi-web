@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-17T15:12:20.405Z",
+  "generatedAt": "2026-04-17T15:30:01.643Z",
   "count": 150,
   "articles": [
     {
@@ -10,15 +10,6 @@
       "sourceUrl": "https://www.jfd.or.jp/",
       "publishedAt": "2026-04-17T14:02:23.000Z",
       "category": "local"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5fUVpzbGhIMHRuRDlWLUFocFZWWjVFZktBajdJMnQ1ck5UcThUMklJRkZXV1JwZHdfRmYyNWJSWVplVGw1T3hpVHRkT2N6XzNlZWREUGhNT1FzRWd6bExJ?oc=5",
-      "title": "手話で喜び表現「長い間の夢。待ちに待った条例で感無量」 三重県四日市市で手話言語条例が施行 - 中日新聞Web",
-      "summary": "<a href=\" target=\"_blank\">手話で喜び表現「長い間の夢。待ちに待った条例で感無量」 三重県四日市市で手話言語条例が施行</a> <font color=\"#6f6f6f\">中日新聞Web</font>",
-      "sourceName": "中日新聞Web",
-      "sourceUrl": "https://www.chunichi.co.jp",
-      "publishedAt": "2026-04-17T13:40:00.000Z",
-      "category": "policy"
     },
     {
       "id": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBLSG51YzRfZDNfcU9zOHQ1ZlRSNWQ2aVVDUGF1OF8yb05Qbm82SHRvSGo5OFo2N1JwSlhiQ1BpMUVGNHNmd3F1dFprdw?oc=5",
@@ -246,15 +237,6 @@
       "category": "general"
     },
     {
-      "id": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQb3BEVW1lTUsxYUpXVTIwdVpZbFVWNVhMZnNRZmlPbWhpVnNLQlo1dC0zSmxXWFFXX2xqcW05cFJKYXdNX3lRbmJlYlh3anZReHREN1pnbm9iQVhFZndiWnBFa3NsYkpLUEJrRmRxbUI5cXk5aGFzdDlQWjRJb1NHeG14SzJUMDBQX1E0NS00c1FmTWxPN3c?oc=5",
-      "title": "不在の交番相談「手話リンク」で…聴覚障害者らサポートへ導入 - 読売新聞",
-      "summary": "<a href=\" target=\"_blank\">不在の交番相談「手話リンク」で…聴覚障害者らサポートへ導入</a> <font color=\"#6f6f6f\">読売新聞</font>",
-      "sourceName": "読売新聞",
-      "sourceUrl": "https://www.yomiuri.co.jp",
-      "publishedAt": "2026-04-15T07:00:00.000Z",
-      "category": "general"
-    },
-    {
       "id": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBZUFRUdldDcUxqcncyWC15bm5FZEpNZkJ1QkhjVktYbm9HODJyLV8yYmwxTm1fcDAtQ2ZDRUdIQm5fM1FFU1BfUkZyZWR3WW85aVhfOFFsSlhkd2E4MEFR?oc=5",
       "title": "小田急が「手話リンク」を導入 開成、栢山、富水、螢田、足柄など16駅で実施 - 小田原箱根経済新聞",
       "summary": "<a href=\" target=\"_blank\">小田急が「手話リンク」を導入 開成、栢山、富水、螢田、足柄など16駅で実施</a> <font color=\"#6f6f6f\">小田原箱根経済新聞</font>",
@@ -462,6 +444,15 @@
       "category": "general"
     },
     {
+      "id": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5MY0VnLWxCUnQ1N0hkT3ZXRWFUd0hJNFBMY3RodkFWb3VFcGY3NGJTcDdnRFBuaXdRZmkyRncwcjBUUFgza1JqUnBjR2dZeFE?oc=5",
+      "title": "山脇立嗣 脚本 ろう者×聴者 共に創り上げる舞台 - アットプレス",
+      "summary": "<a href=\" target=\"_blank\">山脇立嗣 脚本 ろう者×聴者 共に創り上げる舞台</a> <font color=\"#6f6f6f\">アットプレス</font>",
+      "sourceName": "アットプレス",
+      "sourceUrl": "https://www.atpress.ne.jp",
+      "publishedAt": "2026-04-11T01:00:00.000Z",
+      "category": "general"
+    },
+    {
       "id": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1yRGpZdUNGRHhlWnh3eC0tSGFNbThtSjQzTUdqenRKLTNWQjIyV2pGcE9rS0tYeXgzZmNUNWpkVXBYOU1xV0JwRDZuX2U4cmxSM2NxZ2NLa0dtck1sWnFfRVZydVk0Q1k?oc=5",
       "title": "香港の青春映画「私たちの話し方」 聴覚が不自由な若者の葛藤を描く [青森県] - 朝日新聞",
       "summary": "<a href=\" target=\"_blank\">香港の青春映画「私たちの話し方」 聴覚が不自由な若者の葛藤を描く [青森県]</a> <font color=\"#6f6f6f\">朝日新聞</font>",
@@ -487,6 +478,15 @@
       "sourceUrl": "https://prtimes.jp",
       "publishedAt": "2026-04-10T01:01:10.000Z",
       "category": "general"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5GamVycVpHVGgwMTluTmw2Vm80Y0djWHB1RHAtS0NaWFFQMnJRRzlBM0xuc1l3aEUyOUVud3R1X0xuQ0FWTGlZR090bFBXSlF2enB2SXp2RDduM2FvR1VmOFZZV2dSNWtJaDFyYUlB?oc=5",
+      "title": "「ろう者にとって大きな前進」／役所に手話で問い合わせ／横浜市 2026年4月10日付 - 公明新聞電子版プラス",
+      "summary": "<a href=\" target=\"_blank\">「ろう者にとって大きな前進」／役所に手話で問い合わせ／横浜市 2026年4月10日付</a> <font color=\"#6f6f6f\">公明新聞電子版プラス</font>",
+      "sourceName": "公明新聞電子版プラス",
+      "sourceUrl": "https://digital.komei-shimbun.jp",
+      "publishedAt": "2026-04-09T22:13:55.000Z",
+      "category": "local"
     },
     {
       "id": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1TaGlQb2UxejJCU0d0aE5GWlk2MFY5eXNNTkYyZTN6Y2YyOFdOVjI0UThwN3FzbjRNQkhpQlBBN3BpQUtmWlowVU5seThiMjNZNzVrLTJ1bnVJLVN4aXc?oc=5",
@@ -534,6 +534,15 @@
       "category": "local"
     },
     {
+      "id": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQMEJjcWRXaEE2djRUaF9TQU1FWDJJVmVTSHNoYTZxVGZPOE9TRjlzMzN5UGw0TURYcjVnWVpoTGYtcW5TOFZYUnFta1V5QW1oNUZ4MUVWNjNMbVlab1I5VFJaMC1qemd0SFhIdGw1N2V2Sm5qR0d4S0M0ZmJOR1J2NDM3cFnSAYoBQVVfeXFMTVBPS0R0UEdnTTNCSlVnQXdjaHdQRmJqemNZSmgzd2p2VjNoTUtJN0RPSXY3WVk2dzM4MElXQ0hZc3YwRlo5eEZDQnctWkxRNVlEQkRuUGhMaU5NR3NqQlpIY2wyNFI3cUFzODVqaHZ4Y053bk01Q21ueXFKTXA1eXRrR3ZYTTR2U0xn?oc=5",
+      "title": "ろう者の主人公が補聴器店を去った理由とは？―ベルリン国際映画祭2冠『幸せの、忘れもの。』本編映像解禁 - ｄメニューニュース",
+      "summary": "<a href=\" target=\"_blank\">ろう者の主人公が補聴器店を去った理由とは？―ベルリン国際映画祭2冠『幸せの、忘れもの。』本編映像解禁</a> <font color=\"#6f6f6f\">ｄメニューニュース</font>",
+      "sourceName": "ｄメニューニュース",
+      "sourceUrl": "https://topics.smt.docomo.ne.jp",
+      "publishedAt": "2026-04-08T07:00:00.000Z",
+      "category": "medical"
+    },
+    {
       "id": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFA0Z1JPZTZUa2JzejFFdy1sTkVTLXhpYWJFelhUYmtXWWpwcl9XaE9mMmRzNzhwRzFiQ0FFRjBSN2RvdzFzRFlKQkxja1BjYnc4MkZkcklwUQ?oc=5",
       "title": "【マスコット】安城市障害福祉課×シーホース三河 安城市手話啓発動画に所属タレント「タツヲ」出演 - シーホース三河",
       "summary": "<a href=\" target=\"_blank\">【マスコット】安城市障害福祉課×シーホース三河 安城市手話啓発動画に所属タレント「タツヲ」出演</a> <font color=\"#6f6f6f\">シーホース三河</font>",
@@ -541,6 +550,15 @@
       "sourceUrl": "https://go-seahorses.jp",
       "publishedAt": "2026-04-07T01:15:55.000Z",
       "category": "local"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMid0FVX3lxTE54MUQ3WXFFUml4SlFhejFTNXlJeHlPbDB0NzYzMlFpZFJ5TjE0VlNjX2JPRWVvX0tyeFFsU3pacC1YUVVrUmtZU3JzT2FuZGF0MzRIb3FyVXUtdHlzMU1BSnltcFhLci1KSFhRdWo1R0Y2RjEwRnpV?oc=5",
+      "title": "ろう者と聴者が協働する手話言語学 Sign Linguistics with Collaboration of the Deaf and the Hearing - 慶應義塾",
+      "summary": "<a href=\" target=\"_blank\">ろう者と聴者が協働する手話言語学 Sign Linguistics with Collaboration of the Deaf and the Hearing</a> <font color=\"#6f6f6f\">慶應義塾</font>",
+      "sourceName": "慶應義塾",
+      "sourceUrl": "https://www.keio.ac.jp",
+      "publishedAt": "2026-04-06T21:38:08.000Z",
+      "category": "general"
     },
     {
       "id": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAyUktvbk8zRVJiUUJ5N0JPemFlUmVkOV9xWF9PTWRVdGJjcHl1Y1FGcGRWSTg2TmRoVDB3NDd2UGhrWHU0T0QtNXVVbmx3YUhGQ2NSM0xOVWZOZzNtYzZkYy16cHJJTW43VnpqenNRcGk1VUpJUnUycHUwUkRrdjg?oc=5",
@@ -656,6 +674,15 @@
       "summary": "<a href=\" target=\"_blank\">手話の日フォト・コンテスト2025作品</a> <font color=\"#6f6f6f\">city.ishigaki.okinawa.jp</font>",
       "sourceName": "city.ishigaki.okinawa.jp",
       "sourceUrl": "https://www.city.ishigaki.okinawa.jp",
+      "publishedAt": "2026-04-02T07:00:00.000Z",
+      "category": "general"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQb3BEVW1lTUsxYUpXVTIwdVpZbFVWNVhMZnNRZmlPbWhpVnNLQlo1dC0zSmxXWFFXX2xqcW05cFJKYXdNX3lRbmJlYlh3anZReHREN1pnbm9iQVhFZndiWnBFa3NsYkpLUEJrRmRxbUI5cXk5aGFzdDlQWjRJb1NHeG14SzJUMDBQX1E0NS00c1FmTWxPN3c?oc=5",
+      "title": "不在の交番相談「手話リンク」で…聴覚障害者らサポートへ導入 - 読売新聞",
+      "summary": "<a href=\" target=\"_blank\">不在の交番相談「手話リンク」で…聴覚障害者らサポートへ導入</a> <font color=\"#6f6f6f\">読売新聞</font>",
+      "sourceName": "読売新聞",
+      "sourceUrl": "https://www.yomiuri.co.jp",
       "publishedAt": "2026-04-02T07:00:00.000Z",
       "category": "general"
     },
@@ -840,13 +867,13 @@
       "category": "general"
     },
     {
-      "id": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1ra2F3OW9hVE1lVGhmY0ZoeG1hZTlFaXJUdWVISU5RNUlhWS0ydE5uUDhwMEtwTGgzcmNpdG9IQTBDdTgzZXN5ZTRVN1UtOW5jY2h2OG9kbEdneEo3?oc=5",
-      "title": "（ひと）矢野羽衣子さん ろう者と聴者が共に使う言語「宮窪手話」の研究者 - 朝日新聞",
-      "summary": "<a href=\" target=\"_blank\">（ひと）矢野羽衣子さん ろう者と聴者が共に使う言語「宮窪手話」の研究者</a> <font color=\"#6f6f6f\">朝日新聞</font>",
-      "sourceName": "朝日新聞",
-      "sourceUrl": "https://www.asahi.com",
+      "id": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB1dDNJQmFXcjdOZnlpLVFLOXl2UEZ6Q0lPU2ZZOFFWUXVWOTZuenFNb2ZEOVBTMl9fbW45dm1uWDZSZjNDWTRYWFUzVGFwQzlIN3RVM1l6TGhEcXBoRXc?oc=5",
+      "title": "卓球・全国ろうあ者選手権 黒野さん（大野出身）初出場Ｖ １７歳でトップ選手３人撃破 夢はデフリンピック - 福井新聞社",
+      "summary": "<a href=\" target=\"_blank\">卓球・全国ろうあ者選手権 黒野さん（大野出身）初出場Ｖ １７歳でトップ選手３人撃破 夢はデフリンピック</a> <font color=\"#6f6f6f\">福井新聞社</font>",
+      "sourceName": "福井新聞社",
+      "sourceUrl": "https://www.fukuishimbun.co.jp",
       "publishedAt": "2026-03-27T07:00:00.000Z",
-      "category": "education"
+      "category": "general"
     },
     {
       "id": "https://news.google.com/rss/articles/CBMib0FVX3lxTE44X1ZqZk5XMnpOakpmclZaelJYbmd4UDQ2ZElRNVBpaTU2UGdXOEtxb3pYclBBc1JtU1RMcFl1aHc4SEdESkRPYUw3WHJZUWoxUjZjSGYxYjE1cDZ6clFwQ0xnS0ZvLUhmQ2tvZnFwZw?oc=5",
@@ -939,15 +966,6 @@
       "category": "general"
     },
     {
-      "id": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQdEZwQ1hKZGY5ekM3Wlo3S2IyYnV6UzJUSTBFZWFIZWVSNU1MQlVaWTA4NFUtZ1NFQjNUeFpBOG9QaU1aT2lta2dad25rRm5qRk0wZUVzYWhiNF9udHAwS1Q3TVhfT1ZMcFVMWGxOWlZQa3VGV08wek40OUc4ZFZpTDJBam5xcDRCU2x3eGNyTFJoa2gzU3dlTHNEY0NYSXFFOUNLNzlmV3pvR1l3bENqeVhYbw?oc=5",
-      "title": "聴覚障害者を支援するソフトウェアの設計に成功した――人道的な卓越性を示す学生プロジェクト。 - Vietnam.vn",
-      "summary": "<a href=\" target=\"_blank\">聴覚障害者を支援するソフトウェアの設計に成功した――人道的な卓越性を示す学生プロジェクト。</a> <font color=\"#6f6f6f\">Vietnam.vn</font>",
-      "sourceName": "Vietnam.vn",
-      "sourceUrl": "https://www.vietnam.vn",
-      "publishedAt": "2026-03-24T07:00:00.000Z",
-      "category": "policy"
-    },
-    {
       "id": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPT2lRanJwekU5VFNzQ0JvWTZCNzNZSmx6aVZtUDF6S3hrYVdZamxFN2tWeFNsMVFBOFRVcEdhbldvVWE5LUhUWnoyUVNiSTFVc3p4Wjcwc1hyRzFFOE5NX0JVRDN2azFRY0N0cGhQV1prLU1HdllZdnBGV2ROcjBYR3V3dUloUHdPaFcxeUprZG5XM1c2LXBMcDUzWE9CNGs?oc=5",
       "title": "東浦町難聴者補聴器購入費助成事業 - town.aichi-higashiura.lg.jp",
       "summary": "<a href=\" target=\"_blank\">東浦町難聴者補聴器購入費助成事業</a> <font color=\"#6f6f6f\">town.aichi-higashiura.lg.jp</font>",
@@ -955,15 +973,6 @@
       "sourceUrl": "https://www.town.aichi-higashiura.lg.jp",
       "publishedAt": "2026-03-23T07:00:00.000Z",
       "category": "policy"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5XOGtKeW1Xb2p0R0FfZ1QyTE5rZUJPR0V3cjhYeGx6Qmc0NTFaMnRsWWl1WUtXV3NaSWt5cVR3YjJzdzJtY1RTbjAxOGdPWjBuX1VRSEl5enJUWlk0dzZiME9KdFJzdGhsNXc?oc=5",
-      "title": "「盲ろう者理解・啓発プログラム」を大学向けに無償で提供！ - PR TIMES",
-      "summary": "<a href=\" target=\"_blank\">「盲ろう者理解・啓発プログラム」を大学向けに無償で提供！</a> <font color=\"#6f6f6f\">PR TIMES</font>",
-      "sourceName": "PR TIMES",
-      "sourceUrl": "https://prtimes.jp",
-      "publishedAt": "2026-03-23T07:00:00.000Z",
-      "category": "education"
     },
     {
       "id": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBGNzlUQ3QzMEU3OFdKc1J1RmZMUl9wMjN6NXVyZjJ5Y2d0eU1na0ltQkdhMF9PTjF6Q3BzLUdoNU50S210VldUSndZZzY1WWpwMVdtTjZKUDI2d3EtSDc2TEp1Qm9XVFN4anRJRjZEWTZ3YVVOUzE0Mw?oc=5",
@@ -1002,15 +1011,6 @@
       "category": "general"
     },
     {
-      "id": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBuQzB1dUhGU0x4T1MwaFQ3d1AtMzFYWGJYdmp2YjZKaV9jVUNQRDJDMzhtM3FwUlQwNWQ1UU5JZkk3R1JwOE1pdkExV2M1WkQwWXhTME1IeWFCRHBIb1E?oc=5",
-      "title": "パリ日本文化会館『ろう者の目からみた日本』 - フランス日本人会",
-      "summary": "<a href=\" target=\"_blank\">パリ日本文化会館『ろう者の目からみた日本』</a> <font color=\"#6f6f6f\">フランス日本人会</font>",
-      "sourceName": "フランス日本人会",
-      "sourceUrl": "https://zaifutsunihonjinkai.fr",
-      "publishedAt": "2026-03-19T13:15:48.000Z",
-      "category": "general"
-    },
-    {
       "id": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5fOWU4RGJxQzlaSjVyTG1tbE1Sa1VZNk1UYm1nY0ZZeHozczE5VWk2dEJiUm50MkJBQUp4Z3lJS1pRZmlla2NORUpPb3d3YmhuQTVjOVZyWmxGN2lQbm5Lbng1Mjh0M3ZT?oc=5",
       "title": "「講習内容、想像するしか…」 運転免許更新で難聴者が直面した困難 - 毎日新聞",
       "summary": "<a href=\" target=\"_blank\">「講習内容、想像するしか…」 運転免許更新で難聴者が直面した困難</a> <font color=\"#6f6f6f\">毎日新聞</font>",
@@ -1038,24 +1038,6 @@
       "category": "general"
     },
     {
-      "id": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1QOFpKcHoyeGE2dEFrNmpjakxmQndHNXFXLTdmTlNOY0pZNnAxZ05iN1RFbFNIRXJ5aW94R1hFWWVpakVHLUlCX2U2WXpCbjZ6Z3NHdGZteTlMUXdwVkdtRXFZd0w5RDQ?oc=5",
-      "title": "字幕も手話もつけず ろう者と聴者が「遭遇」する演劇で見えた景色 - 朝日新聞",
-      "summary": "<a href=\" target=\"_blank\">字幕も手話もつけず ろう者と聴者が「遭遇」する演劇で見えた景色</a> <font color=\"#6f6f6f\">朝日新聞</font>",
-      "sourceName": "朝日新聞",
-      "sourceUrl": "https://www.asahi.com",
-      "publishedAt": "2026-03-19T07:00:00.000Z",
-      "category": "general"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMidEFVX3lxTE01WWpsNG1sakJPRHZuRFdkTmdFUURLQ1V3ZUtfT3RyclhHX3JNNkdWX3FOZV9tUm9oUHplNWlsY045b3ptTzdrUW9ONjFsY1RaZ1dlUW5XZ012djlNc0lub2thbGZQNGlsakxiNDFSU1U3bG55?oc=5",
-      "title": "第48回全国ろうあ者卓球選手権大会 女子の結果｜卓球レポート - バタフライ卓球用品",
-      "summary": "<a href=\" target=\"_blank\">第48回全国ろうあ者卓球選手権大会 女子の結果｜卓球レポート</a> <font color=\"#6f6f6f\">バタフライ卓球用品</font>",
-      "sourceName": "バタフライ卓球用品",
-      "sourceUrl": "https://www.butterfly.co.jp",
-      "publishedAt": "2026-03-19T07:00:00.000Z",
-      "category": "general"
-    },
-    {
       "id": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE53LUlPS3hqd2thVjJ0ZkxLLU5DTlVyUDNpbHRMTFBsYTRtd09KOXNqOGNEaHRQWE9aTFFWdU9ILXFPVU5PMWpvd1A5cG8wTE10YVdienM1VDkzT1gxendMWEtJRlloaEZO?oc=5",
       "title": "手話通訳士の配置制度7府県警のみ 運転免許更新講習 本紙調査 - 毎日新聞",
       "summary": "<a href=\" target=\"_blank\">手話通訳士の配置制度7府県警のみ 運転免許更新講習 本紙調査</a> <font color=\"#6f6f6f\">毎日新聞</font>",
@@ -1063,6 +1045,15 @@
       "sourceUrl": "https://mainichi.jp",
       "publishedAt": "2026-03-19T07:00:00.000Z",
       "category": "policy"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB4OGxZeUtWTndJZFpOdmlxb1lyaTlNaGQ2RjdiRDZjSHFmT0NVY1U5b2NSOU1TS1Y5OHBVT2N4LVJmNkpOQzE1SndIOEQ5ZUdta0dv?oc=5",
+      "title": "聴覚障害の子どもたちにスポーツを 「当事者」の大学生が企画・運営も手掛けるイベントが生みだすシナジー - 東京新聞デジタル",
+      "summary": "<a href=\" target=\"_blank\">聴覚障害の子どもたちにスポーツを 「当事者」の大学生が企画・運営も手掛けるイベントが生みだすシナジー</a> <font color=\"#6f6f6f\">東京新聞デジタル</font>",
+      "sourceName": "東京新聞デジタル",
+      "sourceUrl": "https://www.tokyo-np.co.jp",
+      "publishedAt": "2026-03-19T07:00:00.000Z",
+      "category": "education"
     },
     {
       "id": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9TRFFES3VDVUFyNXBNY3pSaDh3NEt1bnVlS3phU0xCMFBuMVBHVGRxdExuRWxnNXlaQ1hUREdyRTM0MGk3b3pGdG83UkRvRjVqTXpQOG51akVVdFZRYXlOTVB4OA?oc=5",
@@ -1116,15 +1107,6 @@
       "sourceName": "city.kai.yamanashi.jp",
       "sourceUrl": "https://www.city.kai.yamanashi.jp",
       "publishedAt": "2026-03-11T02:47:31.000Z",
-      "category": "general"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9YdUp1Q2xaVHhvTTVFX2JfSVRFb3V0ckYtY2hBZ2xXbndZX2xiSGRsZ2ZTd1YzcW9BM29qdWRXMTQybXg3S3RqQjUwZERLdkczZ3FnbU1kck9OZWRZR2ZjcnVGUHIzVi1xU3c?oc=5",
-      "title": "聴覚障がい者が使う「SOSカード」普及へ - WEB防災情報新聞",
-      "summary": "<a href=\" target=\"_blank\">聴覚障がい者が使う「SOSカード」普及へ</a> <font color=\"#6f6f6f\">WEB防災情報新聞</font>",
-      "sourceName": "WEB防災情報新聞",
-      "sourceUrl": "https://www.bosaijoho.net",
-      "publishedAt": "2026-03-10T07:00:00.000Z",
       "category": "general"
     },
     {
@@ -1187,6 +1169,15 @@
       "summary": "<a href=\" target=\"_blank\">11億人が難聴予備軍！？専門医が教える「ヘッドホン難聴」の防ぎ方と意外なサイン</a> <font color=\"#6f6f6f\">tbsradio.jp</font>",
       "sourceName": "tbsradio.jp",
       "sourceUrl": "https://www.tbsradio.jp",
+      "publishedAt": "2026-03-05T08:00:00.000Z",
+      "category": "general"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBabFBiVjAtN0xNbkl5MDI4ZTQ1S1NQRjhuSWYyY1oxQWVFdUZNTzBmbUZCVEFSaDVLbTA0LS1DWXBiaWMzV01hTnBaSTJfakR0UTR4RnVyd1dLeUQ1clUyOU4xQ3ZUU1hLX0E?oc=5",
+      "title": "【200名にアンケート調査】ろう者や手話者の恋愛事情を大公開！交際前に不安を感じていた人は約5割！つらかった経験を紹介＆周囲の理解を得るためのヒントなどを一挙公開！ - PR TIMES",
+      "summary": "<a href=\" target=\"_blank\">【200名にアンケート調査】ろう者や手話者の恋愛事情を大公開！交際前に不安を感じていた人は約5割！つらかった経験を紹介＆周囲の理解を得るためのヒントなどを一挙公開！</a> <font color=\"#6f6f6f\">PR TIMES</font>",
+      "sourceName": "PR TIMES",
+      "sourceUrl": "https://prtimes.jp",
       "publishedAt": "2026-03-05T08:00:00.000Z",
       "category": "general"
     },
@@ -1290,15 +1281,6 @@
       "category": "local"
     },
     {
-      "id": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBwUU5UdWxkLWxiTjM2MDE4V192TnVYREFxaFgxU2dERE5pSWRzSjM3R0tIam82S2Zvdlp3WVJUZW1MTGxGbmdKYWZtbTA1cEp5dU82NHktV3U4a2ZQeEpLaVJUNmN6eENTYTE4NHFkeUs?oc=5",
-      "title": "愛知：警官不在時 手話で通話 全交番、駐在所 聴覚障害者ら向け ：地域ニュース - 読売新聞",
-      "summary": "<a href=\" target=\"_blank\">愛知：警官不在時 手話で通話 全交番、駐在所 聴覚障害者ら向け ：地域ニュース</a> <font color=\"#6f6f6f\">読売新聞</font>",
-      "sourceName": "読売新聞",
-      "sourceUrl": "https://www.yomiuri.co.jp",
-      "publishedAt": "2026-02-27T08:00:00.000Z",
-      "category": "local"
-    },
-    {
       "id": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1kRFdxZ0UyVWd2emFLUk1QLWp5T1NhbkQ2aER3OFZxLV9kZmJ0aUZuWTU5bGMxZmZ2eGJOM0RUdzdiZGxCMUg1V1lXenJVM1g3a0cwaWpCR0hfWUtlWlBKaFpadE0?oc=5",
       "title": "迷惑電話と勘違い？聴覚障害者向け「電話リレーサービス」が切られてしまう - hicbc.com",
       "summary": "<a href=\" target=\"_blank\">迷惑電話と勘違い？聴覚障害者向け「電話リレーサービス」が切られてしまう</a> <font color=\"#6f6f6f\">hicbc.com</font>",
@@ -1308,20 +1290,20 @@
       "category": "general"
     },
     {
+      "id": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBwUU5UdWxkLWxiTjM2MDE4V192TnVYREFxaFgxU2dERE5pSWRzSjM3R0tIam82S2Zvdlp3WVJUZW1MTGxGbmdKYWZtbTA1cEp5dU82NHktV3U4a2ZQeEpLaVJUNmN6eENTYTE4NHFkeUs?oc=5",
+      "title": "愛知：警官不在時 手話で通話 全交番、駐在所 聴覚障害者ら向け ：地域ニュース - 読売新聞",
+      "summary": "<a href=\" target=\"_blank\">愛知：警官不在時 手話で通話 全交番、駐在所 聴覚障害者ら向け ：地域ニュース</a> <font color=\"#6f6f6f\">読売新聞</font>",
+      "sourceName": "読売新聞",
+      "sourceUrl": "https://www.yomiuri.co.jp",
+      "publishedAt": "2026-02-27T08:00:00.000Z",
+      "category": "local"
+    },
+    {
       "id": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9NelVHWTRzcTFsWGJBWXEybGVrdEtnRjM0VUN0akhoU2lBNEhPOEdDQ2xXaGJVcl91UjRqZVJEalBNU0VwVTlhbi1NdEFEZGJhX1Q4?oc=5",
       "title": "WFDの「手話言語権を実現するためのガイドライン」の日本語版を公開しました - 全日本ろうあ連盟",
       "summary": "<a href=\" target=\"_blank\">WFDの「手話言語権を実現するためのガイドライン」の日本語版を公開しました</a> <font color=\"#6f6f6f\">全日本ろうあ連盟</font>",
       "sourceName": "全日本ろうあ連盟",
       "sourceUrl": "https://www.jfd.or.jp",
-      "publishedAt": "2026-02-25T08:00:00.000Z",
-      "category": "general"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5YRnVncmlPTURDZHJiVlIwR1h5S0p6QzhqZi14TnBYVGd3YVZyT0xjYms5S01iRjlBUEMtNHVpMHN3Rm9ZTEtLMERoVTNaUUJKTkE0dmYwaEVHbTZWRzkyR1RjZlUwemlz?oc=5",
-      "title": "聴覚障害者向けリレーサービス 必要な電話、切られる 「050」表示、迷惑・営業と誤解され - 毎日新聞",
-      "summary": "<a href=\" target=\"_blank\">聴覚障害者向けリレーサービス 必要な電話、切られる 「050」表示、迷惑・営業と誤解され</a> <font color=\"#6f6f6f\">毎日新聞</font>",
-      "sourceName": "毎日新聞",
-      "sourceUrl": "https://mainichi.jp",
       "publishedAt": "2026-02-25T08:00:00.000Z",
       "category": "general"
     },
@@ -1351,6 +1333,24 @@
       "sourceUrl": "https://www.tokyo-np.co.jp",
       "publishedAt": "2026-02-22T08:00:00.000Z",
       "category": "general"
+    },
+    {
+      "id": "https://www.tfd.deaf.tokyo/post-5727/",
+      "title": "第55回耳の日記念文化祭 2026年2月21〜22日",
+      "summary": "講演会を聞きたい方へ １階Ａ２会議室前で、講演開始１５分前まで整理券を配布しています。 定員分を配布次第、配布を終了しますのでご了承ください。 共に創ろう、多様性の輝く未来を！ 参加費５００円（２日間参加の場合は１，００ […]",
+      "sourceName": "東京都聴覚障害者連盟",
+      "sourceUrl": "https://www.tfd.deaf.tokyo/",
+      "publishedAt": "2026-02-19T23:58:25.000Z",
+      "category": "general"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5KNXhEWlVIY3BmT2JiYnFMOHdjLUhtWmxNdkpCQjVjLVJ2Um5mdXNwZ0JGVl96aEZpQmVteHdtZ1JUTVc2al9rd00yNWh1eERnUEVPbmRNaFN6dlloMVJDc2lnSWVKNm9QZUFOZE5vR0tIRmZPbkJJWU5fSQ?oc=5",
+      "title": "視覚・聴覚障害者暮らし支援リーフレット～新型コロナウイルス感染拡大を受けて～ - pref.kagoshima.jp",
+      "summary": "<a href=\" target=\"_blank\">視覚・聴覚障害者暮らし支援リーフレット～新型コロナウイルス感染拡大を受けて～</a> <font color=\"#6f6f6f\">pref.kagoshima.jp</font>",
+      "sourceName": "pref.kagoshima.jp",
+      "sourceUrl": "http://www.pref.kagoshima.jp",
+      "publishedAt": "2026-02-19T08:00:00.000Z",
+      "category": "policy"
     }
   ]
 }
