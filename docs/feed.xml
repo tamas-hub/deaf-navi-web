@@ -6,7 +6,7 @@
     <atom:link href="https://tamas-hub.github.io/deaf-navi-web/feed.xml" rel="self" type="application/rss+xml" />
     <description>聴覚障害・難聴・ろう者コミュニティ向けに、全日本ろうあ連盟や主要報道機関から最新ニュースを厳選。制度・政策・医療・教育・地域情報を毎時自動更新するキュレーションサイト。手話・情報保障・補聴器・人工内耳・手話言語条例など幅広いテーマをカバー。</description>
     <language>ja-JP</language>
-    <lastBuildDate>Fri, 17 Apr 2026 20:51:14 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 17 Apr 2026 20:57:05 GMT</lastBuildDate>
     <ttl>60</ttl>
     <item>
       <title>補聴器購入の助成金、難聴啓発を 補聴器の助成を考える会、市に要望書を提出―伊東 - 伊豆新聞デジタル</title>
@@ -270,11 +270,11 @@
       <source url="https://www.gifu-np.co.jp">岐阜新聞デジタル</source>
     </item>
     <item>
-      <title>不在の交番相談「手話リンク」で…聴覚障害者らサポートへ導入 - 読売新聞</title>
-      <link>https://news.google.com/rss/articles/CBMilgFBVV95cUxQb3BEVW1lTUsxYUpXVTIwdVpZbFVWNVhMZnNRZmlPbWhpVnNLQlo1dC0zSmxXWFFXX2xqcW05cFJKYXdNX3lRbmJlYlh3anZReHREN1pnbm9iQVhFZndiWnBFa3NsYkpLUEJrRmRxbUI5cXk5aGFzdDlQWjRJb1NHeG14SzJUMDBQX1E0NS00c1FmTWxPN3c?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMilgFBVV95cUxQb3BEVW1lTUsxYUpXVTIwdVpZbFVWNVhMZnNRZmlPbWhpVnNLQlo1dC0zSmxXWFFXX2xqcW05cFJKYXdNX3lRbmJlYlh3anZReHREN1pnbm9iQVhFZndiWnBFa3NsYkpLUEJrRmRxbUI5cXk5aGFzdDlQWjRJb1NHeG14SzJUMDBQX1E0NS00c1FmTWxPN3c?oc=5</guid>
+      <title>［歌手・俳優 井上順さん］難聴（１）耳を酷使して聴力低下 - 読売新聞</title>
+      <link>https://news.google.com/rss/articles/CBMiiAFBVV95cUxOcHZpUlFsRlhLYWl6cExCeGNaOENuRDRXNGRoLVZJUE1WYWUwTWY2bVUzM3VPTVdEQ1VFeU1icFBRVndNeHRrR0VacG9HdUpvcVdEUjRta2UyRDhyNU1MMlRaZU5hVmdjRm1WSV9XNFhjN2daOVV1YU16ZnZreG9mOTdYTjhHN0cy?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiiAFBVV95cUxOcHZpUlFsRlhLYWl6cExCeGNaOENuRDRXNGRoLVZJUE1WYWUwTWY2bVUzM3VPTVdEQ1VFeU1icFBRVndNeHRrR0VacG9HdUpvcVdEUjRta2UyRDhyNU1MMlRaZU5hVmdjRm1WSV9XNFhjN2daOVV1YU16ZnZreG9mOTdYTjhHN0cy?oc=5</guid>
       <pubDate>Wed, 15 Apr 2026 07:00:00 GMT</pubDate>
-      <description>不在の交番相談「手話リンク」で…聴覚障害者らサポートへ導入 読売新聞</description>
+      <description>［歌手・俳優 井上順さん］難聴（１）耳を酷使して聴力低下 読売新聞</description>
       <category>一般</category>
       <source url="https://www.yomiuri.co.jp">読売新聞</source>
     </item>
@@ -349,6 +349,24 @@
       <description>京都府北部で「動くワンポイント手話」を月1発信 「少しでも覚えてもらえたら」 京都新聞デジタル</description>
       <category>地域</category>
       <source url="https://www.kyoto-np.co.jp">京都新聞デジタル</source>
+    </item>
+    <item>
+      <title>補聴器を使わない難聴者は9割弱 “聞こえづらさ”を放置しがちな社会に「cocoe Ear」が放つ一手（東洋経済オンライン） - Yahoo!ニュース</title>
+      <link>https://news.google.com/rss/articles/CBMiiAFBVV95cUxOeVRHMXMxUXFVZnVJX1lyekx2R1h2NVFZdEhfM1FsTzVfRG5EcGRnZlN3RndhT29qdFBFV3AzdTFhWGlxYkx3NEEyOE9iRzFpMjB5R3k5NEtQU3l5eGlTakVGRmtFZ2ttckhFOWt3Mkp4ck5DcGpKMGNnR0Z3SGNSeGJUTFplME9E?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiiAFBVV95cUxOeVRHMXMxUXFVZnVJX1lyekx2R1h2NVFZdEhfM1FsTzVfRG5EcGRnZlN3RndhT29qdFBFV3AzdTFhWGlxYkx3NEEyOE9iRzFpMjB5R3k5NEtQU3l5eGlTakVGRmtFZ2ttckhFOWt3Mkp4ck5DcGpKMGNnR0Z3SGNSeGJUTFplME9E?oc=5</guid>
+      <pubDate>Tue, 14 Apr 2026 01:06:00 GMT</pubDate>
+      <description>補聴器を使わない難聴者は9割弱 “聞こえづらさ”を放置しがちな社会に「cocoe Ear」が放つ一手（東洋経済オンライン） Yahoo!ニュース</description>
+      <category>医療</category>
+      <source url="https://news.yahoo.co.jp">Yahoo!ニュース</source>
+    </item>
+    <item>
+      <title>佳子内親王殿下 手話パフォーマンス大会ご臨席の為鳥取県御訪問 Sna (b2gt8YLlIu) - Mshale</title>
+      <link>https://news.google.com/rss/articles/CBMiY0FVX3lxTFBBM2lOT3A0eEY4VDF3bmUxZkdRUkpPMDdqZUpoWDd5a1BWY0hnMU1LX3ZsTVpwUjFRR0toQ0ItSHktT2dyenA2STBFbE5BTmFNUWo1YVYwYmMyajBiYzg2RWNOMA?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiY0FVX3lxTFBBM2lOT3A0eEY4VDF3bmUxZkdRUkpPMDdqZUpoWDd5a1BWY0hnMU1LX3ZsTVpwUjFRR0toQ0ItSHktT2dyenA2STBFbE5BTmFNUWo1YVYwYmMyajBiYzg2RWNOMA?oc=5</guid>
+      <pubDate>Tue, 14 Apr 2026 00:01:59 GMT</pubDate>
+      <description>佳子内親王殿下 手話パフォーマンス大会ご臨席の為鳥取県御訪問 Sna (b2gt8YLlIu) Mshale</description>
+      <category>文化・芸能</category>
+      <source url="https://mshale.com">Mshale</source>
     </item>
     <item>
       <title>小田急、「手話リンク」で手話の問い合わせに対応 鉄道業界初 - Impress Watch</title>
@@ -439,24 +457,6 @@
       <description>デフアカデミー／尾中友哉（ろう難聴児の放課後等デイサービス・＃1399） TVer</description>
       <category>一般</category>
       <source url="https://tver.jp">TVer</source>
-    </item>
-    <item>
-      <title>「福岡手話の会」会長は弁護士、訴訟で感じた問題点…理解しづらい言葉で問いかけ・手話通訳者の手配なし - Yahoo!ニュース</title>
-      <link>https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUUVuekRibnkyQU8tclpsdkdnZnY5bjJiVUtnSmZaT1pqa1VOQnhUaU8xS0RMNi1iNlg5RzFqOHpJS3QxMFhHbUE1NU9pU2M0LTV6S1Y5X29pTVItNDJUYUlPMnBpdjFwQ284OTJGaXNtclFIWmJkV2ZEMHhLUkMzUDAtZUF0Vm9I?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUUVuekRibnkyQU8tclpsdkdnZnY5bjJiVUtnSmZaT1pqa1VOQnhUaU8xS0RMNi1iNlg5RzFqOHpJS3QxMFhHbUE1NU9pU2M0LTV6S1Y5X29pTVItNDJUYUlPMnBpdjFwQ284OTJGaXNtclFIWmJkV2ZEMHhLUkMzUDAtZUF0Vm9I?oc=5</guid>
-      <pubDate>Sun, 12 Apr 2026 11:38:31 GMT</pubDate>
-      <description>「福岡手話の会」会長は弁護士、訴訟で感じた問題点…理解しづらい言葉で問いかけ・手話通訳者の手配なし Yahoo!ニュース</description>
-      <category>一般</category>
-      <source url="https://news.yahoo.co.jp">Yahoo!ニュース</source>
-    </item>
-    <item>
-      <title>「福岡手話の会」会長は弁護士、訴訟で感じた問題点…理解しづらい言葉で問いかけ・手話通訳者の手配なし - 読売新聞</title>
-      <link>https://news.google.com/rss/articles/CBMickFVX3lxTE1KNXZZMU51VE1oSjBiM0wxUEE3N1RNVERrelREbGFCQmlIN2kyeG1ybjZLWW1Bd3FsMnVhSXp2SnNmVkloY0pwUUdYbno5dGYzaHBqWHNkRzhIcHZ6RzlpWU5wbnp5dGktRVpGQWtIQU0tZw?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMickFVX3lxTE1KNXZZMU51VE1oSjBiM0wxUEE3N1RNVERrelREbGFCQmlIN2kyeG1ybjZLWW1Bd3FsMnVhSXp2SnNmVkloY0pwUUdYbno5dGYzaHBqWHNkRzhIcHZ6RzlpWU5wbnp5dGktRVpGQWtIQU0tZw?oc=5</guid>
-      <pubDate>Sun, 12 Apr 2026 11:38:00 GMT</pubDate>
-      <description>「福岡手話の会」会長は弁護士、訴訟で感じた問題点…理解しづらい言葉で問いかけ・手話通訳者の手配なし 読売新聞</description>
-      <category>一般</category>
-      <source url="https://www.yomiuri.co.jp">読売新聞</source>
     </item>
   </channel>
 </rss>
