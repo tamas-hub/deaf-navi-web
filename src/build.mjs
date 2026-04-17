@@ -98,7 +98,7 @@ function renderPage({ generatedAt, count, articles }) {
   <meta property="og:type" content="website">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Shippori+Mincho+B1:wght@500;600;700&display=swap">
   <link rel="stylesheet" href="./styles.css">
   <link rel="canonical" href="./">
 </head>
@@ -106,9 +106,18 @@ function renderPage({ generatedAt, count, articles }) {
   <a class="skip-link" href="#main">メインコンテンツにスキップ</a>
 
   <header class="site-header" role="banner">
+    <div class="site-header__leaf" aria-hidden="true">
+      <svg viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M40 170 C 40 110, 70 60, 160 30 C 150 100, 110 150, 40 170 Z" />
+        <path d="M40 170 C 70 140, 100 110, 160 30" />
+        <path d="M70 145 C 75 130, 85 115, 110 95" opacity="0.8" />
+        <path d="M95 135 C 100 120, 115 105, 135 85" opacity="0.8" />
+        <path d="M55 160 C 60 150, 75 130, 95 115" opacity="0.6" />
+      </svg>
+    </div>
     <div class="container">
       <h1 class="site-title"><span class="site-title__brand">Deaf Navi</span><span class="site-title__sub">Web</span></h1>
-      <p class="site-lead">聴覚障害・ろう者コミュニティのためのニュースキュレーション</p>
+      <p class="site-lead">聴覚障害・ろう者コミュニティのための、静かで確かなニュースキュレーション。</p>
     </div>
   </header>
 
@@ -133,14 +142,36 @@ function renderPage({ generatedAt, count, articles }) {
 ${articlesHtml}
       </div>
       <p id="empty-msg" class="empty" hidden>該当する記事がありません。</p>
+
+      <aside class="app-cta" aria-label="Deaf Navi アプリのご案内">
+        <div class="app-cta__text">
+          <span class="app-cta__label">iPhone App</span>
+          <h2 class="app-cta__title">外出先でも、Deaf Navi を。</h2>
+          <p class="app-cta__desc">同じキュレーションをスマホからも閲覧できる iOS アプリ「Deaf Navi」。緊急カード・手話ガイド・制度情報をオフラインでも。</p>
+        </div>
+        <a class="app-cta__btn" href="https://flames-hub.github.io/deafnavi-site/" target="_blank" rel="noopener noreferrer">
+          アプリを見る
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+            <path d="M7 17L17 7"/>
+            <path d="M8 7h9v9"/>
+          </svg>
+        </a>
+      </aside>
     </section>
   </main>
 
   <footer class="site-footer" role="contentinfo">
     <div class="container">
       <p>Deaf Navi Web は <a href="https://www.jfd.or.jp/" target="_blank" rel="noopener noreferrer">全日本ろうあ連盟</a> 等のRSSフィードと Google News RSS を情報源にしています。</p>
-      <p>記事の著作権は各発信元に帰属します。リンク先は外部サイトです。</p>
-      <p class="small">Curated for the Deaf &amp; Hard-of-hearing community. 更新は自動で行われます（1時間毎）。</p>
+      <p>記事の著作権は各発信元に帰属します。リンク先は外部サイトです。更新は自動で1時間毎に行われます。</p>
+      <hr class="site-footer__divider" aria-hidden="true">
+      <p class="site-footer__copyright">
+        <span>&copy; ${new Date().getFullYear()} TAMA.</span>
+        <span class="dot" aria-hidden="true"></span>
+        <span>Take it easy.</span>
+        <span class="dot" aria-hidden="true"></span>
+        <span>Curated for the Deaf &amp; Hard-of-hearing community.</span>
+      </p>
     </div>
   </footer>
 
