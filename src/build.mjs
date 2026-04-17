@@ -90,10 +90,12 @@ function renderArticle(a) {
 }
 
 function renderFilterButtons() {
-  return CATEGORY_ORDER.map(
+  const filters = CATEGORY_ORDER.map(
     (c) =>
       `<button type="button" class="filter${c === 'all' ? ' is-active' : ''}" data-filter="${c}" aria-pressed="${c === 'all' ? 'true' : 'false'}">${CATEGORY_UI[c]}</button>`,
   ).join('\n          ');
+  const aboutLink = `<a class="filter filter--about" href="./about.html" target="_blank" rel="noopener">Deaf Naviについて<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M7 17L17 7"/><path d="M8 7h9v9"/></svg></a>`;
+  return `${filters}\n          ${aboutLink}`;
 }
 
 /** 構造化データ JSON-LD（WebSite + Organization + ItemList of NewsArticle） */
@@ -253,11 +255,6 @@ function renderPage({ generatedAt, count, articles }) {
   </nav>
 
   <main id="main" class="container" role="main">
-    <section class="intro" aria-label="サイト紹介">
-      <h2 class="intro__title">聴覚障害・ろう者コミュニティの最新ニュースをひとつに</h2>
-      <p class="intro__text">Deaf Navi Web は、<strong>聴覚障害・難聴・ろう者・中途失聴者</strong>に関わる情報を、信頼できる情報源から自動収集・分類してお届けする無料ニュースキュレーションサイトです。<strong>全日本ろうあ連盟</strong>、<strong>東京都聴覚障害者連盟</strong>、しかくタイムズなどの専門媒体と、主要報道機関（朝日新聞・読売新聞・PR TIMES・国立リハビリテーションセンター等）の記事を横断し、<strong>手話・情報保障・補聴器・人工内耳・手話言語条例・要約筆記・電話リレー</strong>など幅広いトピックをカバー。毎時自動更新されるため、常に最新の動向を確認できます。</p>
-    </section>
-
     <section aria-labelledby="articles-heading">
       <div class="articles-head">
         <h2 id="articles-heading">最新ニュース</h2>
@@ -310,6 +307,140 @@ ${articlesHtml}
 `;
 }
 
+function renderAboutPage() {
+  const aboutJsonLd = {
+    '@context': 'https://schema.org',
+    '@type': 'AboutPage',
+    '@id': `${SITE_URL}about.html`,
+    url: `${SITE_URL}about.html`,
+    name: `Deaf Naviについて | ${SITE_NAME}`,
+    description: 'Deaf Navi Web のコンセプト・情報源・更新頻度・運営者情報。',
+    inLanguage: 'ja-JP',
+    isPartOf: { '@id': `${SITE_URL}#website` },
+  };
+
+  return `<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Deaf Naviについて | ${escapeHtml(SITE_NAME)}</title>
+  <meta name="description" content="Deaf Navi Web のコンセプト、情報源、更新頻度、運営者（TAMA）についてのご案内。聴覚障害・ろう者コミュニティ向けニュースキュレーションサイトのポリシー・背景情報。">
+  <meta name="robots" content="index,follow">
+  <link rel="canonical" href="${SITE_URL}about.html">
+  <meta property="og:type" content="article">
+  <meta property="og:site_name" content="${escapeHtml(SITE_NAME)}">
+  <meta property="og:title" content="Deaf Naviについて | ${escapeHtml(SITE_NAME)}">
+  <meta property="og:description" content="Deaf Navi Web のコンセプト・情報源・更新頻度・運営者情報。">
+  <meta property="og:url" content="${SITE_URL}about.html">
+  <meta property="og:image" content="${SITE_URL}og-image.svg">
+  <meta property="og:locale" content="ja_JP">
+  <meta name="theme-color" content="#5a7a48">
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Shippori+Mincho+B1:wght@500;600;700&display=swap">
+  <link rel="stylesheet" href="./styles.css">
+
+  <script type="application/ld+json">
+${JSON.stringify(aboutJsonLd, null, 2)}
+  </script>
+</head>
+<body>
+  <a class="skip-link" href="#main">メインコンテンツにスキップ</a>
+
+  <header class="site-header site-header--slim" role="banner">
+    <div class="site-header__leaf" aria-hidden="true">
+      <svg viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M40 170 C 40 110, 70 60, 160 30 C 150 100, 110 150, 40 170 Z" />
+        <path d="M40 170 C 70 140, 100 110, 160 30" />
+        <path d="M70 145 C 75 130, 85 115, 110 95" opacity="0.8" />
+        <path d="M95 135 C 100 120, 115 105, 135 85" opacity="0.8" />
+        <path d="M55 160 C 60 150, 75 130, 95 115" opacity="0.6" />
+      </svg>
+    </div>
+    <div class="container">
+      <p class="site-breadcrumb"><a href="./">Deaf Navi Web</a> <span aria-hidden="true">›</span> <span>Deaf Naviについて</span></p>
+      <h1 class="site-title site-title--small"><span class="site-title__brand">Deaf Naviについて</span></h1>
+    </div>
+  </header>
+
+  <main id="main" class="container about" role="main">
+    <section aria-labelledby="about-concept">
+      <h2 id="about-concept" class="about__h2">このサイトについて</h2>
+      <p>Deaf Navi Web は、<strong>聴覚障害・難聴・ろう者・中途失聴者</strong>のコミュニティに関わる情報を、信頼できる情報源から自動収集・分類してお届けする無料ニュースキュレーションサイトです。毎時自動更新されるため、常に最新の動向を確認できます。</p>
+      <p>「Take it easy」を合言葉に、情報保障・手話・制度・医療・教育・文化など、暮らしと権利に直結するトピックを幅広くカバーします。</p>
+    </section>
+
+    <section aria-labelledby="about-sources">
+      <h2 id="about-sources" class="about__h2">情報源</h2>
+      <h3 class="about__h3">専門媒体（直接RSS）</h3>
+      <ul>
+        <li><a href="https://www.jfd.or.jp/" target="_blank" rel="noopener noreferrer">全日本ろうあ連盟</a> — 全国規模の連盟公式情報（制度・手話言語法を含む）</li>
+        <li><a href="https://www.tfd.deaf.tokyo/" target="_blank" rel="noopener noreferrer">東京都聴覚障害者連盟</a> — 地域連盟の活動情報</li>
+        <li><a href="https://shikaku.in/" target="_blank" rel="noopener noreferrer">しかくタイムズ</a> — ろう者・難聴者向けイベント情報</li>
+        <li><a href="https://co-coco.jp/" target="_blank" rel="noopener noreferrer">こここ</a> — マガジンハウス運営の福祉クリエイティブマガジン</li>
+        <li><a href="https://ameblo.jp/jtd2009/" target="_blank" rel="noopener noreferrer">日本ろう者劇団</a> — 手話狂言・公演情報</li>
+      </ul>
+      <h3 class="about__h3">主要報道機関・公的機関（Google News RSS）</h3>
+      <ul>
+        <li>朝日新聞・読売新聞・PR TIMES・国立リハビリテーションセンター 等</li>
+        <li>キーワード: 聴覚障害 / 難聴 / ろう者 / 手話 / 情報保障 / 制度・支援 / ろう文化・芸能 ほか</li>
+      </ul>
+    </section>
+
+    <section aria-labelledby="about-categories">
+      <h2 id="about-categories" class="about__h2">カテゴリ分類</h2>
+      <p>記事はタイトル・要約から自動で以下のカテゴリに分類されます:</p>
+      <ul>
+        <li><strong>制度・政策</strong> — 法律・条例・給付・雇用・助成など</li>
+        <li><strong>医療</strong> — 病院・治療・補聴器・人工内耳・診断など</li>
+        <li><strong>教育</strong> — 学校・大学・授業・入試・研究など</li>
+        <li><strong>文化・芸能</strong> — ろう演劇・ろう映画・手話パフォーマンス・ろうアート・手話狂言など</li>
+        <li><strong>地域</strong> — 都道府県・市区町村単位のローカル情報</li>
+        <li><strong>一般</strong> — 上記以外の関連トピック</li>
+      </ul>
+    </section>
+
+    <section aria-labelledby="about-update">
+      <h2 id="about-update" class="about__h2">更新頻度・仕組み</h2>
+      <p>GitHub Actions による自動ジョブが毎時（UTC 0分／JST 毎時9分）にRSSを収集。関連性フィルタ・重複除去・カテゴリ分類を行い、最新150件を表示しています。</p>
+      <p>記事の本文・要約は各発信元のものを抜粋し、本文リンクはすべて各元記事の原文（外部サイト）に遷移します。記事の著作権はそれぞれの発信元に帰属します。</p>
+    </section>
+
+    <section aria-labelledby="about-operator">
+      <h2 id="about-operator" class="about__h2">運営</h2>
+      <p>Deaf Navi Web は <strong>TAMA</strong> が運営しています。本サイトは Deaf Navi iOS アプリのニュースキュレーション機能を Web 版として提供するものです。</p>
+      <p>アプリ版: <a href="https://apps.apple.com/jp/app/deaf-navi/id6761352199" target="_blank" rel="noopener noreferrer">App Store で Deaf Navi を開く</a></p>
+    </section>
+
+    <section aria-labelledby="about-feeds">
+      <h2 id="about-feeds" class="about__h2">配信・共有</h2>
+      <ul>
+        <li><a href="${SITE_URL}feed.xml">RSS フィード</a>（最新50件）</li>
+        <li><a href="${SITE_URL}sitemap.xml">サイトマップ</a></li>
+      </ul>
+    </section>
+
+    <p class="about__back"><a href="./">← トップページへ戻る</a></p>
+  </main>
+
+  <footer class="site-footer" role="contentinfo">
+    <div class="container">
+      <p class="site-footer__copyright">
+        <span>&copy; ${new Date().getFullYear()} TAMA.</span>
+        <span class="dot" aria-hidden="true"></span>
+        <span>Take it easy.</span>
+        <span class="dot" aria-hidden="true"></span>
+        <span>Curated for the Deaf &amp; Hard-of-hearing community.</span>
+      </p>
+    </div>
+  </footer>
+</body>
+</html>
+`;
+}
+
 function renderSitemap({ generatedAt }) {
   const lastmod = new Date(generatedAt).toISOString();
   return `<?xml version="1.0" encoding="UTF-8"?>
@@ -319,6 +450,12 @@ function renderSitemap({ generatedAt }) {
     <lastmod>${lastmod}</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>${SITE_URL}about.html</loc>
+    <lastmod>${lastmod}</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
 </urlset>
 `;
@@ -391,6 +528,9 @@ async function main() {
 
   await writeFile(HTML_OUT, renderPage(data), 'utf8');
   console.log(`書き出し: ${HTML_OUT}`);
+
+  await writeFile(join(DOCS, 'about.html'), renderAboutPage(), 'utf8');
+  console.log(`書き出し: ${join(DOCS, 'about.html')}`);
 
   await writeFile(join(DOCS, 'sitemap.xml'), renderSitemap(data), 'utf8');
   console.log(`書き出し: ${join(DOCS, 'sitemap.xml')}`);
