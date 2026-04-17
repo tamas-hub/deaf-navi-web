@@ -149,8 +149,8 @@ ${articlesHtml}
           <h2 class="app-cta__title">外出先でも、Deaf Navi を。</h2>
           <p class="app-cta__desc">同じキュレーションをスマホからも閲覧できる iOS アプリ「Deaf Navi」。緊急カード・手話ガイド・制度情報をオフラインでも。</p>
         </div>
-        <a class="app-cta__btn" href="https://flames-hub.github.io/deafnavi-site/" target="_blank" rel="noopener noreferrer">
-          アプリを見る
+        <a class="app-cta__btn" href="https://apps.apple.com/jp/app/deaf-navi/id6761352199" target="_blank" rel="noopener noreferrer">
+          App Store で見る
           <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
             <path d="M7 17L17 7"/>
             <path d="M8 7h9v9"/>
