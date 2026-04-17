@@ -87,9 +87,8 @@ function extractActualUrl(description, fallback) {
   return match?.[1] ?? fallback;
 }
 
-function cleanHtml(text) {
-  // 1) HTMLエンティティを先にデコード（&lt;/&gt; を < > に戻す）
-  const decoded = text
+function decodeEntities(text) {
+  return text
     .replace(/&#(\d+);/g, (_, n) => String.fromCodePoint(Number(n)))
     .replace(/&#x([0-9a-f]+);/gi, (_, n) => String.fromCodePoint(parseInt(n, 16)))
     .replace(/&lt;/g, '<')
@@ -97,12 +96,36 @@ function cleanHtml(text) {
     .replace(/&quot;/g, '"')
     .replace(/&apos;/g, "'")
     .replace(/&nbsp;/g, ' ')
-    .replace(/&amp;/g, '&'); // &amp; は最後（二重エンコード対策）
+    .replace(/&ensp;/g, ' ')
+    .replace(/&emsp;/g, ' ')
+    .replace(/&thinsp;/g, ' ')
+    .replace(/&hellip;/g, '…')
+    .replace(/&mdash;/g, '—')
+    .replace(/&ndash;/g, '–')
+    .replace(/&laquo;/g, '«')
+    .replace(/&raquo;/g, '»')
+    .replace(/&lsquo;/g, "'")
+    .replace(/&rsquo;/g, "'")
+    .replace(/&ldquo;/g, '"')
+    .replace(/&rdquo;/g, '"')
+    .replace(/&middot;/g, '·')
+    .replace(/&amp;/g, '&'); // &amp; は最後（多重エンコード対応）
+}
 
-  // 2) デコード後にHTMLタグ・URLを除去し、空白を正規化
+function cleanHtml(text) {
+  // 1) 多重エンコード対策: 変化しなくなるまで最大3回デコード（例: &amp;nbsp; → &nbsp; → 空白）
+  let decoded = text;
+  for (let i = 0; i < 3; i++) {
+    const next = decodeEntities(decoded);
+    if (next === decoded) break;
+    decoded = next;
+  }
+
+  // 2) タグ除去・URL除去・残存する名前付きエンティティの除去・空白正規化
   return decoded
     .replace(/<[^>]*>/g, '')
     .replace(/https?:\/\/\S+/g, '')
+    .replace(/&[a-zA-Z][a-zA-Z0-9]{1,20};/g, '') // デコード漏れのnamed entityを排除
     .replace(/\s+/g, ' ')
     .trim();
 }
