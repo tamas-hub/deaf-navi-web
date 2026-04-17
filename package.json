@@ -1,0 +1,17 @@
+{
+  "name": "deaf-navi-web",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Deaf Navi Web - 聴覚障害・ろう者コミュニティ向けニュースキュレーションサイト",
+  "type": "module",
+  "scripts": {
+    "curate": "node src/curate.mjs",
+    "build": "node src/build.mjs",
+    "generate": "npm run curate && npm run build",
+    "serve": "node src/serve.mjs"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "license": "MIT"
+}
