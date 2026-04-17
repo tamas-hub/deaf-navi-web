@@ -7,7 +7,7 @@ const ROOT = join(__dirname, '..');
 const DATA_DIR = join(ROOT, 'docs');
 const DATA_FILE = join(DATA_DIR, 'articles.json');
 
-const MAX_ARTICLES = 150;
+const MAX_ARTICLES = 400;
 
 const KEYWORD_GROUPS = [
   { query: '聴覚障害 OR 難聴', defaultCategory: 'general' },
@@ -22,6 +22,10 @@ const KEYWORD_GROUPS = [
   { query: 'ろう者 演劇 OR ろう劇団', defaultCategory: 'culture' },
   { query: '手話 舞台 OR 手話パフォーマンス', defaultCategory: 'culture' },
   { query: 'ろう芸術 OR ろう映画 OR デフシアター', defaultCategory: 'culture' },
+  { query: '手話映画 OR 手話 監督 OR ろう者 ドキュメンタリー', defaultCategory: 'culture' },
+  { query: 'デフリンピック', defaultCategory: 'sports' },
+  { query: 'デフスポーツ OR ろう者 スポーツ OR 聴覚障害 選手', defaultCategory: 'sports' },
+  { query: 'デフバスケ OR デフテニス OR デフサッカー OR デフバレー OR デフ柔道 OR デフ陸上', defaultCategory: 'sports' },
 ];
 
 const DIRECT_FEEDS = [
@@ -64,6 +68,27 @@ const DIRECT_FEEDS = [
     sourceUrl: 'https://ameblo.jp/jtd2009/',
     defaultCategory: 'culture',
   },
+  {
+    // 全日本ろうあ連盟スポーツ委員会 — 国内デフスポーツ大会・選手団情報
+    url: 'https://www.jfd.or.jp/sc/feed',
+    sourceName: '全日本ろうあ連盟スポーツ委員会',
+    sourceUrl: 'https://www.jfd.or.jp/sc/',
+    defaultCategory: 'sports',
+  },
+  {
+    // 日本デフバスケットボール協会
+    url: 'https://jdba.sakura.ne.jp/feed',
+    sourceName: '日本デフバスケットボール協会',
+    sourceUrl: 'https://jdba.sakura.ne.jp/',
+    defaultCategory: 'sports',
+  },
+  {
+    // 日本デフ水泳協会
+    url: 'https://www.deafswim.or.jp/feed',
+    sourceName: '日本デフ水泳協会',
+    sourceUrl: 'https://www.deafswim.or.jp/',
+    defaultCategory: 'sports',
+  },
 ];
 
 const RELEVANT_KEYWORDS = [
@@ -76,6 +101,15 @@ const RELEVANT_KEYWORDS = [
   'ろう文化', 'ろう劇団', '手話演劇', '手話狂言', '手話能', 'ろう映画',
   '手話落語', 'ろう芸術', 'デフシアター', '手話パフォーマンス',
   'ろう映画祭', '手話詩', 'ろうアーティスト', '手話文学',
+  '手話映画', 'ろう者ドキュメンタリー',
+  // デフスポーツ系
+  'デフリンピック', 'デフスポーツ', 'デフアスリート',
+  '聴覚障害者スポーツ', 'ろう者スポーツ', '聴障スポーツ',
+  'デフバスケ', 'デフテニス', 'デフサッカー', 'デフバレー',
+  'デフ柔道', 'デフ陸上', 'デフ水泳',
+  '全国ろうあ者体育大会', 'ろうあ者体育大会', 'ICSD',
+  // 関連する包含的表現
+  '耳の聞こえない', '耳の聞こえ',
 ];
 
 function isRelevantArticle(title, description) {
@@ -87,6 +121,8 @@ function guessCategory(title, summary) {
   const text = (title + ' ' + summary).toLowerCase();
   // culture は最優先（「ろう演劇」「手話映画」等が他カテゴリに誤判定されるのを防ぐ）
   if (/ろう[文劇芸映]|手話[演舞映落狂詩]|デフシアター|ろう映画|ろう芸術|手話パフォーマンス|手話能|手話狂言|手話文学|ろうアーティスト|デフリンピック.*(文化|芸術|プログラム)/.test(text)) return 'culture';
+  // sports は culture の次（「デフリンピック文化プログラム」は culture に流れる）
+  if (/デフリンピック|デフスポーツ|デフアスリート|デフ(バスケ|テニス|サッカー|バレー|柔道|剣道|陸上|水泳|ボウリング|ゴルフ|サーフィン|卓球|野球|バドミントン|ラグビー|ハンドボール|フットサル|ホッケー|スケート|スキー|ビリヤード|空手|レスリング)|聴覚障害者スポーツ|ろう者スポーツ|聴障スポーツ|全国ろうあ者体育大会|ろうあ者体育大会|聴覚障害.{0,6}(選手|代表|五輪|金メダル|銀メダル|銅メダル)/.test(text)) return 'sports';
   if (/制度|政策|法律|条例|給付|支援|雇用|助成|補助|手当/.test(text)) return 'policy';
   if (/医療|病院|治療|手術|補聴器|人工内耳|診断|検査|耳鼻/.test(text)) return 'medical';
   if (/学校|教育|就学|大学|授業|入試|保育|幼稚|研究/.test(text)) return 'education';

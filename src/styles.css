@@ -37,6 +37,7 @@
   --cat-medical:   #b35e4b; /* terracotta */
   --cat-education: #5a7a9a; /* dusty blue */
   --cat-culture:   #a66b73; /* muted rose-wine (arts) */
+  --cat-sports:    #c28840; /* warm amber (energetic) */
   --cat-local:     #5a7a48; /* forest */
   --cat-general:   #7d694f; /* earth */
 
@@ -524,6 +525,7 @@ main {
 .chip--medical::before   { background: var(--cat-medical); }
 .chip--education::before { background: var(--cat-education); }
 .chip--culture::before   { background: var(--cat-culture); }
+.chip--sports::before    { background: var(--cat-sports); }
 .chip--local::before     { background: var(--cat-local); }
 .chip--general::before   { background: var(--cat-general); }
 
@@ -531,6 +533,7 @@ main {
 .chip--medical   { color: var(--cat-medical); }
 .chip--education { color: var(--cat-education); }
 .chip--culture   { color: var(--cat-culture); }
+.chip--sports    { color: var(--cat-sports); }
 .chip--local     { color: var(--cat-local); }
 .chip--general   { color: var(--text-secondary); }
 
@@ -595,6 +598,56 @@ main {
   padding: var(--s-12) 0;
   color: var(--text-tertiary);
   font-size: 14px;
+}
+
+/* ---------- Load more ---------- */
+.load-more-wrap {
+  margin-top: var(--s-8);
+  display: flex;
+  justify-content: center;
+}
+
+.load-more-btn {
+  appearance: none;
+  padding: 14px 28px;
+  font-size: 14px;
+  font-weight: 600;
+  color: var(--text-primary);
+  background: var(--bg-elevated);
+  border: 1px solid var(--border-default);
+  border-radius: var(--r-pill);
+  cursor: pointer;
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  min-width: 220px;
+  justify-content: center;
+  transition: background 150ms ease, border-color 150ms ease, color 150ms ease, transform 150ms ease, box-shadow 150ms ease;
+  box-shadow: var(--shadow-sm);
+}
+
+.load-more-btn:hover {
+  background: var(--accent-soft);
+  border-color: rgba(122, 154, 101, 0.40);
+  color: var(--accent-deep);
+  transform: translateY(-1px);
+  box-shadow: var(--shadow-md);
+}
+
+.load-more-btn:active {
+  transform: translateY(0);
+}
+
+.load-more-btn__remain {
+  font-size: 12px;
+  font-weight: 500;
+  color: var(--text-tertiary);
+  font-variant-numeric: tabular-nums;
+}
+
+.meta__sep {
+  color: var(--border-default);
+  margin: 0 6px;
 }
 
 /* ---------- App CTA (app.deaf-navi) ---------- */
