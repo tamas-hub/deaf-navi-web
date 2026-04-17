@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-17T15:55:03.527Z",
+  "generatedAt": "2026-04-17T15:58:14.158Z",
   "count": 150,
   "articles": [
     {
@@ -225,6 +225,24 @@
       "sourceName": "岐阜新聞デジタル",
       "sourceUrl": "https://www.gifu-np.co.jp",
       "publishedAt": "2026-04-15T20:00:00.000Z",
+      "category": "general"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNMVRYRDlMOWp5SXNmdmxlVWFnZlNJbXB1TW9WSWVTcmtVd3VpU1NZVFkxQnVPbUJ2VUhmZ2VKNTd5dFN0bXFyQ0p2YjdwRFdaWjhqM2J1RG13TUs4aTBnUDhRNUszTlJpZEtJWVljSmlpel9DUExmS0JHZGxFX0VsUnZGLVBTQVVE?oc=5",
+      "title": "［ものまねタレント コロッケさん］難聴（４）聞こえない分 膨らむ想像 - 読売新聞",
+      "summary": "［ものまねタレント コロッケさん］難聴（４）聞こえない分 膨らむ想像&nbsp;&nbsp;読売新聞",
+      "sourceName": "読売新聞",
+      "sourceUrl": "https://www.yomiuri.co.jp",
+      "publishedAt": "2026-04-15T07:00:00.000Z",
+      "category": "general"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQb3BEVW1lTUsxYUpXVTIwdVpZbFVWNVhMZnNRZmlPbWhpVnNLQlo1dC0zSmxXWFFXX2xqcW05cFJKYXdNX3lRbmJlYlh3anZReHREN1pnbm9iQVhFZndiWnBFa3NsYkpLUEJrRmRxbUI5cXk5aGFzdDlQWjRJb1NHeG14SzJUMDBQX1E0NS00c1FmTWxPN3c?oc=5",
+      "title": "不在の交番相談「手話リンク」で…聴覚障害者らサポートへ導入 - 読売新聞",
+      "summary": "不在の交番相談「手話リンク」で…聴覚障害者らサポートへ導入&nbsp;&nbsp;読売新聞",
+      "sourceName": "読売新聞",
+      "sourceUrl": "https://www.yomiuri.co.jp",
+      "publishedAt": "2026-04-15T07:00:00.000Z",
       "category": "general"
     },
     {
@@ -570,6 +588,15 @@
       "category": "general"
     },
     {
+      "id": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPRHlmcVNpMV9sX3RIektjNkQxTmV5czdGN18wNjZldkVoeUJUVzdScTVwUS1fR2k0NnZVWU1XVTlZQjVUeDNQUTNrSW5HY0d2UURBSlZUajV2djNudnc3ZzF0VWVJaXJGQjZCYW45VEdObzRfbV82dW52Z2VoX25TOGlZeU44cEZBS1pfNzFB?oc=5",
+      "title": "「ろう者がやる漫才って？」20万いいね「ローワライ」漫画家・雪野朝哉がM-1から学んだこと (FRaU) - Yahoo!ニュース",
+      "summary": "「ろう者がやる漫才って？」20万いいね「ローワライ」漫画家・雪野朝哉がM-1から学んだこと (FRaU)&nbsp;&nbsp;Yahoo!ニュース",
+      "sourceName": "Yahoo!ニュース",
+      "sourceUrl": "https://news.yahoo.co.jp",
+      "publishedAt": "2026-04-05T07:00:00.000Z",
+      "category": "general"
+    },
+    {
       "id": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE41TWVRUVUtaFZmNEdKMVM2Y2Fod0F3RlE4UFZvajdMdFhZWEVWbWZPRXZ6eXZaNVhIRV9EZy1NUWVQM1lsNU4xTDMwVTZWZUE?oc=5",
       "title": "「ろう者がやる漫才って？」20万いいね「ローワライ」漫画家・雪野朝哉がM-1から学んだこと（前川 亜紀） | FRaU - 現代ビジネス",
       "summary": "「ろう者がやる漫才って？」20万いいね「ローワライ」漫画家・雪野朝哉がM-1から学んだこと（前川 亜紀） | FRaU&nbsp;&nbsp;現代ビジネス",
@@ -638,15 +665,6 @@
       "summary": "手話の日フォト・コンテスト2025作品&nbsp;&nbsp;city.ishigaki.okinawa.jp",
       "sourceName": "city.ishigaki.okinawa.jp",
       "sourceUrl": "https://www.city.ishigaki.okinawa.jp",
-      "publishedAt": "2026-04-02T07:00:00.000Z",
-      "category": "general"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQb3BEVW1lTUsxYUpXVTIwdVpZbFVWNVhMZnNRZmlPbWhpVnNLQlo1dC0zSmxXWFFXX2xqcW05cFJKYXdNX3lRbmJlYlh3anZReHREN1pnbm9iQVhFZndiWnBFa3NsYkpLUEJrRmRxbUI5cXk5aGFzdDlQWjRJb1NHeG14SzJUMDBQX1E0NS00c1FmTWxPN3c?oc=5",
-      "title": "不在の交番相談「手話リンク」で…聴覚障害者らサポートへ導入 - 読売新聞",
-      "summary": "不在の交番相談「手話リンク」で…聴覚障害者らサポートへ導入&nbsp;&nbsp;読売新聞",
-      "sourceName": "読売新聞",
-      "sourceUrl": "https://www.yomiuri.co.jp",
       "publishedAt": "2026-04-02T07:00:00.000Z",
       "category": "general"
     },
@@ -786,9 +804,9 @@
       "category": "policy"
     },
     {
-      "id": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQSmNVS3REeTk0VWNxWG1NY00zQmk3d1VqOV8xRy1OemRseVBjeHlCTm9JNUhSb29raDVoby1OTFNiRUNaWkdsdHdGNDhTRURDcVRrTU05U0lMdE5jdUFkQW41b29MN0RxcDVGUE9EYWx5R1Fib3FtVFRpV0dqV0xxUTlDWDdyWWtsaHJlMzVR?oc=5",
-      "title": "【ろう者の両親を持つ「CODA」】「知的な障害が起きてるの?」心ない言葉に傷つき…CODAが語る偏見と葛藤「楽のために通訳してるわけじゃない」社会との「橋渡し役」の現実と手話が繋ぐ未来 (FNNプライムオンライン) - Yahoo!ニュース",
-      "summary": "【ろう者の両親を持つ「CODA」】「知的な障害が起きてるの?」心ない言葉に傷つき…CODAが語る偏見と葛藤「楽のために通訳してるわけじゃない」社会との「橋渡し役」の現実と手話が繋ぐ未来 (FNNプライムオンライン)&nbsp;&nbsp;Yahoo!ニュース",
+      "id": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9TRGt1RVMwOTZtNW9MYVJPdl9QVU44NkRiUUZMZ01SU2E4ZktQMzNDd1RNb3VYUWh4LVFzUDBWUXpjeHQwek9rVkFSMDJPTVNtdElHU2dHTUN3Uk41aDRsMDVHVXlTcUZ3cnNVRE1TTHB6c3RMMkN1alpzSnhIVVk?oc=5",
+      "title": "【ろう者の両親を持つ「CODA」】「知的な障害が起きてるの?」心ない言葉に傷つき…CODAが語る偏見と葛藤「楽のために通訳してるわけじゃない」社会との「橋渡し役」の現実と手話が繋ぐ未来（FNNプライムオンライン） - Yahoo!ニュース",
+      "summary": "【ろう者の両親を持つ「CODA」】「知的な障害が起きてるの?」心ない言葉に傷つき…CODAが語る偏見と葛藤「楽のために通訳してるわけじゃない」社会との「橋渡し役」の現実と手話が繋ぐ未来（FNNプライムオンライン）&nbsp;&nbsp;Yahoo!ニュース",
       "sourceName": "Yahoo!ニュース",
       "sourceUrl": "https://news.yahoo.co.jp",
       "publishedAt": "2026-03-28T07:00:00.000Z",
@@ -838,6 +856,15 @@
       "sourceUrl": "https://www.pref.fukuoka.lg.jp",
       "publishedAt": "2026-03-27T07:00:00.000Z",
       "category": "general"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNQXRQdjJIZ19HRTJ2eWlUTDJxOWJPVDFNTFpXTVMwNFRzX05qckVOQWJhUm5QcHFJVDVwZktwZUFjMkpYbE0tNWo4Q25pMDB5YkpoV1JWOVl0b2VyczNIa2VpVDE2djdheDRmUjRCQkRhUnpwbUNzSFA0WW8wYnk3UWxBVkFSMW8?oc=5",
+      "title": "ろう者や難聴者の親の多くは手話を知らない 子どもにどう教える？…支援の取り組み広がる - 読売新聞",
+      "summary": "ろう者や難聴者の親の多くは手話を知らない 子どもにどう教える？…支援の取り組み広がる&nbsp;&nbsp;読売新聞",
+      "sourceName": "読売新聞",
+      "sourceUrl": "https://www.yomiuri.co.jp",
+      "publishedAt": "2026-03-26T14:30:33.000Z",
+      "category": "policy"
     },
     {
       "id": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9ITld2Q05fSlpxVGVKUC1rMDJSZjBtck9Ma2ZKQUY3T3lMRV8wbVM0OXhURHg0Wkc4NFdTYWJGU1dhUFhpWmNPYUNvZVFrWjdRMW94TFhvV1dvUQ?oc=5",
@@ -966,6 +993,15 @@
       "category": "general"
     },
     {
+      "id": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNNzMyNFhTeEtEVElMSERvbjZNVGJ1Q1NFTEZ6dXpZcGYxM1laVXAzbXNDVEwxWkF2OEVnVmt4T0ZNUGF3ZEh2MnQwRUxjWlY0RjZMUnVaX3hJSWhCTXBERThxaG51SjRnaTV3Ykc1RVd5UHg2ZWFwZzRpeEJodkJBRnh5akcxcUFEZ0dV?oc=5",
+      "title": "難聴は認知症のリスクを高める可能性がある。 - Vietnam.vn",
+      "summary": "難聴は認知症のリスクを高める可能性がある。&nbsp;&nbsp;Vietnam.vn",
+      "sourceName": "Vietnam.vn",
+      "sourceUrl": "https://www.vietnam.vn",
+      "publishedAt": "2026-03-19T07:00:00.000Z",
+      "category": "general"
+    },
+    {
       "id": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9iajdoYVVvWkZfWWFsaGduUXFESUhpdGlGUEpJRFFNdHpLdWFBTTY5ZU00aVpGU3I2b1pkX2o4Y2lnaGdWcjZxNGxnbGVUSXUyQ1RHUFVaU2VNbGM2TmdiYkhnQmRsR1JzMG5wV0ZYMjFJSmV6?oc=5",
       "title": "第48回全国ろうあ者卓球選手権大会 男子の結果｜卓球レポート - バタフライ卓球用品",
       "summary": "第48回全国ろうあ者卓球選手権大会 男子の結果｜卓球レポート&nbsp;&nbsp;バタフライ卓球用品",
@@ -982,6 +1018,15 @@
       "sourceUrl": "https://mainichi.jp",
       "publishedAt": "2026-03-19T07:00:00.000Z",
       "category": "policy"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB4OGxZeUtWTndJZFpOdmlxb1lyaTlNaGQ2RjdiRDZjSHFmT0NVY1U5b2NSOU1TS1Y5OHBVT2N4LVJmNkpOQzE1SndIOEQ5ZUdta0dv?oc=5",
+      "title": "聴覚障害の子どもたちにスポーツを 「当事者」の大学生が企画・運営も手掛けるイベントが生みだすシナジー - 東京新聞デジタル",
+      "summary": "聴覚障害の子どもたちにスポーツを 「当事者」の大学生が企画・運営も手掛けるイベントが生みだすシナジー&nbsp;&nbsp;東京新聞デジタル",
+      "sourceName": "東京新聞デジタル",
+      "sourceUrl": "https://www.tokyo-np.co.jp",
+      "publishedAt": "2026-03-19T07:00:00.000Z",
+      "category": "education"
     },
     {
       "id": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9TRFFES3VDVUFyNXBNY3pSaDh3NEt1bnVlS3phU0xCMFBuMVBHVGRxdExuRWxnNXlaQ1hUREdyRTM0MGk3b3pGdG83UkRvRjVqTXpQOG51akVVdFZRYXlOTVB4OA?oc=5",
@@ -1002,7 +1047,7 @@
       "category": "general"
     },
     {
-      "id": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNbmllLVBnMFl5QlRPZktpS3ZxZkN4dVpfSWdWenJQZUI2dmFnSlJQRHpuNXFVaGFfZmtidFJiN0pNWWR4ZTBTTWl0TUZsdDN2THUwMlczdDRvVzBuNFRESlFPclY0OTcyei1jSmg4bTlkOGtWajlfczRyQy0tNDZLTkt5SERmbkpZ?oc=5",
+      "id": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8tZFk3bW1SU2ZUczBJUXN2OEViT1dYdE9zT0I1SDh0U0VyNkNtaW5MZWlLV29DRUxXaXVIWE9yTUVIYVNQYXB0Wm44dHM5VVJaa3V3eFBCdlNLdG40TXZSWi1IUjNpSE9yM21VSFowcWRLTGJRaDN0Qk0xOXJiMkU?oc=5",
       "title": "【ろう者の両親を持つ「CODA」】「知的な障害が起きてるの？」心ない言葉に傷つき…CODAが語る偏見と葛藤「楽のために通訳してるわけじゃない」社会との「橋渡し役」の現実と手話が繋ぐ未来 - Yahoo!ニュース",
       "summary": "【ろう者の両親を持つ「CODA」】「知的な障害が起きてるの？」心ない言葉に傷つき…CODAが語る偏見と葛藤「楽のために通訳してるわけじゃない」社会との「橋渡し役」の現実と手話が繋ぐ未来&nbsp;&nbsp;Yahoo!ニュース",
       "sourceName": "Yahoo!ニュース",
@@ -1056,6 +1101,15 @@
       "category": "general"
     },
     {
+      "id": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBBVEVkQlNUUUgzZXVhS2VmdTQ0TV8yNEVEOEVhaU56Qm9VODdtVXZrbjZZaFc2bTJVZjJlQnMyTm1fS0w1c3JudjN2MkpjMUVEY0ZhZWQtZXI4Sm4xeXJwZTVZN2lJWFlvaW1sa19BZXl3eTQ2QllPU1M0bkJSS2s?oc=5",
+      "title": "【卓球】全国ろうあ者選手権 男子は川口功人が全勝で2連覇を達成（卓球王国） - Yahoo!ニュース",
+      "summary": "【卓球】全国ろうあ者選手権 男子は川口功人が全勝で2連覇を達成（卓球王国）&nbsp;&nbsp;Yahoo!ニュース",
+      "sourceName": "Yahoo!ニュース",
+      "sourceUrl": "https://news.yahoo.co.jp",
+      "publishedAt": "2026-03-08T08:00:00.000Z",
+      "category": "general"
+    },
+    {
       "id": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBQbS01aGwwUkZ3eW1ibkF3dDFEQjREekZVbDJrTEkzR3JZMHNORzZ0OXpPN2JXS2Y4VU1Md0xGTmdmUjVjU3NkSTNFNGdjNG1hRkJRSTRVUzlFbXo0LUI4RE9MOVEyUHFxR2pLUHAybkI1alRpVWpjTTFMN3ZHdm8?oc=5",
       "title": "病院や店の予約、緊急時の通報が便利に…聴覚障害者向け「電話リレーサービス」 薩摩川内市が通話料を肩代わりへ 鹿児島の自治体初（南日本新聞） - Yahoo!ニュース",
       "summary": "病院や店の予約、緊急時の通報が便利に…聴覚障害者向け「電話リレーサービス」 薩摩川内市が通話料を肩代わりへ 鹿児島の自治体初（南日本新聞）&nbsp;&nbsp;Yahoo!ニュース",
@@ -1081,6 +1135,15 @@
       "sourceUrl": "https://www.komei.or.jp",
       "publishedAt": "2026-03-06T08:00:00.000Z",
       "category": "local"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBRTFFOYlNvRkxmRWcxUzV2dW5HeThlSHNFNGlIVGpnb2M5X2RBQ3RpVWdoX2Z5cG1uemtQZ0tyS29WbUxWcUh3MjZBNGVhcnR0TXhRbmxhTUJPQnplVzNHNGxQNmxRdEk?oc=5",
+      "title": "AIがサウジアラビアの聴覚障害者のアクセスをいかに拡大するか - arabnews.jp",
+      "summary": "AIがサウジアラビアの聴覚障害者のアクセスをいかに拡大するか&nbsp;&nbsp;arabnews.jp",
+      "sourceName": "arabnews.jp",
+      "sourceUrl": "https://www.arabnews.jp",
+      "publishedAt": "2026-03-06T08:00:00.000Z",
+      "category": "general"
     },
     {
       "id": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFByd0txYnN5YlJ0QUEtOU5yTEpNS3VzLXlpSkpXdlhsUThVbHFhMlVkREE1c1Rta2hWYjdNenA0S1FMcWFJX3ZjdGJ5cnZEQWZ0Z0E?oc=5",
@@ -1137,15 +1200,6 @@
       "category": "general"
     },
     {
-      "id": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB3VzdYUzNTMERkbGdTQUFqS01OMHdySE1mb0taMUNsYV9DNE54S0hYUmdvZXYtU1JWb3lJelNZSHlZeklJVE5MaXowUXFkMk11YzdnZ0ZmOWZoNG9uM3dpLUpiMlpOcU16S2Z1VWROT0licy1RaGFJcU0yNk5uak0?oc=5",
-      "title": "世界の映画祭が賞賛！ ろう者と聴者との僅かなすれ違いを描く感動作『幸せの、忘れもの。』予告＆ポスター＆場面カット公開 - Yahoo!ニュース",
-      "summary": "世界の映画祭が賞賛！ ろう者と聴者との僅かなすれ違いを描く感動作『幸せの、忘れもの。』予告＆ポスター＆場面カット公開&nbsp;&nbsp;Yahoo!ニュース",
-      "sourceName": "Yahoo!ニュース",
-      "sourceUrl": "https://news.yahoo.co.jp",
-      "publishedAt": "2026-03-02T08:00:00.000Z",
-      "category": "general"
-    },
-    {
       "id": "https://www.tfd.deaf.tokyo/post-5796/",
       "title": "2026年度「東聴連手話講座」のご案内",
       "summary": "チラシ（PDF） 2026年度東聴連手話講座ご案内 さらにスキルアップしたい方！ 聞こえない講師から様々な表現と知識を学ぼう！ ― クラスＡ ― 手話でのコミュニケーション能力をつけましょう （手話学習歴２年以上） A […]",
@@ -1162,6 +1216,24 @@
       "sourceUrl": "https://www.tfd.deaf.tokyo/",
       "publishedAt": "2026-03-01T15:00:34.000Z",
       "category": "general"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1UeW5sOVNzUGZUN3Q0SEhjX1FzSk9laGNwbnluYlh4T1RCUHN2amQtbTJYWkF3V01jWWFZTGZNeEhEZlo0TGg5amE5M3R0UQ?oc=5",
+      "title": "きょう 県ろうあ者大会 福島 福祉向上と共生社会へ - 福島民報デジタル",
+      "summary": "きょう 県ろうあ者大会 福島 福祉向上と共生社会へ&nbsp;&nbsp;福島民報デジタル",
+      "sourceName": "福島民報デジタル",
+      "sourceUrl": "https://www.minpo.jp",
+      "publishedAt": "2026-03-01T08:00:00.000Z",
+      "category": "local"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNa1dXNERQUXNFR2N1VjBSNlI1MWpwek83RWdhRUtrLXZzaUxuSHVrcHdHalAzZlZtUU15T1poZVQxcHFqVUFrNl9ULXlVRWZyLWstRVBPeFY3Qk5qeW5UN2pVQXh6NUxRTmFtcHo4TEhuMnhqMjVrc1ZERUlZUHFqS0dWc0xjSEtrMlpGTWRHelJ6UQ?oc=5",
+      "title": "きっかけは盲ろう者の伴走、支えたいという思いと「走る魅力」にとりつかれ…肺がん治療終え東京マラソン完走 - 読売新聞",
+      "summary": "きっかけは盲ろう者の伴走、支えたいという思いと「走る魅力」にとりつかれ…肺がん治療終え東京マラソン完走&nbsp;&nbsp;読売新聞",
+      "sourceName": "読売新聞",
+      "sourceUrl": "https://www.yomiuri.co.jp",
+      "publishedAt": "2026-03-01T08:00:00.000Z",
+      "category": "medical"
     },
     {
       "id": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPUXUtUXQtdW8tZk51YzdvaVE2TE5WLVkyME5uTF9PTFROWlFEbC02NVZxSExpMGZwOEhXcFNXMVVWUFpGZHNnMmNpM3JkQnUtNVRSQzBDQkV4RzRQN2J6NjlCay1fNXhJeHJ6ZnRjdnBkNVB0dFIyckZfbzdEQW5vQ1FQVG1lVlpteEgzSlFfcnBfQWNtelNj?oc=5",
@@ -1205,15 +1277,6 @@
       "summary": "WFDの「手話言語権を実現するためのガイドライン」の日本語版を公開しました&nbsp;&nbsp;全日本ろうあ連盟",
       "sourceName": "全日本ろうあ連盟",
       "sourceUrl": "https://www.jfd.or.jp",
-      "publishedAt": "2026-02-25T08:00:00.000Z",
-      "category": "general"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5YRnVncmlPTURDZHJiVlIwR1h5S0p6QzhqZi14TnBYVGd3YVZyT0xjYms5S01iRjlBUEMtNHVpMHN3Rm9ZTEtLMERoVTNaUUJKTkE0dmYwaEVHbTZWRzkyR1RjZlUwemlz?oc=5",
-      "title": "聴覚障害者向けリレーサービス 必要な電話、切られる 「050」表示、迷惑・営業と誤解され - 毎日新聞",
-      "summary": "聴覚障害者向けリレーサービス 必要な電話、切られる 「050」表示、迷惑・営業と誤解され&nbsp;&nbsp;毎日新聞",
-      "sourceName": "毎日新聞",
-      "sourceUrl": "https://mainichi.jp",
       "publishedAt": "2026-02-25T08:00:00.000Z",
       "category": "general"
     },
@@ -1263,24 +1326,6 @@
       "category": "policy"
     },
     {
-      "id": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9pakRHWUhrM2Q5aUtrZVBod25UZ3V4N0pjWko2NnA0WDlLT0Zib281Q3hvWFhLLVhLVkZvZG1OVG5TTy1Pc2Z0QzQ3UVpmcjZmYlp1d2VnNUN4NFNNWExjMEVXeVVDX29N?oc=5",
-      "title": "くらしナビ・医療：加齢性難聴を早期発見 - 毎日新聞",
-      "summary": "くらしナビ・医療：加齢性難聴を早期発見&nbsp;&nbsp;毎日新聞",
-      "sourceName": "毎日新聞",
-      "sourceUrl": "https://mainichi.jp",
-      "publishedAt": "2026-02-18T08:00:00.000Z",
-      "category": "medical"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1KSkRQeFdvNDFwTXVHQXFUemFzMGdvSHpxOXVrMkJlOFV4S19hQ2hDNHdXQXdtTXhlMktVMUNBX2FKMFRYMFZmNjlFN20wajJfUXNPMTRlQllWNjVXUGZJX1YtYV8xN1ZfZUw0WlNLcmd6Z0JYa0VUZlFUZ3JRR1k?oc=5",
-      "title": "文字起こし機、議場持ち込み可に 衆院、当選の聴覚障害議員に配慮（共同通信） - Yahoo!ニュース",
-      "summary": "文字起こし機、議場持ち込み可に 衆院、当選の聴覚障害議員に配慮（共同通信）&nbsp;&nbsp;Yahoo!ニュース",
-      "sourceName": "Yahoo!ニュース",
-      "sourceUrl": "https://news.yahoo.co.jp",
-      "publishedAt": "2026-02-17T08:00:00.000Z",
-      "category": "general"
-    },
-    {
       "id": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1hMUk4bjgtcUZ4R3NqdlRhb0JOQmE4RTkzNXJJc2N4Q0tUbk1xOUJla1dabVViQWFVSTlpT213RmxQc0ZiWmF4RDZCeTM3YjB5bEkzc3VHREt3bHJFZXVKMVp2dG15WXVSWGc?oc=5",
       "title": "「盲ろう者向け通訳・介助者養成講習会」受講者募集開始（東京都・新宿区） - PR TIMES",
       "summary": "「盲ろう者向け通訳・介助者養成講習会」受講者募集開始（東京都・新宿区）&nbsp;&nbsp;PR TIMES",
@@ -1306,51 +1351,6 @@
       "sourceUrl": "https://www.city.ota.tokyo.jp",
       "publishedAt": "2026-02-16T08:00:00.000Z",
       "category": "local"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBmRVR3WXZBQ0NXdU9qSk9jVU5vSU9XTjJudWN1MnRWd1lHZFJwazg2Zl9sMUxVcS1LTWhLYXVxdFVZcFJYU1owY0t3Rk1DbHM3X2dFNFd5VHNaV2FEOTJZSHJSTHI5T3d2RzNn?oc=5",
-      "title": "第4回「聴覚障害者の生活」編（約15分） - pref.kagoshima.jp",
-      "summary": "第4回「聴覚障害者の生活」編（約15分）&nbsp;&nbsp;pref.kagoshima.jp",
-      "sourceName": "pref.kagoshima.jp",
-      "sourceUrl": "http://www.pref.kagoshima.jp",
-      "publishedAt": "2026-02-14T08:00:00.000Z",
-      "category": "general"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB6ZXlZb3htWTIyYUVwZFFFS0tXSFdSVjZKa1NnZ3VOVGRKRWxabktUbnFEejYyRmRGckNiak9tWUJTVVJ6V25QelNaOXYySW5JUWg1NWVoQXhjSHdCYndQRlc0d2pzTWc?oc=5",
-      "title": "香川県警が「手話リンク」を交番などに導入 通訳介しやりとり可能 [香川県] - 朝日新聞",
-      "summary": "香川県警が「手話リンク」を交番などに導入 通訳介しやりとり可能 [香川県]&nbsp;&nbsp;朝日新聞",
-      "sourceName": "朝日新聞",
-      "sourceUrl": "https://www.asahi.com",
-      "publishedAt": "2026-02-13T08:00:00.000Z",
-      "category": "local"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5iUWFqRS1QakpLOE5VUC1nVVZJdzh0WWwyNFBnNlZ4aGFndUstT1VPaEJ4WUZSRGItZzNyTFVLOWl5aFdmRHh4ay13ckhrMUZ2bDk1dFZWakVLdw?oc=5",
-      "title": "警官不在でも聴覚障害者との意思疎通可能に 県警が手話リンクサービスを導入 - QAB 琉球朝日放送",
-      "summary": "警官不在でも聴覚障害者との意思疎通可能に 県警が手話リンクサービスを導入&nbsp;&nbsp;QAB 琉球朝日放送",
-      "sourceName": "QAB 琉球朝日放送",
-      "sourceUrl": "https://www.qab.co.jp",
-      "publishedAt": "2026-02-12T08:00:00.000Z",
-      "category": "local"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOQlhlb0psUVI4dFMxVGlWbzNUODV2aTFZTktRXzVpdC1RZDU3c2Qxdnc3eWNtQzZPd0ladGF3V2pJYWZiZ1gzN0lQQmd4cWZwbWptUFhGdklua1pEalVXYllaeXh0RTFtdnYtWGRCVDlZTDVta2JYTlpSaWFYOXRQYnpaU1lQdlV1Y292bQ?oc=5",
-      "title": "手話動画「きこえない・きこえにくい方に火災の発生を伝える方法」（3分37秒） - 札幌市",
-      "summary": "手話動画「きこえない・きこえにくい方に火災の発生を伝える方法」（3分37秒）&nbsp;&nbsp;札幌市",
-      "sourceName": "札幌市",
-      "sourceUrl": "https://www.city.sapporo.jp",
-      "publishedAt": "2026-02-12T08:00:00.000Z",
-      "category": "local"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMibEFVX3lxTE05cW9fV3gtdHF0VzJ0X0o5QVU4cTdIQkp4b1JWUzFWMldmRllRNGtxNkFncWt4ektjWFF2NnJIelRWWlVVeEItRHdzaWRfcVR3NFl0QnYwNkE2TjdwR3RoQ2NESWFxcElfMk15NA?oc=5",
-      "title": "電話リレーサービス 電話に誰もがアクセスできる社会を目指して（2/2） - 日本財団",
-      "summary": "電話リレーサービス 電話に誰もがアクセスできる社会を目指して（2/2）&nbsp;&nbsp;日本財団",
-      "sourceName": "日本財団",
-      "sourceUrl": "https://www.nippon-foundation.or.jp",
-      "publishedAt": "2026-02-12T05:11:09.000Z",
-      "category": "general"
     }
   ]
 }
