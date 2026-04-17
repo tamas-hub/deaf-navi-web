@@ -94,7 +94,7 @@ function renderFilterButtons() {
     (c) =>
       `<button type="button" class="filter${c === 'all' ? ' is-active' : ''}" data-filter="${c}" aria-pressed="${c === 'all' ? 'true' : 'false'}">${CATEGORY_UI[c]}</button>`,
   ).join('\n          ');
-  const aboutLink = `<a class="filter filter--about" href="./about.html" target="_blank" rel="noopener">Deaf Naviについて<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M7 17L17 7"/><path d="M8 7h9v9"/></svg></a>`;
+  const aboutLink = `<a class="filter filter--about" href="./about.html" target="_blank" rel="noopener">Deaf Naviについて<svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M7 17L17 7"/><path d="M8 7h9v9"/></svg></a>`;
   return `${filters}\n          ${aboutLink}`;
 }
 
@@ -369,7 +369,7 @@ ${JSON.stringify(aboutJsonLd, null, 2)}
     <section aria-labelledby="about-concept">
       <h2 id="about-concept" class="about__h2">このサイトについて</h2>
       <p>Deaf Navi Web は、<strong>聴覚障害・難聴・ろう者・中途失聴者</strong>のコミュニティに関わる情報を、信頼できる情報源から自動収集・分類してお届けする無料ニュースキュレーションサイトです。毎時自動更新されるため、常に最新の動向を確認できます。</p>
-      <p>「Take it easy」を合言葉に、情報保障・手話・制度・医療・教育・文化など、暮らしと権利に直結するトピックを幅広くカバーします。</p>
+      <p>情報保障・手話・制度・医療・教育・文化など、暮らしと権利に直結するトピックを幅広くカバーします。</p>
     </section>
 
     <section aria-labelledby="about-sources">

@@ -1,7 +1,7 @@
 (function () {
   'use strict';
 
-  const buttons = document.querySelectorAll('.filter');
+  const buttons = document.querySelectorAll('button.filter');
   const articles = document.querySelectorAll('.card');
   const emptyMsg = document.getElementById('empty-msg');
 
