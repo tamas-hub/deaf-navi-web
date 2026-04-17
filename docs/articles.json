@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-17T16:13:53.279Z",
+  "generatedAt": "2026-04-17T16:21:08.532Z",
   "count": 150,
   "articles": [
     {
@@ -21,15 +21,6 @@
       "category": "policy"
     },
     {
-      "id": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBUXzF1MW1mZWpWemhpOWswNE5QUHhCeVp0bndfZU1EQXBjX2ZFdmF2RUpzWG83eGRXdWFpMlNHM0Y0YWg2R2tHZUtmVFF2SXpyQWgxYTJabEI4WjB6cTQ3QlpxMHY5R3JoRl8tTmtQaVlYSGc?oc=5",
-      "title": "「大変だとは思わなかった」脚本家兼手話通訳の女性が語る 耳が聞こえない親への想い：家、ついて行ってイイですか？ - tv-tokyo.co.jp",
-      "summary": "「大変だとは思わなかった」脚本家兼手話通訳の女性が語る 耳が聞こえない親への想い：家、ついて行ってイイですか？ tv-tokyo.co.jp",
-      "sourceName": "tv-tokyo.co.jp",
-      "sourceUrl": "https://www.tv-tokyo.co.jp",
-      "publishedAt": "2026-04-17T09:31:24.000Z",
-      "category": "general"
-    },
-    {
       "id": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1FZ0tUQTZieFNEWHpGcC0wekNNM204LUtuMHNmeTN6cUJnQmJyUnBpRjZGTGZIVkg3YjlKaE1JVWxCWXRHNmdYSUdiNHB0YUh3SU5nUlM5S1hTUQ?oc=5",
       "title": "5月から手話講習会 旭川ろうあ協会 - 北海道新聞デジタル",
       "summary": "5月から手話講習会 旭川ろうあ協会 北海道新聞デジタル",
@@ -45,6 +36,15 @@
       "sourceName": "ｄメニューニュース",
       "sourceUrl": "https://topics.smt.docomo.ne.jp",
       "publishedAt": "2026-04-17T09:09:00.000Z",
+      "category": "general"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQeDU0QzBuQ0VjdVAzOHY5ZlgxWGJXdGFROURpMzZvRzByMmNUSkRkLUkyRThmd0Rjc2tEckZXcUJ1SFcwcGhNRFBWblF5a2t2OENZUlljZ1FyNnJGVnNXUFM2YXRiUnlWTkNXN0NBN1VDZE9aY3FvLWxGNXB0Q1dBT0VDYzJQYzJxZWdWTjlDWmJmQUc3cjJoNVNOTTFabGRydXNrb1lSTWZuTUZxVFN1NU1ObXNqWm44bFJ2TkxySXVPaUlBS1QwazZtcmJhVm92UkpXZVZHd9IBhgFBVV95cUxQM0FzVVJTcU1kU2dKN29xbkVJcWtRSU45QlR4U3kxcWNmQmdMek5FT2lqOEVKQ0RQcW83dDZISFJaZzFodDl3LTByYnlHRVJRY0VGS2RpM0lvdEhjWnlDcklCZldEOVpRa0xsQ0N6aGVOQWFDNzFjWHBoVENKSXlCX2xIVEFBdw?oc=5",
+      "title": "「大変だとは思わなかった」脚本家兼手話通訳の女性が語る 耳が聞こえない親への想い：家、ついて行ってイイですか？ - ｄメニューニュース",
+      "summary": "「大変だとは思わなかった」脚本家兼手話通訳の女性が語る 耳が聞こえない親への想い：家、ついて行ってイイですか？ ｄメニューニュース",
+      "sourceName": "ｄメニューニュース",
+      "sourceUrl": "https://topics.smt.docomo.ne.jp",
+      "publishedAt": "2026-04-17T08:58:00.000Z",
       "category": "general"
     },
     {
@@ -120,12 +120,12 @@
       "category": "education"
     },
     {
-      "id": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9rbm91Q2tGM05JZ21IWlJhdVBnVGpjTnpXV1pMYU9RTnlTX0hsNVdzc2RKUmp1SnoyWXNjUVY0VllhTEd6VmJ1TllLNjFYci1STVRSZWRwaGpKd2VQSXJkUUdacVJtNGZNMmpNczlLaTNBTk1KWTQzejkzUlZYbEE?oc=5",
-      "title": "「手話言語アナウンサー」夢の福岡出身大学院生「ミス日本ミス着物」受賞を知事に報告（九州朝日放送） - Yahoo!ニュース",
-      "summary": "「手話言語アナウンサー」夢の福岡出身大学院生「ミス日本ミス着物」受賞を知事に報告（九州朝日放送） Yahoo!ニュース",
-      "sourceName": "Yahoo!ニュース",
-      "sourceUrl": "https://news.yahoo.co.jp",
-      "publishedAt": "2026-04-17T06:00:03.000Z",
+      "id": "https://news.google.com/rss/articles/CBMibkFVX3lxTE82UEtPYUw1ZFFmSFZnbmxQUXVMVjY2S1c0UkRhZE1fSkdpVERja3cyN1g0TVo0Tjltdm5OWnhoQ1NoanBNUTB2a1hOVnNnbDQzQ1VDRDBUallNaG9RakcyZGQ5QlE1UFpiSHZCN3RR?oc=5",
+      "title": "「手話言語アナウンサー」夢の福岡出身大学院生「ミス日本ミス着物」受賞を知事に報告 - KBC九州朝日放送",
+      "summary": "「手話言語アナウンサー」夢の福岡出身大学院生「ミス日本ミス着物」受賞を知事に報告 KBC九州朝日放送",
+      "sourceName": "KBC九州朝日放送",
+      "sourceUrl": "https://kbc.co.jp",
+      "publishedAt": "2026-04-17T05:33:00.000Z",
       "category": "education"
     },
     {
@@ -534,6 +534,15 @@
       "category": "general"
     },
     {
+      "id": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB5NXBEZkxwenlJRUFJWUxDbTh4VVEzVHRtUzNuaW9USDhFeHpIU0Z1dmxpMHlZQmxuTlltNXlxc3hmN3gyUWhkR3llcU44RXBUTnVuLUNFLU9CZk1PTWQ3WTN0cExyY29PNE5DM3VDNjdWVm1ZeWctQmkwSGlmbU0?oc=5",
+      "title": "怒りも何もかも人を笑わすエネルギーに変える、聴覚障害×漫才「ローワライ」1巻（コミックナタリー） - Yahoo!ニュース",
+      "summary": "怒りも何もかも人を笑わすエネルギーに変える、聴覚障害×漫才「ローワライ」1巻（コミックナタリー） Yahoo!ニュース",
+      "sourceName": "Yahoo!ニュース",
+      "sourceUrl": "https://news.yahoo.co.jp",
+      "publishedAt": "2026-04-06T07:00:00.000Z",
+      "category": "general"
+    },
+    {
       "id": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAyUktvbk8zRVJiUUJ5N0JPemFlUmVkOV9xWF9PTWRVdGJjcHl1Y1FGcGRWSTg2TmRoVDB3NDd2UGhrWHU0T0QtNXVVbmx3YUhGQ2NSM0xOVWZOZzNtYzZkYy16cHJJTW43VnpqenNRcGk1VUpJUnUycHUwUkRrdjg?oc=5",
       "title": "障がい者コミュニケーションと手話言語 条例の基本理念啓発へ セミナーやパンフレット作成 函館市（函館新聞デジタル） - Yahoo!ニュース",
       "summary": "障がい者コミュニケーションと手話言語 条例の基本理念啓発へ セミナーやパンフレット作成 函館市（函館新聞デジタル） Yahoo!ニュース",
@@ -541,24 +550,6 @@
       "sourceUrl": "https://news.yahoo.co.jp",
       "publishedAt": "2026-04-06T07:00:00.000Z",
       "category": "policy"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMiekFVX3lxTE92RWZKOWY4Z2xsbm1VcjEyVzRjbFlkV0hHR1ZqdGkyMVVQak05WFNfN3RwcFUtQlZ1OTBCTnFOZ2w5aTVsRDh0bHVzTlMwb1FkSlZHM3NaemhYOFhSbWVYMUVUVVFZS1hwMmlQbk5tQ3lDY000MEViZmRR?oc=5",
-      "title": "荒川区とデフリンピックの歩み～東京2025デフリンピック応援ストーリー～（手話付き放送） - city.arakawa.tokyo.jp",
-      "summary": "荒川区とデフリンピックの歩み～東京2025デフリンピック応援ストーリー～（手話付き放送） city.arakawa.tokyo.jp",
-      "sourceName": "city.arakawa.tokyo.jp",
-      "sourceUrl": "https://www.city.arakawa.tokyo.jp",
-      "publishedAt": "2026-04-05T19:47:23.000Z",
-      "category": "local"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBPbmloVUE4bXRpUE43MGEyNi1NZ1pRVXVEWGswSHlFREpReXhhaXRleGVjbjB3aTlZejU2bzVSOG9xQnJ1Y3FGYlhTZ1FnaF9xNlN6b0N0Q1JRUnhBbWlDbFd6N2pXVlRaeHF5bnEyeElaOWJ1T1R1ZWNfUUpjZw?oc=5",
-      "title": "民生委員・児童委員の取り組み（手話付き放送） - city.arakawa.tokyo.jp",
-      "summary": "民生委員・児童委員の取り組み（手話付き放送） city.arakawa.tokyo.jp",
-      "sourceName": "city.arakawa.tokyo.jp",
-      "sourceUrl": "https://www.city.arakawa.tokyo.jp",
-      "publishedAt": "2026-04-05T17:34:45.000Z",
-      "category": "general"
     },
     {
       "id": "https://jfd.shop-pro.jp/?pid=190875242#new_tab",
@@ -585,15 +576,6 @@
       "sourceName": "現代ビジネス",
       "sourceUrl": "https://gendai.media",
       "publishedAt": "2026-04-04T07:00:00.000Z",
-      "category": "general"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPdzlrVTZWcXUzcHV5RGJjb044dWt2Qzc1RzZ5SGhDLXV6UE5LV05uX1dXOVMyNV9MdEhKcEduY0x0Tjd0SmstOTFBeWhETUN4d1F6Z0VIaHF4Q005d1dtbm4yRW9MX2VGYWVZUU9PRy1TWVlrek9RYkpvV2doVDVDMTBJRQ?oc=5",
-      "title": "2026年4月4日 | 週間手話ニュース - web.nhk",
-      "summary": "2026年4月4日 | 週間手話ニュース web.nhk",
-      "sourceName": "web.nhk",
-      "sourceUrl": "https://www.web.nhk",
-      "publishedAt": "2026-04-04T02:40:00.000Z",
       "category": "general"
     },
     {
@@ -624,12 +606,12 @@
       "category": "local"
     },
     {
-      "id": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5PUjZyZ1RHTW1FUzlDR1g5WVNWQXlMamlOM0c5QXdvSjhpLUlud3p6Nll3NEQyS1R5NTVjUGEwTVlqWU5PU29kWnppeUNWcjVZTmdLRHpTaVJ5ZlBfanpMRFE3ZzhORVBkd1FF?oc=5",
-      "title": "手話通訳者配置についてのお知らせ(令和８年度の予定) - city.kikuchi.lg.jp",
-      "summary": "手話通訳者配置についてのお知らせ(令和８年度の予定) city.kikuchi.lg.jp",
-      "sourceName": "city.kikuchi.lg.jp",
-      "sourceUrl": "https://www.city.kikuchi.lg.jp",
-      "publishedAt": "2026-04-03T02:17:59.000Z",
+      "id": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBRSnJmSFZMbThGRTR5TEVrdE5rQXdTR2NNY0l3ZjdPdHJXNlV5VzdWM2pLVVVPbFBHYU1tajRjcTFGZXN3dUpZT0RkUnRFdW1OYmpmQ2d6ZTZUWHNSWWtVUExOdF9ZTWhVVlE?oc=5",
+      "title": "突発性難聴の二重盲検RCTで有効性を実証、高濃度水素吸入の人体内爆発リスクも学術検証 - PR TIMES",
+      "summary": "突発性難聴の二重盲検RCTで有効性を実証、高濃度水素吸入の人体内爆発リスクも学術検証 PR TIMES",
+      "sourceName": "PR TIMES",
+      "sourceUrl": "https://prtimes.jp",
+      "publishedAt": "2026-04-02T07:00:00.000Z",
       "category": "general"
     },
     {
@@ -696,6 +678,24 @@
       "category": "general"
     },
     {
+      "id": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPcmhpY1VuQnMwUEEtbGsxMjM0dlJNdE9RekdYQ2VhNF9Kbk9ZUmZNZVg4cUI2b2RmQVU2MVRQc0hrZndSU2VzZWFEaWViTmZEdjh6STFCalFDMUtPb0ZtcExiWUI4U25iS0NtdHU2SVNsRTExamFKam8zc0l2X3libnkxZmJzQ1FtcmY2X1pvY3VyOTBm?oc=5",
+      "title": "令和8年度高齢者補聴器購入費助成事業の交付申請について - city.maebashi.gunma.jp",
+      "summary": "令和8年度高齢者補聴器購入費助成事業の交付申請について city.maebashi.gunma.jp",
+      "sourceName": "city.maebashi.gunma.jp",
+      "sourceUrl": "https://www.city.maebashi.gunma.jp",
+      "publishedAt": "2026-04-01T07:00:00.000Z",
+      "category": "policy"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1ielV4enZDcWtpS0E4U0VZeV9ZaXAzQlg3UzRSajhfMlhsY21VQ09UaUVVdzF5cDQtbnlyZTduMkRsMGNRQU8xdDF1ZHV1N3RIU3huVzlxempYMlo4UjMxcA?oc=5",
+      "title": "【識者の眼】「難聴への介入は認知症予防の最優先課題か─ACHIEVE試験から日常診療を考える」内田直樹 - 日本医事新報社",
+      "summary": "【識者の眼】「難聴への介入は認知症予防の最優先課題か─ACHIEVE試験から日常診療を考える」内田直樹 日本医事新報社",
+      "sourceName": "日本医事新報社",
+      "sourceUrl": "https://www.jmedj.co.jp",
+      "publishedAt": "2026-04-01T07:00:00.000Z",
+      "category": "general"
+    },
+    {
       "id": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPazR2R0xyLWYwOUV5X1NRU254QzdFd0RyQmw1dXh5MEp0eklVZjJkRUlUa2ZxZzgyc0RlMV9NejQ3aEFFWm5WdTZ3ZWM3TnpEYTRLd0M3d0RsWG4yOWhJTi1VeTF6RkV2NnJ0a3A2Y3lqWlpwRGplOEpVS1RsNEh4VXlpemt4ZTNXMkE?oc=5",
       "title": "手話をやってみよう！ - city.isesaki.lg.jp",
       "summary": "手話をやってみよう！ city.isesaki.lg.jp",
@@ -750,21 +750,21 @@
       "category": "general"
     },
     {
+      "id": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBGREVJek95LVhtS05YV1g0MkkwOGc2akRNbjZmb0tRLWRHS19xVmxNTU01bDU5NllCY0twMVdhQjVsaXhQQWZPUFdYWjg5WU5VSTJNOG9IdE43aC1qMFpqQjJ6SGlUUQ?oc=5",
+      "title": "【市場見学レポート】手話サークル「こおりやま」 - city.koriyama.lg.jp",
+      "summary": "【市場見学レポート】手話サークル「こおりやま」 city.koriyama.lg.jp",
+      "sourceName": "city.koriyama.lg.jp",
+      "sourceUrl": "https://www.city.koriyama.lg.jp",
+      "publishedAt": "2026-03-31T05:40:31.000Z",
+      "category": "local"
+    },
+    {
       "id": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNTkdJSnhvcnVHbTd0aEhYMmUwMTNucUFjb3M3dk1WcG5kdWhxY1lvM293Y2k2NkFvaEpHVDlIbklmZTFSeXJKQTZJR0RvcDFDUDJtRjVLeGhKNnFrQS1HZHcycXg0cjlvWmktYWxhU2tOWmdYa0RmdG12UU5VX1FpTUpYSS01c1BST3FoMTJvTExOM295?oc=5",
       "title": "手話研修会「聴覚障害者とのコミュニケーション方法を知ろう！～手話で自己紹介ができるようになろう～」開催について - town.kami.miyagi.jp",
       "summary": "手話研修会「聴覚障害者とのコミュニケーション方法を知ろう！～手話で自己紹介ができるようになろう～」開催について town.kami.miyagi.jp",
       "sourceName": "town.kami.miyagi.jp",
       "sourceUrl": "https://www.town.kami.miyagi.jp",
       "publishedAt": "2026-03-31T03:42:33.000Z",
-      "category": "general"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5Vb2FzRjZNQ1pERlBWNExqdzI1bnZlR0o2Vk5CclZSYnVTeXE3eU01bWtKRFJqWGFublZ0UnZXN3dyNzlLWHpDYTBONDcyOWx2WWMwbFpZcTBwcWxBSkE?oc=5",
-      "title": "「第43回全国高校生の手話によるスピーチコンテスト」出場者募集 - asahi-welfare.or.jp",
-      "summary": "「第43回全国高校生の手話によるスピーチコンテスト」出場者募集 asahi-welfare.or.jp",
-      "sourceName": "asahi-welfare.or.jp",
-      "sourceUrl": "https://www.asahi-welfare.or.jp",
-      "publishedAt": "2026-03-31T01:18:21.000Z",
       "category": "general"
     },
     {
@@ -813,33 +813,6 @@
       "category": "general"
     },
     {
-      "id": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNSWdVUTBfTG1CQzBvUUZOX3FmR2l5c0owQjV1NFY1TmhQWXIyeEdoZUNubkV6dkZqWmVyaG1BMVMwTjFKU3djZm9rWGVwZEgwcGRPbVB2WjZ0ZktvVm9sTDFEWVpHTDg0OG9kc09CMndkZmw0ekNaSGNRY1J4MU85cQ?oc=5",
-      "title": "2026年3月28日午後7:55 | NHK手話ニュース - web.nhk",
-      "summary": "2026年3月28日午後7:55 | NHK手話ニュース web.nhk",
-      "sourceName": "web.nhk",
-      "sourceUrl": "https://www.web.nhk",
-      "publishedAt": "2026-03-28T07:00:00.000Z",
-      "category": "general"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1ra1FvYzJ3YWhmSTdfY3VQZ2dBV2QxM21qM2NnSC00czRRRFZENTEyVFNTcENBMEFwSXE0V1RkUmJOT1l3bEJSNFpNRG5Qa2JMNFE?oc=5",
-      "title": "手話の利用拒否、後絶たず 筆談で意思疎通可と誤解 独自言語、情報格差も - 山陽新聞",
-      "summary": "手話の利用拒否、後絶たず 筆談で意思疎通可と誤解 独自言語、情報格差も 山陽新聞",
-      "sourceName": "山陽新聞",
-      "sourceUrl": "https://www.sanyonews.jp",
-      "publishedAt": "2026-03-28T07:00:00.000Z",
-      "category": "general"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMigwFBVV95cUxObmlTd1cyWlBXX1Q4YzVGVnNPZGhQdkxyMlZkeU40TjRFdVVQVlZXdmtsdFJkVC1fd2xvNlNVS1htNUVMNVJXT1dvOURLd3ZsSndvOFA3TUJqWFBmMUpiSlkwemJURjRjWHlJUlpudDVUa1Y1TmN0Tmg0bzlDWWNleVM3OA?oc=5",
-      "title": "2026年3月28日午前11:40 | 週間手話ニュース - web.nhk",
-      "summary": "2026年3月28日午前11:40 | 週間手話ニュース web.nhk",
-      "sourceName": "web.nhk",
-      "sourceUrl": "https://www.web.nhk",
-      "publishedAt": "2026-03-28T07:00:00.000Z",
-      "category": "general"
-    },
-    {
       "id": "https://news.google.com/rss/articles/CBMib0FVX3lxTE44X1ZqZk5XMnpOakpmclZaelJYbmd4UDQ2ZElRNVBpaTU2UGdXOEtxb3pYclBBc1JtU1RMcFl1aHc4SEdESkRPYUw3WHJZUWoxUjZjSGYxYjE1cDZ6clFwQ0xnS0ZvLUhmQ2tvZnFwZw?oc=5",
       "title": "手話動画「手話で話そう」 - pref.fukuoka.lg.jp",
       "summary": "手話動画「手話で話そう」 pref.fukuoka.lg.jp",
@@ -849,12 +822,12 @@
       "category": "general"
     },
     {
-      "id": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNQXRQdjJIZ19HRTJ2eWlUTDJxOWJPVDFNTFpXTVMwNFRzX05qckVOQWJhUm5QcHFJVDVwZktwZUFjMkpYbE0tNWo4Q25pMDB5YkpoV1JWOVl0b2VyczNIa2VpVDE2djdheDRmUjRCQkRhUnpwbUNzSFA0WW8wYnk3UWxBVkFSMW8?oc=5",
-      "title": "ろう者や難聴者の親の多くは手話を知らない 子どもにどう教える？…支援の取り組み広がる - 読売新聞",
-      "summary": "ろう者や難聴者の親の多くは手話を知らない 子どもにどう教える？…支援の取り組み広がる 読売新聞",
-      "sourceName": "読売新聞",
-      "sourceUrl": "https://www.yomiuri.co.jp",
-      "publishedAt": "2026-03-26T14:30:33.000Z",
+      "id": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE92Y0E3SnFzaWdJanhqLW5xNVFxVVpMTnRhV1phYW5TeXNMRU1vak9JMXBLano3bFpBTHE4bUloNkNMUzFRc0VmWkZpSjhZdFhPSE15SC15VkFFU3RZdVpv?oc=5",
+      "title": "【木津川市】📘✨【手話＆コミュニケーション条例 質疑まとめ】 - 選挙ドットコム",
+      "summary": "【木津川市】📘✨【手話＆コミュニケーション条例 質疑まとめ】 選挙ドットコム",
+      "sourceName": "選挙ドットコム",
+      "sourceUrl": "https://go2senkyo.com",
+      "publishedAt": "2026-03-27T07:00:00.000Z",
       "category": "policy"
     },
     {
@@ -863,15 +836,6 @@
       "summary": "交番などで聴覚障害者が手話で通報や相談 警察官が不在だった場合に手話のオペレーターに映像 4月に導入開始 山梨 TBS NEWS DIG",
       "sourceName": "TBS NEWS DIG",
       "sourceUrl": "https://newsdig.tbs.co.jp",
-      "publishedAt": "2026-03-26T07:00:00.000Z",
-      "category": "general"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1vRXpsZVk0ZlRBQmsxRktvMTFNTjJBaTAtYkhvOVY3TUZJWVBhdFpQYzdIdzBkT0dKTkhURWpjWU0xTDlPMGROWGZhQWRNZC1PY3l3?oc=5",
-      "title": "韓国・国立国語院等を訪問、手話施策推進法について意見交換を行いました - 全日本ろうあ連盟",
-      "summary": "韓国・国立国語院等を訪問、手話施策推進法について意見交換を行いました 全日本ろうあ連盟",
-      "sourceName": "全日本ろうあ連盟",
-      "sourceUrl": "https://www.jfd.or.jp",
       "publishedAt": "2026-03-26T07:00:00.000Z",
       "category": "general"
     },
@@ -903,6 +867,15 @@
       "category": "policy"
     },
     {
+      "id": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0xNEpTMW9XQXVPMndISGNrenFUQ0dWUlBKQzdhTHNjcXpjSEFxZmNNeGpyTk5Ua0JLSXVERXhhNDg1Qk8zMHVhd2NtSW13cGZzSG5Od1VTc19KQThSTDBTU0JQWllCREpFUlA5cjRpR0hhejZkeW5DWEwxU1BaaE0?oc=5",
+      "title": "勉強も手話もできちゃう 現役大学生の人気アイドルが初挑戦で技能検定合格を報告 きっかけは授業 - Yahoo!ニュース",
+      "summary": "勉強も手話もできちゃう 現役大学生の人気アイドルが初挑戦で技能検定合格を報告 きっかけは授業 Yahoo!ニュース",
+      "sourceName": "Yahoo!ニュース",
+      "sourceUrl": "https://news.yahoo.co.jp",
+      "publishedAt": "2026-03-25T07:00:00.000Z",
+      "category": "education"
+    },
+    {
       "id": "https://www.jfd.or.jp/2026/03/25/pid29904",
       "title": "【プレスリリース】第25回夏季デフリンピック競技大会 東京2025 大会報告書等の公表について",
       "summary": "一般財団法人全日本ろうあ連盟、東京都、公益財団法人東京都スポーツ文化事業団は、2025年11月に開催した、東京2025デフリンピックの開催までの歩みや大会を通じて得られた経験、創出されたレガシーを後世に継承するため、「 […]",
@@ -928,6 +901,15 @@
       "sourceUrl": "https://www.pref.gifu.lg.jp",
       "publishedAt": "2026-03-24T07:00:00.000Z",
       "category": "general"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQdEZwQ1hKZGY5ekM3Wlo3S2IyYnV6UzJUSTBFZWFIZWVSNU1MQlVaWTA4NFUtZ1NFQjNUeFpBOG9QaU1aT2lta2dad25rRm5qRk0wZUVzYWhiNF9udHAwS1Q3TVhfT1ZMcFVMWGxOWlZQa3VGV08wek40OUc4ZFZpTDJBam5xcDRCU2x3eGNyTFJoa2gzU3dlTHNEY0NYSXFFOUNLNzlmV3pvR1l3bENqeVhYbw?oc=5",
+      "title": "聴覚障害者を支援するソフトウェアの設計に成功した――人道的な卓越性を示す学生プロジェクト。 - Vietnam.vn",
+      "summary": "聴覚障害者を支援するソフトウェアの設計に成功した――人道的な卓越性を示す学生プロジェクト。 Vietnam.vn",
+      "sourceName": "Vietnam.vn",
+      "sourceUrl": "https://www.vietnam.vn",
+      "publishedAt": "2026-03-24T07:00:00.000Z",
+      "category": "policy"
     },
     {
       "id": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPT2lRanJwekU5VFNzQ0JvWTZCNzNZSmx6aVZtUDF6S3hrYVdZamxFN2tWeFNsMVFBOFRVcEdhbldvVWE5LUhUWnoyUVNiSTFVc3p4Wjcwc1hyRzFFOE5NX0JVRDN2azFRY0N0cGhQV1prLU1HdllZdnBGV2ROcjBYR3V3dUloUHdPaFcxeUprZG5XM1c2LXBMcDUzWE9CNGs?oc=5",
@@ -1011,24 +993,6 @@
       "category": "policy"
     },
     {
-      "id": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB4OGxZeUtWTndJZFpOdmlxb1lyaTlNaGQ2RjdiRDZjSHFmT0NVY1U5b2NSOU1TS1Y5OHBVT2N4LVJmNkpOQzE1SndIOEQ5ZUdta0dv?oc=5",
-      "title": "聴覚障害の子どもたちにスポーツを 「当事者」の大学生が企画・運営も手掛けるイベントが生みだすシナジー - 東京新聞デジタル",
-      "summary": "聴覚障害の子どもたちにスポーツを 「当事者」の大学生が企画・運営も手掛けるイベントが生みだすシナジー 東京新聞デジタル",
-      "sourceName": "東京新聞デジタル",
-      "sourceUrl": "https://www.tokyo-np.co.jp",
-      "publishedAt": "2026-03-19T07:00:00.000Z",
-      "category": "education"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9TRFFES3VDVUFyNXBNY3pSaDh3NEt1bnVlS3phU0xCMFBuMVBHVGRxdExuRWxnNXlaQ1hUREdyRTM0MGk3b3pGdG83UkRvRjVqTXpQOG51akVVdFZRYXlOTVB4OA?oc=5",
-      "title": "「第４５回耳の日まつり」に参加しました｜手話サークル根の会｜いちはら市民活動団体ウェブサイト - まちサポ いちはら",
-      "summary": "「第４５回耳の日まつり」に参加しました｜手話サークル根の会｜いちはら市民活動団体ウェブサイト まちサポ いちはら",
-      "sourceName": "まちサポ いちはら",
-      "sourceUrl": "https://ichihara-machisapo.jp",
-      "publishedAt": "2026-03-19T01:40:36.000Z",
-      "category": "local"
-    },
-    {
       "id": "https://www.jfd.or.jp/2026/03/18/pid29891",
       "title": "職員募集のお知らせ",
       "summary": "一般財団法人全日本ろうあ連盟は、次のとおり職員を募集します。 情報バリアフリーな社会、コミュニケーションバリアフリーな社会、多様な言語が共存できる社会は、私たちにとって住みやすい社会です。 すべての人々が「自分らしく […]",
@@ -1056,6 +1020,24 @@
       "category": "local"
     },
     {
+      "id": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBDaTlVekoxNmYxMVVOajJhejdsaURSRHloQm53aFN6X1VhQ3JabjhuVEtWWDJUZzBxM2N1NTFrd1RiYzZVQnhEa19HY0RVY2ZBSFhla2FvTHJ1bUNvOTNjU3RmWTNRUGRiWWJDNw?oc=5",
+      "title": "商用バンで補聴器調整 トヨタ系など、難聴者向けに医療MaaS - 日本経済新聞",
+      "summary": "商用バンで補聴器調整 トヨタ系など、難聴者向けに医療MaaS 日本経済新聞",
+      "sourceName": "日本経済新聞",
+      "sourceUrl": "https://www.nikkei.com",
+      "publishedAt": "2026-03-15T07:00:00.000Z",
+      "category": "medical"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMingFBVV95cUxQbEZPY09ZNzZpUEstcGllbG9EUVFGNThzUE5HSFNISmFQY29ya1QydWphZ3gyTERNWGdnWGZEMldteWVtc3BrUUJoUjRoeGpyU3lYQ0MydUlhUlFpcXNxT2djVjhqaVZJRTVLUnZHaGd0OEN6M1dXYjhaNm9uS1JEZXN6eFQ2VmlsbzZBanBMUzAwQjFnbWl4b1pjVUNIdw?oc=5",
+      "title": "「ふじみ野市手話言語条例」を制定しました - city.fujimino.saitama.jp",
+      "summary": "「ふじみ野市手話言語条例」を制定しました city.fujimino.saitama.jp",
+      "sourceName": "city.fujimino.saitama.jp",
+      "sourceUrl": "https://www.city.fujimino.saitama.jp",
+      "publishedAt": "2026-03-13T07:00:00.000Z",
+      "category": "policy"
+    },
+    {
       "id": "https://news.google.com/rss/articles/CBMijgFBVV95cUxONExyOUxEYVpnVHpoVE4wMHVMWjZsZmpzYWNJSUJEb2RNSllvUTZDeE45SDhoNGF6cmw5UVl1cHdGam11aG81SzMzN1dGRXRyYTBxVDJfelc5MW5QakRYNlFPU3prZ3VuVVF0UU40cGtMeU1CN21qZkdnNHdfX3daUWpqbTBldTVFZDAyWlN3?oc=5",
       "title": "手話動画「NET119への統合に伴うメール119の運用終了について」（5分25秒） - 札幌市",
       "summary": "手話動画「NET119への統合に伴うメール119の運用終了について」（5分25秒） 札幌市",
@@ -1071,6 +1053,15 @@
       "sourceName": "city.kai.yamanashi.jp",
       "sourceUrl": "https://www.city.kai.yamanashi.jp",
       "publishedAt": "2026-03-11T02:47:31.000Z",
+      "category": "general"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9YdUp1Q2xaVHhvTTVFX2JfSVRFb3V0ckYtY2hBZ2xXbndZX2xiSGRsZ2ZTd1YzcW9BM29qdWRXMTQybXg3S3RqQjUwZERLdkczZ3FnbU1kck9OZWRZR2ZjcnVGUHIzVi1xU3c?oc=5",
+      "title": "聴覚障がい者が使う「SOSカード」普及へ - WEB防災情報新聞",
+      "summary": "聴覚障がい者が使う「SOSカード」普及へ WEB防災情報新聞",
+      "sourceName": "WEB防災情報新聞",
+      "sourceUrl": "https://www.bosaijoho.net",
+      "publishedAt": "2026-03-10T07:00:00.000Z",
       "category": "general"
     },
     {
@@ -1107,15 +1098,6 @@
       "sourceName": "北日本新聞webunプラス",
       "sourceUrl": "https://webun.jp",
       "publishedAt": "2026-03-07T08:00:00.000Z",
-      "category": "local"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMitwJBVV95cUxPN2VqcllacTNMdUwxWVR2djBnSWxUMTFlNk93d2VDQ2lmWmotWUFXcW5xODNqUUVWMVZFU2U2NlJYazBZWHF4bmpFejUwNXR4dmNjZ09sUmpuTjRnZDZmMi1ZTElYc240QWxsLUR2S0ZrRks2Z3VsbDM2akJUWExBeDF6ZE5rT0NUMTk1TzZFN2FfMTczNGJsZU9DMGdCVHVmekpOX1hRVEFBZzJhYm1fV19aQW1LQU5NMVV6QjFLRWFiSzVBcWxMWE51SlA2NUpERWtzdDBkZXBxRGtVckRaZWlKZHljLW1vOGRCRjVHTUhmaElFU19UZnVCU1RnMTNUQ0hmR19JMThub3FsbVcxdDZiMVBlOHpmZVF2Qmo0XzVFRGp4WDVBaUdHTVNsLURPOE1JcW9mOA?oc=5",
-      "title": "横浜市「手話リンク」スタートについて 7062 : ブログ : 安全・安心の横浜へ 「何を言ったかでなく、何をやったか！」 - 公明党",
-      "summary": "横浜市「手話リンク」スタートについて 7062 : ブログ : 安全・安心の横浜へ 「何を言ったかでなく、何をやったか！」 公明党",
-      "sourceName": "公明党",
-      "sourceUrl": "https://www.komei.or.jp",
-      "publishedAt": "2026-03-06T08:00:00.000Z",
       "category": "local"
     },
     {
@@ -1164,21 +1146,21 @@
       "category": "general"
     },
     {
-      "id": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBhVzA1dXdyWm9SdmxFMmd1cjd1czVMbDlTWmliRGNWWThRcnFmazMwWFVHa0RpLVZmMnhmRW8yMmJmQ241ZngxanNzRlN1S0xfRTMxUkRNSQ?oc=5",
-      "title": "スマホの“手話通訳”介し警察官と対話、「手話リンク」交番・駐在所に導入 これまでは「筆談」のみ、聴覚障がい者の利便性向上へ【高知】 - TBS NEWS DIG",
-      "summary": "スマホの“手話通訳”介し警察官と対話、「手話リンク」交番・駐在所に導入 これまでは「筆談」のみ、聴覚障がい者の利便性向上へ【高知】 TBS NEWS DIG",
-      "sourceName": "TBS NEWS DIG",
-      "sourceUrl": "https://newsdig.tbs.co.jp",
-      "publishedAt": "2026-03-03T08:00:00.000Z",
-      "category": "general"
-    },
-    {
       "id": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1vcXU3T1JpTGxCOUVfMkVseE4yVkZTc2Z6ZEdtbWZaQWUzUExFSFd1N0xkSk9VcFpnSmxRbURKQUt3UkZtblU1YXhzVkJGdWJsOUpPajVqenFBNnBSM2FuelJ3Mm5Ddw?oc=5",
       "title": "歌舞伎、聴覚障害者も楽しんで…セリフを表示するタブレットや台本貸し出し - 読売新聞",
       "summary": "歌舞伎、聴覚障害者も楽しんで…セリフを表示するタブレットや台本貸し出し 読売新聞",
       "sourceName": "読売新聞",
       "sourceUrl": "https://www.yomiuri.co.jp",
       "publishedAt": "2026-03-03T08:00:00.000Z",
+      "category": "general"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1ua3NibTBkemZfVEp3dDNwVzhfRzhjTm01TXo5c2hqWS0wZVhQdWpJd2l3ZV9UeG8zUkNvOXZqSmFKeUFUQURudHVnMktGUE5xLVlpMEV5N3BXaGQ2SVdV?oc=5",
+      "title": "【ご案内】手話の日（9.23）に関するパネル展の開催について - town.kadena.okinawa.jp",
+      "summary": "【ご案内】手話の日（9.23）に関するパネル展の開催について town.kadena.okinawa.jp",
+      "sourceName": "town.kadena.okinawa.jp",
+      "sourceUrl": "https://www.town.kadena.okinawa.jp",
+      "publishedAt": "2026-03-02T08:00:00.000Z",
       "category": "general"
     },
     {
@@ -1209,15 +1191,6 @@
       "category": "general"
     },
     {
-      "id": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9lb0RRUkEtU01na3djcDJwcnRqWFpTQm1tRWl0aFZCUlJPakpodWlpZjFYelZjYm9ycXN5dldmSXVmQnI0cnoxRUMxTDhYRFA0OW10U2RaOFp5RXBZZ3NDWVFtNDlwRUEwS2c?oc=5",
-      "title": "静岡県内初！「手話リンク」を導入します | 藤枝市役所のプレスリリース - PR TIMES",
-      "summary": "静岡県内初！「手話リンク」を導入します | 藤枝市役所のプレスリリース PR TIMES",
-      "sourceName": "PR TIMES",
-      "sourceUrl": "https://prtimes.jp",
-      "publishedAt": "2026-02-27T08:00:00.000Z",
-      "category": "local"
-    },
-    {
       "id": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1kRFdxZ0UyVWd2emFLUk1QLWp5T1NhbkQ2aER3OFZxLV9kZmJ0aUZuWTU5bGMxZmZ2eGJOM0RUdzdiZGxCMUg1V1lXenJVM1g3a0cwaWpCR0hfWUtlWlBKaFpadE0?oc=5",
       "title": "迷惑電話と勘違い？聴覚障害者向け「電話リレーサービス」が切られてしまう - hicbc.com",
       "summary": "迷惑電話と勘違い？聴覚障害者向け「電話リレーサービス」が切られてしまう hicbc.com",
@@ -1245,12 +1218,12 @@
       "category": "general"
     },
     {
-      "id": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5pNFVGSzd1QUs1aEJSbFRnWU9GQ1dWWnZZZ2FndXVjR1JqUUZ0OEdOcEhhcHlGMWFYZDB4R2ZyclRtUFQtOXltZzVVV09obWZJdGxmTWlqa1dZLU80UTdqNW14VWpSSGM?oc=5",
-      "title": "手話ならではの伝え方、字幕との違い 通訳を入れて初めて知ったこと - 朝日新聞",
-      "summary": "手話ならではの伝え方、字幕との違い 通訳を入れて初めて知ったこと 朝日新聞",
-      "sourceName": "朝日新聞",
-      "sourceUrl": "https://www.asahi.com",
-      "publishedAt": "2026-02-24T08:00:00.000Z",
+      "id": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5YRnVncmlPTURDZHJiVlIwR1h5S0p6QzhqZi14TnBYVGd3YVZyT0xjYms5S01iRjlBUEMtNHVpMHN3Rm9ZTEtLMERoVTNaUUJKTkE0dmYwaEVHbTZWRzkyR1RjZlUwemlz?oc=5",
+      "title": "聴覚障害者向けリレーサービス 必要な電話、切られる 「050」表示、迷惑・営業と誤解され - 毎日新聞",
+      "summary": "聴覚障害者向けリレーサービス 必要な電話、切られる 「050」表示、迷惑・営業と誤解され 毎日新聞",
+      "sourceName": "毎日新聞",
+      "sourceUrl": "https://mainichi.jp",
+      "publishedAt": "2026-02-25T08:00:00.000Z",
       "category": "general"
     },
     {
@@ -1272,6 +1245,15 @@
       "category": "general"
     },
     {
+      "id": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1naFllXzJza2JoNXlvUnNzVFVnR1hFM3pzdzk5bndWUTVqaUJzNnhUajk0TTlQU1BBcGlTQ0xndkE5UUtTdmpnRTFaZkotMEs2YTN4WFdBd3pIZ09WOGlyeA?oc=5",
+      "title": "手話通訳士についてのお知らせ | Volunteer's Summit 2025 特設ページ - ぼ活！",
+      "summary": "手話通訳士についてのお知らせ | Volunteer's Summit 2025 特設ページ ぼ活！",
+      "sourceName": "ぼ活！",
+      "sourceUrl": "https://vokatsu.jp",
+      "publishedAt": "2026-02-20T08:00:00.000Z",
+      "category": "general"
+    },
+    {
       "id": "https://www.tfd.deaf.tokyo/post-5727/",
       "title": "第55回耳の日記念文化祭 2026年2月21〜22日",
       "summary": "講演会を聞きたい方へ １階Ａ２会議室前で、講演開始１５分前まで整理券を配布しています。 定員分を配布次第、配布を終了しますのでご了承ください。 共に創ろう、多様性の輝く未来を！ 参加費５００円（２日間参加の場合は１，００ […]",
@@ -1288,6 +1270,15 @@
       "sourceUrl": "http://www.pref.kagoshima.jp",
       "publishedAt": "2026-02-19T08:00:00.000Z",
       "category": "policy"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMid0FVX3lxTE0yNkhBc3JENERWTlNVMnNsT1RDdzN0LS1tLXJydHViWFd2QktBa1FyWWZQZFYxWU5NdmZhNkF1QWZGeTFmV181dlZMQzJwa0VXeEVGQW5WYzNwX0NqNUdJTDgyVzd0UUswQWpkc1lLTGFnejZPM3Q0?oc=5",
+      "title": "手話で聴くLGBTQ～あなたの身近に～ - city.ishigaki.okinawa.jp",
+      "summary": "手話で聴くLGBTQ～あなたの身近に～ city.ishigaki.okinawa.jp",
+      "sourceName": "city.ishigaki.okinawa.jp",
+      "sourceUrl": "https://www.city.ishigaki.okinawa.jp",
+      "publishedAt": "2026-02-18T08:00:00.000Z",
+      "category": "general"
     },
     {
       "id": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1hMUk4bjgtcUZ4R3NqdlRhb0JOQmE4RTkzNXJJc2N4Q0tUbk1xOUJla1dabVViQWFVSTlpT213RmxQc0ZiWmF4RDZCeTM3YjB5bEkzc3VHREt3bHJFZXVKMVp2dG15WXVSWGc?oc=5",
@@ -1326,15 +1317,6 @@
       "category": "general"
     },
     {
-      "id": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB6ZXlZb3htWTIyYUVwZFFFS0tXSFdSVjZKa1NnZ3VOVGRKRWxabktUbnFEejYyRmRGckNiak9tWUJTVVJ6V25QelNaOXYySW5JUWg1NWVoQXhjSHdCYndQRlc0d2pzTWc?oc=5",
-      "title": "香川県警が「手話リンク」を交番などに導入 通訳介しやりとり可能 [香川県] - 朝日新聞",
-      "summary": "香川県警が「手話リンク」を交番などに導入 通訳介しやりとり可能 [香川県] 朝日新聞",
-      "sourceName": "朝日新聞",
-      "sourceUrl": "https://www.asahi.com",
-      "publishedAt": "2026-02-13T08:00:00.000Z",
-      "category": "local"
-    },
-    {
       "id": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5iUWFqRS1QakpLOE5VUC1nVVZJdzh0WWwyNFBnNlZ4aGFndUstT1VPaEJ4WUZSRGItZzNyTFVLOWl5aFdmRHh4ay13ckhrMUZ2bDk1dFZWakVLdw?oc=5",
       "title": "警官不在でも聴覚障害者との意思疎通可能に 県警が手話リンクサービスを導入 - QAB 琉球朝日放送",
       "summary": "警官不在でも聴覚障害者との意思疎通可能に 県警が手話リンクサービスを導入 QAB 琉球朝日放送",
@@ -1351,6 +1333,24 @@
       "sourceUrl": "https://www.city.sapporo.jp",
       "publishedAt": "2026-02-12T08:00:00.000Z",
       "category": "local"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9jU0xDaDRsNnc1bzFxSUFLdDdMWjNNTVlOc1ZkOTZXMjNmQU9MQ205eTVLc01uQnhqVm9XYzdOVjRfWTZyYl85WTNMWW1tODlnQ29ZTHFDN1pBNmVETkpkLXItV2M?oc=5",
+      "title": "郡山市手話言語条例施行10年 こおりやま2025「手話歌でつながろうプロジェクト」 「つないで」の動画配信！ - city.koriyama.lg.jp",
+      "summary": "郡山市手話言語条例施行10年 こおりやま2025「手話歌でつながろうプロジェクト」 「つないで」の動画配信！ city.koriyama.lg.jp",
+      "sourceName": "city.koriyama.lg.jp",
+      "sourceUrl": "https://www.city.koriyama.lg.jp",
+      "publishedAt": "2026-02-12T08:00:00.000Z",
+      "category": "policy"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9XcWY1QTlFVnpBcVhjSkpPQW1KTFdjbTF1a0JZQ1Z1clp5R2FZcDAzM0VoVnpkQW5nalFxc2ZmcmRkTmt2Q1ZydWNsZWlQc3VrOHJCcTJsQjJ3Yk1yU0lSNVRmQ0xtaG1VT0pDRmNzcw?oc=5",
+      "title": "【開催報告】手話でつながる。手話体験講座を開催しました！（南花台公民館） - city.kawachinagano.lg.jp",
+      "summary": "【開催報告】手話でつながる。手話体験講座を開催しました！（南花台公民館） city.kawachinagano.lg.jp",
+      "sourceName": "city.kawachinagano.lg.jp",
+      "sourceUrl": "https://www.city.kawachinagano.lg.jp",
+      "publishedAt": "2026-02-11T08:00:00.000Z",
+      "category": "general"
     }
   ]
 }
