@@ -6,7 +6,7 @@
     <atom:link href="https://tamas-hub.github.io/deaf-navi-web/feed.xml" rel="self" type="application/rss+xml" />
     <description>聴覚障害・難聴・ろう者コミュニティ向けに、全日本ろうあ連盟や主要報道機関から最新ニュースを厳選。制度・政策・医療・教育・地域情報を毎時自動更新するキュレーションサイト。手話・情報保障・補聴器・人工内耳・手話言語条例など幅広いテーマをカバー。</description>
     <language>ja-JP</language>
-    <lastBuildDate>Fri, 17 Apr 2026 18:38:22 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 17 Apr 2026 20:42:37 GMT</lastBuildDate>
     <ttl>60</ttl>
     <item>
       <title>補聴器購入の助成金、難聴啓発を 補聴器の助成を考える会、市に要望書を提出―伊東 - 伊豆新聞デジタル</title>
@@ -16,6 +16,15 @@
       <description>補聴器購入の助成金、難聴啓発を 補聴器の助成を考える会、市に要望書を提出―伊東 伊豆新聞デジタル</description>
       <category>制度・政策</category>
       <source url="https://digital.izu-np.co.jp">伊豆新聞デジタル</source>
+    </item>
+    <item>
+      <title>目で聴く人々：／12 聴覚障害児が共同生活 多くの人と手話、成長に ／東京 - 毎日新聞</title>
+      <link>https://news.google.com/rss/articles/CBMiaEFVX3lxTE02ejJDQ0J5S1A4X3J6Ml9ocUFzVkdrSmoxaldjbFdfanNFSUExUnlpMXhJc1UwLXhkT1MyQXhXZThWUTZrYS0tMkpQcGs1UzRXaWhaYlh3UE42clRSbC1zLW1iZS1lWm11?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiaEFVX3lxTE02ejJDQ0J5S1A4X3J6Ml9ocUFzVkdrSmoxaldjbFdfanNFSUExUnlpMXhJc1UwLXhkT1MyQXhXZThWUTZrYS0tMkpQcGs1UzRXaWhaYlh3UE42clRSbC1zLW1iZS1lWm11?oc=5</guid>
+      <pubDate>Fri, 17 Apr 2026 17:07:53 GMT</pubDate>
+      <description>目で聴く人々：／12 聴覚障害児が共同生活 多くの人と手話、成長に ／東京 毎日新聞</description>
+      <category>一般</category>
+      <source url="https://mainichi.jp">毎日新聞</source>
     </item>
     <item>
       <title>障害あってもパレード堪能 サンリオピューロランド、手話や光・音軽減 - 日本経済新聞</title>
@@ -162,6 +171,24 @@
       <source url="https://mainichi.jp">毎日新聞</source>
     </item>
     <item>
+      <title>50年以上の時を経て注目される、繊細で緻密な「切り絵」作品がついに書籍化！ 制作協力に〈鞆の津ミュージアム〉</title>
+      <link>https://co-coco.jp/news/kirienosekai_horio/</link>
+      <guid isPermaLink="true">https://co-coco.jp/news/kirienosekai_horio/</guid>
+      <pubDate>Fri, 17 Apr 2026 02:30:59 GMT</pubDate>
+      <description>20歳で早逝した堀尾 聡さん（1961₋1981）の表現を集めた作品集『堀尾 聡 切り絵の世界』が〈鞆の津ミュージアム〉の編集のもと、2026年3月5日に出版されました。幼くして難病・筋ジストロフィーを発症し、わずかに動く手指、紙、はさみだけで、さまざまな切り絵作品を創作した聡さん。近年作品が発見・再注目され、展覧会や個展などで注目を集め始めています。</description>
+      <category>一般</category>
+      <source url="https://co-coco.jp/">こここ</source>
+    </item>
+    <item>
+      <title>手話で対話し、ケアする介護福祉士に私がなった理由。 聴覚障害者専用の老人ホーム「あすらや荘」（広島県呉市）</title>
+      <link>https://co-coco.jp/series/hataraku/miki_oobayashi/</link>
+      <guid isPermaLink="true">https://co-coco.jp/series/hataraku/miki_oobayashi/</guid>
+      <pubDate>Thu, 16 Apr 2026 23:30:32 GMT</pubDate>
+      <description>手話を大切なことばとして生きる「ろう者」はどんな仕事をしているのでしょうか。第45回は広島県呉（くれ）市で介護福祉士として働く大林美樹（おおばやし・みき）さんを訪ねました。</description>
+      <category>地域</category>
+      <source url="https://co-coco.jp/">こここ</source>
+    </item>
+    <item>
       <title>新潟県、手話で電話可能に 県庁代表などに「手話リンク」導入 - にいがた経済新聞</title>
       <link>https://news.google.com/rss/articles/CBMiREFVX3lxTE5ZY2w1MjFVNUcxbU9zMTIzVHZKRzB2R0VmREtfc3pSWklncE5kTlA4TDlCSXhqYktFSUJZRVBwOVhUT1NE?oc=5</link>
       <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiREFVX3lxTE5ZY2w1MjFVNUcxbU9zMTIzVHZKRzB2R0VmREtfc3pSWklncE5kTlA4TDlCSXhqYktFSUJZRVBwOVhUT1NE?oc=5</guid>
@@ -243,20 +270,11 @@
       <source url="https://www.gifu-np.co.jp">岐阜新聞デジタル</source>
     </item>
     <item>
-      <title>ヘッドホンの大音量で起きる「騒音性難聴」 初期はキーンと耳鳴り…予防するには？ - 読売新聞</title>
-      <link>https://news.google.com/rss/articles/CBMijwFBVV95cUxQNE95N3lXeVNxTkVwU1otOHB5WTVDbjN3aGlIQ0hpRldwUGtMSWJkNzFLRmlGaU9valBjXzI3U21QcjZpMG94SW5EOXVBdlFYMnBtTXFKMkRIUEZuNUx1SExoams3UXpCLW8tTUhIU3hJaVZGVDhGUWF0bEl3MXM5TzNhcFhfUmVaM3NLcC1rSQ?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMijwFBVV95cUxQNE95N3lXeVNxTkVwU1otOHB5WTVDbjN3aGlIQ0hpRldwUGtMSWJkNzFLRmlGaU9valBjXzI3U21QcjZpMG94SW5EOXVBdlFYMnBtTXFKMkRIUEZuNUx1SExoams3UXpCLW8tTUhIU3hJaVZGVDhGUWF0bEl3MXM5TzNhcFhfUmVaM3NLcC1rSQ?oc=5</guid>
+      <title>［歌手・俳優 井上順さん］難聴（１）耳を酷使して聴力低下 - 読売新聞</title>
+      <link>https://news.google.com/rss/articles/CBMiiAFBVV95cUxOcHZpUlFsRlhLYWl6cExCeGNaOENuRDRXNGRoLVZJUE1WYWUwTWY2bVUzM3VPTVdEQ1VFeU1icFBRVndNeHRrR0VacG9HdUpvcVdEUjRta2UyRDhyNU1MMlRaZU5hVmdjRm1WSV9XNFhjN2daOVV1YU16ZnZreG9mOTdYTjhHN0cy?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiiAFBVV95cUxOcHZpUlFsRlhLYWl6cExCeGNaOENuRDRXNGRoLVZJUE1WYWUwTWY2bVUzM3VPTVdEQ1VFeU1icFBRVndNeHRrR0VacG9HdUpvcVdEUjRta2UyRDhyNU1MMlRaZU5hVmdjRm1WSV9XNFhjN2daOVV1YU16ZnZreG9mOTdYTjhHN0cy?oc=5</guid>
       <pubDate>Wed, 15 Apr 2026 07:00:00 GMT</pubDate>
-      <description>ヘッドホンの大音量で起きる「騒音性難聴」 初期はキーンと耳鳴り…予防するには？ 読売新聞</description>
-      <category>一般</category>
-      <source url="https://www.yomiuri.co.jp">読売新聞</source>
-    </item>
-    <item>
-      <title>不在の交番相談「手話リンク」で…聴覚障害者らサポートへ導入 - 読売新聞</title>
-      <link>https://news.google.com/rss/articles/CBMilgFBVV95cUxQb3BEVW1lTUsxYUpXVTIwdVpZbFVWNVhMZnNRZmlPbWhpVnNLQlo1dC0zSmxXWFFXX2xqcW05cFJKYXdNX3lRbmJlYlh3anZReHREN1pnbm9iQVhFZndiWnBFa3NsYkpLUEJrRmRxbUI5cXk5aGFzdDlQWjRJb1NHeG14SzJUMDBQX1E0NS00c1FmTWxPN3c?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMilgFBVV95cUxQb3BEVW1lTUsxYUpXVTIwdVpZbFVWNVhMZnNRZmlPbWhpVnNLQlo1dC0zSmxXWFFXX2xqcW05cFJKYXdNX3lRbmJlYlh3anZReHREN1pnbm9iQVhFZndiWnBFa3NsYkpLUEJrRmRxbUI5cXk5aGFzdDlQWjRJb1NHeG14SzJUMDBQX1E0NS00c1FmTWxPN3c?oc=5</guid>
-      <pubDate>Wed, 15 Apr 2026 07:00:00 GMT</pubDate>
-      <description>不在の交番相談「手話リンク」で…聴覚障害者らサポートへ導入 読売新聞</description>
+      <description>［歌手・俳優 井上順さん］難聴（１）耳を酷使して聴力低下 読売新聞</description>
       <category>一般</category>
       <source url="https://www.yomiuri.co.jp">読売新聞</source>
     </item>
@@ -288,6 +306,42 @@
       <source url="https://www.city.itoman.lg.jp">city.itoman.lg.jp</source>
     </item>
     <item>
+      <title>PANCETTAが2014年初演作「Moon」をリメイク、舞台手話通訳付き公演も（ステージナタリー） - Yahoo!ニュース</title>
+      <link>https://news.google.com/rss/articles/CBMif0FVX3lxTE80VzFMeVZvQkRZdkkzM3d6SjJYT1VuLU1PUEVGVmZMUi1IbURnaGdQRV9kZF9vRlhyejNzSjdaUkZjeXZZTlEzOGRMXzdLaDktV25RUmlPVmVlam5YT0VraUlkYTAtUDF2YTlpd0J4YWxwc1VkcHF1c3JaQmtkOVE?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMif0FVX3lxTE80VzFMeVZvQkRZdkkzM3d6SjJYT1VuLU1PUEVGVmZMUi1IbURnaGdQRV9kZF9vRlhyejNzSjdaUkZjeXZZTlEzOGRMXzdLaDktV25RUmlPVmVlam5YT0VraUlkYTAtUDF2YTlpd0J4YWxwc1VkcHF1c3JaQmtkOVE?oc=5</guid>
+      <pubDate>Tue, 14 Apr 2026 09:38:10 GMT</pubDate>
+      <description>PANCETTAが2014年初演作「Moon」をリメイク、舞台手話通訳付き公演も（ステージナタリー） Yahoo!ニュース</description>
+      <category>一般</category>
+      <source url="https://news.yahoo.co.jp">Yahoo!ニュース</source>
+    </item>
+    <item>
+      <title>PANCETTAが2014年初演作「Moon」をリメイク、舞台手話通訳付き公演も (ステージナタリー) - Yahoo!ニュース</title>
+      <link>https://news.google.com/rss/articles/CBMijgFBVV95cUxPaHl1cElRMXlndExuX2JscnIxY3dndUpOMVhGRzBicHN1a1luRVBoWE83Qm9VOXJISzhjZ09uN0xUa3VRVnNFaWZ3NDNMMng2eEZlb3l2djQ2cGY0UU42WElDb2UtWTJjYzd1Z2huTmtEcnd5NnRMTW11UEJwbDZuRXptbEFjWUV0b2N0Ykxn?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMijgFBVV95cUxPaHl1cElRMXlndExuX2JscnIxY3dndUpOMVhGRzBicHN1a1luRVBoWE83Qm9VOXJISzhjZ09uN0xUa3VRVnNFaWZ3NDNMMng2eEZlb3l2djQ2cGY0UU42WElDb2UtWTJjYzd1Z2huTmtEcnd5NnRMTW11UEJwbDZuRXptbEFjWUV0b2N0Ykxn?oc=5</guid>
+      <pubDate>Tue, 14 Apr 2026 09:38:10 GMT</pubDate>
+      <description>PANCETTAが2014年初演作「Moon」をリメイク、舞台手話通訳付き公演も (ステージナタリー) Yahoo!ニュース</description>
+      <category>一般</category>
+      <source url="https://news.yahoo.co.jp">Yahoo!ニュース</source>
+    </item>
+    <item>
+      <title>PANCETTAが2014年初演作「Moon」をリメイク、舞台手話通訳付き公演も - ナタリー</title>
+      <link>https://news.google.com/rss/articles/CBMiTEFVX3lxTFBqWjRocTViOGFaUXloTElmbmI2d2V6WktWMGZNNVZkOWotdUVIN3YtWVhiSXFneUdSNVJSWnlLMzhCLTdHeDlaemhUMmo?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiTEFVX3lxTFBqWjRocTViOGFaUXloTElmbmI2d2V6WktWMGZNNVZkOWotdUVIN3YtWVhiSXFneUdSNVJSWnlLMzhCLTdHeDlaemhUMmo?oc=5</guid>
+      <pubDate>Tue, 14 Apr 2026 09:37:00 GMT</pubDate>
+      <description>PANCETTAが2014年初演作「Moon」をリメイク、舞台手話通訳付き公演も ナタリー</description>
+      <category>一般</category>
+      <source url="https://natalie.mu">ナタリー</source>
+    </item>
+    <item>
+      <title>PANCETTAが2014年初演作「Moon」をリメイク、舞台手話通訳付き公演も - ぴあエンタメ情報</title>
+      <link>https://news.google.com/rss/articles/CBMiX0FVX3lxTE5HWmVVRElDX1VFaTEwdWppNFFFaVVPbFpLMjZOY0o4UF9JbVJNRjVGd1VWUHYzRjRvMkNhVlRkX1dmR2dMZ2Faa3ZNeWFuT2dNSVpzSzgzazRKU0F5YzEw?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiX0FVX3lxTE5HWmVVRElDX1VFaTEwdWppNFFFaVVPbFpLMjZOY0o4UF9JbVJNRjVGd1VWUHYzRjRvMkNhVlRkX1dmR2dMZ2Faa3ZNeWFuT2dNSVpzSzgzazRKU0F5YzEw?oc=5</guid>
+      <pubDate>Tue, 14 Apr 2026 09:37:00 GMT</pubDate>
+      <description>PANCETTAが2014年初演作「Moon」をリメイク、舞台手話通訳付き公演も ぴあエンタメ情報</description>
+      <category>一般</category>
+      <source url="https://lp.p.pia.jp">ぴあエンタメ情報</source>
+    </item>
+    <item>
       <title>京都府北部で「動くワンポイント手話」を月1発信 「少しでも覚えてもらえたら」 - 京都新聞デジタル</title>
       <link>https://news.google.com/rss/articles/CBMiWEFVX3lxTFA5U3FOajNMaTJHV2Jxdl9VZF9zUUxsQl8zckRoQnZVQWd4YWFTdmo1Vy15enB0NUFSN3FXSmx3ZFdEUEVQZVlzQ3Jlbm1OQ01vTEZDaGpIWDI?oc=5</link>
       <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiWEFVX3lxTFA5U3FOajNMaTJHV2Jxdl9VZF9zUUxsQl8zckRoQnZVQWd4YWFTdmo1Vy15enB0NUFSN3FXSmx3ZFdEUEVQZVlzQ3Jlbm1OQ01vTEZDaGpIWDI?oc=5</guid>
@@ -295,6 +349,24 @@
       <description>京都府北部で「動くワンポイント手話」を月1発信 「少しでも覚えてもらえたら」 京都新聞デジタル</description>
       <category>地域</category>
       <source url="https://www.kyoto-np.co.jp">京都新聞デジタル</source>
+    </item>
+    <item>
+      <title>補聴器を使わない難聴者は9割弱 “聞こえづらさ”を放置しがちな社会に「cocoe Ear」が放つ一手（東洋経済オンライン） - Yahoo!ニュース</title>
+      <link>https://news.google.com/rss/articles/CBMiiAFBVV95cUxOeVRHMXMxUXFVZnVJX1lyekx2R1h2NVFZdEhfM1FsTzVfRG5EcGRnZlN3RndhT29qdFBFV3AzdTFhWGlxYkx3NEEyOE9iRzFpMjB5R3k5NEtQU3l5eGlTakVGRmtFZ2ttckhFOWt3Mkp4ck5DcGpKMGNnR0Z3SGNSeGJUTFplME9E?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiiAFBVV95cUxOeVRHMXMxUXFVZnVJX1lyekx2R1h2NVFZdEhfM1FsTzVfRG5EcGRnZlN3RndhT29qdFBFV3AzdTFhWGlxYkx3NEEyOE9iRzFpMjB5R3k5NEtQU3l5eGlTakVGRmtFZ2ttckhFOWt3Mkp4ck5DcGpKMGNnR0Z3SGNSeGJUTFplME9E?oc=5</guid>
+      <pubDate>Tue, 14 Apr 2026 01:06:00 GMT</pubDate>
+      <description>補聴器を使わない難聴者は9割弱 “聞こえづらさ”を放置しがちな社会に「cocoe Ear」が放つ一手（東洋経済オンライン） Yahoo!ニュース</description>
+      <category>医療</category>
+      <source url="https://news.yahoo.co.jp">Yahoo!ニュース</source>
+    </item>
+    <item>
+      <title>佳子内親王殿下 手話パフォーマンス大会ご臨席の為鳥取県御訪問 Sna (b2gt8YLlIu) - Mshale</title>
+      <link>https://news.google.com/rss/articles/CBMiY0FVX3lxTFBBM2lOT3A0eEY4VDF3bmUxZkdRUkpPMDdqZUpoWDd5a1BWY0hnMU1LX3ZsTVpwUjFRR0toQ0ItSHktT2dyenA2STBFbE5BTmFNUWo1YVYwYmMyajBiYzg2RWNOMA?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiY0FVX3lxTFBBM2lOT3A0eEY4VDF3bmUxZkdRUkpPMDdqZUpoWDd5a1BWY0hnMU1LX3ZsTVpwUjFRR0toQ0ItSHktT2dyenA2STBFbE5BTmFNUWo1YVYwYmMyajBiYzg2RWNOMA?oc=5</guid>
+      <pubDate>Tue, 14 Apr 2026 00:01:59 GMT</pubDate>
+      <description>佳子内親王殿下 手話パフォーマンス大会ご臨席の為鳥取県御訪問 Sna (b2gt8YLlIu) Mshale</description>
+      <category>文化・芸能</category>
+      <source url="https://mshale.com">Mshale</source>
     </item>
     <item>
       <title>小田急、「手話リンク」で手話の問い合わせに対応 鉄道業界初 - Impress Watch</title>
@@ -385,78 +457,6 @@
       <description>デフアカデミー／尾中友哉（ろう難聴児の放課後等デイサービス・＃1399） TVer</description>
       <category>一般</category>
       <source url="https://tver.jp">TVer</source>
-    </item>
-    <item>
-      <title>「福岡手話の会」会長は弁護士、訴訟で感じた問題点…理解しづらい言葉で問いかけ・手話通訳者の手配なし - Yahoo!ニュース</title>
-      <link>https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUUVuekRibnkyQU8tclpsdkdnZnY5bjJiVUtnSmZaT1pqa1VOQnhUaU8xS0RMNi1iNlg5RzFqOHpJS3QxMFhHbUE1NU9pU2M0LTV6S1Y5X29pTVItNDJUYUlPMnBpdjFwQ284OTJGaXNtclFIWmJkV2ZEMHhLUkMzUDAtZUF0Vm9I?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUUVuekRibnkyQU8tclpsdkdnZnY5bjJiVUtnSmZaT1pqa1VOQnhUaU8xS0RMNi1iNlg5RzFqOHpJS3QxMFhHbUE1NU9pU2M0LTV6S1Y5X29pTVItNDJUYUlPMnBpdjFwQ284OTJGaXNtclFIWmJkV2ZEMHhLUkMzUDAtZUF0Vm9I?oc=5</guid>
-      <pubDate>Sun, 12 Apr 2026 11:38:31 GMT</pubDate>
-      <description>「福岡手話の会」会長は弁護士、訴訟で感じた問題点…理解しづらい言葉で問いかけ・手話通訳者の手配なし Yahoo!ニュース</description>
-      <category>一般</category>
-      <source url="https://news.yahoo.co.jp">Yahoo!ニュース</source>
-    </item>
-    <item>
-      <title>「福岡手話の会」会長は弁護士、訴訟で感じた問題点…理解しづらい言葉で問いかけ・手話通訳者の手配なし - Yahoo!ニュース</title>
-      <link>https://news.google.com/rss/articles/CBMijgFBVV95cUxPdmVCamd2ZWJIem04b1VGb0pqa1FtYXYzamRhbXE2MURsZEdpQzNWMXl1cmFUVlVMT0h5cENXWTNzcEYxcU9mNXFNbmJTXzhNU1RiUG4xMFJTUXU1cWNEay12bXROdFdZOFg2LWhOLTJ1MEh2QVM4a3lEcmdGb1VONEVhVTFVdlNzQlBDRVFn?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMijgFBVV95cUxPdmVCamd2ZWJIem04b1VGb0pqa1FtYXYzamRhbXE2MURsZEdpQzNWMXl1cmFUVlVMT0h5cENXWTNzcEYxcU9mNXFNbmJTXzhNU1RiUG4xMFJTUXU1cWNEay12bXROdFdZOFg2LWhOLTJ1MEh2QVM4a3lEcmdGb1VONEVhVTFVdlNzQlBDRVFn?oc=5</guid>
-      <pubDate>Sun, 12 Apr 2026 11:38:31 GMT</pubDate>
-      <description>「福岡手話の会」会長は弁護士、訴訟で感じた問題点…理解しづらい言葉で問いかけ・手話通訳者の手配なし Yahoo!ニュース</description>
-      <category>一般</category>
-      <source url="https://news.yahoo.co.jp">Yahoo!ニュース</source>
-    </item>
-    <item>
-      <title>「福岡手話の会」会長は弁護士、訴訟で感じた問題点…理解しづらい言葉で問いかけ・手話通訳者の手配なし - 読売新聞</title>
-      <link>https://news.google.com/rss/articles/CBMickFVX3lxTE1KNXZZMU51VE1oSjBiM0wxUEE3N1RNVERrelREbGFCQmlIN2kyeG1ybjZLWW1Bd3FsMnVhSXp2SnNmVkloY0pwUUdYbno5dGYzaHBqWHNkRzhIcHZ6RzlpWU5wbnp5dGktRVpGQWtIQU0tZw?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMickFVX3lxTE1KNXZZMU51VE1oSjBiM0wxUEE3N1RNVERrelREbGFCQmlIN2kyeG1ybjZLWW1Bd3FsMnVhSXp2SnNmVkloY0pwUUdYbno5dGYzaHBqWHNkRzhIcHZ6RzlpWU5wbnp5dGktRVpGQWtIQU0tZw?oc=5</guid>
-      <pubDate>Sun, 12 Apr 2026 11:38:00 GMT</pubDate>
-      <description>「福岡手話の会」会長は弁護士、訴訟で感じた問題点…理解しづらい言葉で問いかけ・手話通訳者の手配なし 読売新聞</description>
-      <category>一般</category>
-      <source url="https://www.yomiuri.co.jp">読売新聞</source>
-    </item>
-    <item>
-      <title>「青切符」制度開始 聴覚障害者向け自転車講習会開催（tvkニュース（テレビ神奈川）） - Yahoo!ニュース</title>
-      <link>https://news.google.com/rss/articles/CBMif0FVX3lxTFBXUlAzUFk5MVlFMVlBWG4xVEhkbzV1Ni1pWUxsaFFtcTRrcUZEVVM2dE5YTkp2bWJOVFZHalVwemlpMUNCSXptLWJPdFI3b1lZVmg5QjBmbGlYaEZtTThsU3pwSjBXQnVzTmMxYk5tbHZTclZoX0ZDVnpKNGVRY00?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMif0FVX3lxTFBXUlAzUFk5MVlFMVlBWG4xVEhkbzV1Ni1pWUxsaFFtcTRrcUZEVVM2dE5YTkp2bWJOVFZHalVwemlpMUNCSXptLWJPdFI3b1lZVmg5QjBmbGlYaEZtTThsU3pwSjBXQnVzTmMxYk5tbHZTclZoX0ZDVnpKNGVRY00?oc=5</guid>
-      <pubDate>Sun, 12 Apr 2026 09:30:55 GMT</pubDate>
-      <description>「青切符」制度開始 聴覚障害者向け自転車講習会開催（tvkニュース（テレビ神奈川）） Yahoo!ニュース</description>
-      <category>制度・政策</category>
-      <source url="https://news.yahoo.co.jp">Yahoo!ニュース</source>
-    </item>
-    <item>
-      <title>「青切符」制度開始 聴覚障害者向け自転車講習会開催 - au Webポータル</title>
-      <link>https://news.google.com/rss/articles/CBMie0FVX3lxTE1GbXFoYnNKejQ0RjZ0RHRSdEVvZE81cEFGR24zM0RVdkhGTWQzOFlLMUdsTXdPbF9TY3N4MEtzbE5icXJmVGExTVppZ1hpYW5kakRDTHY4NURla0hjQkh3UGdqOEtBU0JDUUJvNkNiaXJyZnJlNnhrc2NkTQ?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMie0FVX3lxTE1GbXFoYnNKejQ0RjZ0RHRSdEVvZE81cEFGR24zM0RVdkhGTWQzOFlLMUdsTXdPbF9TY3N4MEtzbE5icXJmVGExTVppZ1hpYW5kakRDTHY4NURla0hjQkh3UGdqOEtBU0JDUUJvNkNiaXJyZnJlNnhrc2NkTQ?oc=5</guid>
-      <pubDate>Sun, 12 Apr 2026 09:27:00 GMT</pubDate>
-      <description>「青切符」制度開始 聴覚障害者向け自転車講習会開催 au Webポータル</description>
-      <category>制度・政策</category>
-      <source url="https://article.auone.jp">au Webポータル</source>
-    </item>
-    <item>
-      <title>盲ろう者が直面した投票の壁 衆院選、それでも「一票」に託した思い - 朝日新聞</title>
-      <link>https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5UMDlpUERySkstVGlfQ2QtNVRqMzZabG50djdJOVlEUFFab2V4NjFicnVrVm1WeGNFUk9mbkI1Vk5LbXpUbmV1S1pEQVRNYVlyOEFOMGVWWGlhQ2NKOWZIeEI1UmFCck0?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5UMDlpUERySkstVGlfQ2QtNVRqMzZabG50djdJOVlEUFFab2V4NjFicnVrVm1WeGNFUk9mbkI1Vk5LbXpUbmV1S1pEQVRNYVlyOEFOMGVWWGlhQ2NKOWZIeEI1UmFCck0?oc=5</guid>
-      <pubDate>Sun, 12 Apr 2026 08:00:00 GMT</pubDate>
-      <description>盲ろう者が直面した投票の壁 衆院選、それでも「一票」に託した思い 朝日新聞</description>
-      <category>一般</category>
-      <source url="https://www.asahi.com">朝日新聞</source>
-    </item>
-    <item>
-      <title>デフアカデミー／尾中友哉（ろう難聴児の放課後等デイサービス） | 情熱大陸 - MBS 毎日放送</title>
-      <link>https://news.google.com/rss/articles/CBMiV0FVX3lxTE5QRjhSa1A5bjhHNFJWNzVDU0R0MG42aXNDckFTRjFuVmI0cHZPM2JLZks1TFJLZ3AwbXh6dWpIWUQyTXhKZDVFbHd4TE9UeXlyLS1XRlFoQQ?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiV0FVX3lxTE5QRjhSa1A5bjhHNFJWNzVDU0R0MG42aXNDckFTRjFuVmI0cHZPM2JLZks1TFJLZ3AwbXh6dWpIWUQyTXhKZDVFbHd4TE9UeXlyLS1XRlFoQQ?oc=5</guid>
-      <pubDate>Sun, 12 Apr 2026 07:00:00 GMT</pubDate>
-      <description>デフアカデミー／尾中友哉（ろう難聴児の放課後等デイサービス） | 情熱大陸 MBS 毎日放送</description>
-      <category>一般</category>
-      <source url="https://www.mbs.jp">MBS 毎日放送</source>
-    </item>
-    <item>
-      <title>「人工内耳と手話」 私たちの話し方 だるまんさんの映画レビュー（感想・評価） - 映画.com</title>
-      <link>https://news.google.com/rss/articles/CBMiWkFVX3lxTE5jSS1uTkxnU2o1c2xLZXJ6NlZmTmNRcGVTLV95QkNXektuLUJQWUNpVGNuQk9ub2hkRUVGYy1sNDVNQkhkOVlfVEFULTNCQUlmbU1CQnhFQ09Kdw?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiWkFVX3lxTE5jSS1uTkxnU2o1c2xLZXJ6NlZmTmNRcGVTLV95QkNXektuLUJQWUNpVGNuQk9ub2hkRUVGYy1sNDVNQkhkOVlfVEFULTNCQUlmbU1CQnhFQ09Kdw?oc=5</guid>
-      <pubDate>Sat, 11 Apr 2026 14:05:42 GMT</pubDate>
-      <description>「人工内耳と手話」 私たちの話し方 だるまんさんの映画レビュー（感想・評価） 映画.com</description>
-      <category>医療</category>
-      <source url="https://eiga.com">映画.com</source>
     </item>
   </channel>
 </rss>
