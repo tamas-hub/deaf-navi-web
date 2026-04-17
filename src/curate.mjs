@@ -88,17 +88,20 @@ function extractActualUrl(description, fallback) {
 }
 
 function cleanHtml(text) {
-  return text
-    .replace(/<[^>]*>/g, '')
+  // 1) HTMLエンティティを先にデコード（&lt;/&gt; を < > に戻す）
+  const decoded = text
     .replace(/&#(\d+);/g, (_, n) => String.fromCodePoint(Number(n)))
     .replace(/&#x([0-9a-f]+);/gi, (_, n) => String.fromCodePoint(parseInt(n, 16)))
-    .replace(/&amp;/g, '&')
     .replace(/&lt;/g, '<')
     .replace(/&gt;/g, '>')
     .replace(/&quot;/g, '"')
     .replace(/&apos;/g, "'")
-    .replace(/&#39;/g, "'")
     .replace(/&nbsp;/g, ' ')
+    .replace(/&amp;/g, '&'); // &amp; は最後（二重エンコード対策）
+
+  // 2) デコード後にHTMLタグ・URLを除去し、空白を正規化
+  return decoded
+    .replace(/<[^>]*>/g, '')
     .replace(/https?:\/\/\S+/g, '')
     .replace(/\s+/g, ' ')
     .trim();

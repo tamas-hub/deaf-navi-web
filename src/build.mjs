@@ -12,14 +12,6 @@ const STYLES_OUT = join(DOCS, 'styles.css');
 const APP_SRC = join(__dirname, 'app.js');
 const APP_OUT = join(DOCS, 'app.js');
 
-const CATEGORY_LABEL = {
-  general: 'すべて / 一般',
-  policy: '制度・政策',
-  medical: '医療',
-  education: '教育',
-  local: '地域',
-};
-
 const CATEGORY_ORDER = ['all', 'policy', 'medical', 'education', 'local', 'general'];
 const CATEGORY_UI = {
   all: 'すべて',
@@ -104,6 +96,9 @@ function renderPage({ generatedAt, count, articles }) {
   <meta property="og:title" content="Deaf Navi Web">
   <meta property="og:description" content="聴覚障害・ろう者コミュニティ向けニュースキュレーション">
   <meta property="og:type" content="website">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap">
   <link rel="stylesheet" href="./styles.css">
   <link rel="canonical" href="./">
 </head>
