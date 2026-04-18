@@ -6,7 +6,7 @@
     <atom:link href="https://tamas-hub.github.io/deaf-navi-web/feed.xml" rel="self" type="application/rss+xml" />
     <description>聴覚障害・難聴・ろう者コミュニティ向けに、全日本ろうあ連盟や主要報道機関から最新ニュースを厳選。制度・政策・医療・教育・地域情報を毎時自動更新するキュレーションサイト。手話・情報保障・補聴器・人工内耳・手話言語条例など幅広いテーマをカバー。</description>
     <language>ja-JP</language>
-    <lastBuildDate>Sat, 18 Apr 2026 17:04:58 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 18 Apr 2026 19:56:30 GMT</lastBuildDate>
     <ttl>60</ttl>
     <item>
       <title>補聴器購入の助成金、難聴啓発を 補聴器の助成を考える会、市に要望書を提出―伊東 - 伊豆新聞デジタル</title>
@@ -198,15 +198,6 @@
       <source url="https://kbc.co.jp">KBC九州朝日放送</source>
     </item>
     <item>
-      <title>どうすれば安全安心：多量飲酒の男性、加齢性難聴多く - 毎日新聞</title>
-      <link>https://news.google.com/rss/articles/CBMiaEFVX3lxTE1aemlicDgyZEtGYnRiOHlWeC1aY1dVSllSUWhPNERJdC1RSl9hdDRPcHBfekMxU2ZaYmpaTE9Jd0dycG0tODVXZG5yRVFxZldTQnc1QndIdC1qWWtwWFc4UW1PYWZYZmVR?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiaEFVX3lxTE1aemlicDgyZEtGYnRiOHlWeC1aY1dVSllSUWhPNERJdC1RSl9hdDRPcHBfekMxU2ZaYmpaTE9Jd0dycG0tODVXZG5yRVFxZldTQnc1QndIdC1qWWtwWFc4UW1PYWZYZmVR?oc=5</guid>
-      <pubDate>Fri, 17 Apr 2026 04:01:32 GMT</pubDate>
-      <description>どうすれば安全安心：多量飲酒の男性、加齢性難聴多く 毎日新聞</description>
-      <category>一般</category>
-      <source url="https://mainichi.jp">毎日新聞</source>
-    </item>
-    <item>
       <title>50年以上の時を経て注目される、繊細で緻密な「切り絵」作品がついに書籍化！ 制作協力に〈鞆の津ミュージアム〉</title>
       <link>https://co-coco.jp/news/kirienosekai_horio/</link>
       <guid isPermaLink="true">https://co-coco.jp/news/kirienosekai_horio/</guid>
@@ -349,6 +340,15 @@
       <description>手話サークルを立ち上げた看護学生描く、チーム・クレセント「歩きはじめる時」（ステージナタリー） Yahoo!ニュース</description>
       <category>一般</category>
       <source url="https://news.yahoo.co.jp">Yahoo!ニュース</source>
+    </item>
+    <item>
+      <title>［歌手・俳優 井上順さん］難聴（１）耳を酷使して聴力低下 - 読売新聞</title>
+      <link>https://news.google.com/rss/articles/CBMiiAFBVV95cUxOcHZpUlFsRlhLYWl6cExCeGNaOENuRDRXNGRoLVZJUE1WYWUwTWY2bVUzM3VPTVdEQ1VFeU1icFBRVndNeHRrR0VacG9HdUpvcVdEUjRta2UyRDhyNU1MMlRaZU5hVmdjRm1WSV9XNFhjN2daOVV1YU16ZnZreG9mOTdYTjhHN0cy?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiiAFBVV95cUxOcHZpUlFsRlhLYWl6cExCeGNaOENuRDRXNGRoLVZJUE1WYWUwTWY2bVUzM3VPTVdEQ1VFeU1icFBRVndNeHRrR0VacG9HdUpvcVdEUjRta2UyRDhyNU1MMlRaZU5hVmdjRm1WSV9XNFhjN2daOVV1YU16ZnZreG9mOTdYTjhHN0cy?oc=5</guid>
+      <pubDate>Wed, 15 Apr 2026 07:00:00 GMT</pubDate>
+      <description>［歌手・俳優 井上順さん］難聴（１）耳を酷使して聴力低下 読売新聞</description>
+      <category>一般</category>
+      <source url="https://www.yomiuri.co.jp">読売新聞</source>
     </item>
     <item>
       <title>不在の交番相談「手話リンク」で…聴覚障害者らサポートへ導入 - 読売新聞</title>
