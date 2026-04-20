@@ -6,7 +6,7 @@
     <atom:link href="https://tamas-hub.github.io/deaf-navi-web/feed.xml" rel="self" type="application/rss+xml" />
     <description>聴覚障害・難聴・ろう者コミュニティ向けに、全日本ろうあ連盟や主要報道機関から最新ニュースを厳選。制度・政策・医療・教育・地域情報を毎時自動更新するキュレーションサイト。手話・情報保障・補聴器・人工内耳・手話言語条例など幅広いテーマをカバー。</description>
     <language>ja-JP</language>
-    <lastBuildDate>Mon, 20 Apr 2026 09:58:59 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 20 Apr 2026 11:26:36 GMT</lastBuildDate>
     <ttl>60</ttl>
     <item>
       <title>基礎から手話を学ぶ 入門講座の参加者募集〈大和市〉 - ｄメニューニュース</title>
@@ -185,15 +185,6 @@
       <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiiAFBVV95cUxQSktmS21faE1QWG9zSlhYRklOMDIwdUxDNHhhVFZIX2thTlZUaFpoR18wWklBY1lmWXl1ODhzeXl4b1BjRVVvS2ZzSkk5MmxnYmRLd0lKOGVhRXRuN3lkMUxrcnJ4ajF2elc5dmdkcTFtdTRCcGlLdWg0Y0wwZXQ2dmNmUjM2X3Nu?oc=5</guid>
       <pubDate>Sun, 19 Apr 2026 02:01:25 GMT</pubDate>
       <description>考え方も境遇も異なる、20代ろう者３人のリアルな胸の内を。彼らを取り巻く環境の現状について（水上賢治） - エキスパート Yahoo!ニュース</description>
-      <category>一般</category>
-      <source url="https://news.yahoo.co.jp">Yahoo!ニュース</source>
-    </item>
-    <item>
-      <title>「ミス着物」平嶋萌宇さんは手話の使い手…「手話言語アナウンサー」目指す２２歳（読売新聞オンライン） - Yahoo!ニュース</title>
-      <link>https://news.google.com/rss/articles/CBMif0FVX3lxTE4wQm9lOGxzbnM3bmRtcU12TlZGMGNrbUxRYWF0cWVGMEx1N3RWc0V3RWhvTFlkR0VaYUZuSG5LSU1yUW9aa08tc3daU1VWQ25oMy0zaWxxSFNaLXUwSjNFdUVzVnM1Q1JhdF9UdUZIUnh0NF9RcERld3hWNmtlLVk?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMif0FVX3lxTE4wQm9lOGxzbnM3bmRtcU12TlZGMGNrbUxRYWF0cWVGMEx1N3RWc0V3RWhvTFlkR0VaYUZuSG5LSU1yUW9aa08tc3daU1VWQ25oMy0zaWxxSFNaLXUwSjNFdUVzVnM1Q1JhdF9UdUZIUnh0NF9RcERld3hWNmtlLVk?oc=5</guid>
-      <pubDate>Sat, 18 Apr 2026 02:32:21 GMT</pubDate>
-      <description>「ミス着物」平嶋萌宇さんは手話の使い手…「手話言語アナウンサー」目指す２２歳（読売新聞オンライン） Yahoo!ニュース</description>
       <category>一般</category>
       <source url="https://news.yahoo.co.jp">Yahoo!ニュース</source>
     </item>
@@ -378,6 +369,15 @@
       <source url="https://www.sakigake.jp">秋田魁新報電子版</source>
     </item>
     <item>
+      <title>夢への道のり「必ず力になる」 デフサッカー日本代表・松元選手、秋田市で講演 - 47NEWS</title>
+      <link>https://news.google.com/rss/articles/CBMiS0FVX3lxTE5nRzBUSTEyNzBJSXotWmhTMy1McGNvazdqTEJ2MkRQMmdqZ0tRMFpLbnRxeVIzeGhlMTEwem9LRi1HTDV1WWR0ZjZYdw?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiS0FVX3lxTE5nRzBUSTEyNzBJSXotWmhTMy1McGNvazdqTEJ2MkRQMmdqZ0tRMFpLbnRxeVIzeGhlMTEwem9LRi1HTDV1WWR0ZjZYdw?oc=5</guid>
+      <pubDate>Fri, 17 Apr 2026 00:30:00 GMT</pubDate>
+      <description>夢への道のり「必ず力になる」 デフサッカー日本代表・松元選手、秋田市で講演 47NEWS</description>
+      <category>デフスポーツ</category>
+      <source url="https://www.47news.jp">47NEWS</source>
+    </item>
+    <item>
       <title>手話で対話し、ケアする介護福祉士に私がなった理由。 聴覚障害者専用の老人ホーム「あすらや荘」（広島県呉市）</title>
       <link>https://co-coco.jp/series/hataraku/miki_oobayashi/</link>
       <guid isPermaLink="true">https://co-coco.jp/series/hataraku/miki_oobayashi/</guid>
@@ -414,15 +414,6 @@
       <source url="https://www.nikkei.com">日本経済新聞</source>
     </item>
     <item>
-      <title>白井出身のデフ陸上選手・田井さん 母校の中学で講演 千葉 [千葉県] - 朝日新聞</title>
-      <link>https://news.google.com/rss/articles/CBMiakFVX3lxTE8zU0J5eWdWTkc3SFltaEs0WWo2ZVBaZmNjWHYzQ1A2YTFJcmFibDRKSWdxVFZDejJkNGFxZDlMWFpfM1hQWDlWTnZ1N3hycl9wNUdJMDIyVEtEUVFMS2hEQjg1OHZSSTE0eWc?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiakFVX3lxTE8zU0J5eWdWTkc3SFltaEs0WWo2ZVBaZmNjWHYzQ1A2YTFJcmFibDRKSWdxVFZDejJkNGFxZDlMWFpfM1hQWDlWTnZ1N3hycl9wNUdJMDIyVEtEUVFMS2hEQjg1OHZSSTE0eWc?oc=5</guid>
-      <pubDate>Thu, 16 Apr 2026 11:13:49 GMT</pubDate>
-      <description>白井出身のデフ陸上選手・田井さん 母校の中学で講演 千葉 [千葉県] 朝日新聞</description>
-      <category>デフスポーツ</category>
-      <source url="https://www.asahi.com">朝日新聞</source>
-    </item>
-    <item>
       <title>スマホ難聴の認知率は42％、イヤホン・ヘッドホン難聴は56％ 使用頻度の高い若い年代ほど認知率は低い - PR TIMES</title>
       <link>https://news.google.com/rss/articles/CBMiakFVX3lxTE13WmJac3I1UFZscDFVMTlfLU5WWW00bEhOVFpVMVc2OW9wOEhWRDFXVEJLWTB1eUpBRjBtQWtSUS01dkNSM245MGh3NEVRQ056WEFvTkZNekNmVlgyaEpjWXJlN3FxSzY3cmc?oc=5</link>
       <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiakFVX3lxTE13WmJac3I1UFZscDFVMTlfLU5WWW00bEhOVFpVMVc2OW9wOEhWRDFXVEJLWTB1eUpBRjBtQWtSUS01dkNSM245MGh3NEVRQ056WEFvTkZNekNmVlgyaEpjWXJlN3FxSzY3cmc?oc=5</guid>
@@ -457,6 +448,15 @@
       <description>聞こえの処方箋（しょうほうせん） 難聴対策 超高齢社会の課題 岐阜新聞デジタル</description>
       <category>一般</category>
       <source url="https://www.gifu-np.co.jp">岐阜新聞デジタル</source>
+    </item>
+    <item>
+      <title>【チラシ訂正のお知らせ】 / 手話でつながる医療・福祉連携 ー“伝わらない”を見逃さないー - クラウドファンディング READYFOR - クラウドファンディング - READYFOR</title>
+      <link>https://news.google.com/rss/articles/CBMiZ0FVX3lxTE54RXl5SVhkR1hyWE1uR0o5Zjc1ZTYxTlN6NlJkVzNHZFhQT0g3dmRxMVJYV2RKNHhzWjRkRTN6WXFWY0d2b2RvLWpDNWoxcmFMTnFBZU5rV1ZDSF82S28tZGhrMmpYd3M?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiZ0FVX3lxTE54RXl5SVhkR1hyWE1uR0o5Zjc1ZTYxTlN6NlJkVzNHZFhQT0g3dmRxMVJYV2RKNHhzWjRkRTN6WXFWY0d2b2RvLWpDNWoxcmFMTnFBZU5rV1ZDSF82S28tZGhrMmpYd3M?oc=5</guid>
+      <pubDate>Wed, 15 Apr 2026 14:14:13 GMT</pubDate>
+      <description>【チラシ訂正のお知らせ】 / 手話でつながる医療・福祉連携 ー“伝わらない”を見逃さないー - クラウドファンディング READYFOR クラウドファンディング - READYFOR</description>
+      <category>医療</category>
+      <source url="https://readyfor.jp">クラウドファンディング - READYFOR</source>
     </item>
   </channel>
 </rss>
