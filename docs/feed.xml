@@ -6,7 +6,7 @@
     <atom:link href="https://tamas-hub.github.io/deaf-navi-web/feed.xml" rel="self" type="application/rss+xml" />
     <description>聴覚障害・難聴・ろう者コミュニティ向けに、全日本ろうあ連盟や主要報道機関から最新ニュースを厳選。制度・政策・医療・教育・地域情報を毎時自動更新するキュレーションサイト。手話・情報保障・補聴器・人工内耳・手話言語条例など幅広いテーマをカバー。</description>
     <language>ja-JP</language>
-    <lastBuildDate>Tue, 21 Apr 2026 11:08:07 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 21 Apr 2026 13:29:14 GMT</lastBuildDate>
     <ttl>60</ttl>
     <item>
       <title>気持ちを伝える架け橋に 小城の有志、コミュニケーションボード制作 簡単な言葉、イラストで聴覚障害者や外国人支援へ - 佐賀新聞</title>
@@ -61,24 +61,6 @@
       <description>第2子の準備中に突発性難聴...ペ・ギソン「人工内耳手術を受けるかもしれない」(『朝鮮の愛妻家』) 매일경제</description>
       <category>医療</category>
       <source url="https://www.mk.co.kr">매일경제</source>
-    </item>
-    <item>
-      <title>基礎から手話を学ぶ 入門講座の参加者募集〈大和市〉 - ｄメニューニュース</title>
-      <link>https://news.google.com/rss/articles/CBMie0FVX3lxTE52Z3FyVVBzaEwyeTIzSkVZZHNlazllVkU1NkxsSG8wZDQ4ak9FaEs1bDgza1pWOTJpNm1TT1d1VWVKMUVJRnMtRFhGclhrbU1wV1NfYU1GbllnRVY5YzBhQXZjeDctakRVeG9zUGg5bDh5Vm93NUNRQV9yONIBgAFBVV95cUxOVGtXX1pkeEhSbzBBbEJHMmpaM3ZtekRMXzB5aTgtdHR4ZXdhZTB0Mm5QRmh5dEVXakg1dVNRWXpoRjAwTkpnekR4Vl8tQjVOeHJPdTBGdUE3UEdqc0F6R0lld0Mta1hXcU1ibTBVN0tIWUNJOEdMbXpBOVJFWHBDeg?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMie0FVX3lxTE52Z3FyVVBzaEwyeTIzSkVZZHNlazllVkU1NkxsSG8wZDQ4ak9FaEs1bDgza1pWOTJpNm1TT1d1VWVKMUVJRnMtRFhGclhrbU1wV1NfYU1GbllnRVY5YzBhQXZjeDctakRVeG9zUGg5bDh5Vm93NUNRQV9yONIBgAFBVV95cUxOVGtXX1pkeEhSbzBBbEJHMmpaM3ZtekRMXzB5aTgtdHR4ZXdhZTB0Mm5QRmh5dEVXakg1dVNRWXpoRjAwTkpnekR4Vl8tQjVOeHJPdTBGdUE3UEdqc0F6R0lld0Mta1hXcU1ibTBVN0tIWUNJOEdMbXpBOVJFWHBDeg?oc=5</guid>
-      <pubDate>Mon, 20 Apr 2026 09:00:00 GMT</pubDate>
-      <description>基礎から手話を学ぶ 入門講座の参加者募集〈大和市〉 ｄメニューニュース</description>
-      <category>地域</category>
-      <source url="https://topics.smt.docomo.ne.jp">ｄメニューニュース</source>
-    </item>
-    <item>
-      <title>美幌で手話体験イベント 26日、おいで家具でワークショップ - 北海道新聞デジタル</title>
-      <link>https://news.google.com/rss/articles/CBMiWkFVX3lxTE9MYlhvSzgzel84ODl2emNTWWc4WmZDZXk0NXNGTksyZldKcDhNZ21IWHNxR2FLNTRhYkFsa182aUx5VXd0V0V3bzlLeElFQUN4M05nbHpaVWo0dw?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiWkFVX3lxTE9MYlhvSzgzel84ODl2emNTWWc4WmZDZXk0NXNGTksyZldKcDhNZ21IWHNxR2FLNTRhYkFsa182aUx5VXd0V0V3bzlLeElFQUN4M05nbHpaVWo0dw?oc=5</guid>
-      <pubDate>Mon, 20 Apr 2026 08:36:14 GMT</pubDate>
-      <description>美幌で手話体験イベント 26日、おいで家具でワークショップ 北海道新聞デジタル</description>
-      <category>地域</category>
-      <source url="https://www.hokkaido-np.co.jp">北海道新聞デジタル</source>
     </item>
     <item>
       <title>令和8年度手話奉仕員養成講習会（入門講座）受講生募集中! - town.kushiro.lg.jp</title>
@@ -144,13 +126,13 @@
       <source url="https://news.yahoo.co.jp">Yahoo!ニュース</source>
     </item>
     <item>
-      <title>手話ができるおまわりさん、胸に黄色いバッジ 巡回中の出会いが契機 - 朝日新聞</title>
-      <link>https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9oWlotUUdJOU52OEJqRXV0RXc3R0x5XzhtX09ya25UMWtyNHc2SjRzdUFTdUxJWFZsV1RmMjZjVjNSeGU4c3k4eWRpbVJvZHVfbU0zVGF6TkFORHJDWjBtSDhSLVBDRlU?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9oWlotUUdJOU52OEJqRXV0RXc3R0x5XzhtX09ya25UMWtyNHc2SjRzdUFTdUxJWFZsV1RmMjZjVjNSeGU4c3k4eWRpbVJvZHVfbU0zVGF6TkFORHJDWjBtSDhSLVBDRlU?oc=5</guid>
-      <pubDate>Sun, 19 Apr 2026 21:50:00 GMT</pubDate>
-      <description>手話ができるおまわりさん、胸に黄色いバッジ 巡回中の出会いが契機 朝日新聞</description>
+      <title>ろう者と家族 理解深めて 「ぼくが生きてる、ふたつの世界」 来月16日 松任で映画上映会 収益、介助施設建設費に - 中日新聞Web</title>
+      <link>https://news.google.com/rss/articles/CBMiVEFVX3lxTE53cTVzRlA3VVNGem01ZnJJX1B0N0J5YkpsTnRWUUEwOU12NjBZa3JNcmVuMVU0RHZ6SnNOOExLamQzcDBvTmRiZnhCMVF1RHFwOUJBYg?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiVEFVX3lxTE53cTVzRlA3VVNGem01ZnJJX1B0N0J5YkpsTnRWUUEwOU12NjBZa3JNcmVuMVU0RHZ6SnNOOExLamQzcDBvTmRiZnhCMVF1RHFwOUJBYg?oc=5</guid>
+      <pubDate>Sun, 19 Apr 2026 20:05:40 GMT</pubDate>
+      <description>ろう者と家族 理解深めて 「ぼくが生きてる、ふたつの世界」 来月16日 松任で映画上映会 収益、介助施設建設費に 中日新聞Web</description>
       <category>一般</category>
-      <source url="https://www.asahi.com">朝日新聞</source>
+      <source url="https://www.chunichi.co.jp">中日新聞Web</source>
     </item>
     <item>
       <title>運転免許講習 手話通訳士、7府県警のみ 「予算措置、困難」 毎日新聞アンケート - 毎日新聞</title>
@@ -181,8 +163,8 @@
     </item>
     <item>
       <title>「重度難聴です」医師から告げられた言葉を前に、妊娠中の義父母との会話を思い出していた／音のない子育て③ - ライブドアニュース</title>
-      <link>https://news.google.com/rss/articles/CBMiXkFVX3lxTFBEcUJrZEtIckxqZTBaR0cxMXJmT1JGSmFwNkpWcy10ZV8wbGFmTTRmUVFVUlBKV1BxdF9mRF95eFExRFhzZmtHUllXVTJhVkI3ZkxROVotRmozeEMwZVE?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiXkFVX3lxTFBEcUJrZEtIckxqZTBaR0cxMXJmT1JGSmFwNkpWcy10ZV8wbGFmTTRmUVFVUlBKV1BxdF9mRF95eFExRFhzZmtHUllXVTJhVkI3ZkxROVotRmozeEMwZVE?oc=5</guid>
+      <link>https://news.google.com/rss/articles/CBMiX0FVX3lxTFBmNUZrM3MwOTZOT0tCbnA4OVBtWUVicmRxY0FZWDMzaWtQdkNtak1HNTh0a09mOXB4WHNhR1lCUEdDaE9JY0RJenBoNWFOOW9yMTdURUI4UzFjamRwN3U0?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiX0FVX3lxTFBmNUZrM3MwOTZOT0tCbnA4OVBtWUVicmRxY0FZWDMzaWtQdkNtak1HNTh0a09mOXB4WHNhR1lCUEdDaE9JY0RJenBoNWFOOW9yMTdURUI4UzFjamRwN3U0?oc=5</guid>
       <pubDate>Sun, 19 Apr 2026 10:30:02 GMT</pubDate>
       <description>「重度難聴です」医師から告げられた言葉を前に、妊娠中の義父母との会話を思い出していた／音のない子育て③ ライブドアニュース</description>
       <category>一般</category>
@@ -315,15 +297,6 @@
       <source url="https://news.ntv.co.jp">日テレNEWS NNN</source>
     </item>
     <item>
-      <title>福岡 聴覚障害の平嶋萌宇さんが「ミス着物」受賞を知事に報告 - NHKニュース</title>
-      <link>https://news.google.com/rss/articles/CBMiWEFVX3lxTE5fZ3FVNjdzRUtBV19hYUstRWh2a21QLWJ2akxDZ2FpR0xlOGFHNXl5SURZVzBORDhmLVJYRXJzTTd5eUpjQ0l6SjVFRkZyTDRQYTRpWlk2QWY?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiWEFVX3lxTE5fZ3FVNjdzRUtBV19hYUstRWh2a21QLWJ2akxDZ2FpR0xlOGFHNXl5SURZVzBORDhmLVJYRXJzTTd5eUpjQ0l6SjVFRkZyTDRQYTRpWlk2QWY?oc=5</guid>
-      <pubDate>Fri, 17 Apr 2026 08:02:00 GMT</pubDate>
-      <description>福岡 聴覚障害の平嶋萌宇さんが「ミス着物」受賞を知事に報告 NHKニュース</description>
-      <category>一般</category>
-      <source url="https://news.web.nhk">NHKニュース</source>
-    </item>
-    <item>
       <title>手話で挑戦した「ミス着物」 受賞した大学生（22）が福岡県庁で報告「手話を広めていきたい」（RKB毎日放送） - Yahoo!ニュース</title>
       <link>https://news.google.com/rss/articles/CBMif0FVX3lxTE9TNmc3ajRFSjB5Q0JQckxhM2hHX3RkWTN6X29yWFJXY05WMjk5eXhya2Z3WUowb2hKQnViVUxJZDJ1TTdBa2p2TVhVSlJKOXh1YkdJTGQ4Z0NkbGQ3Vno2bkVwLVhMclhsdDh6ckdmZjZmMzBtUW5FdEZ2bDVoem8?oc=5</link>
       <guid isPermaLink="true">https://news.google.com/rss/articles/CBMif0FVX3lxTE9TNmc3ajRFSjB5Q0JQckxhM2hHX3RkWTN6X29yWFJXY05WMjk5eXhya2Z3WUowb2hKQnViVUxJZDJ1TTdBa2p2TVhVSlJKOXh1YkdJTGQ4Z0NkbGQ3Vno2bkVwLVhMclhsdDh6ckdmZjZmMzBtUW5FdEZ2bDVoem8?oc=5</guid>
@@ -387,24 +360,6 @@
       <source url="https://co-coco.jp/">こここ</source>
     </item>
     <item>
-      <title>夢への道のり「必ず力になる」 デフサッカー日本代表・松元選手、秋田市で講演 - 秋田魁新報電子版</title>
-      <link>https://news.google.com/rss/articles/CBMiYkFVX3lxTE1ydkFEeWJTNFJiaVhzWnhhU1BoSUc4aEgxR1BPbGJLbHBlRFZWQWlLd0NLbWNHT2l5cUJyTnB3Um5aNEJYcU1PNHROWVloNWVxZ2tVeVVFSnN6Z0FoenlwTm5R?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiYkFVX3lxTE1ydkFEeWJTNFJiaVhzWnhhU1BoSUc4aEgxR1BPbGJLbHBlRFZWQWlLd0NLbWNHT2l5cUJyTnB3Um5aNEJYcU1PNHROWVloNWVxZ2tVeVVFSnN6Z0FoenlwTm5R?oc=5</guid>
-      <pubDate>Fri, 17 Apr 2026 00:30:00 GMT</pubDate>
-      <description>夢への道のり「必ず力になる」 デフサッカー日本代表・松元選手、秋田市で講演 秋田魁新報電子版</description>
-      <category>デフスポーツ</category>
-      <source url="https://www.sakigake.jp">秋田魁新報電子版</source>
-    </item>
-    <item>
-      <title>夢への道のり「必ず力になる」 デフサッカー日本代表・松元選手、秋田市で講演 - 47NEWS</title>
-      <link>https://news.google.com/rss/articles/CBMiS0FVX3lxTE5nRzBUSTEyNzBJSXotWmhTMy1McGNvazdqTEJ2MkRQMmdqZ0tRMFpLbnRxeVIzeGhlMTEwem9LRi1HTDV1WWR0ZjZYdw?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiS0FVX3lxTE5nRzBUSTEyNzBJSXotWmhTMy1McGNvazdqTEJ2MkRQMmdqZ0tRMFpLbnRxeVIzeGhlMTEwem9LRi1HTDV1WWR0ZjZYdw?oc=5</guid>
-      <pubDate>Fri, 17 Apr 2026 00:30:00 GMT</pubDate>
-      <description>夢への道のり「必ず力になる」 デフサッカー日本代表・松元選手、秋田市で講演 47NEWS</description>
-      <category>デフスポーツ</category>
-      <source url="https://www.47news.jp">47NEWS</source>
-    </item>
-    <item>
       <title>手話で対話し、ケアする介護福祉士に私がなった理由。 聴覚障害者専用の老人ホーム「あすらや荘」（広島県呉市）</title>
       <link>https://co-coco.jp/series/hataraku/miki_oobayashi/</link>
       <guid isPermaLink="true">https://co-coco.jp/series/hataraku/miki_oobayashi/</guid>
@@ -457,6 +412,51 @@
       <description>スマホ難聴の認知率は42％、イヤホン・ヘッドホン難聴は56％ 使用頻度の高い若い年代ほど認知率は低い PR TIMES</description>
       <category>一般</category>
       <source url="https://prtimes.jp">PR TIMES</source>
+    </item>
+    <item>
+      <title>舞台手話通訳付き公演・音声ガイド付き公演、実施決定！ - 舞台『ハリー・ポッターと呪いの子』</title>
+      <link>https://news.google.com/rss/articles/CBMib0FVX3lxTE8ySFFqQ1YxWnk5eEVGM25rY1FTNl9JNFRMeVRYaTQwbjhaRUcxODBneTM5SDhtU29MU3RHV2tZalZJNGlPNDBsMjJpRTJMNndNMHZfYXp0dHYxYXdPdjdDYUhXb2lGNkluYXBoTTdLMA?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMib0FVX3lxTE8ySFFqQ1YxWnk5eEVGM25rY1FTNl9JNFRMeVRYaTQwbjhaRUcxODBneTM5SDhtU29MU3RHV2tZalZJNGlPNDBsMjJpRTJMNndNMHZfYXp0dHYxYXdPdjdDYUhXb2lGNkluYXBoTTdLMA?oc=5</guid>
+      <pubDate>Thu, 16 Apr 2026 06:06:08 GMT</pubDate>
+      <description>舞台手話通訳付き公演・音声ガイド付き公演、実施決定！ 舞台『ハリー・ポッターと呪いの子』</description>
+      <category>一般</category>
+      <source url="https://www.harrypotter-stage.jp">舞台『ハリー・ポッターと呪いの子』</source>
+    </item>
+    <item>
+      <title>世界初、“成長し続ける”クラウド補聴器※に新モデル登場 - PR TIMES</title>
+      <link>https://news.google.com/rss/articles/CBMiakFVX3lxTFBxWWhDdzVfY0Q3VC13bWc4a3o5MG91bE5sZ0dSenVFQ2VQelBDLVphTFRmZVZ4VF9nZmlCWktzaE11S1dCMFpSNnNFZjN0RzFoX21WYzd6QmI4cFZxRVJmQmlvQ1ZLaWZUQ1E?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiakFVX3lxTFBxWWhDdzVfY0Q3VC13bWc4a3o5MG91bE5sZ0dSenVFQ2VQelBDLVphTFRmZVZ4VF9nZmlCWktzaE11S1dCMFpSNnNFZjN0RzFoX21WYzd6QmI4cFZxRVJmQmlvQ1ZLaWZUQ1E?oc=5</guid>
+      <pubDate>Thu, 16 Apr 2026 02:00:02 GMT</pubDate>
+      <description>世界初、“成長し続ける”クラウド補聴器※に新モデル登場 PR TIMES</description>
+      <category>医療</category>
+      <source url="https://prtimes.jp">PR TIMES</source>
+    </item>
+    <item>
+      <title>手探りで耳を育てる 手話と口話行き来も本人の普通 音と向き合い発見次々 - 沖縄タイムス社</title>
+      <link>https://news.google.com/rss/articles/CBMiXkFVX3lxTFAyRWtxbkgyWE0zaVhFeGF5eHE1QTFkRTI3TkhNd0o4ZF9UMFFsR1pscmlEcTUwOW0yTy1BZWpVTDBzcEhHbWN5Nnc3MmItcDJPTnVyamRrcE1CTFZvcUE?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiXkFVX3lxTFAyRWtxbkgyWE0zaVhFeGF5eHE1QTFkRTI3TkhNd0o4ZF9UMFFsR1pscmlEcTUwOW0yTy1BZWpVTDBzcEhHbWN5Nnc3MmItcDJPTnVyamRrcE1CTFZvcUE?oc=5</guid>
+      <pubDate>Wed, 15 Apr 2026 22:11:00 GMT</pubDate>
+      <description>手探りで耳を育てる 手話と口話行き来も本人の普通 音と向き合い発見次々 沖縄タイムス社</description>
+      <category>一般</category>
+      <source url="https://www.okinawatimes.co.jp">沖縄タイムス社</source>
+    </item>
+    <item>
+      <title>【チラシ訂正のお知らせ】 / 手話でつながる医療・福祉連携 ー“伝わらない”を見逃さないー - クラウドファンディング READYFOR - クラウドファンディング - READYFOR</title>
+      <link>https://news.google.com/rss/articles/CBMiZ0FVX3lxTE54RXl5SVhkR1hyWE1uR0o5Zjc1ZTYxTlN6NlJkVzNHZFhQT0g3dmRxMVJYV2RKNHhzWjRkRTN6WXFWY0d2b2RvLWpDNWoxcmFMTnFBZU5rV1ZDSF82S28tZGhrMmpYd3M?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiZ0FVX3lxTE54RXl5SVhkR1hyWE1uR0o5Zjc1ZTYxTlN6NlJkVzNHZFhQT0g3dmRxMVJYV2RKNHhzWjRkRTN6WXFWY0d2b2RvLWpDNWoxcmFMTnFBZU5rV1ZDSF82S28tZGhrMmpYd3M?oc=5</guid>
+      <pubDate>Wed, 15 Apr 2026 14:14:13 GMT</pubDate>
+      <description>【チラシ訂正のお知らせ】 / 手話でつながる医療・福祉連携 ー“伝わらない”を見逃さないー - クラウドファンディング READYFOR クラウドファンディング - READYFOR</description>
+      <category>医療</category>
+      <source url="https://readyfor.jp">クラウドファンディング - READYFOR</source>
+    </item>
+    <item>
+      <title>第23回全国デフバスケットボール大会（九州ミミリーグ）事業報告</title>
+      <link>https://jdba.jp/jdba/6846/</link>
+      <guid isPermaLink="true">https://jdba.jp/jdba/6846/</guid>
+      <pubDate>Wed, 15 Apr 2026 12:50:43 GMT</pubDate>
+      <description>第23回全国デフバスケットボール大会（九州ミミリーグ）を熊本県にて開催いたしました。 本大会は、参加者同士の交流と親睦を促進、日本代表の発掘を目的として実施し、九州から多くの選手・関係者にご参加いただきました。 大会では […]</description>
+      <category>デフスポーツ</category>
+      <source url="https://jdba.sakura.ne.jp/">日本デフバスケットボール協会</source>
     </item>
   </channel>
 </rss>
