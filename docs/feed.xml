@@ -6,7 +6,7 @@
     <atom:link href="https://tamas-hub.github.io/deaf-navi-web/feed.xml" rel="self" type="application/rss+xml" />
     <description>聴覚障害・難聴・ろう者コミュニティ向けに、全日本ろうあ連盟や主要報道機関から最新ニュースを厳選。制度・政策・医療・教育・地域情報を毎時自動更新するキュレーションサイト。手話・情報保障・補聴器・人工内耳・手話言語条例など幅広いテーマをカバー。</description>
     <language>ja-JP</language>
-    <lastBuildDate>Tue, 21 Apr 2026 20:54:26 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 21 Apr 2026 21:46:38 GMT</lastBuildDate>
     <ttl>60</ttl>
     <item>
       <title>［ことばをみせて 聞こえにくさと生きる］（15） 訳し方 当事者目線で 手話はろう者の「命」 川上恵さん編 （下）＝ろう通訳者 - 沖縄タイムス社</title>
@@ -90,6 +90,15 @@
       <source url="https://morioka.keizai.biz">盛岡経済新聞</source>
     </item>
     <item>
+      <title>障害者の日を迎えて手話で挨拶する国民の力の指導部 - 매일경제</title>
+      <link>https://news.google.com/rss/articles/CBMiU0FVX3lxTE4tRUNTY0haUUgzZy1uc0t6MXREcXNEVUxWaEcxY3FiQm9oOHlReHRXS3hYQXNDbWdZNHFldWFlR1dUWkZYMnZQYzZQRGtKV3lHamhF?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiU0FVX3lxTE4tRUNTY0haUUgzZy1uc0t6MXREcXNEVUxWaEcxY3FiQm9oOHlReHRXS3hYQXNDbWdZNHFldWFlR1dUWkZYMnZQYzZQRGtKV3lHamhF?oc=5</guid>
+      <pubDate>Mon, 20 Apr 2026 00:30:04 GMT</pubDate>
+      <description>障害者の日を迎えて手話で挨拶する国民の力の指導部 매일경제</description>
+      <category>一般</category>
+      <source url="https://www.mk.co.kr">매일경제</source>
+    </item>
+    <item>
       <title>全国の福祉施設でつくられたプロダクトを販売する〈ここことか〉。新年度が楽しくなる文房具屋、Tシャツなどが勢揃い！</title>
       <link>https://co-coco.jp/series/cococotoka/05_202604-07/</link>
       <guid isPermaLink="true">https://co-coco.jp/series/cococotoka/05_202604-07/</guid>
@@ -153,15 +162,6 @@
       <source url="https://natalie.mu">ナタリー</source>
     </item>
     <item>
-      <title>白井出身のデフ陸上選手・田井さん 母校の中学で講演 千葉 [千葉県] - 朝日新聞</title>
-      <link>https://news.google.com/rss/articles/CBMiakFVX3lxTE13RjhJbFlCMi0xRnR5Q3lGLUpveHZaZkVLNmlNOG9GN3UwOTk2Ym9XZWJhZWNpQ19VQ3J3WTRsU05vYnZ4LXRmNV80cHhYYXZfdDNHQmlhcnUyQ01iSFBYX21STUFreWVfdVE?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiakFVX3lxTE13RjhJbFlCMi0xRnR5Q3lGLUpveHZaZkVLNmlNOG9GN3UwOTk2Ym9XZWJhZWNpQ19VQ3J3WTRsU05vYnZ4LXRmNV80cHhYYXZfdDNHQmlhcnUyQ01iSFBYX21STUFreWVfdVE?oc=5</guid>
-      <pubDate>Sun, 19 Apr 2026 05:18:38 GMT</pubDate>
-      <description>白井出身のデフ陸上選手・田井さん 母校の中学で講演 千葉 [千葉県] 朝日新聞</description>
-      <category>デフスポーツ</category>
-      <source url="https://www.asahi.com">朝日新聞</source>
-    </item>
-    <item>
       <title>「認知症の世界」を歩けたら？ 話題の書籍から生まれた体験型展示、GWに鎌倉で開催！（神奈川県）</title>
       <link>https://co-coco.jp/news/ninchisyosekaiten/</link>
       <guid isPermaLink="true">https://co-coco.jp/news/ninchisyosekaiten/</guid>
@@ -178,15 +178,6 @@
       <description>考え方も境遇も異なる、20代ろう者３人のリアルな胸の内を。彼らを取り巻く環境の現状について（水上賢治） - エキスパート Yahoo!ニュース</description>
       <category>一般</category>
       <source url="https://news.yahoo.co.jp">Yahoo!ニュース</source>
-    </item>
-    <item>
-      <title>【第3回全国高校生手話パフォーマンス甲子園】松本若菜さんの応援メッセージ [55c0c1] - Fathom Journal</title>
-      <link>https://news.google.com/rss/articles/CBMicEFVX3lxTE8xcGJ2UHkzR2dfeU1uczI5dnY4U29ITHlfVENMc19pelBPOWt0OE55b1NINGtnYmZhaUoxdUhMVnByQ1Bldk0tVUZXaE1YTkFzcWVBS2xxdlVuT0lxZ3Z2MG9CVURNa1o0RVBrbFpDak0?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMicEFVX3lxTE8xcGJ2UHkzR2dfeU1uczI5dnY4U29ITHlfVENMc19pelBPOWt0OE55b1NINGtnYmZhaUoxdUhMVnByQ1Bldk0tVUZXaE1YTkFzcWVBS2xxdlVuT0lxZ3Z2MG9CVURNa1o0RVBrbFpDak0?oc=5</guid>
-      <pubDate>Sat, 18 Apr 2026 20:22:45 GMT</pubDate>
-      <description>【第3回全国高校生手話パフォーマンス甲子園】松本若菜さんの応援メッセージ [55c0c1] Fathom Journal</description>
-      <category>文化・芸能</category>
-      <source url="https://fathomjournal.org">Fathom Journal</source>
     </item>
     <item>
       <title>「ミス着物」平嶋萌宇さんは手話の使い手…「手話言語アナウンサー」目指す２２歳（読売新聞オンライン） - Yahoo!ニュース</title>
@@ -424,29 +415,11 @@
     </item>
     <item>
       <title>不在の交番相談「手話リンク」で…聴覚障害者らサポートへ導入 - 読売新聞</title>
-      <link>https://news.google.com/rss/articles/CBMilgFBVV95cUxPVVhYNTgwYms2OGNudVlEdG5WcFBRMWFRY0JoZmlCM0VhTl8xUzUwckZOdE1WeFNERHRFNmN2a0Z1WDh1UzY3NFpGTEhsay15T3AtcXprUEZFTzFBQi15aGpZY2kwRW12aXBIZFBjeF9OM0t5bFEtc1VISEdFYlJNVmxFUXNITWNUaEE4Nk1mZXJ0aEloQmc?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMilgFBVV95cUxPVVhYNTgwYms2OGNudVlEdG5WcFBRMWFRY0JoZmlCM0VhTl8xUzUwckZOdE1WeFNERHRFNmN2a0Z1WDh1UzY3NFpGTEhsay15T3AtcXprUEZFTzFBQi15aGpZY2kwRW12aXBIZFBjeF9OM0t5bFEtc1VISEdFYlJNVmxFUXNITWNUaEE4Nk1mZXJ0aEloQmc?oc=5</guid>
-      <pubDate>Wed, 15 Apr 2026 07:00:00 GMT</pubDate>
-      <description>不在の交番相談「手話リンク」で…聴覚障害者らサポートへ導入 読売新聞</description>
-      <category>一般</category>
-      <source url="https://www.yomiuri.co.jp">読売新聞</source>
-    </item>
-    <item>
-      <title>不在の交番相談「手話リンク」で…聴覚障害者らサポートへ導入 - 読売新聞</title>
       <link>https://news.google.com/rss/articles/CBMilgFBVV95cUxQb3BEVW1lTUsxYUpXVTIwdVpZbFVWNVhMZnNRZmlPbWhpVnNLQlo1dC0zSmxXWFFXX2xqcW05cFJKYXdNX3lRbmJlYlh3anZReHREN1pnbm9iQVhFZndiWnBFa3NsYkpLUEJrRmRxbUI5cXk5aGFzdDlQWjRJb1NHeG14SzJUMDBQX1E0NS00c1FmTWxPN3c?oc=5</link>
       <guid isPermaLink="true">https://news.google.com/rss/articles/CBMilgFBVV95cUxQb3BEVW1lTUsxYUpXVTIwdVpZbFVWNVhMZnNRZmlPbWhpVnNLQlo1dC0zSmxXWFFXX2xqcW05cFJKYXdNX3lRbmJlYlh3anZReHREN1pnbm9iQVhFZndiWnBFa3NsYkpLUEJrRmRxbUI5cXk5aGFzdDlQWjRJb1NHeG14SzJUMDBQX1E0NS00c1FmTWxPN3c?oc=5</guid>
       <pubDate>Wed, 15 Apr 2026 07:00:00 GMT</pubDate>
       <description>不在の交番相談「手話リンク」で…聴覚障害者らサポートへ導入 読売新聞</description>
       <category>一般</category>
-      <source url="https://www.yomiuri.co.jp">読売新聞</source>
-    </item>
-    <item>
-      <title>応急手当て手話で学んで…聴覚障害者に「普及員」資格の講習、消防署が実施 - 読売新聞</title>
-      <link>https://news.google.com/rss/articles/CBMiZkFVX3lxTFBrWVdudzNmZ3pnaUJmUWlYbjJVRGNlUFZ2cUh4NVk1bW9TQnVXeld5dHNfQWpZY2kzMkpCQ1luRHR3UzFTRVNDYjJGcjNwYUpoRmtrUGN5OEN4akltbUZNeWJRZmlEdw?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiZkFVX3lxTFBrWVdudzNmZ3pnaUJmUWlYbjJVRGNlUFZ2cUh4NVk1bW9TQnVXeld5dHNfQWpZY2kzMkpCQ1luRHR3UzFTRVNDYjJGcjNwYUpoRmtrUGN5OEN4akltbUZNeWJRZmlEdw?oc=5</guid>
-      <pubDate>Wed, 15 Apr 2026 07:00:00 GMT</pubDate>
-      <description>応急手当て手話で学んで…聴覚障害者に「普及員」資格の講習、消防署が実施 読売新聞</description>
-      <category>制度・政策</category>
       <source url="https://www.yomiuri.co.jp">読売新聞</source>
     </item>
     <item>
@@ -457,6 +430,33 @@
       <description>聴覚障害者の権利保護 読売新聞</description>
       <category>一般</category>
       <source url="https://www.yomiuri.co.jp">読売新聞</source>
+    </item>
+    <item>
+      <title>小田急が「手話リンク」を導入 開成、栢山、富水、螢田、足柄など16駅で実施 - 小田原箱根経済新聞</title>
+      <link>https://news.google.com/rss/articles/CBMiX0FVX3lxTFBZUFRUdldDcUxqcncyWC15bm5FZEpNZkJ1QkhjVktYbm9HODJyLV8yYmwxTm1fcDAtQ2ZDRUdIQm5fM1FFU1BfUkZyZWR3WW85aVhfOFFsSlhkd2E4MEFR?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiX0FVX3lxTFBZUFRUdldDcUxqcncyWC15bm5FZEpNZkJ1QkhjVktYbm9HODJyLV8yYmwxTm1fcDAtQ2ZDRUdIQm5fM1FFU1BfUkZyZWR3WW85aVhfOFFsSlhkd2E4MEFR?oc=5</guid>
+      <pubDate>Wed, 15 Apr 2026 05:36:16 GMT</pubDate>
+      <description>小田急が「手話リンク」を導入 開成、栢山、富水、螢田、足柄など16駅で実施 小田原箱根経済新聞</description>
+      <category>一般</category>
+      <source url="https://odawara-hakone.keizai.biz">小田原箱根経済新聞</source>
+    </item>
+    <item>
+      <title>小田急、１６駅に手話リンク導入 駅員不在時にスマホで対応 - カナロコ</title>
+      <link>https://news.google.com/rss/articles/CBMiaEFVX3lxTE8zMW5QWklSUTBqVE9ubC1vbElUOHRvTkM1dThSUXlNTFdpWE53WDVJUklwUnJETzlseTZ4Q2M2V1pRTUhPNlFoQWNnczRDanJBQXpVTHpIcTVDaFdDT0VLVlVFVmlfU3Bo?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiaEFVX3lxTE8zMW5QWklSUTBqVE9ubC1vbElUOHRvTkM1dThSUXlNTFdpWE53WDVJUklwUnJETzlseTZ4Q2M2V1pRTUhPNlFoQWNnczRDanJBQXpVTHpIcTVDaFdDT0VLVlVFVmlfU3Bo?oc=5</guid>
+      <pubDate>Wed, 15 Apr 2026 00:10:00 GMT</pubDate>
+      <description>小田急、１６駅に手話リンク導入 駅員不在時にスマホで対応 カナロコ</description>
+      <category>一般</category>
+      <source url="https://www.kanaloco.jp">カナロコ</source>
+    </item>
+    <item>
+      <title>毎月第3水曜日は「手話推進の日(4月15日)」 - city.itoman.lg.jp</title>
+      <link>https://news.google.com/rss/articles/CBMiYEFVX3lxTFBuUDFTUTFKQmRIR1Z6VkZ2ZGlicEs0R3ZzR3ZjS1hOTEhrMC1aMnQ5RHQ4eGlJSkY4MktmQmFKcm5HRTN5V1Q1NzFncHhrZV9jNkx1SkN5MkNJcFUxaTlFRg?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiYEFVX3lxTFBuUDFTUTFKQmRIR1Z6VkZ2ZGlicEs0R3ZzR3ZjS1hOTEhrMC1aMnQ5RHQ4eGlJSkY4MktmQmFKcm5HRTN5V1Q1NzFncHhrZV9jNkx1SkN5MkNJcFUxaTlFRg?oc=5</guid>
+      <pubDate>Tue, 14 Apr 2026 17:39:35 GMT</pubDate>
+      <description>毎月第3水曜日は「手話推進の日(4月15日)」 city.itoman.lg.jp</description>
+      <category>一般</category>
+      <source url="https://www.city.itoman.lg.jp">city.itoman.lg.jp</source>
     </item>
   </channel>
 </rss>
