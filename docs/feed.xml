@@ -6,7 +6,7 @@
     <atom:link href="https://tamas-hub.github.io/deaf-navi-web/feed.xml" rel="self" type="application/rss+xml" />
     <description>聴覚障害・難聴・ろう者コミュニティ向けに、全日本ろうあ連盟や主要報道機関から最新ニュースを厳選。制度・政策・医療・教育・地域情報を毎時自動更新するキュレーションサイト。手話・情報保障・補聴器・人工内耳・手話言語条例など幅広いテーマをカバー。</description>
     <language>ja-JP</language>
-    <lastBuildDate>Wed, 22 Apr 2026 09:21:45 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 22 Apr 2026 11:06:31 GMT</lastBuildDate>
     <ttl>60</ttl>
     <item>
       <title>誰にでも起こりえる「加齢性難聴」。 - 選挙ドットコム</title>
@@ -180,6 +180,24 @@
       <source url="https://www.okinawatimes.co.jp">沖縄タイムス社</source>
     </item>
     <item>
+      <title>デフリンピックメダル獲得３選手 岡山県がスポーツ特別顕賞 - 山陽新聞デジタル｜さんデジ</title>
+      <link>https://news.google.com/rss/articles/CBMiUkFVX3lxTE0tWGNWV25QM1p4bTM1QzJYWkpNUnJmWmF5WDg2MTl0TU1iRktMaDdReTV4OE02QU9zTUdVZFFPT2lIS280QkVtV3dRWWRCTklIb0E?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiUkFVX3lxTE0tWGNWV25QM1p4bTM1QzJYWkpNUnJmWmF5WDg2MTl0TU1iRktMaDdReTV4OE02QU9zTUdVZFFPT2lIS280QkVtV3dRWWRCTklIb0E?oc=5</guid>
+      <pubDate>Mon, 20 Apr 2026 09:29:11 GMT</pubDate>
+      <description>デフリンピックメダル獲得３選手 岡山県がスポーツ特別顕賞 山陽新聞デジタル｜さんデジ</description>
+      <category>デフスポーツ</category>
+      <source url="https://www.sanyonews.jp">山陽新聞デジタル｜さんデジ</source>
+    </item>
+    <item>
+      <title>令和8年度手話奉仕員養成講習会（入門講座）受講生募集中! - town.kushiro.lg.jp</title>
+      <link>https://news.google.com/rss/articles/CBMie0FVX3lxTE5BRTdEZVItb0N0dVhxSHVuMHVVTjZFNUhhcHFPMUNzcU1mR1hvVEIwbDI0NndLSkZWdFJyaVFhRHdoRXhzR1VqS00zUHFnbWN4SmdfLUxJclZta2szWFlqVExRcld5T19Cd1pvMEcySVMzMFV2U1NrZ1RaWQ?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMie0FVX3lxTE5BRTdEZVItb0N0dVhxSHVuMHVVTjZFNUhhcHFPMUNzcU1mR1hvVEIwbDI0NndLSkZWdFJyaVFhRHdoRXhzR1VqS00zUHFnbWN4SmdfLUxJclZta2szWFlqVExRcld5T19Cd1pvMEcySVMzMFV2U1NrZ1RaWQ?oc=5</guid>
+      <pubDate>Mon, 20 Apr 2026 07:32:13 GMT</pubDate>
+      <description>令和8年度手話奉仕員養成講習会（入門講座）受講生募集中! town.kushiro.lg.jp</description>
+      <category>一般</category>
+      <source url="http://www.town.kushiro.lg.jp">town.kushiro.lg.jp</source>
+    </item>
+    <item>
       <title>盛岡から始まった「運転免許裁判」が漫画単行本化 手話劇の台本も - 盛岡経済新聞</title>
       <link>https://news.google.com/rss/articles/CBMiU0FVX3lxTFBoMkFlZmtzS2FfNmNCTU8ybGxrb2V1Mmpic2FudTBfS1k4YlJfRDBtOWVjc2NHRGNCLW1fZE95ZGpVVGY2X3lUY0MydWdYWF9LeFR3?oc=5</link>
       <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiU0FVX3lxTFBoMkFlZmtzS2FfNmNCTU8ybGxrb2V1Mmpic2FudTBfS1k4YlJfRDBtOWVjc2NHRGNCLW1fZE95ZGpVVGY2X3lUY0MydWdYWF9LeFR3?oc=5</guid>
@@ -212,15 +230,6 @@
       <guid isPermaLink="true">https://news.google.com/rss/articles/CBMif0FVX3lxTE1zNG9aZkdhV3RVWTNOUFRBU2REd1dMVUtzdXdnQ2k2dm92YVB5NDNLQ0MzS0JuTnV5Z3J0VUVfRV9yS3M0YWV2YlFyM3NPc003RVN6SURocWtGX0tnN1I4WUw5dlh1SUNjUHdhTTVQTk9UNmZBVXROLTU2eXZtTHc?oc=5</guid>
       <pubDate>Sun, 19 Apr 2026 22:00:00 GMT</pubDate>
       <description>手話で万引きや酔っ払いにも対応 都内3カ所に〝手話ができるおまわりさん〟 制度は94年から（withnews by 朝日新聞） Yahoo!ニュース</description>
-      <category>制度・政策</category>
-      <source url="https://news.yahoo.co.jp">Yahoo!ニュース</source>
-    </item>
-    <item>
-      <title>手話で万引きや酔っ払いにも対応 都内3カ所に〝手話ができるおまわりさん〟 制度は94年から (withnews by 朝日新聞) - Yahoo!ニュース</title>
-      <link>https://news.google.com/rss/articles/CBMijgFBVV95cUxOVlZZWjY4MjZLQ0QxYjVRMjU3ejRScjlNeXpkamE2TmtuQ2pEYVcya1B1a1lTRC1rbFV2RTVGQXc2N1lIc2p2UnZOam1OLU1xTDFaUUVwZXlGRmx3bmczNU9KQlBDaWI5ekVBZXBxRkxsY0NYSVF5VmRNWXIwVjJRT01KQUJqUkJteTVMNXVR?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMijgFBVV95cUxOVlZZWjY4MjZLQ0QxYjVRMjU3ejRScjlNeXpkamE2TmtuQ2pEYVcya1B1a1lTRC1rbFV2RTVGQXc2N1lIc2p2UnZOam1OLU1xTDFaUUVwZXlGRmx3bmczNU9KQlBDaWI5ekVBZXBxRkxsY0NYSVF5VmRNWXIwVjJRT01KQUJqUkJteTVMNXVR?oc=5</guid>
-      <pubDate>Sun, 19 Apr 2026 22:00:00 GMT</pubDate>
-      <description>手話で万引きや酔っ払いにも対応 都内3カ所に〝手話ができるおまわりさん〟 制度は94年から (withnews by 朝日新聞) Yahoo!ニュース</description>
       <category>制度・政策</category>
       <source url="https://news.yahoo.co.jp">Yahoo!ニュース</source>
     </item>
@@ -279,13 +288,13 @@
       <source url="https://news.livedoor.com">ライブドアニュース</source>
     </item>
     <item>
-      <title>ろう者と聴者の観客がつながれば、ミリアム・ガルロが「幸せの、忘れもの。」に願い込める（映画ナタリー） - Yahoo!ニュース</title>
-      <link>https://news.google.com/rss/articles/CBMif0FVX3lxTE9oTUl1b0l5emdBZkk5dUtUbW5mbzdidTV5Um9KQ3hTcDRCcUowSkltNGw1WWJSbzlFMzhaeVFTRERZMG9mRFFZUW9GS3c4UUV3c0lEeU5ublpnMW1kQTEtUEQxekxTbGd5ekxGQ3Q2OGd2Rk05NVVoRjNqbFFUdXM?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMif0FVX3lxTE9oTUl1b0l5emdBZkk5dUtUbW5mbzdidTV5Um9KQ3hTcDRCcUowSkltNGw1WWJSbzlFMzhaeVFTRERZMG9mRFFZUW9GS3c4UUV3c0lEeU5ublpnMW1kQTEtUEQxekxTbGd5ekxGQ3Q2OGd2Rk05NVVoRjNqbFFUdXM?oc=5</guid>
-      <pubDate>Sun, 19 Apr 2026 09:30:11 GMT</pubDate>
-      <description>ろう者と聴者の観客がつながれば、ミリアム・ガルロが「幸せの、忘れもの。」に願い込める（映画ナタリー） Yahoo!ニュース</description>
+      <title>ろう者と聴者の観客がつながれば、ミリアム・ガルロが「幸せの、忘れもの。」に願い込める - ナタリー</title>
+      <link>https://news.google.com/rss/articles/CBMiS0FVX3lxTE4zTzdLemZ0dWhpUWZSeWR4RlVVRGZuaXB1QndNRFc1MTNlaDBDMnJWWW1yRk5sUGFWTVJoMWdXcE1TdzF0amE1Nkhydw?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiS0FVX3lxTE4zTzdLemZ0dWhpUWZSeWR4RlVVRGZuaXB1QndNRFc1MTNlaDBDMnJWWW1yRk5sUGFWTVJoMWdXcE1TdzF0amE1Nkhydw?oc=5</guid>
+      <pubDate>Sun, 19 Apr 2026 09:30:00 GMT</pubDate>
+      <description>ろう者と聴者の観客がつながれば、ミリアム・ガルロが「幸せの、忘れもの。」に願い込める ナタリー</description>
       <category>一般</category>
-      <source url="https://news.yahoo.co.jp">Yahoo!ニュース</source>
+      <source url="https://natalie.mu">ナタリー</source>
     </item>
     <item>
       <title>「認知症の世界」を歩けたら？ 話題の書籍から生まれた体験型展示、GWに鎌倉で開催！（神奈川県）</title>
@@ -351,15 +360,6 @@
       <source url="https://www.jfd.or.jp/">全日本ろうあ連盟</source>
     </item>
     <item>
-      <title>手話で喜び表現「長い間の夢。待ちに待った条例で感無量」 三重県四日市市で手話言語条例が施行 - 中日新聞Web</title>
-      <link>https://news.google.com/rss/articles/CBMiVEFVX3lxTE1ULXgtaTRFNzMyNlJfUG5FUjllazdsRmRpZTN1Rmk0SzNwVXd0MXU1NG91NHBXUG80UUtKTU5KOFItNURBYVdUblVSU240OWk3czFkYw?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiVEFVX3lxTE1ULXgtaTRFNzMyNlJfUG5FUjllazdsRmRpZTN1Rmk0SzNwVXd0MXU1NG91NHBXUG80UUtKTU5KOFItNURBYVdUblVSU240OWk3czFkYw?oc=5</guid>
-      <pubDate>Fri, 17 Apr 2026 13:40:00 GMT</pubDate>
-      <description>手話で喜び表現「長い間の夢。待ちに待った条例で感無量」 三重県四日市市で手話言語条例が施行 中日新聞Web</description>
-      <category>制度・政策</category>
-      <source url="https://www.chunichi.co.jp">中日新聞Web</source>
-    </item>
-    <item>
       <title>手話で喜び表現「長い間の夢。待ちに待った条例で感無量」 三重県四日市市で手話言語条例が施行 - 47NEWS</title>
       <link>https://news.google.com/rss/articles/CBMiS0FVX3lxTFBLSG51YzRfZDNfcU9zOHQ1ZlRSNWQ2aVVDUGF1OF8yb05Qbm82SHRvSGo5OFo2N1JwSlhiQ1BpMUVGNHNmd3F1dFprdw?oc=5</link>
       <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiS0FVX3lxTFBLSG51YzRfZDNfcU9zOHQ1ZlRSNWQ2aVVDUGF1OF8yb05Qbm82SHRvSGo5OFo2N1JwSlhiQ1BpMUVGNHNmd3F1dFprdw?oc=5</guid>
@@ -405,15 +405,6 @@
       <source url="https://news.yahoo.co.jp">Yahoo!ニュース</source>
     </item>
     <item>
-      <title>どうすれば安全安心：多量飲酒の男性、加齢性難聴多く - 毎日新聞</title>
-      <link>https://news.google.com/rss/articles/CBMiaEFVX3lxTE1aemlicDgyZEtGYnRiOHlWeC1aY1dVSllSUWhPNERJdC1RSl9hdDRPcHBfekMxU2ZaYmpaTE9Jd0dycG0tODVXZG5yRVFxZldTQnc1QndIdC1qWWtwWFc4UW1PYWZYZmVR?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiaEFVX3lxTE1aemlicDgyZEtGYnRiOHlWeC1aY1dVSllSUWhPNERJdC1RSl9hdDRPcHBfekMxU2ZaYmpaTE9Jd0dycG0tODVXZG5yRVFxZldTQnc1QndIdC1qWWtwWFc4UW1PYWZYZmVR?oc=5</guid>
-      <pubDate>Fri, 17 Apr 2026 04:01:32 GMT</pubDate>
-      <description>どうすれば安全安心：多量飲酒の男性、加齢性難聴多く 毎日新聞</description>
-      <category>一般</category>
-      <source url="https://mainichi.jp">毎日新聞</source>
-    </item>
-    <item>
       <title>50年以上の時を経て注目される、繊細で緻密な「切り絵」作品がついに書籍化！ 制作協力に〈鞆の津ミュージアム〉</title>
       <link>https://co-coco.jp/news/kirienosekai_horio/</link>
       <guid isPermaLink="true">https://co-coco.jp/news/kirienosekai_horio/</guid>
@@ -457,6 +448,15 @@
       <description>一人一人にあるみたい… 10歳で初めて知った私の名前 手話は「自由になれる言葉そのもの」 沖縄タイムス社</description>
       <category>一般</category>
       <source url="https://www.okinawatimes.co.jp">沖縄タイムス社</source>
+    </item>
+    <item>
+      <title>阿南市 手話で問い合わせできる「手話リンク」のサービス開始 - NHKニュース</title>
+      <link>https://news.google.com/rss/articles/CBMiWEFVX3lxTE1vdFJRSFIyVk4tMHBvLUxQUV9Lc28zZ0J5RWY4STJLU2d5MnBmdEExY2xGd1AyVm5kVFc4VDVteFR5eks5dzh6ek9HUTREbHRXM1lxS0xSZlg?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiWEFVX3lxTE1vdFJRSFIyVk4tMHBvLUxQUV9Lc28zZ0J5RWY4STJLU2d5MnBmdEExY2xGd1AyVm5kVFc4VDVteFR5eks5dzh6ek9HUTREbHRXM1lxS0xSZlg?oc=5</guid>
+      <pubDate>Thu, 16 Apr 2026 21:06:00 GMT</pubDate>
+      <description>阿南市 手話で問い合わせできる「手話リンク」のサービス開始 NHKニュース</description>
+      <category>地域</category>
+      <source url="https://news.web.nhk">NHKニュース</source>
     </item>
   </channel>
 </rss>
