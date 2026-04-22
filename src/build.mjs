@@ -34,6 +34,10 @@ const CATEGORY_UI = {
 
 const INITIAL_VISIBLE = 150;
 
+// Cloudflare Web Analytics — cookieless / privacy-friendly
+const CF_ANALYTICS_TOKEN = '6473e8a5f9904585a0f0f17c8a3edfe0';
+const CF_ANALYTICS_SNIPPET = `<script defer src="https://static.cloudflareinsights.com/beacon.min.js" data-cf-beacon='{"token": "${CF_ANALYTICS_TOKEN}"}'></script>`;
+
 function escapeHtml(s) {
   return String(s)
     .replace(/&/g, '&amp;')
@@ -231,6 +235,8 @@ function renderPage({ generatedAt, count, articles }) {
   <link rel="stylesheet" href="./styles.css">
 
   ${jsonLd}
+
+  ${CF_ANALYTICS_SNIPPET}
 </head>
 <body>
   <a class="skip-link" href="#main">メインコンテンツにスキップ</a>
@@ -356,6 +362,8 @@ function renderAboutPage() {
   <script type="application/ld+json">
 ${JSON.stringify(aboutJsonLd, null, 2)}
   </script>
+
+  ${CF_ANALYTICS_SNIPPET}
 </head>
 <body>
   <a class="skip-link" href="#main">メインコンテンツにスキップ</a>
