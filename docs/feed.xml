@@ -6,7 +6,7 @@
     <atom:link href="https://tamas-hub.github.io/deaf-navi-web/feed.xml" rel="self" type="application/rss+xml" />
     <description>聴覚障害・難聴・ろう者コミュニティ向けに、全日本ろうあ連盟や主要報道機関から最新ニュースを厳選。制度・政策・医療・教育・地域情報を毎時自動更新するキュレーションサイト。手話・情報保障・補聴器・人工内耳・手話言語条例など幅広いテーマをカバー。</description>
     <language>ja-JP</language>
-    <lastBuildDate>Wed, 22 Apr 2026 20:56:23 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 22 Apr 2026 21:53:22 GMT</lastBuildDate>
     <ttl>60</ttl>
     <item>
       <title>聞こえの処方箋（しょうほうせん） 加齢性難聴認知症リスク - 岐阜新聞デジタル</title>
@@ -306,15 +306,6 @@
       <source url="https://news.yahoo.co.jp">Yahoo!ニュース</source>
     </item>
     <item>
-      <title>【第3回全国高校生手話パフォーマンス甲子園】松本若菜さんの応援メッセージ [55c0c1] - Fathom Journal</title>
-      <link>https://news.google.com/rss/articles/CBMicEFVX3lxTE8xcGJ2UHkzR2dfeU1uczI5dnY4U29ITHlfVENMc19pelBPOWt0OE55b1NINGtnYmZhaUoxdUhMVnByQ1Bldk0tVUZXaE1YTkFzcWVBS2xxdlVuT0lxZ3Z2MG9CVURNa1o0RVBrbFpDak0?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMicEFVX3lxTE8xcGJ2UHkzR2dfeU1uczI5dnY4U29ITHlfVENMc19pelBPOWt0OE55b1NINGtnYmZhaUoxdUhMVnByQ1Bldk0tVUZXaE1YTkFzcWVBS2xxdlVuT0lxZ3Z2MG9CVURNa1o0RVBrbFpDak0?oc=5</guid>
-      <pubDate>Sat, 18 Apr 2026 20:22:45 GMT</pubDate>
-      <description>【第3回全国高校生手話パフォーマンス甲子園】松本若菜さんの応援メッセージ [55c0c1] Fathom Journal</description>
-      <category>文化・芸能</category>
-      <source url="https://fathomjournal.org">Fathom Journal</source>
-    </item>
-    <item>
       <title>名前があることを知らなかった母 お互いの当たり前が違う世界 「コーダ」の娘、学んだ手話で質問重ねる - 沖縄タイムス社</title>
       <link>https://news.google.com/rss/articles/CBMiXkFVX3lxTE1EWnd6NFdCdjNleXMySURHLUhVbHBLdTNNUnp2b3JZR1FnS3N0R0FUb3RRYlo3cmNZcm5zRk5ZMng4akR5amZ0dGhiWUF5dGdWNXYxd0EyN3l3QUhrTWc?oc=5</link>
       <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiXkFVX3lxTE1EWnd6NFdCdjNleXMySURHLUhVbHBLdTNNUnp2b3JZR1FnS3N0R0FUb3RRYlo3cmNZcm5zRk5ZMng4akR5amZ0dGhiWUF5dGdWNXYxd0EyN3l3QUhrTWc?oc=5</guid>
@@ -367,6 +358,15 @@
       <description>手話で喜び表現「長い間の夢。待ちに待った条例で感無量」 三重県四日市市で手話言語条例が施行 47NEWS</description>
       <category>制度・政策</category>
       <source url="https://www.47news.jp">47NEWS</source>
+    </item>
+    <item>
+      <title>東京パワーテクノロジー所属 東京2025デフリンピック銀メダリスト 瀧澤 諒斗選手がU23デフサッカーワールドカップ2026(セルビア)に参加するデフサッカー育成代表に選出 - ラブすぽ</title>
+      <link>https://news.google.com/rss/articles/CBMixwJBVV95cUxNMzZaQnM1V21RT2NqSFh5UFhzbUsyZ20tdlhrcTN0ZE9KZHdhX01Kd2pZcU1PWHlrczFnbk9waXVtQ0d1M3h5UEp5QzBKblYwODlrSnEzZTN2b2xxenF5Rk56TTlmU2F5Y0tRUFJGUThCZXA5aFdqOEVlSUw4YTdNX3M4RG13akNlc1NoZ1h6dXZlUU85T1RkWkp1UFAtOWRJVW1TZGprOFhfRkZJN1pWRTNxcXpkSmRPRnMxYXBoOTRxRGJiWUtPbEJ4SGRVUG9TLVB3T0tNMkN0bEJBTW93X1BQUU9LMlg1TmRMWHpTTms1QUNxRXRlMVZlVDZEYXJKbHNfeVVvMGI4VFEtb25aZnFpS3o4ZGo5d1d6WjNuX3EwVGJRV3YwV3hmY0wwMW1fOTI2UTRWV3FtbnVsdk9pcGNYOFdjWWM?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMixwJBVV95cUxNMzZaQnM1V21RT2NqSFh5UFhzbUsyZ20tdlhrcTN0ZE9KZHdhX01Kd2pZcU1PWHlrczFnbk9waXVtQ0d1M3h5UEp5QzBKblYwODlrSnEzZTN2b2xxenF5Rk56TTlmU2F5Y0tRUFJGUThCZXA5aFdqOEVlSUw4YTdNX3M4RG13akNlc1NoZ1h6dXZlUU85T1RkWkp1UFAtOWRJVW1TZGprOFhfRkZJN1pWRTNxcXpkSmRPRnMxYXBoOTRxRGJiWUtPbEJ4SGRVUG9TLVB3T0tNMkN0bEJBTW93X1BQUU9LMlg1TmRMWHpTTms1QUNxRXRlMVZlVDZEYXJKbHNfeVVvMGI4VFEtb25aZnFpS3o4ZGo5d1d6WjNuX3EwVGJRV3YwV3hmY0wwMW1fOTI2UTRWV3FtbnVsdk9pcGNYOFdjWWM?oc=5</guid>
+      <pubDate>Fri, 17 Apr 2026 11:41:12 GMT</pubDate>
+      <description>東京パワーテクノロジー所属 東京2025デフリンピック銀メダリスト 瀧澤 諒斗選手がU23デフサッカーワールドカップ2026(セルビア)に参加するデフサッカー育成代表に選出 ラブすぽ</description>
+      <category>デフスポーツ</category>
+      <source url="https://love-spo.com">ラブすぽ</source>
     </item>
     <item>
       <title>「大変だとは思わなかった」脚本家兼手話通訳の女性が語る 耳が聞こえない親への想い：家、ついて行ってイイですか？ - tv-tokyo.co.jp</title>
@@ -441,6 +441,15 @@
       <source url="https://www.sakigake.jp">秋田魁新報電子版</source>
     </item>
     <item>
+      <title>夢への道のり「必ず力になる」 デフサッカー日本代表・松元選手、秋田市で講演 - 47NEWS</title>
+      <link>https://news.google.com/rss/articles/CBMiS0FVX3lxTE5nRzBUSTEyNzBJSXotWmhTMy1McGNvazdqTEJ2MkRQMmdqZ0tRMFpLbnRxeVIzeGhlMTEwem9LRi1HTDV1WWR0ZjZYdw?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiS0FVX3lxTE5nRzBUSTEyNzBJSXotWmhTMy1McGNvazdqTEJ2MkRQMmdqZ0tRMFpLbnRxeVIzeGhlMTEwem9LRi1HTDV1WWR0ZjZYdw?oc=5</guid>
+      <pubDate>Fri, 17 Apr 2026 00:30:00 GMT</pubDate>
+      <description>夢への道のり「必ず力になる」 デフサッカー日本代表・松元選手、秋田市で講演 47NEWS</description>
+      <category>デフスポーツ</category>
+      <source url="https://www.47news.jp">47NEWS</source>
+    </item>
+    <item>
       <title>手話で対話し、ケアする介護福祉士に私がなった理由。 聴覚障害者専用の老人ホーム「あすらや荘」（広島県呉市）</title>
       <link>https://co-coco.jp/series/hataraku/miki_oobayashi/</link>
       <guid isPermaLink="true">https://co-coco.jp/series/hataraku/miki_oobayashi/</guid>
@@ -448,15 +457,6 @@
       <description>手話を大切なことばとして生きる「ろう者」はどんな仕事をしているのでしょうか。第45回は広島県呉（くれ）市で介護福祉士として働く大林美樹（おおばやし・みき）さんを訪ねました。</description>
       <category>地域</category>
       <source url="https://co-coco.jp/">こここ</source>
-    </item>
-    <item>
-      <title>新潟県、手話で電話可能に 県庁代表などに「手話リンク」導入 - にいがた経済新聞</title>
-      <link>https://news.google.com/rss/articles/CBMiREFVX3lxTE5ZY2w1MjFVNUcxbU9zMTIzVHZKRzB2R0VmREtfc3pSWklncE5kTlA4TDlCSXhqYktFSUJZRVBwOVhUT1NE?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiREFVX3lxTE5ZY2w1MjFVNUcxbU9zMTIzVHZKRzB2R0VmREtfc3pSWklncE5kTlA4TDlCSXhqYktFSUJZRVBwOVhUT1NE?oc=5</guid>
-      <pubDate>Thu, 16 Apr 2026 23:09:18 GMT</pubDate>
-      <description>新潟県、手話で電話可能に 県庁代表などに「手話リンク」導入 にいがた経済新聞</description>
-      <category>地域</category>
-      <source url="https://www.niikei.jp">にいがた経済新聞</source>
     </item>
   </channel>
 </rss>
