@@ -6,7 +6,7 @@
     <atom:link href="https://tamas-hub.github.io/deaf-navi-web/feed.xml" rel="self" type="application/rss+xml" />
     <description>聴覚障害・難聴・ろう者コミュニティ向けに、全日本ろうあ連盟や主要報道機関から最新ニュースを厳選。制度・政策・医療・教育・地域情報を毎時自動更新するキュレーションサイト。手話・情報保障・補聴器・人工内耳・手話言語条例など幅広いテーマをカバー。</description>
     <language>ja-JP</language>
-    <lastBuildDate>Thu, 23 Apr 2026 19:09:49 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 23 Apr 2026 20:54:07 GMT</lastBuildDate>
     <ttl>60</ttl>
     <item>
       <title>FDAが遺伝子治療Otarmeniを承認し先天性難聴の子どもに希望をもたらす - mezha.net</title>
@@ -25,6 +25,15 @@
       <description>交番や駐在所にビデオ通話利用した手話の受け付け導入 三重 NHKニュース</description>
       <category>一般</category>
       <source url="https://news.web.nhk">NHKニュース</source>
+    </item>
+    <item>
+      <title>難聴放置は認知症リスク大 早期の診断、治療訴え スーパーカケモが１２０周年記念講演会/十和田 - デーリー東北</title>
+      <link>https://news.google.com/rss/articles/CBMiZ0FVX3lxTE80WW1XTjZVb1djVDFOb3ItbTh5MVZjWGpabERfdXotSkVNUGRxeXRJSTlpTFgxYlVveVh1UW95V3ZHQS1JSEZFVVdabTB4a25uenQ4UWp1RktqaW9jaXBTemI3RkR5ZGM?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiZ0FVX3lxTE80WW1XTjZVb1djVDFOb3ItbTh5MVZjWGpabERfdXotSkVNUGRxeXRJSTlpTFgxYlVveVh1UW95V3ZHQS1JSEZFVVdabTB4a25uenQ4UWp1RktqaW9jaXBTemI3RkR5ZGM?oc=5</guid>
+      <pubDate>Thu, 23 Apr 2026 08:00:05 GMT</pubDate>
+      <description>難聴放置は認知症リスク大 早期の診断、治療訴え スーパーカケモが１２０周年記念講演会/十和田 デーリー東北</description>
+      <category>医療</category>
+      <source url="https://www.daily-tohoku.news">デーリー東北</source>
     </item>
     <item>
       <title>ヒュンメル、ガンバ大阪と手話シャツの寄付で聴覚障がい者支援に - サッカーキング</title>
@@ -108,24 +117,6 @@
       <source url="https://www.gifu-np.co.jp">岐阜新聞デジタル</source>
     </item>
     <item>
-      <title>聞こえない赤ちゃん。ろう者のパパとママが、赤ちゃんのために用意したのは…／音のない子育て⑥ (2026年4月22日掲載) - ライブドアニュース</title>
-      <link>https://news.google.com/rss/articles/CBMiXkFVX3lxTFBud2x1cUgtYnpsRGhtcnhkbDJVOTdSSkpuSFJJQXdfbWFmZmh6eEE5QlFUMkhacEdQRmRLSWs1aERHMXh3U3pEYnN4WHhQdWtVZWpmOXpPZm1sN0xYUVE?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiXkFVX3lxTFBud2x1cUgtYnpsRGhtcnhkbDJVOTdSSkpuSFJJQXdfbWFmZmh6eEE5QlFUMkhacEdQRmRLSWs1aERHMXh3U3pEYnN4WHhQdWtVZWpmOXpPZm1sN0xYUVE?oc=5</guid>
-      <pubDate>Wed, 22 Apr 2026 10:30:09 GMT</pubDate>
-      <description>聞こえない赤ちゃん。ろう者のパパとママが、赤ちゃんのために用意したのは…／音のない子育て⑥ (2026年4月22日掲載) ライブドアニュース</description>
-      <category>一般</category>
-      <source url="https://news.livedoor.com">ライブドアニュース</source>
-    </item>
-    <item>
-      <title>誰にでも起こりえる「加齢性難聴」。 - 選挙ドットコム</title>
-      <link>https://news.google.com/rss/articles/CBMiX0FVX3lxTE5nNDBvMklaR1VXY2NSMWVVUDJPZ0lVTld6SjJFWUNMckp2bXo0c04tVHBKM3RFSVRkdENhZjRtMVJxZklqM1dPNTQ1QmE1MklsdmJsQkxpNUJwQmhvQlJj?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiX0FVX3lxTE5nNDBvMklaR1VXY2NSMWVVUDJPZ0lVTld6SjJFWUNMckp2bXo0c04tVHBKM3RFSVRkdENhZjRtMVJxZklqM1dPNTQ1QmE1MklsdmJsQkxpNUJwQmhvQlJj?oc=5</guid>
-      <pubDate>Wed, 22 Apr 2026 08:19:03 GMT</pubDate>
-      <description>誰にでも起こりえる「加齢性難聴」。 選挙ドットコム</description>
-      <category>一般</category>
-      <source url="https://go2senkyo.com">選挙ドットコム</source>
-    </item>
-    <item>
       <title>井上順がアンミカとの対談で語った前向きな生き方 ありのままの自分を受け入れ難聴もオープンに「ぼくは生きているだけで四六時中ハッピーなの」 (1/1) - 女性セブンプラス</title>
       <link>https://news.google.com/rss/articles/CBMiOEFVX3lxTE1qN2lpWjhPZXRSZ2l0RHk4aFdhblhBY00wVk8tdkFtWm5JS1FIYWhlclFKYXFIam5p?oc=5</link>
       <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiOEFVX3lxTE1qN2lpWjhPZXRSZ2l0RHk4aFdhblhBY00wVk8tdkFtWm5JS1FIYWhlclFKYXFIam5p?oc=5</guid>
@@ -163,9 +154,9 @@
     </item>
     <item>
       <title>Dynamic Duo、難聴児支援に寄付、継続的な社会貢献 - AFPBB News</title>
-      <link>https://news.google.com/rss/articles/CBMiUkFVX3lxTFBTUzBpOEo0ek5PMnJBMHloZk5kN3Byb3V1WXZjX3pheDlZbmt5SUJVaGtSQ0J0UXZyMEYtSFJCLW45WEplenFwSUdMNzJaQUlJVHfSAVRBVV95cUxNQjEtWW5SUWt3bjd3d0lodkhNUFhjbjkyemhtNTdSZVVtNDV2RWxUbDNNUVAyckdSSzdJenZQN1BOczEwMlZtandoZzdGZEsxck1NQ0k?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiUkFVX3lxTFBTUzBpOEo0ek5PMnJBMHloZk5kN3Byb3V1WXZjX3pheDlZbmt5SUJVaGtSQ0J0UXZyMEYtSFJCLW45WEplenFwSUdMNzJaQUlJVHfSAVRBVV95cUxNQjEtWW5SUWt3bjd3d0lodkhNUFhjbjkyemhtNTdSZVVtNDV2RWxUbDNNUVAyckdSSzdJenZQN1BOczEwMlZtandoZzdGZEsxck1NQ0k?oc=5</guid>
-      <pubDate>Wed, 22 Apr 2026 01:31:29 GMT</pubDate>
+      <link>https://news.google.com/rss/articles/CBMiVEFVX3lxTE1CMS1ZblJRa3duN3d3SWh2SE1QWGNuOTJ6aG01N1JlVW00NXZFbFRsM01RUDJyR1JLN0l6dlA3UE5zMTAyVm1qd2hnN0ZkSzFyTU1DSdIBVEFVX3lxTE1CMS1ZblJRa3duN3d3SWh2SE1QWGNuOTJ6aG01N1JlVW00NXZFbFRsM01RUDJyR1JLN0l6dlA3UE5zMTAyVm1qd2hnN0ZkSzFyTU1DSQ?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiVEFVX3lxTE1CMS1ZblJRa3duN3d3SWh2SE1QWGNuOTJ6aG01N1JlVW00NXZFbFRsM01RUDJyR1JLN0l6dlA3UE5zMTAyVm1qd2hnN0ZkSzFyTU1DSdIBVEFVX3lxTE1CMS1ZblJRa3duN3d3SWh2SE1QWGNuOTJ6aG01N1JlVW00NXZFbFRsM01RUDJyR1JLN0l6dlA3UE5zMTAyVm1qd2hnN0ZkSzFyTU1DSQ?oc=5</guid>
+      <pubDate>Wed, 22 Apr 2026 01:15:22 GMT</pubDate>
       <description>Dynamic Duo、難聴児支援に寄付、継続的な社会貢献 AFPBB News</description>
       <category>制度・政策</category>
       <source url="https://www.afpbb.com">AFPBB News</source>
@@ -252,6 +243,15 @@
       <source url="https://topics.smt.docomo.ne.jp">ｄメニューニュース</source>
     </item>
     <item>
+      <title>美幌で手話体験イベント 26日、おいで家具でワークショップ - 北海道新聞デジタル</title>
+      <link>https://news.google.com/rss/articles/CBMiWkFVX3lxTE9MYlhvSzgzel84ODl2emNTWWc4WmZDZXk0NXNGTksyZldKcDhNZ21IWHNxR2FLNTRhYkFsa182aUx5VXd0V0V3bzlLeElFQUN4M05nbHpaVWo0dw?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiWkFVX3lxTE9MYlhvSzgzel84ODl2emNTWWc4WmZDZXk0NXNGTksyZldKcDhNZ21IWHNxR2FLNTRhYkFsa182aUx5VXd0V0V3bzlLeElFQUN4M05nbHpaVWo0dw?oc=5</guid>
+      <pubDate>Mon, 20 Apr 2026 08:36:14 GMT</pubDate>
+      <description>美幌で手話体験イベント 26日、おいで家具でワークショップ 北海道新聞デジタル</description>
+      <category>地域</category>
+      <source url="https://www.hokkaido-np.co.jp">北海道新聞デジタル</source>
+    </item>
+    <item>
       <title>ＴＶ生字幕、人とＡＩで ＮＨＫ放送センター、入力の内幕 - asahi.com</title>
       <link>https://news.google.com/rss/articles/CBMiXEFVX3lxTFB1b09SMmhtN1pKc3Z5UkIxNUczMWxzdmpDYWZlWGRRazVhSnZPTE0zYnRGamhGb25qNU9qZzJuMm9VN0luVkFFT3cxNlg1VnF1MlNRQnlNMHU0ZUpV?oc=5</link>
       <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiXEFVX3lxTFB1b09SMmhtN1pKc3Z5UkIxNUczMWxzdmpDYWZlWGRRazVhSnZPTE0zYnRGamhGb25qNU9qZzJuMm9VN0luVkFFT3cxNlg1VnF1MlNRQnlNMHU0ZUpV?oc=5</guid>
@@ -306,24 +306,6 @@
       <source url="https://go2senkyo.com">選挙ドットコム</source>
     </item>
     <item>
-      <title>「重度難聴です」医師から告げられた言葉を前に、妊娠中の義父母との会話を思い出していた／音のない子育て③ - ダ・ヴィンチWeb</title>
-      <link>https://news.google.com/rss/articles/CBMiTkFVX3lxTE4ySXBhTXdKdEVTbEVud05OQkpzOFgydVk3R01rNUtUYXhBcDdoWnlWcHl5b096c1AxbllMakNTeS00Rkc2VTR3a1BxcGhBZw?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiTkFVX3lxTE4ySXBhTXdKdEVTbEVud05OQkpzOFgydVk3R01rNUtUYXhBcDdoWnlWcHl5b096c1AxbllMakNTeS00Rkc2VTR3a1BxcGhBZw?oc=5</guid>
-      <pubDate>Sun, 19 Apr 2026 10:30:02 GMT</pubDate>
-      <description>「重度難聴です」医師から告げられた言葉を前に、妊娠中の義父母との会話を思い出していた／音のない子育て③ ダ・ヴィンチWeb</description>
-      <category>一般</category>
-      <source url="https://ddnavi.com">ダ・ヴィンチWeb</source>
-    </item>
-    <item>
-      <title>「重度難聴です」医師から告げられた言葉を前に、妊娠中の義父母との会話を思い出していた／音のない子育て③ - ライブドアニュース</title>
-      <link>https://news.google.com/rss/articles/CBMiXkFVX3lxTFBEcUJrZEtIckxqZTBaR0cxMXJmT1JGSmFwNkpWcy10ZV8wbGFmTTRmUVFVUlBKV1BxdF9mRF95eFExRFhzZmtHUllXVTJhVkI3ZkxROVotRmozeEMwZVE?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiXkFVX3lxTFBEcUJrZEtIckxqZTBaR0cxMXJmT1JGSmFwNkpWcy10ZV8wbGFmTTRmUVFVUlBKV1BxdF9mRF95eFExRFhzZmtHUllXVTJhVkI3ZkxROVotRmozeEMwZVE?oc=5</guid>
-      <pubDate>Sun, 19 Apr 2026 10:30:02 GMT</pubDate>
-      <description>「重度難聴です」医師から告げられた言葉を前に、妊娠中の義父母との会話を思い出していた／音のない子育て③ ライブドアニュース</description>
-      <category>一般</category>
-      <source url="https://news.livedoor.com">ライブドアニュース</source>
-    </item>
-    <item>
       <title>ろう者と聴者の観客がつながれば、ミリアム・ガルロが「幸せの、忘れもの。」に願い込める - ナタリー</title>
       <link>https://news.google.com/rss/articles/CBMiS0FVX3lxTE4zTzdLemZ0dWhpUWZSeWR4RlVVRGZuaXB1QndNRFc1MTNlaDBDMnJWWW1yRk5sUGFWTVJoMWdXcE1TdzF0amE1Nkhydw?oc=5</link>
       <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiS0FVX3lxTE4zTzdLemZ0dWhpUWZSeWR4RlVVRGZuaXB1QndNRFc1MTNlaDBDMnJWWW1yRk5sUGFWTVJoMWdXcE1TdzF0amE1Nkhydw?oc=5</guid>
@@ -349,15 +331,6 @@
       <description>考え方も境遇も異なる、20代ろう者３人のリアルな胸の内を。彼らを取り巻く環境の現状について（水上賢治） - エキスパート Yahoo!ニュース</description>
       <category>一般</category>
       <source url="https://news.yahoo.co.jp">Yahoo!ニュース</source>
-    </item>
-    <item>
-      <title>【第3回全国高校生手話パフォーマンス甲子園】松本若菜さんの応援メッセージ [55c0c1] - Fathom Journal</title>
-      <link>https://news.google.com/rss/articles/CBMicEFVX3lxTE8xcGJ2UHkzR2dfeU1uczI5dnY4U29ITHlfVENMc19pelBPOWt0OE55b1NINGtnYmZhaUoxdUhMVnByQ1Bldk0tVUZXaE1YTkFzcWVBS2xxdlVuT0lxZ3Z2MG9CVURNa1o0RVBrbFpDak0?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMicEFVX3lxTE8xcGJ2UHkzR2dfeU1uczI5dnY4U29ITHlfVENMc19pelBPOWt0OE55b1NINGtnYmZhaUoxdUhMVnByQ1Bldk0tVUZXaE1YTkFzcWVBS2xxdlVuT0lxZ3Z2MG9CVURNa1o0RVBrbFpDak0?oc=5</guid>
-      <pubDate>Sat, 18 Apr 2026 20:22:45 GMT</pubDate>
-      <description>【第3回全国高校生手話パフォーマンス甲子園】松本若菜さんの応援メッセージ [55c0c1] Fathom Journal</description>
-      <category>文化・芸能</category>
-      <source url="https://fathomjournal.org">Fathom Journal</source>
     </item>
     <item>
       <title>「ミス着物」平嶋萌宇さんは手話の使い手…「手話言語アナウンサー」目指す２２歳 - 読売新聞</title>
@@ -432,6 +405,15 @@
       <source url="https://www.tv-tokyo.co.jp">tv-tokyo.co.jp</source>
     </item>
     <item>
+      <title>「ミス着物」福岡出身の大学院生 手話で知事に受賞を報告 （FBS福岡放送） - Yahoo!ニュース</title>
+      <link>https://news.google.com/rss/articles/CBMif0FVX3lxTE5oclViMVhtRl9pdkZ5ZXR5cDNfbF9Nbkc2b1RRRVhNVlV5LXBYazJNVWRWNGJOdVRXNW9aZHc2RjJ5eDJKc1JzLXdBRjY1dW1RakdOY1V6TWo4c3gwTzV6akF5QnBkcGoxRnBfdlNBNnVlWkgtblZLc29wRkRiYms?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMif0FVX3lxTE5oclViMVhtRl9pdkZ5ZXR5cDNfbF9Nbkc2b1RRRVhNVlV5LXBYazJNVWRWNGJOdVRXNW9aZHc2RjJ5eDJKc1JzLXdBRjY1dW1RakdOY1V6TWo4c3gwTzV6akF5QnBkcGoxRnBfdlNBNnVlWkgtblZLc29wRkRiYms?oc=5</guid>
+      <pubDate>Fri, 17 Apr 2026 08:51:01 GMT</pubDate>
+      <description>「ミス着物」福岡出身の大学院生 手話で知事に受賞を報告 （FBS福岡放送） Yahoo!ニュース</description>
+      <category>教育</category>
+      <source url="https://news.yahoo.co.jp">Yahoo!ニュース</source>
+    </item>
+    <item>
       <title>「ミス日本ミス着物」受賞の福岡市出身・平嶋萌宇さん 福岡県庁で喜びを報告 目標は「手話言語アナウンサー」 - Yahoo!ニュース</title>
       <link>https://news.google.com/rss/articles/CBMif0FVX3lxTE5nY005RUhONGdraDU4R2FTT2YyeUlzVE5iX2NFY0hvUkZxY3hSZllKS0NPRjI1MG9oSFJNcEdZUHA3dnJod19vS1BSMnhtd2stNlo1R202RnRRQ0E1VXk4d1NURk1VTnJVcXNoTFBzQ2JUNzRjQmpRVFh6OHBqSkE?oc=5</link>
       <guid isPermaLink="true">https://news.google.com/rss/articles/CBMif0FVX3lxTE5nY005RUhONGdraDU4R2FTT2YyeUlzVE5iX2NFY0hvUkZxY3hSZllKS0NPRjI1MG9oSFJNcEdZUHA3dnJod19vS1BSMnhtd2stNlo1R202RnRRQ0E1VXk4d1NURk1VTnJVcXNoTFBzQ2JUNzRjQmpRVFh6OHBqSkE?oc=5</guid>
@@ -457,6 +439,24 @@
       <description>小田急、鉄道初の「手話リンク」導入…通訳者介して電話で問い合わせ可能に 読売新聞</description>
       <category>地域</category>
       <source url="https://www.yomiuri.co.jp">読売新聞</source>
+    </item>
+    <item>
+      <title>「手話言語アナウンサー」夢の福岡出身大学院生「ミス日本ミス着物」受賞を知事に報告（九州朝日放送） - Yahoo!ニュース</title>
+      <link>https://news.google.com/rss/articles/CBMif0FVX3lxTE9rbm91Q2tGM05JZ21IWlJhdVBnVGpjTnpXV1pMYU9RTnlTX0hsNVdzc2RKUmp1SnoyWXNjUVY0VllhTEd6VmJ1TllLNjFYci1STVRSZWRwaGpKd2VQSXJkUUdacVJtNGZNMmpNczlLaTNBTk1KWTQzejkzUlZYbEE?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMif0FVX3lxTE9rbm91Q2tGM05JZ21IWlJhdVBnVGpjTnpXV1pMYU9RTnlTX0hsNVdzc2RKUmp1SnoyWXNjUVY0VllhTEd6VmJ1TllLNjFYci1STVRSZWRwaGpKd2VQSXJkUUdacVJtNGZNMmpNczlLaTNBTk1KWTQzejkzUlZYbEE?oc=5</guid>
+      <pubDate>Fri, 17 Apr 2026 06:00:03 GMT</pubDate>
+      <description>「手話言語アナウンサー」夢の福岡出身大学院生「ミス日本ミス着物」受賞を知事に報告（九州朝日放送） Yahoo!ニュース</description>
+      <category>教育</category>
+      <source url="https://news.yahoo.co.jp">Yahoo!ニュース</source>
+    </item>
+    <item>
+      <title>どうすれば安全安心：多量飲酒の男性、加齢性難聴多く - 毎日新聞</title>
+      <link>https://news.google.com/rss/articles/CBMiaEFVX3lxTE1aemlicDgyZEtGYnRiOHlWeC1aY1dVSllSUWhPNERJdC1RSl9hdDRPcHBfekMxU2ZaYmpaTE9Jd0dycG0tODVXZG5yRVFxZldTQnc1QndIdC1qWWtwWFc4UW1PYWZYZmVR?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiaEFVX3lxTE1aemlicDgyZEtGYnRiOHlWeC1aY1dVSllSUWhPNERJdC1RSl9hdDRPcHBfekMxU2ZaYmpaTE9Jd0dycG0tODVXZG5yRVFxZldTQnc1QndIdC1qWWtwWFc4UW1PYWZYZmVR?oc=5</guid>
+      <pubDate>Fri, 17 Apr 2026 04:01:32 GMT</pubDate>
+      <description>どうすれば安全安心：多量飲酒の男性、加齢性難聴多く 毎日新聞</description>
+      <category>一般</category>
+      <source url="https://mainichi.jp">毎日新聞</source>
     </item>
   </channel>
 </rss>
