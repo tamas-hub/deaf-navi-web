@@ -6,7 +6,7 @@
     <atom:link href="https://tamas-hub.github.io/deaf-navi-web/feed.xml" rel="self" type="application/rss+xml" />
     <description>聴覚障害・難聴・ろう者コミュニティ向けに、全日本ろうあ連盟や主要報道機関から最新ニュースを厳選。制度・政策・医療・教育・地域情報を毎時自動更新するキュレーションサイト。手話・情報保障・補聴器・人工内耳・手話言語条例など幅広いテーマをカバー。</description>
     <language>ja-JP</language>
-    <lastBuildDate>Fri, 24 Apr 2026 18:54:13 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 24 Apr 2026 19:53:07 GMT</lastBuildDate>
     <ttl>60</ttl>
     <item>
       <title>福祉とアートの現場を巡るフィールドワーク in 関東、「PARC自由学校2026」で開催（5月14〜15日）</title>
@@ -117,15 +117,6 @@
       <source url="https://www.47news.jp">47NEWS</source>
     </item>
     <item>
-      <title>交番や駐在所に「手話リンク」 警官不在でも通話可能に 三重県警 - ｄメニューニュース</title>
-      <link>https://news.google.com/rss/articles/CBMizgFBVV95cUxQbnl3VjBwODJBVi1aR2hIYjhuWE8tV3NoZjNZWVFLOXU4dDVDaUktdHJ6cTE1cHFXQ0o4QzhNSUtHN0FKUkNpMEhEa19KbTNvektEWENhWkpmaUNoaUp4aXJuSHdKalo5eWRQS1lsYWs3cjBKTzR1SW5ENUhNTEx3ZzdQM25fRklkLWx6ZTYtTXgwZzFvTEluQ3RRMGxVYmY3OHQ4ZzZKVUpnb3kyUVlydWhnbmtEWnFsUkdmVWl3ZmF2cWF1V0I0cEphajNnUdIBfkFVX3lxTE00ZkRZUHFKMzZEaG5SSXNpNmNDY2MxUjREQTQ2R2YwY2VtR3psczBrMTFEeGx3VDV2NmlEdF9tb2s2QU92blV5YjZBNWd6bE40d0ZPWm8yZ0N5cGdnb0p3ZTZueDl4Zno0T0h6MTItTUZ0MS1oTGhHV3BHY2pCZw?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMizgFBVV95cUxQbnl3VjBwODJBVi1aR2hIYjhuWE8tV3NoZjNZWVFLOXU4dDVDaUktdHJ6cTE1cHFXQ0o4QzhNSUtHN0FKUkNpMEhEa19KbTNvektEWENhWkpmaUNoaUp4aXJuSHdKalo5eWRQS1lsYWs3cjBKTzR1SW5ENUhNTEx3ZzdQM25fRklkLWx6ZTYtTXgwZzFvTEluQ3RRMGxVYmY3OHQ4ZzZKVUpnb3kyUVlydWhnbmtEWnFsUkdmVWl3ZmF2cWF1V0I0cEphajNnUdIBfkFVX3lxTE00ZkRZUHFKMzZEaG5SSXNpNmNDY2MxUjREQTQ2R2YwY2VtR3psczBrMTFEeGx3VDV2NmlEdF9tb2s2QU92blV5YjZBNWd6bE40d0ZPWm8yZ0N5cGdnb0p3ZTZueDl4Zno0T0h6MTItTUZ0MS1oTGhHV3BHY2pCZw?oc=5</guid>
-      <pubDate>Fri, 24 Apr 2026 02:00:00 GMT</pubDate>
-      <description>交番や駐在所に「手話リンク」 警官不在でも通話可能に 三重県警 ｄメニューニュース</description>
-      <category>地域</category>
-      <source url="https://topics.smt.docomo.ne.jp">ｄメニューニュース</source>
-    </item>
-    <item>
       <title>警察官不在でも聴覚障がい者に対応 三重県内すべての交番・駐在所で手話通訳システム導入（三重テレビ放送） - Yahoo!ニュース</title>
       <link>https://news.google.com/rss/articles/CBMif0FVX3lxTFBfVFdlZjQ5ZXljNGxTc1c3S3ZkTFgtZGlTT05DZTN3Q3pSaFFZRWlZSHNRcjh1Rmp2T2Q3QkFRWVlBVThULXh5THdfS1JSMm93M2lLTU1aaEhWR0ZLMENfRzV4bllsbVF0a0kzM3hJdHJ2ajFEd0NsS0IxUFZMU1k?oc=5</link>
       <guid isPermaLink="true">https://news.google.com/rss/articles/CBMif0FVX3lxTFBfVFdlZjQ5ZXljNGxTc1c3S3ZkTFgtZGlTT05DZTN3Q3pSaFFZRWlZSHNRcjh1Rmp2T2Q3QkFRWVlBVThULXh5THdfS1JSMm93M2lLTU1aaEhWR0ZLMENfRzV4bllsbVF0a0kzM3hJdHJ2ajFEd0NsS0IxUFZMU1k?oc=5</guid>
@@ -142,6 +133,15 @@
       <description>警察官不在でも聴覚障がい者に対応 三重県内すべての交番・駐在所で手話通訳システム導入 au Webポータル</description>
       <category>地域</category>
       <source url="https://article.auone.jp">au Webポータル</source>
+    </item>
+    <item>
+      <title>交番や駐在所に「手話リンク」 警官不在でも通話可能に 三重県警（伊勢新聞） - Yahoo!ニュース</title>
+      <link>https://news.google.com/rss/articles/CBMif0FVX3lxTFAzUkxteXh6ODctSHRjV1hpRWhGVFdpc0NIRnlrVnEzdlhqS1doMFFCRHk4elhkeUVXTHBUX3h0bFhWcHNPQzRrMnZzRnY4bnRuaVpmODhTQXJ3UXhvYUVkMXJiU0V5c0N0WndBV3UtdG5GQ1lPeDAzaFktSEtiSDg?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMif0FVX3lxTFAzUkxteXh6ODctSHRjV1hpRWhGVFdpc0NIRnlrVnEzdlhqS1doMFFCRHk4elhkeUVXTHBUX3h0bFhWcHNPQzRrMnZzRnY4bnRuaVpmODhTQXJ3UXhvYUVkMXJiU0V5c0N0WndBV3UtdG5GQ1lPeDAzaFktSEtiSDg?oc=5</guid>
+      <pubDate>Thu, 23 Apr 2026 23:00:36 GMT</pubDate>
+      <description>交番や駐在所に「手話リンク」 警官不在でも通話可能に 三重県警（伊勢新聞） Yahoo!ニュース</description>
+      <category>地域</category>
+      <source url="https://news.yahoo.co.jp">Yahoo!ニュース</source>
     </item>
     <item>
       <title>安西ひろこ、突発性難聴の治療終了を報告…医師の宣告に心境吐露も、「笑って生きていく」と前向きな決意 - ｄメニューニュース</title>
@@ -297,15 +297,6 @@
       <source url="https://kabu-ir.com">kabu-ir.com</source>
     </item>
     <item>
-      <title>ファンデリー[3137]：愛知医科大学 内田育恵先生が難聴と社会的フレイルの関係を紹介「パワーアップ！食と健康」を４/22（水）配信 2026年4月22日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞</title>
-      <link>https://news.google.com/rss/articles/CBMizAFBVV95cUxNNWlQZGpVbGU0ak1qajQtbVRjUGJVcmg1QWptajlBVDhxSTJZUkI4QTBIUk1yNS1XNDZOaTdrZ0hGTENQSV9YVHA1S1MwMjZMTllzQ0owOVUtWWN3NF9STjMxZmJHRTY1elRyQmdBM2s1SWpPaHBUYmZKRElIVWZqcDEwMGh2OTltLWtXZGxfc0NiU0I2T0tHdUhBODRhcTRwVml6SjkxRWlmQ0NpUVREOFFFOGRNR21zT1JZdHFOVkY4VlduS1MzZHZIbS0?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMizAFBVV95cUxNNWlQZGpVbGU0ak1qajQtbVRjUGJVcmg1QWptajlBVDhxSTJZUkI4QTBIUk1yNS1XNDZOaTdrZ0hGTENQSV9YVHA1S1MwMjZMTllzQ0owOVUtWWN3NF9STjMxZmJHRTY1elRyQmdBM2s1SWpPaHBUYmZKRElIVWZqcDEwMGh2OTltLWtXZGxfc0NiU0I2T0tHdUhBODRhcTRwVml6SjkxRWlmQ0NpUVREOFFFOGRNR21zT1JZdHFOVkY4VlduS1MzZHZIbS0?oc=5</guid>
-      <pubDate>Wed, 22 Apr 2026 06:30:00 GMT</pubDate>
-      <description>ファンデリー[3137]：愛知医科大学 内田育恵先生が難聴と社会的フレイルの関係を紹介「パワーアップ！食と健康」を４/22（水）配信 2026年4月22日(適時開示) ：日経会社情報DIGITAL 日本経済新聞</description>
-      <category>教育</category>
-      <source url="https://www.nikkei.com">日本経済新聞</source>
-    </item>
-    <item>
       <title>デフ（ろう・難聴者）と聴者の「できる」をふやす。「SoilxPolicy Fund」基金、認定NPO法人Silent Voiceを採択 - PR TIMES</title>
       <link>https://news.google.com/rss/articles/CBMiakFVX3lxTE5meUdJa3k1ZENsVTE3YUNJdDk0Y0F2dmUyYUFYT3V5UHltck1pWWg5YWtHeHBEei0wMndWZVoxd0lkMERxWW5SSHhHdTJWZ0N3S044cnppVlV1VVJZeVpGeWoyVHFCTzNId3c?oc=5</link>
       <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiakFVX3lxTE5meUdJa3k1ZENsVTE3YUNJdDk0Y0F2dmUyYUFYT3V5UHltck1pWWg5YWtHeHBEei0wMndWZVoxd0lkMERxWW5SSHhHdTJWZ0N3S044cnppVlV1VVJZeVpGeWoyVHFCTzNId3c?oc=5</guid>
@@ -457,6 +448,15 @@
       <description>「重度難聴です」医師から告げられた言葉を前に、妊娠中の義父母との会話を思い出していた／音のない子育て③ ライブドアニュース</description>
       <category>一般</category>
       <source url="https://news.livedoor.com">ライブドアニュース</source>
+    </item>
+    <item>
+      <title>「認知症の世界」を歩けたら？ 話題の書籍から生まれた体験型展示、GWに鎌倉で開催！（神奈川県）</title>
+      <link>https://co-coco.jp/news/ninchisyosekaiten/</link>
+      <guid isPermaLink="true">https://co-coco.jp/news/ninchisyosekaiten/</guid>
+      <pubDate>Sun, 19 Apr 2026 02:30:01 GMT</pubDate>
+      <description>2026年5月1日（金）〜7日（木）まで〈鎌倉芸術館〉（神奈川県鎌倉市）のギャラリー1で、「認知症世界を歩いてみたら。展」が開催。認知症世界を旅する旅人となった来場者は、記憶や時間、空間の感覚が少しずつ揺らぐなか、思い通りにいかない出来事や不思議な感覚に出会います。会期中は「認知症世界の歩き方ウィーク in 鎌倉」となり、『認知症世界の歩き方』の著者・筧裕介さんらによる講演会とクロストークも。</description>
+      <category>地域</category>
+      <source url="https://co-coco.jp/">こここ</source>
     </item>
   </channel>
 </rss>
