@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-24T10:22:52.610Z",
+  "generatedAt": "2026-04-24T11:57:56.711Z",
   "count": 400,
   "articles": [
     {
@@ -55,6 +55,15 @@
       "sourceUrl": "https://www.47news.jp",
       "publishedAt": "2026-04-24T05:38:00.000Z",
       "category": "policy"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQVWo4UDV3cFBSejIwNjlWWlJoQ0NfZm5FU0h0LVBTNDJSUEhTMjc3V2w1SkdkSVpuQmdNMVBrWmJpMFVBU0dlcUtaXzRiVlgxYmk0d1FkdWZOdGM2aWRhSXJ0bFRBbkZiaGo0Tkc5UUtXRU5kQTlvV2ZEenNReWwySmxkWm03VHFiTVhEbkxn?oc=5",
+      "title": "騒がしい場所で話が聞き取れない……それは片耳の難聴「一側性難聴」のサインかも (Medical Note) - Yahoo!ニュース",
+      "summary": "騒がしい場所で話が聞き取れない……それは片耳の難聴「一側性難聴」のサインかも (Medical Note) Yahoo!ニュース",
+      "sourceName": "Yahoo!ニュース",
+      "sourceUrl": "https://news.yahoo.co.jp",
+      "publishedAt": "2026-04-24T02:50:10.000Z",
+      "category": "general"
     },
     {
       "id": "https://co-coco.jp/series/design/toketa/",
@@ -154,15 +163,6 @@
       "sourceUrl": "https://mezha.net",
       "publishedAt": "2026-04-23T17:40:07.000Z",
       "category": "medical"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9kZ1ZEb2xMOEI3R2IwQkFYd1NMTTNfYnR6RGYyQmlTTHRxQk9qUDRteDZvNFN2THM3TTRpcHI1eU9VZkRXb2swbzJnWjduTzg?oc=5",
-      "title": "ろう者の妻が抱える孤独と、子育てで揺らぐ夫婦の心 『幸せの、忘れもの。』本編映像が胸を締めつける - TRILL",
-      "summary": "ろう者の妻が抱える孤独と、子育てで揺らぐ夫婦の心 『幸せの、忘れもの。』本編映像が胸を締めつける TRILL",
-      "sourceName": "TRILL",
-      "sourceUrl": "https://trilltrill.jp",
-      "publishedAt": "2026-04-23T15:23:39.000Z",
-      "category": "general"
     },
     {
       "id": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE83UmlScV82T2VZMFJ5REZzYTBzOHNEZzNNU1JDMzFkM1VkUGIyc1M2eTJOZG5TemVldTZIWjhqTHBKTmVCTGxpUGN2ZExROHdMck9DSWxHTlU?oc=5",
@@ -516,6 +516,15 @@
       "category": "general"
     },
     {
+      "id": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4wQm9lOGxzbnM3bmRtcU12TlZGMGNrbUxRYWF0cWVGMEx1N3RWc0V3RWhvTFlkR0VaYUZuSG5LSU1yUW9aa08tc3daU1VWQ25oMy0zaWxxSFNaLXUwSjNFdUVzVnM1Q1JhdF9UdUZIUnh0NF9RcERld3hWNmtlLVk?oc=5",
+      "title": "「ミス着物」平嶋萌宇さんは手話の使い手…「手話言語アナウンサー」目指す２２歳（読売新聞オンライン） - Yahoo!ニュース",
+      "summary": "「ミス着物」平嶋萌宇さんは手話の使い手…「手話言語アナウンサー」目指す２２歳（読売新聞オンライン） Yahoo!ニュース",
+      "sourceName": "Yahoo!ニュース",
+      "sourceUrl": "https://news.yahoo.co.jp",
+      "publishedAt": "2026-04-18T02:32:21.000Z",
+      "category": "general"
+    },
+    {
       "id": "https://news.google.com/rss/articles/CBMickFVX3lxTE1GSWwwX1NyTDhHTmtRd0J6QTM0OWpTeXhPQW1PVTdnRnVWTURhdVZBY2ZjdTZGSm94SW5QYWhlMlV1Wlh0OWw3ZzJwdzJJdDZtN1F6UkU0ZFpxUHpwZld2NFNMVlVSbTBiTjNzdGRmUXVkQQ?oc=5",
       "title": "「ミス着物」平嶋萌宇さんは手話の使い手…「手話言語アナウンサー」目指す２２歳 - 読売新聞",
       "summary": "「ミス着物」平嶋萌宇さんは手話の使い手…「手話言語アナウンサー」目指す２２歳 読売新聞",
@@ -552,15 +561,6 @@
       "category": "culture"
     },
     {
-      "id": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBUXzF1MW1mZWpWemhpOWswNE5QUHhCeVp0bndfZU1EQXBjX2ZFdmF2RUpzWG83eGRXdWFpMlNHM0Y0YWg2R2tHZUtmVFF2SXpyQWgxYTJabEI4WjB6cTQ3QlpxMHY5R3JoRl8tTmtQaVlYSGc?oc=5",
-      "title": "「大変だとは思わなかった」脚本家兼手話通訳の女性が語る 耳が聞こえない親への想い：家、ついて行ってイイですか？ - tv-tokyo.co.jp",
-      "summary": "「大変だとは思わなかった」脚本家兼手話通訳の女性が語る 耳が聞こえない親への想い：家、ついて行ってイイですか？ tv-tokyo.co.jp",
-      "sourceName": "tv-tokyo.co.jp",
-      "sourceUrl": "https://www.tv-tokyo.co.jp",
-      "publishedAt": "2026-04-17T09:31:24.000Z",
-      "category": "general"
-    },
-    {
       "id": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5Ua2RHM3VSM3BjNjhqSXEwdlltSnI0dWc0R3ZUZHZrV1lnNl90WGoyem5EWHBqdTV5eERUa3ZsQTdPa1lqRTQ4RUFLNU1XYmp6aUJFeHNtaWZBTExGekFjR3RGazNIZw?oc=5",
       "title": "小田急、鉄道初の「手話リンク」導入…通訳者介して電話で問い合わせ可能に - 読売新聞",
       "summary": "小田急、鉄道初の「手話リンク」導入…通訳者介して電話で問い合わせ可能に 読売新聞",
@@ -577,15 +577,6 @@
       "sourceUrl": "https://kbc.co.jp",
       "publishedAt": "2026-04-17T05:33:00.000Z",
       "category": "education"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1aemlicDgyZEtGYnRiOHlWeC1aY1dVSllSUWhPNERJdC1RSl9hdDRPcHBfekMxU2ZaYmpaTE9Jd0dycG0tODVXZG5yRVFxZldTQnc1QndIdC1qWWtwWFc4UW1PYWZYZmVR?oc=5",
-      "title": "どうすれば安全安心：多量飲酒の男性、加齢性難聴多く - 毎日新聞",
-      "summary": "どうすれば安全安心：多量飲酒の男性、加齢性難聴多く 毎日新聞",
-      "sourceName": "毎日新聞",
-      "sourceUrl": "https://mainichi.jp",
-      "publishedAt": "2026-04-17T04:01:32.000Z",
-      "category": "general"
     },
     {
       "id": "https://co-coco.jp/news/kirienosekai_horio/",
@@ -642,13 +633,22 @@
       "category": "sports"
     },
     {
-      "id": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQb3BEVW1lTUsxYUpXVTIwdVpZbFVWNVhMZnNRZmlPbWhpVnNLQlo1dC0zSmxXWFFXX2xqcW05cFJKYXdNX3lRbmJlYlh3anZReHREN1pnbm9iQVhFZndiWnBFa3NsYkpLUEJrRmRxbUI5cXk5aGFzdDlQWjRJb1NHeG14SzJUMDBQX1E0NS00c1FmTWxPN3c?oc=5",
-      "title": "不在の交番相談「手話リンク」で…聴覚障害者らサポートへ導入 - 読売新聞",
-      "summary": "不在の交番相談「手話リンク」で…聴覚障害者らサポートへ導入 読売新聞",
+      "id": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOcHZpUlFsRlhLYWl6cExCeGNaOENuRDRXNGRoLVZJUE1WYWUwTWY2bVUzM3VPTVdEQ1VFeU1icFBRVndNeHRrR0VacG9HdUpvcVdEUjRta2UyRDhyNU1MMlRaZU5hVmdjRm1WSV9XNFhjN2daOVV1YU16ZnZreG9mOTdYTjhHN0cy?oc=5",
+      "title": "［歌手・俳優 井上順さん］難聴（１）耳を酷使して聴力低下 - 読売新聞",
+      "summary": "［歌手・俳優 井上順さん］難聴（１）耳を酷使して聴力低下 読売新聞",
       "sourceName": "読売新聞",
       "sourceUrl": "https://www.yomiuri.co.jp",
       "publishedAt": "2026-04-15T07:00:00.000Z",
       "category": "general"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPZjl5VlpZcWh5OXRqN2Mza2ZIV2VfcTllQzJZQURRSzNWYk8xSllxQlRMNlJmeDg1WXNhSXhiMmtDdTAzdXU3N1VuQjJMQWpkTVBIUkY4UnlOa3l4VjhVT2dXRjdFaU9lWHBIQWRBREdSRGVTMjNadEd6aElmSW02MFBDZm5RUkc1WkZUVGpSZw?oc=5",
+      "title": "めまい、難聴起こるメニエール病 生活習慣改善と薬で治らない場合の新治療は…似た病気に突発性難聴 - 読売新聞",
+      "summary": "めまい、難聴起こるメニエール病 生活習慣改善と薬で治らない場合の新治療は…似た病気に突発性難聴 読売新聞",
+      "sourceName": "読売新聞",
+      "sourceUrl": "https://www.yomiuri.co.jp",
+      "publishedAt": "2026-04-15T07:00:00.000Z",
+      "category": "medical"
     },
     {
       "id": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8ySFFqQ1YxWnk5eEVGM25rY1FTNl9JNFRMeVRYaTQwbjhaRUcxODBneTM5SDhtU29MU3RHV2tZalZJNGlPNDBsMjJpRTJMNndNMHZfYXp0dHYxYXdPdjdDYUhXb2lGNkluYXBoTTdLMA?oc=5",
@@ -661,6 +661,15 @@
     },
     {
       "id": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPVVhYNTgwYms2OGNudVlEdG5WcFBRMWFRY0JoZmlCM0VhTl8xUzUwckZOdE1WeFNERHRFNmN2a0Z1WDh1UzY3NFpGTEhsay15T3AtcXprUEZFTzFBQi15aGpZY2kwRW12aXBIZFBjeF9OM0t5bFEtc1VISEdFYlJNVmxFUXNITWNUaEE4Nk1mZXJ0aEloQmc?oc=5",
+      "title": "不在の交番相談「手話リンク」で…聴覚障害者らサポートへ導入 - 読売新聞",
+      "summary": "不在の交番相談「手話リンク」で…聴覚障害者らサポートへ導入 読売新聞",
+      "sourceName": "読売新聞",
+      "sourceUrl": "https://www.yomiuri.co.jp",
+      "publishedAt": "2026-04-15T07:00:00.000Z",
+      "category": "general"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQb3BEVW1lTUsxYUpXVTIwdVpZbFVWNVhMZnNRZmlPbWhpVnNLQlo1dC0zSmxXWFFXX2xqcW05cFJKYXdNX3lRbmJlYlh3anZReHREN1pnbm9iQVhFZndiWnBFa3NsYkpLUEJrRmRxbUI5cXk5aGFzdDlQWjRJb1NHeG14SzJUMDBQX1E0NS00c1FmTWxPN3c?oc=5",
       "title": "不在の交番相談「手話リンク」で…聴覚障害者らサポートへ導入 - 読売新聞",
       "summary": "不在の交番相談「手話リンク」で…聴覚障害者らサポートへ導入 読売新聞",
       "sourceName": "読売新聞",
@@ -750,6 +759,15 @@
       "category": "general"
     },
     {
+      "id": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1ERUhYWDNZcXNpNGMwekl6c0g4OEp6R0ZTemIxUmJxUE9PdEh2Rjlab1U3V1RpdVpLN3NRbHpYQnhxRDdjeTlJM0w3QVZXTkhHTDZXRFpjRUtlbTN2WnhONHlaeXgxNVhDSzdyNW1XUU0xeWtP?oc=5",
+      "title": "【横須賀市】総合福祉会館で「初心者向け手話教室（前期）」受講者募集！ 6月11日～7月9日 - 湘南人",
+      "summary": "【横須賀市】総合福祉会館で「初心者向け手話教室（前期）」受講者募集！ 6月11日～7月9日 湘南人",
+      "sourceName": "湘南人",
+      "sourceUrl": "https://shonanjin.com",
+      "publishedAt": "2026-04-13T07:00:00.000Z",
+      "category": "local"
+    },
+    {
       "id": "https://news.google.com/rss/articles/CBMiakFVX3lxTE56TnJxcGptZEh4aG01QzlGOVRWbTl6c1ZHXzdGV0dQZDNiTkV0NkVtSzFlVXAyRUpBei1hdDhYSWRiNG9JWEwtclhwby1STWpNTVREN3czS1NkUnd1TUZqRXg4dU9HME43aGc?oc=5",
       "title": "“会議や会話の取りこぼし”を減らす。話者名付きで会話を見える化する音声認識システム「TeamLog」を正式リリース。厚生労働省モデル事業での実証評価結果も公開 - PR TIMES",
       "summary": "“会議や会話の取りこぼし”を減らす。話者名付きで会話を見える化する音声認識システム「TeamLog」を正式リリース。厚生労働省モデル事業での実証評価結果も公開 PR TIMES",
@@ -782,15 +800,6 @@
       "summary": "手話の歴史を描く舞台『歩きはじめる時』2026年6月上演 Koubo",
       "sourceName": "Koubo",
       "sourceUrl": "https://koubo.jp",
-      "publishedAt": "2026-04-11T07:00:00.000Z",
-      "category": "general"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB3LUJGU0RsbmRuMVJNRFgySzM5NzB3MFlpMkNCVmJITzEtOXB6X1pBYjEzcDZzdjFiaEcxWWNtd0pXSnNmbXhRRGVBdXBRMUVHQjlIeg?oc=5",
-      "title": "山脇立嗣 脚本 ろう者×聴者 共に創り上げる舞台 - ニコニコニュース",
-      "summary": "山脇立嗣 脚本 ろう者×聴者 共に創り上げる舞台 ニコニコニュース",
-      "sourceName": "ニコニコニュース",
-      "sourceUrl": "https://news.nicovideo.jp",
       "publishedAt": "2026-04-11T07:00:00.000Z",
       "category": "general"
     },
@@ -829,15 +838,6 @@
       "sourceUrl": "https://news.yahoo.co.jp",
       "publishedAt": "2026-04-10T07:00:00.000Z",
       "category": "sports"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE04TTl5cEZlbDBSM2kydHBaYl9jM2g2T3RxX185aTl0aHl4S3pRQjJueDZBQ0lNVFdEWlEtejRSQmV2bzRzVDNfeDdjVGlhUWdTT1FwSjdEcmpDY2NLOGlF?oc=5",
-      "title": "補聴器を使わない難聴者は9割弱 \"聞こえづらさ\"を放置しがちな社会に｢cocoe Ear｣が放つ一手 - 東洋経済オンライン",
-      "summary": "補聴器を使わない難聴者は9割弱 \"聞こえづらさ\"を放置しがちな社会に｢cocoe Ear｣が放つ一手 東洋経済オンライン",
-      "sourceName": "東洋経済オンライン",
-      "sourceUrl": "https://toyokeizai.net",
-      "publishedAt": "2026-04-09T07:00:00.000Z",
-      "category": "medical"
     },
     {
       "id": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQelZacjNHcExPVl9ZTFl5RlBGYnhqLTd6ei01enVDRUYxRFFjSWZVVVJneFVDNGVhOFcxQWliNzkzems5c0VEeXBDdXFwTkhiYTJyejNlMlJid2xQOWs3dTh3dE5CZmpjcldZNHBuRllaek9YbFdDZGN0S0xScDVGb2lGa1VSN0JOLVljNWk2UVdvYnRHUWJGNGdOekVyVUF0LXc?oc=5",
@@ -1002,6 +1002,15 @@
       "category": "general"
     },
     {
+      "id": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9wZHdKSG8wUy1sVTJXNU05QXJPcGt1cGU0V0kwejBiS2ZKZmNhRjNJRkZFaHVpUS1HNXpyY09JVDVCSzdXWGthU2ZvVG9sYmhHQ00yTGFCMW96T3c?oc=5",
+      "title": "参加していた子どもが2025年デフリンピック日本代表に｜次は運営スタッフとして次世代へ-10年続く聴覚障害児スポーツ交流「デフスポフェスティバル」助成採択 - 朝日新聞",
+      "summary": "参加していた子どもが2025年デフリンピック日本代表に｜次は運営スタッフとして次世代へ-10年続く聴覚障害児スポーツ交流「デフスポフェスティバル」助成採択 朝日新聞",
+      "sourceName": "朝日新聞",
+      "sourceUrl": "https://www.asahi.com",
+      "publishedAt": "2026-04-03T07:00:00.000Z",
+      "category": "sports"
+    },
+    {
       "id": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBydlNVSk11amk5cHJPZmp0bW5HeWJsT1NmT0NVQUtVd1NmM0lMQ0hUbkVNa1lhbVZ0YVRuRWxfcGpWUGJZSXc?oc=5",
       "title": "【高校生対象】「第１３回全国高校生手話パフォーマンス甲子園」大会PRポスターデザイン募集 - Koubo",
       "summary": "【高校生対象】「第１３回全国高校生手話パフォーマンス甲子園」大会PRポスターデザイン募集 Koubo",
@@ -1090,15 +1099,6 @@
       "sourceUrl": "https://co-coco.jp/",
       "publishedAt": "2026-04-01T08:30:20.000Z",
       "category": "local"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPcmhpY1VuQnMwUEEtbGsxMjM0dlJNdE9RekdYQ2VhNF9Kbk9ZUmZNZVg4cUI2b2RmQVU2MVRQc0hrZndSU2VzZWFEaWViTmZEdjh6STFCalFDMUtPb0ZtcExiWUI4U25iS0NtdHU2SVNsRTExamFKam8zc0l2X3libnkxZmJzQ1FtcmY2X1pvY3VyOTBm?oc=5",
-      "title": "令和8年度高齢者補聴器購入費助成事業の交付申請について - city.maebashi.gunma.jp",
-      "summary": "令和8年度高齢者補聴器購入費助成事業の交付申請について city.maebashi.gunma.jp",
-      "sourceName": "city.maebashi.gunma.jp",
-      "sourceUrl": "https://www.city.maebashi.gunma.jp",
-      "publishedAt": "2026-04-01T07:00:00.000Z",
-      "category": "policy"
     },
     {
       "id": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1WOXdPcTJ1eFNlcVhCRC1IS19Zbk9uYVRlXzhBOXBKcnVRUGFJYnBJVWZHaGNKR2pDbXJ1enk0SWIyTk1qTDE2VEZfZ241U2RvNTVNQVVUeFhWQWxN?oc=5",
@@ -1198,6 +1198,15 @@
       "sourceUrl": "https://prtimes.jp",
       "publishedAt": "2026-03-31T07:00:00.000Z",
       "category": "sports"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE8tUkxUUG40UmFmM3ZMYTBQVUo4Um5MQ2h3WEtrel9nNzFMZDZSUUJvRFdHMlJVOGRQNDFLUXkzMURzOGVqN3BRVl9aQVZnY3dvVW1FcVl3RC1kRXlx?oc=5",
+      "title": "耳の聞こえない子どもへ贈る手話映画 今村監督と愛大・上田准教授が「どうする松本くん！」制作 - 東愛知新聞",
+      "summary": "耳の聞こえない子どもへ贈る手話映画 今村監督と愛大・上田准教授が「どうする松本くん！」制作 東愛知新聞",
+      "sourceName": "東愛知新聞",
+      "sourceUrl": "https://higashiaichi.jp",
+      "publishedAt": "2026-03-31T07:00:00.000Z",
+      "category": "culture"
     },
     {
       "id": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1Ja3lmRmdrdThFOUJvaVJ1el9ySnlodW1Pc05KRkZVeEFoXzYtQndHVFMwaS1WR1lCUGFMVzBlRGRQRzBveVdmV1NnVk5zVmRVVVhWYVZJbGt3WXVzNFlJ?oc=5",
@@ -2487,15 +2496,6 @@
       "category": "culture"
     },
     {
-      "id": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBmRVR3WXZBQ0NXdU9qSk9jVU5vSU9XTjJudWN1MnRWd1lHZFJwazg2Zl9sMUxVcS1LTWhLYXVxdFVZcFJYU1owY0t3Rk1DbHM3X2dFNFd5VHNaV2FEOTJZSHJSTHI5T3d2RzNn?oc=5",
-      "title": "第4回「聴覚障害者の生活」編（約15分） - pref.kagoshima.jp",
-      "summary": "第4回「聴覚障害者の生活」編（約15分） pref.kagoshima.jp",
-      "sourceName": "pref.kagoshima.jp",
-      "sourceUrl": "http://www.pref.kagoshima.jp",
-      "publishedAt": "2026-02-14T08:00:00.000Z",
-      "category": "general"
-    },
-    {
       "id": "https://www.deafswim.or.jp/2026/02/14/%e3%80%90%e3%81%8a%e7%9f%a5%e3%82%89%e3%81%9b%e3%80%912-15%e6%97%a5%e8%8c%a8%e9%81%b8%e6%89%8b%e3%81%8c-%e3%83%86%e3%83%ac%e3%83%93%e7%a5%9e%e5%a5%88%e5%b7%9d%e3%80%8c%e9%9f%b3%e3%81%aa%e3%81%8d/",
       "title": "【お知らせ】2/15(日)茨選手が テレビ神奈川「音なき応援から、見えた世界 ～ 神奈川からつながる、デフリンピック ～」に出演されます。",
       "summary": "茨隆太郎選手(SMBC日興証券)が出演される東京2025デフリンピックに向けた県の取組みや、神奈川県ゆかりのデ 続きを読む…",
@@ -2559,15 +2559,6 @@
       "category": "local"
     },
     {
-      "id": "https://news.google.com/rss/articles/CBMibEFVX3lxTE05cW9fV3gtdHF0VzJ0X0o5QVU4cTdIQkp4b1JWUzFWMldmRllRNGtxNkFncWt4ektjWFF2NnJIelRWWlVVeEItRHdzaWRfcVR3NFl0QnYwNkE2TjdwR3RoQ2NESWFxcElfMk15NA?oc=5",
-      "title": "電話リレーサービス 電話に誰もがアクセスできる社会を目指して（2/2） - 日本財団",
-      "summary": "電話リレーサービス 電話に誰もがアクセスできる社会を目指して（2/2） 日本財団",
-      "sourceName": "日本財団",
-      "sourceUrl": "https://www.nippon-foundation.or.jp",
-      "publishedAt": "2026-02-12T05:11:09.000Z",
-      "category": "general"
-    },
-    {
       "id": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9JbVBEZEpIWmFhWHlydW1vNUU3b0dLcC01akk1S1pXU2p5T0pqTFJteXRLWEE1aXBDb24xZm5Qb29TYXBLV1Rkck5iRlhla2VVQ3NZX2ROSmk3Vkxv?oc=5",
       "title": "聴覚障がい者向け 手話実況×Ontenna（オンテナ）を活用した試合観戦実施 - Fujitsu Sports",
       "summary": "聴覚障がい者向け 手話実況×Ontenna（オンテナ）を活用した試合観戦実施 Fujitsu Sports",
@@ -2575,6 +2566,15 @@
       "sourceUrl": "https://sports.jp.fujitsu.com",
       "publishedAt": "2026-02-10T08:00:00.000Z",
       "category": "general"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5hY0tid3VOSjQya1BQS2dhdFhMdFVVWm5TY0YwekFjY1ZXZ3owUmI4TjBtZnNHZjJMbHhrMDlKSFB3cE9lTDlka3owR1U5bmNqZ0laMjhUdW8?oc=5",
+      "title": "『難聴』で「認知症」になる可能性があるってホント？ 予防するための“補聴器の活用”とは？ - メディカルドック",
+      "summary": "『難聴』で「認知症」になる可能性があるってホント？ 予防するための“補聴器の活用”とは？ メディカルドック",
+      "sourceName": "メディカルドック",
+      "sourceUrl": "https://medicaldoc.jp",
+      "publishedAt": "2026-02-10T08:00:00.000Z",
+      "category": "medical"
     },
     {
       "id": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1idGxiY2pacnY1Tnl3SkdMbjlyQXJCdXBlMW0xTm9rTFJqQWRBUS1WcF8ybFlleFRlYjR0NmhhQmN1MHlmRnRDU01Idk1JY2xzSl9mNFpPYzFKTTktdnNtclROajRzZ3pGM0E?oc=5",
@@ -3153,15 +3153,6 @@
       "category": "sports"
     },
     {
-      "id": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1UNThZWVFqOTVla1RraHRncXNLRFNaT1RzZzdZa09vNkg2aGR3UWNzMVhqeTdGbU04QjQwNEJtU2hpNFF0bVlzTkJ2dVcyVERYeEtOdkhGeV9oOUx5M2JfNkQ2UVFPVUtic0wtY08xTzJmNFgxMTBnakdwdGo3amc?oc=5",
-      "title": "RAIN、聴覚障がいを持つファンへの発言を謝罪「配慮が足りなかった」（Kstyle） - Yahoo!ニュース",
-      "summary": "RAIN、聴覚障がいを持つファンへの発言を謝罪「配慮が足りなかった」（Kstyle） Yahoo!ニュース",
-      "sourceName": "Yahoo!ニュース",
-      "sourceUrl": "https://news.yahoo.co.jp",
-      "publishedAt": "2026-01-25T08:00:00.000Z",
-      "category": "general"
-    },
-    {
       "id": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1CZW54T2dBVVQ5N1FCMW5OOENDODU4TXFadW1sN04zeUZuWGpSY0o2UnNzQlFKa2FzZ3VnbE1GeWVUVW42Q2dDVklZN1pLbmZ5ZEZoNzZNZVlFZ1VxWGFhVmhGcWpXN2dTZUctUEJWaE52OXg5?oc=5",
       "title": "デフリンピックの認知度が73.1％まで大幅に上昇しました|1月 - metro.tokyo.lg.jp",
       "summary": "デフリンピックの認知度が73.1％まで大幅に上昇しました|1月 metro.tokyo.lg.jp",
@@ -3369,6 +3360,15 @@
       "category": "culture"
     },
     {
+      "id": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5jX0pFQUdwa05FX1JBMXR3aU5lVE82UUx6VWxlNGQ1bjNnUmt4VVQ2cU5tQ0ctSkgyd211TTdTeEc1UkRDSVRZUUkyUXVjNnlVZ0dtSTNpdzE?oc=5",
+      "title": "『老人性難聴』になりやすい人の特徴とは？ 「糖尿病・高血圧・喫煙歴」で注意が必要なのは？ - メディカルドック",
+      "summary": "『老人性難聴』になりやすい人の特徴とは？ 「糖尿病・高血圧・喫煙歴」で注意が必要なのは？ メディカルドック",
+      "sourceName": "メディカルドック",
+      "sourceUrl": "https://medicaldoc.jp",
+      "publishedAt": "2026-01-13T08:00:00.000Z",
+      "category": "general"
+    },
+    {
       "id": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNVW93OUtEOHBWRFY4a05WcHA2VWhwUFhJVHpzeWZFX3FQOU82dE45ZGQyYjRKWXN5dVpWMlY2aWx2LXdMUFg5ckYtWnI3U29sRjdySFVxZmtGTk91a0ZGMG5tc3ZPdDRWeGZGSkZqdjR2UWZ6eGNxZFdUNzZDWWNzOVRZdDNWNVBhTHZjS3paWDBneWxQY1VCd1pvME13U19aWnRN?oc=5",
       "title": "おそうしき 絵と手話で…別れ 聴覚障害児も一緒に - 読売新聞",
       "summary": "おそうしき 絵と手話で…別れ 聴覚障害児も一緒に 読売新聞",
@@ -3438,15 +3438,6 @@
       "sourceName": "AERA DIGITAL",
       "sourceUrl": "https://dot.asahi.com",
       "publishedAt": "2026-01-11T08:00:00.000Z",
-      "category": "general"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9FS3JHcklrLWF2cDFTWTFDWnpLTXRnSXBpM0RkMnFtYmlIRzdHaVYwNWprcUhFUUhZWVV6azlSZjY4Rm5IZlRuX2VoVXNxckJPMTFCOWZtcnRJSTFyWWtyWHRhWVFpQnVUbm1haTJRT2ZDVzBhZnNJ?oc=5",
-      "title": "難聴についての普及啓発期間の設定を！ - komei.or.jp",
-      "summary": "難聴についての普及啓発期間の設定を！ komei.or.jp",
-      "sourceName": "komei.or.jp",
-      "sourceUrl": "https://www.komei.or.jp",
-      "publishedAt": "2026-01-10T08:00:00.000Z",
       "category": "general"
     },
     {
@@ -3520,6 +3511,15 @@
       "sourceUrl": "https://www.city.hitachinaka.lg.jp",
       "publishedAt": "2026-01-06T08:00:00.000Z",
       "category": "local"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE02NzhHUnhfUnBYSjFXZTQ2aFNOMWFObzNSYlRCMmZtQklVX3NIQ1lIcFE5bnhKR3pWY283Uk5ZZkhCeXY0REVQLWNQYnBXTWVYZ2tGQzdQVQ?oc=5",
+      "title": "【 安西ひろこ 】 「突発性難聴」を公表 「私の世界が変わってしまいました」「不安や恐怖の中で 泣いて過ごして」 ステロイド効かず「最悪の場合 聴力やめまいは このままも 覚悟」 - TBS NEWS DIG",
+      "summary": "【 安西ひろこ 】 「突発性難聴」を公表 「私の世界が変わってしまいました」「不安や恐怖の中で 泣いて過ごして」 ステロイド効かず「最悪の場合 聴力やめまいは このままも 覚悟」 TBS NEWS DIG",
+      "sourceName": "TBS NEWS DIG",
+      "sourceUrl": "https://newsdig.tbs.co.jp",
+      "publishedAt": "2026-01-01T08:00:00.000Z",
+      "category": "general"
     },
     {
       "id": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5ILVNOMFlxZDg5MkdWQVVPZmNzbFJRNXhfY05FVGdCOUQ4WUdES0V2ZmRmYUcxdXFwVUw4a0t1OUsxU0V0cEtPWV9tODNMTkplWTF3a0MyUmZCYTBzRGZzY2hQaVNJNDA?oc=5",

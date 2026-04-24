@@ -6,7 +6,7 @@
     <atom:link href="https://tamas-hub.github.io/deaf-navi-web/feed.xml" rel="self" type="application/rss+xml" />
     <description>聴覚障害・難聴・ろう者コミュニティ向けに、全日本ろうあ連盟や主要報道機関から最新ニュースを厳選。制度・政策・医療・教育・地域情報を毎時自動更新するキュレーションサイト。手話・情報保障・補聴器・人工内耳・手話言語条例など幅広いテーマをカバー。</description>
     <language>ja-JP</language>
-    <lastBuildDate>Fri, 24 Apr 2026 10:22:52 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 24 Apr 2026 11:57:56 GMT</lastBuildDate>
     <ttl>60</ttl>
     <item>
       <title>福祉とアートの現場を巡るフィールドワーク in 関東、「PARC自由学校2026」で開催（5月14〜15日）</title>
@@ -61,6 +61,15 @@
       <description>障がい者の情報・手話条例求める声 三次市の9団体、市へ「安心して暮らせる地域に」 47NEWS</description>
       <category>制度・政策</category>
       <source url="https://www.47news.jp">47NEWS</source>
+    </item>
+    <item>
+      <title>騒がしい場所で話が聞き取れない……それは片耳の難聴「一側性難聴」のサインかも (Medical Note) - Yahoo!ニュース</title>
+      <link>https://news.google.com/rss/articles/CBMijgFBVV95cUxQVWo4UDV3cFBSejIwNjlWWlJoQ0NfZm5FU0h0LVBTNDJSUEhTMjc3V2w1SkdkSVpuQmdNMVBrWmJpMFVBU0dlcUtaXzRiVlgxYmk0d1FkdWZOdGM2aWRhSXJ0bFRBbkZiaGo0Tkc5UUtXRU5kQTlvV2ZEenNReWwySmxkWm03VHFiTVhEbkxn?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMijgFBVV95cUxQVWo4UDV3cFBSejIwNjlWWlJoQ0NfZm5FU0h0LVBTNDJSUEhTMjc3V2w1SkdkSVpuQmdNMVBrWmJpMFVBU0dlcUtaXzRiVlgxYmk0d1FkdWZOdGM2aWRhSXJ0bFRBbkZiaGo0Tkc5UUtXRU5kQTlvV2ZEenNReWwySmxkWm03VHFiTVhEbkxn?oc=5</guid>
+      <pubDate>Fri, 24 Apr 2026 02:50:10 GMT</pubDate>
+      <description>騒がしい場所で話が聞き取れない……それは片耳の難聴「一側性難聴」のサインかも (Medical Note) Yahoo!ニュース</description>
+      <category>一般</category>
+      <source url="https://news.yahoo.co.jp">Yahoo!ニュース</source>
     </item>
     <item>
       <title>「こんにちはカード」「しつもんカード」で子どもと大人の関係が変わる？ 里親制度の先進都市・福岡から生まれたコミュニケーションキット</title>
@@ -160,15 +169,6 @@
       <description>FDAが遺伝子治療Otarmeniを承認し先天性難聴の子どもに希望をもたらす mezha.net</description>
       <category>医療</category>
       <source url="https://mezha.net">mezha.net</source>
-    </item>
-    <item>
-      <title>ろう者の妻が抱える孤独と、子育てで揺らぐ夫婦の心 『幸せの、忘れもの。』本編映像が胸を締めつける - TRILL</title>
-      <link>https://news.google.com/rss/articles/CBMiT0FVX3lxTE9kZ1ZEb2xMOEI3R2IwQkFYd1NMTTNfYnR6RGYyQmlTTHRxQk9qUDRteDZvNFN2THM3TTRpcHI1eU9VZkRXb2swbzJnWjduTzg?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiT0FVX3lxTE9kZ1ZEb2xMOEI3R2IwQkFYd1NMTTNfYnR6RGYyQmlTTHRxQk9qUDRteDZvNFN2THM3TTRpcHI1eU9VZkRXb2swbzJnWjduTzg?oc=5</guid>
-      <pubDate>Thu, 23 Apr 2026 15:23:39 GMT</pubDate>
-      <description>ろう者の妻が抱える孤独と、子育てで揺らぐ夫婦の心 『幸せの、忘れもの。』本編映像が胸を締めつける TRILL</description>
-      <category>一般</category>
-      <source url="https://trilltrill.jp">TRILL</source>
     </item>
     <item>
       <title>交番や駐在所にビデオ通話利用した手話の受け付け導入 三重 - NHKニュース</title>
