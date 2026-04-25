@@ -6,7 +6,7 @@
     <atom:link href="https://tamas-hub.github.io/deaf-navi-web/feed.xml" rel="self" type="application/rss+xml" />
     <description>聴覚障害・難聴・ろう者コミュニティ向けに、全日本ろうあ連盟や主要報道機関から最新ニュースを厳選。制度・政策・医療・教育・地域情報を毎時自動更新するキュレーションサイト。手話・情報保障・補聴器・人工内耳・手話言語条例など幅広いテーマをカバー。</description>
     <language>ja-JP</language>
-    <lastBuildDate>Sat, 25 Apr 2026 17:38:05 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 25 Apr 2026 18:54:48 GMT</lastBuildDate>
     <ttl>60</ttl>
     <item>
       <title>森智広『【『四日市市手話言語条例』制定/4月から施行】手話言語を使って安心して暮らすことのできるまちへ』 - アメーバブログ</title>
@@ -72,6 +72,15 @@
       <source url="https://digital.komei-shimbun.jp">公明新聞電子版プラス</source>
     </item>
     <item>
+      <title>安西ひろこ、医師からの言葉に「ず〜んときます」 突発性難聴公表から4ヶ月…診断結果明かす（オリコン） - Yahoo!ニュース</title>
+      <link>https://news.google.com/rss/articles/CBMif0FVX3lxTE9zdEZEVW5WMVVMZjRnTmFLYmxiaXB1bXBfM0kxY3ctaGxyV1ZjQmN0UUg4Vk4tM0xxeThKdVRLUGEtT3dlOURBUVBKWDBuTVBkMk9wOWF0eno2dXA4ODVVZXRSMXBBR0xoTXhtaFl5TXpwdjZiTFd1TVczX3NIU1E?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMif0FVX3lxTE9zdEZEVW5WMVVMZjRnTmFLYmxiaXB1bXBfM0kxY3ctaGxyV1ZjQmN0UUg4Vk4tM0xxeThKdVRLUGEtT3dlOURBUVBKWDBuTVBkMk9wOWF0eno2dXA4ODVVZXRSMXBBR0xoTXhtaFl5TXpwdjZiTFd1TVczX3NIU1E?oc=5</guid>
+      <pubDate>Sat, 25 Apr 2026 00:44:30 GMT</pubDate>
+      <description>安西ひろこ、医師からの言葉に「ず〜んときます」 突発性難聴公表から4ヶ月…診断結果明かす（オリコン） Yahoo!ニュース</description>
+      <category>医療</category>
+      <source url="https://news.yahoo.co.jp">Yahoo!ニュース</source>
+    </item>
+    <item>
       <title>安西ひろこ、医師からの言葉に「ず～んときます」 突発性難聴公表から4ヶ月…診断結果明かす - オリコンニュース</title>
       <link>https://news.google.com/rss/articles/CBMiT0FVX3lxTE9jQ0tBSUJTMnhYN2N6ZUlFLUQyM3JvRTh1cTFRTTA0SnAtc051TW5fMHJEbnNHYTdWYWtQaGlGUkJOUW1lWHNlUzd4TWFGbUE?oc=5</link>
       <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiT0FVX3lxTE9jQ0tBSUJTMnhYN2N6ZUlFLUQyM3JvRTh1cTFRTTA0SnAtc051TW5fMHJEbnNHYTdWYWtQaGlGUkJOUW1lWHNlUzd4TWFGbUE?oc=5</guid>
@@ -79,15 +88,6 @@
       <description>安西ひろこ、医師からの言葉に「ず～んときます」 突発性難聴公表から4ヶ月…診断結果明かす オリコンニュース</description>
       <category>医療</category>
       <source url="https://www.oricon.co.jp">オリコンニュース</source>
-    </item>
-    <item>
-      <title>安西ひろこ、医師からの言葉に「ず〜んときます」 突発性難聴公表から4ヶ月…診断結果明かす - ｄメニューニュース</title>
-      <link>https://news.google.com/rss/articles/CBMigAFBVV95cUxPSmxDMk1IZWtYYUY3YnJsRFh1T3htOUZOaHN5czZWVzAwbUQyMGFWb3ZiNWVYWHdLWEVWQklBZFR2ODdQZ0ZXZjhLMm9rWDJrR01lb21KalJndTlNM3NjV0NUcTQ5cW03UjNXZ3A1WG1mR3Y3aVNucHdoUE5KMjJSX9IBhgFBVV95cUxPdGxGWkp1TnBjTkx0T0hoOXdkX2dXc1FRa0l5WFBlZk9FZjVBVnVPWERja3RTellLbnZXTnowMlBUbUY0X280ZFExQnFMZno0bGNXS1RjalpZaWh6dHJJeE5mZzBRWjNmbzBLS0dXelVJRkxwNXVvc1l5VHpqeFF5b3FQNnJEUQ?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMigAFBVV95cUxPSmxDMk1IZWtYYUY3YnJsRFh1T3htOUZOaHN5czZWVzAwbUQyMGFWb3ZiNWVYWHdLWEVWQklBZFR2ODdQZ0ZXZjhLMm9rWDJrR01lb21KalJndTlNM3NjV0NUcTQ5cW03UjNXZ3A1WG1mR3Y3aVNucHdoUE5KMjJSX9IBhgFBVV95cUxPdGxGWkp1TnBjTkx0T0hoOXdkX2dXc1FRa0l5WFBlZk9FZjVBVnVPWERja3RTellLbnZXTnowMlBUbUY0X280ZFExQnFMZno0bGNXS1RjalpZaWh6dHJJeE5mZzBRWjNmbzBLS0dXelVJRkxwNXVvc1l5VHpqeFF5b3FQNnJEUQ?oc=5</guid>
-      <pubDate>Sat, 25 Apr 2026 00:44:00 GMT</pubDate>
-      <description>安西ひろこ、医師からの言葉に「ず〜んときます」 突発性難聴公表から4ヶ月…診断結果明かす ｄメニューニュース</description>
-      <category>医療</category>
-      <source url="https://topics.smt.docomo.ne.jp">ｄメニューニュース</source>
     </item>
     <item>
       <title>認知症発症のリスク1位は難聴、2位は運動不足…ではすべき運動とは？ 49歳オジ記者が学ぶ認知症予防のための「理想の運動習慣」（文春オンライン） - Yahoo!ニュース</title>
@@ -189,15 +189,6 @@
       <source url="https://news.yahoo.co.jp">Yahoo!ニュース</source>
     </item>
     <item>
-      <title>警察官不在でも聴覚障がい者に対応 三重県内すべての交番・駐在所で手話通訳システム導入 - au Webポータル</title>
-      <link>https://news.google.com/rss/articles/CBMie0FVX3lxTE5pbWNCMHFRUTZiQnN2Q2UwcWxfbXQ2X3lFU2IyUVN3WUlnTHNiTjlfM3E4OE93NG9BUUZIYnlrOVhsVFktUWZQcWRqaWpOSVV0Y1EyUlhfMzR2Zm0tYTd4YlZqV2NJb2dsUUR5LUFxakx3ajZnd1ZxWktrZw?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMie0FVX3lxTE5pbWNCMHFRUTZiQnN2Q2UwcWxfbXQ2X3lFU2IyUVN3WUlnTHNiTjlfM3E4OE93NG9BUUZIYnlrOVhsVFktUWZQcWRqaWpOSVV0Y1EyUlhfMzR2Zm0tYTd4YlZqV2NJb2dsUUR5LUFxakx3ajZnd1ZxWktrZw?oc=5</guid>
-      <pubDate>Fri, 24 Apr 2026 00:34:00 GMT</pubDate>
-      <description>警察官不在でも聴覚障がい者に対応 三重県内すべての交番・駐在所で手話通訳システム導入 au Webポータル</description>
-      <category>地域</category>
-      <source url="https://article.auone.jp">au Webポータル</source>
-    </item>
-    <item>
       <title>交番や駐在所に「手話リンク」 警官不在でも通話可能に 三重県警（伊勢新聞） - Yahoo!ニュース</title>
       <link>https://news.google.com/rss/articles/CBMif0FVX3lxTFAzUkxteXh6ODctSHRjV1hpRWhGVFdpc0NIRnlrVnEzdlhqS1doMFFCRHk4elhkeUVXTHBUX3h0bFhWcHNPQzRrMnZzRnY4bnRuaVpmODhTQXJ3UXhvYUVkMXJiU0V5c0N0WndBV3UtdG5GQ1lPeDAzaFktSEtiSDg?oc=5</link>
       <guid isPermaLink="true">https://news.google.com/rss/articles/CBMif0FVX3lxTFAzUkxteXh6ODctSHRjV1hpRWhGVFdpc0NIRnlrVnEzdlhqS1doMFFCRHk4elhkeUVXTHBUX3h0bFhWcHNPQzRrMnZzRnY4bnRuaVpmODhTQXJ3UXhvYUVkMXJiU0V5c0N0WndBV3UtdG5GQ1lPeDAzaFktSEtiSDg?oc=5</guid>
@@ -207,24 +198,6 @@
       <source url="https://news.yahoo.co.jp">Yahoo!ニュース</source>
     </item>
     <item>
-      <title>通訳オペレーター介し安心して相談 三重県警「手話リンク」導入 - 中日新聞Web</title>
-      <link>https://news.google.com/rss/articles/CBMiVEFVX3lxTFBVT2M0bFc5aUVUOWg2RUtUVzRnQnd1RXhXMDNGU215emk5alBNRXFGem5ndjVLVzltckFiVy1MaEhrSWNyTk8yLXU1RzZQVklsUkhFNw?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiVEFVX3lxTFBVT2M0bFc5aUVUOWg2RUtUVzRnQnd1RXhXMDNGU215emk5alBNRXFGem5ndjVLVzltckFiVy1MaEhrSWNyTk8yLXU1RzZQVklsUkhFNw?oc=5</guid>
-      <pubDate>Thu, 23 Apr 2026 20:05:00 GMT</pubDate>
-      <description>通訳オペレーター介し安心して相談 三重県警「手話リンク」導入 中日新聞Web</description>
-      <category>地域</category>
-      <source url="https://www.chunichi.co.jp">中日新聞Web</source>
-    </item>
-    <item>
-      <title>通訳オペレーター介し安心して相談 三重県警「手話リンク」導入 - 47NEWS</title>
-      <link>https://news.google.com/rss/articles/CBMiS0FVX3lxTE5PVzZvWXd0WmV3b0tWbWlCQzB6clZCaFFVdGwtTEdvNGlpUFpDN1ZKVUJjOThPeXhsbFlCZDlNd3B1Z2tNdlRzcDlrSQ?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiS0FVX3lxTE5PVzZvWXd0WmV3b0tWbWlCQzB6clZCaFFVdGwtTEdvNGlpUFpDN1ZKVUJjOThPeXhsbFlCZDlNd3B1Z2tNdlRzcDlrSQ?oc=5</guid>
-      <pubDate>Thu, 23 Apr 2026 20:05:00 GMT</pubDate>
-      <description>通訳オペレーター介し安心して相談 三重県警「手話リンク」導入 47NEWS</description>
-      <category>地域</category>
-      <source url="https://www.47news.jp">47NEWS</source>
-    </item>
-    <item>
       <title>【 女性歌手・ZOOCO 】小さなバッテリーで自宅全焼 その後『ストレス性突発難聴』で〝一定の音域の聴力を失う〟 - ｄメニューニュース</title>
       <link>https://news.google.com/rss/articles/CBMieEFVX3lxTE92aTlWcy1KbXBiTU1Calo1V3Z6ZFh2SnJ1eE94S3hWR0pQaF9iTWVuQWJmMmtQN0NvbXVYSlVDNjhSWnF3UlJtQ3dXTWRTMmpRaFhTR2dqZFp1Um82eHpaNlVHWUVENUhXRlVYRnNIdnNSSFNoTEEtcdIBfkFVX3lxTFBnV3dTM25CTHU2eDBJMnZJczVxTFlKN2xReWt2cW1WNnVzdVFjWEZmemFHelBuRjlFallRc2NKU2Q0X3RlNURnYlVaVXFTZUFWMHAwNVl3V0t2QVFfNmZCYy1WRUk2WloyMkE5QXFXS3RDZ0NnalJrUWpfLXJDZw?oc=5</link>
       <guid isPermaLink="true">https://news.google.com/rss/articles/CBMieEFVX3lxTE92aTlWcy1KbXBiTU1Calo1V3Z6ZFh2SnJ1eE94S3hWR0pQaF9iTWVuQWJmMmtQN0NvbXVYSlVDNjhSWnF3UlJtQ3dXTWRTMmpRaFhTR2dqZFp1Um82eHpaNlVHWUVENUhXRlVYRnNIdnNSSFNoTEEtcdIBfkFVX3lxTFBnV3dTM25CTHU2eDBJMnZJczVxTFlKN2xReWt2cW1WNnVzdVFjWEZmemFHelBuRjlFallRc2NKU2Q0X3RlNURnYlVaVXFTZUFWMHAwNVl3V0t2QVFfNmZCYy1WRUk2WloyMkE5QXFXS3RDZ0NnalJrUWpfLXJDZw?oc=5</guid>
@@ -232,15 +205,6 @@
       <description>【 女性歌手・ZOOCO 】小さなバッテリーで自宅全焼 その後『ストレス性突発難聴』で〝一定の音域の聴力を失う〟 ｄメニューニュース</description>
       <category>一般</category>
       <source url="https://topics.smt.docomo.ne.jp">ｄメニューニュース</source>
-    </item>
-    <item>
-      <title>交番や駐在所にビデオ通話利用した手話の受け付け導入 三重 - NHKニュース</title>
-      <link>https://news.google.com/rss/articles/CBMiWEFVX3lxTE83UmlScV82T2VZMFJ5REZzYTBzOHNEZzNNU1JDMzFkM1VkUGIyc1M2eTJOZG5TemVldTZIWjhqTHBKTmVCTGxpUGN2ZExROHdMck9DSWxHTlU?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiWEFVX3lxTE83UmlScV82T2VZMFJ5REZzYTBzOHNEZzNNU1JDMzFkM1VkUGIyc1M2eTJOZG5TemVldTZIWjhqTHBKTmVCTGxpUGN2ZExROHdMck9DSWxHTlU?oc=5</guid>
-      <pubDate>Thu, 23 Apr 2026 08:59:00 GMT</pubDate>
-      <description>交番や駐在所にビデオ通話利用した手話の受け付け導入 三重 NHKニュース</description>
-      <category>一般</category>
-      <source url="https://news.web.nhk">NHKニュース</source>
     </item>
     <item>
       <title>ヒュンメルがガンバ大阪と手話シャツの寄付で聴覚障がい者支援に - PR TIMES</title>
@@ -406,21 +370,12 @@
     </item>
     <item>
       <title>手話で万引きや酔っ払いにも対応 都内3カ所に〝手話ができるおまわりさん〟 制度は94年から（withnews by 朝日新聞） - Yahoo!ニュース</title>
-      <link>https://news.google.com/rss/articles/CBMiiAFBVV95cUxQY2E0cFRKOThvTHBQZi1PNHRlTWF6Ujg2Vm1vSmJvNkNzSTBuTFMxWU5qNEFvXzRTSGZUMEM0NGpyc1ItUUJfZW55Q2RUellKb1ZrLXRkQkY1N2NFSWNVTFJYekkzYnM3Y1Jrd1AtOUFjTDEtdFc4WjNSdks2LVZ1R01VVzkyS3df?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiiAFBVV95cUxQY2E0cFRKOThvTHBQZi1PNHRlTWF6Ujg2Vm1vSmJvNkNzSTBuTFMxWU5qNEFvXzRTSGZUMEM0NGpyc1ItUUJfZW55Q2RUellKb1ZrLXRkQkY1N2NFSWNVTFJYekkzYnM3Y1Jrd1AtOUFjTDEtdFc4WjNSdks2LVZ1R01VVzkyS3df?oc=5</guid>
+      <link>https://news.google.com/rss/articles/CBMif0FVX3lxTE1zNG9aZkdhV3RVWTNOUFRBU2REd1dMVUtzdXdnQ2k2dm92YVB5NDNLQ0MzS0JuTnV5Z3J0VUVfRV9yS3M0YWV2YlFyM3NPc003RVN6SURocWtGX0tnN1I4WUw5dlh1SUNjUHdhTTVQTk9UNmZBVXROLTU2eXZtTHc?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMif0FVX3lxTE1zNG9aZkdhV3RVWTNOUFRBU2REd1dMVUtzdXdnQ2k2dm92YVB5NDNLQ0MzS0JuTnV5Z3J0VUVfRV9yS3M0YWV2YlFyM3NPc003RVN6SURocWtGX0tnN1I4WUw5dlh1SUNjUHdhTTVQTk9UNmZBVXROLTU2eXZtTHc?oc=5</guid>
       <pubDate>Sun, 19 Apr 2026 22:00:00 GMT</pubDate>
       <description>手話で万引きや酔っ払いにも対応 都内3カ所に〝手話ができるおまわりさん〟 制度は94年から（withnews by 朝日新聞） Yahoo!ニュース</description>
       <category>制度・政策</category>
       <source url="https://news.yahoo.co.jp">Yahoo!ニュース</source>
-    </item>
-    <item>
-      <title>手話ができるおまわりさん、胸に黄色いバッジ 巡回中の出会いが契機 - 朝日新聞</title>
-      <link>https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9oWlotUUdJOU52OEJqRXV0RXc3R0x5XzhtX09ya25UMWtyNHc2SjRzdUFTdUxJWFZsV1RmMjZjVjNSeGU4c3k4eWRpbVJvZHVfbU0zVGF6TkFORHJDWjBtSDhSLVBDRlU?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9oWlotUUdJOU52OEJqRXV0RXc3R0x5XzhtX09ya25UMWtyNHc2SjRzdUFTdUxJWFZsV1RmMjZjVjNSeGU4c3k4eWRpbVJvZHVfbU0zVGF6TkFORHJDWjBtSDhSLVBDRlU?oc=5</guid>
-      <pubDate>Sun, 19 Apr 2026 21:50:00 GMT</pubDate>
-      <description>手話ができるおまわりさん、胸に黄色いバッジ 巡回中の出会いが契機 朝日新聞</description>
-      <category>一般</category>
-      <source url="https://www.asahi.com">朝日新聞</source>
     </item>
     <item>
       <title>運転免許講習 手話通訳士、7府県警のみ 「予算措置、困難」 毎日新聞アンケート - 毎日新聞</title>
@@ -457,6 +412,51 @@
       <description>考え方も境遇も異なる、20代ろう者３人のリアルな胸の内を。彼らを取り巻く環境の現状について（水上賢治） - エキスパート Yahoo!ニュース</description>
       <category>一般</category>
       <source url="https://news.yahoo.co.jp">Yahoo!ニュース</source>
+    </item>
+    <item>
+      <title>目で聴く人々：／12 聴覚障害児が共同生活 多くの人と手話、成長に ／東京 - 毎日新聞</title>
+      <link>https://news.google.com/rss/articles/CBMiaEFVX3lxTE02ejJDQ0J5S1A4X3J6Ml9ocUFzVkdrSmoxaldjbFdfanNFSUExUnlpMXhJc1UwLXhkT1MyQXhXZThWUTZrYS0tMkpQcGs1UzRXaWhaYlh3UE42clRSbC1zLW1iZS1lWm11?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiaEFVX3lxTE02ejJDQ0J5S1A4X3J6Ml9ocUFzVkdrSmoxaldjbFdfanNFSUExUnlpMXhJc1UwLXhkT1MyQXhXZThWUTZrYS0tMkpQcGs1UzRXaWhaYlh3UE42clRSbC1zLW1iZS1lWm11?oc=5</guid>
+      <pubDate>Fri, 17 Apr 2026 17:07:53 GMT</pubDate>
+      <description>目で聴く人々：／12 聴覚障害児が共同生活 多くの人と手話、成長に ／東京 毎日新聞</description>
+      <category>一般</category>
+      <source url="https://mainichi.jp">毎日新聞</source>
+    </item>
+    <item>
+      <title>鳥取県 平井伸治知事、東大阪市 野田義和市長に感謝状を贈呈しました</title>
+      <link>https://www.jfd.or.jp/2026/04/17/pid30053</link>
+      <guid isPermaLink="true">https://www.jfd.or.jp/2026/04/17/pid30053</guid>
+      <pubDate>Fri, 17 Apr 2026 14:02:23 GMT</pubDate>
+      <description>昨年の第25回夏季デフリンピック競技大会 東京2025開催に際し、デフリンピック運営委員会に行政職員を派遣してくださった鳥取県と東大阪市を訪れ、東京都・東京都スポーツ文化事業団・全日本ろうあ連盟の連名による感謝状を贈呈 […]</description>
+      <category>文化・芸能</category>
+      <source url="https://www.jfd.or.jp/">全日本ろうあ連盟</source>
+    </item>
+    <item>
+      <title>「大変だとは思わなかった」脚本家兼手話通訳の女性が語る 耳が聞こえない親への想い：家、ついて行ってイイですか？ - tv-tokyo.co.jp</title>
+      <link>https://news.google.com/rss/articles/CBMic0FVX3lxTFBUXzF1MW1mZWpWemhpOWswNE5QUHhCeVp0bndfZU1EQXBjX2ZFdmF2RUpzWG83eGRXdWFpMlNHM0Y0YWg2R2tHZUtmVFF2SXpyQWgxYTJabEI4WjB6cTQ3QlpxMHY5R3JoRl8tTmtQaVlYSGc?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMic0FVX3lxTFBUXzF1MW1mZWpWemhpOWswNE5QUHhCeVp0bndfZU1EQXBjX2ZFdmF2RUpzWG83eGRXdWFpMlNHM0Y0YWg2R2tHZUtmVFF2SXpyQWgxYTJabEI4WjB6cTQ3QlpxMHY5R3JoRl8tTmtQaVlYSGc?oc=5</guid>
+      <pubDate>Fri, 17 Apr 2026 09:31:24 GMT</pubDate>
+      <description>「大変だとは思わなかった」脚本家兼手話通訳の女性が語る 耳が聞こえない親への想い：家、ついて行ってイイですか？ tv-tokyo.co.jp</description>
+      <category>一般</category>
+      <source url="https://www.tv-tokyo.co.jp">tv-tokyo.co.jp</source>
+    </item>
+    <item>
+      <title>「4人に1人」難聴時代に備えを 進化する補聴器、AI活用しクリアに - 日本経済新聞</title>
+      <link>https://news.google.com/rss/articles/CBMibEFVX3lxTE1hQXh3YXpqTmdGYjQ4emV6LXM1aHN6TFdkRWpOUE81OXloUkNWSXUwZUl1Z25RU1FoR0lFNHg1bGVZaWY4UldoWmlsM1N4c2pROUN1bkEyS2xRYTRIMWdLYnZ5Zi1UV1IyVWFwNg?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMibEFVX3lxTE1hQXh3YXpqTmdGYjQ4emV6LXM1aHN6TFdkRWpOUE81OXloUkNWSXUwZUl1Z25RU1FoR0lFNHg1bGVZaWY4UldoWmlsM1N4c2pROUN1bkEyS2xRYTRIMWdLYnZ5Zi1UV1IyVWFwNg?oc=5</guid>
+      <pubDate>Fri, 17 Apr 2026 07:00:00 GMT</pubDate>
+      <description>「4人に1人」難聴時代に備えを 進化する補聴器、AI活用しクリアに 日本経済新聞</description>
+      <category>医療</category>
+      <source url="https://www.nikkei.com">日本経済新聞</source>
+    </item>
+    <item>
+      <title>夢への道のり「必ず力になる」 デフサッカー日本代表・松元選手、秋田市で講演 - 47NEWS</title>
+      <link>https://news.google.com/rss/articles/CBMiS0FVX3lxTE5nRzBUSTEyNzBJSXotWmhTMy1McGNvazdqTEJ2MkRQMmdqZ0tRMFpLbnRxeVIzeGhlMTEwem9LRi1HTDV1WWR0ZjZYdw?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiS0FVX3lxTE5nRzBUSTEyNzBJSXotWmhTMy1McGNvazdqTEJ2MkRQMmdqZ0tRMFpLbnRxeVIzeGhlMTEwem9LRi1HTDV1WWR0ZjZYdw?oc=5</guid>
+      <pubDate>Fri, 17 Apr 2026 07:00:00 GMT</pubDate>
+      <description>夢への道のり「必ず力になる」 デフサッカー日本代表・松元選手、秋田市で講演 47NEWS</description>
+      <category>デフスポーツ</category>
+      <source url="https://www.47news.jp">47NEWS</source>
     </item>
   </channel>
 </rss>
