@@ -6,16 +6,34 @@
     <atom:link href="https://tamas-hub.github.io/deaf-navi-web/feed.xml" rel="self" type="application/rss+xml" />
     <description>聴覚障害・難聴・ろう者コミュニティ向けに、全日本ろうあ連盟や主要報道機関から最新ニュースを厳選。制度・政策・医療・教育・地域情報を毎時自動更新するキュレーションサイト。手話・情報保障・補聴器・人工内耳・手話言語条例など幅広いテーマをカバー。</description>
     <language>ja-JP</language>
-    <lastBuildDate>Sun, 26 Apr 2026 02:47:33 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 26 Apr 2026 05:40:46 GMT</lastBuildDate>
     <ttl>60</ttl>
     <item>
-      <title>警官不在でも手話通訳 オペレーターと動画で 県警、全交番・駐在所に導入 ／三重 - 毎日新聞</title>
-      <link>https://news.google.com/rss/articles/CBMiaEFVX3lxTE9UWXRXYjFaY0NQVFJlU1dTOVZIMDYwOTNMTjBSTG5VWm5FaEFvSU1SYkRCa0M0LXdKMTRRTWREcVZQZTJoSjVhb01vdllKOEdyMldPU2F4ajhrQU5wcDhsYlVzTFB3aFZU?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiaEFVX3lxTE9UWXRXYjFaY0NQVFJlU1dTOVZIMDYwOTNMTjBSTG5VWm5FaEFvSU1SYkRCa0M0LXdKMTRRTWREcVZQZTJoSjVhb01vdllKOEdyMldPU2F4ajhrQU5wcDhsYlVzTFB3aFZU?oc=5</guid>
-      <pubDate>Sun, 26 Apr 2026 01:08:43 GMT</pubDate>
-      <description>警官不在でも手話通訳 オペレーターと動画で 県警、全交番・駐在所に導入 ／三重 毎日新聞</description>
-      <category>地域</category>
-      <source url="https://mainichi.jp">毎日新聞</source>
+      <title>黒柳徹子プロデュース 手話狂言ドキュメンタリー映画『心耳』 - 映画情報どっとこむ</title>
+      <link>https://news.google.com/rss/articles/CBMiTEFVX3lxTFA3ZFk3cFljaVZFdlMxTlVhdFF4SnZiQmRwTXRxQVNfVmNOUkJUNzE1VVdVUUo0NzlkRUtoUmlvWjBpX3E4cFFDM3VDM2o?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiTEFVX3lxTFA3ZFk3cFljaVZFdlMxTlVhdFF4SnZiQmRwTXRxQVNfVmNOUkJUNzE1VVdVUUo0NzlkRUtoUmlvWjBpX3E4cFFDM3VDM2o?oc=5</guid>
+      <pubDate>Sun, 26 Apr 2026 03:13:10 GMT</pubDate>
+      <description>黒柳徹子プロデュース 手話狂言ドキュメンタリー映画『心耳』 映画情報どっとこむ</description>
+      <category>文化・芸能</category>
+      <source url="https://eigajoho.com">映画情報どっとこむ</source>
+    </item>
+    <item>
+      <title>黒柳徹子プロデュース。手話狂言の世界に迫る「心耳〜耳を澄まさぬ表現者たち」（キネマ旬報WEB） - Yahoo!ニュース</title>
+      <link>https://news.google.com/rss/articles/CBMif0FVX3lxTE1MTURJMTN1b1RrOEVIRl9rR0dLdURrbWlvOUZmX0dkSUk4UmNjbGRxNVdoanNleVRoUGZKa1VnaWtCQTZueEJPV2RZNm1qRFJtb0VQbGFlYTJzZlppcFlaRU9wU014SVplS1g4d2tRZFh3RDlzNmJrTFp2Q3N2NTQ?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMif0FVX3lxTE1MTURJMTN1b1RrOEVIRl9rR0dLdURrbWlvOUZmX0dkSUk4UmNjbGRxNVdoanNleVRoUGZKa1VnaWtCQTZueEJPV2RZNm1qRFJtb0VQbGFlYTJzZlppcFlaRU9wU014SVplS1g4d2tRZFh3RDlzNmJrTFp2Q3N2NTQ?oc=5</guid>
+      <pubDate>Sun, 26 Apr 2026 03:03:00 GMT</pubDate>
+      <description>黒柳徹子プロデュース。手話狂言の世界に迫る「心耳〜耳を澄まさぬ表現者たち」（キネマ旬報WEB） Yahoo!ニュース</description>
+      <category>文化・芸能</category>
+      <source url="https://news.yahoo.co.jp">Yahoo!ニュース</source>
+    </item>
+    <item>
+      <title>黒柳徹子プロデュース ”手話狂言”の魅力に迫るドキュメンタリー『心耳～耳を澄まさぬ表現者たち』7月25日公開 - Yahoo!ニュース</title>
+      <link>https://news.google.com/rss/articles/CBMif0FVX3lxTE0tdW9PeVhnN0dBekNVSkFpN0RVZ1NhWXVhTHRXQXQ5X2JXSjZoV01CenlEcXEtTmtTSm0xUGw5WVlJQzJHcUpBcGg5OENCUzBHMGNadUl5UFlXazJrckNMYl9PNnFBRllHNHNrOUVVckpPWEZMaGxsN0lwZWktS28?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMif0FVX3lxTE0tdW9PeVhnN0dBekNVSkFpN0RVZ1NhWXVhTHRXQXQ5X2JXSjZoV01CenlEcXEtTmtTSm0xUGw5WVlJQzJHcUpBcGg5OENCUzBHMGNadUl5UFlXazJrckNMYl9PNnFBRllHNHNrOUVVckpPWEZMaGxsN0lwZWktS28?oc=5</guid>
+      <pubDate>Sun, 26 Apr 2026 03:00:04 GMT</pubDate>
+      <description>黒柳徹子プロデュース ”手話狂言”の魅力に迫るドキュメンタリー『心耳～耳を澄まさぬ表現者たち』7月25日公開 Yahoo!ニュース</description>
+      <category>文化・芸能</category>
+      <source url="https://news.yahoo.co.jp">Yahoo!ニュース</source>
     </item>
     <item>
       <title>22歳女優、進行性難聴と生きる決意 「聴こえなくなったら終わり」から変わった覚悟（集英社オンライン） - Yahoo!ニュース</title>
@@ -39,7 +57,7 @@
       <title>突発性難聴を明かした女性タレント 医師から「厳しい」「終わり」つらい言葉 検査結果に心境つづる - Yahoo!ニュース</title>
       <link>https://news.google.com/rss/articles/CBMif0FVX3lxTE83d0tZVXpnclZaMjVpXzlpQ0dvcGNqZnRuSU51Z2kwa3pYQTJRTkVTc2Y4Q3YzOGRpWmVIdlpEU3MtQTlXSFg0SE50QVU4c0xKb1BCUFpnWU40MWR1b1BmTTlvLTJhN3hreHBmc3c3YmJhbV95VjFydHJsTG9IVjQ?oc=5</link>
       <guid isPermaLink="true">https://news.google.com/rss/articles/CBMif0FVX3lxTE83d0tZVXpnclZaMjVpXzlpQ0dvcGNqZnRuSU51Z2kwa3pYQTJRTkVTc2Y4Q3YzOGRpWmVIdlpEU3MtQTlXSFg0SE50QVU4c0xKb1BCUFpnWU40MWR1b1BmTTlvLTJhN3hreHBmc3c3YmJhbV95VjFydHJsTG9IVjQ?oc=5</guid>
-      <pubDate>Sat, 25 Apr 2026 22:40:24 GMT</pubDate>
+      <pubDate>Sat, 25 Apr 2026 22:44:49 GMT</pubDate>
       <description>突発性難聴を明かした女性タレント 医師から「厳しい」「終わり」つらい言葉 検査結果に心境つづる Yahoo!ニュース</description>
       <category>医療</category>
       <source url="https://news.yahoo.co.jp">Yahoo!ニュース</source>
@@ -162,6 +180,15 @@
       <source url="https://news.livedoor.com">ライブドアニュース</source>
     </item>
     <item>
+      <title>警官不在でも手話通訳 オペレーターと動画で 県警、全交番・駐在所に導入 ／三重 - 毎日新聞</title>
+      <link>https://news.google.com/rss/articles/CBMiaEFVX3lxTE9UWXRXYjFaY0NQVFJlU1dTOVZIMDYwOTNMTjBSTG5VWm5FaEFvSU1SYkRCa0M0LXdKMTRRTWREcVZQZTJoSjVhb01vdllKOEdyMldPU2F4ajhrQU5wcDhsYlVzTFB3aFZU?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiaEFVX3lxTE9UWXRXYjFaY0NQVFJlU1dTOVZIMDYwOTNMTjBSTG5VWm5FaEFvSU1SYkRCa0M0LXdKMTRRTWREcVZQZTJoSjVhb01vdllKOEdyMldPU2F4ajhrQU5wcDhsYlVzTFB3aFZU?oc=5</guid>
+      <pubDate>Fri, 24 Apr 2026 20:02:36 GMT</pubDate>
+      <description>警官不在でも手話通訳 オペレーターと動画で 県警、全交番・駐在所に導入 ／三重 毎日新聞</description>
+      <category>地域</category>
+      <source url="https://mainichi.jp">毎日新聞</source>
+    </item>
+    <item>
       <title>福祉とアートの現場を巡るフィールドワーク in 関東、「PARC自由学校2026」で開催（5月14〜15日）</title>
       <link>https://co-coco.jp/news/parcfs2026/</link>
       <guid isPermaLink="true">https://co-coco.jp/news/parcfs2026/</guid>
@@ -243,6 +270,15 @@
       <source url="https://news.yahoo.co.jp">Yahoo!ニュース</source>
     </item>
     <item>
+      <title>デフリンピックで手話通訳 - seikyoonline.com</title>
+      <link>https://news.google.com/rss/articles/CBMieEFVX3lxTE1DN1EwQUhYXzRJaS1IcGRHb3pxbDRuT3czUTJfODdTZXlMQW1lcUZ0U1hzMWM3c2gxVnEtRnF1RHBDTmtacGtiUWJoTnk1QzFtSmVKMk96WVNoTWNSR3o5RVlOQ2gzckZTc3R4YU5vV0F4RHZFNy1ZVA?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMieEFVX3lxTE1DN1EwQUhYXzRJaS1IcGRHb3pxbDRuT3czUTJfODdTZXlMQW1lcUZ0U1hzMWM3c2gxVnEtRnF1RHBDTmtacGtiUWJoTnk1QzFtSmVKMk96WVNoTWNSR3o5RVlOQ2gzckZTc3R4YU5vV0F4RHZFNy1ZVA?oc=5</guid>
+      <pubDate>Thu, 23 Apr 2026 20:28:56 GMT</pubDate>
+      <description>デフリンピックで手話通訳 seikyoonline.com</description>
+      <category>デフスポーツ</category>
+      <source url="https://www.seikyoonline.com">seikyoonline.com</source>
+    </item>
+    <item>
       <title>【 女性歌手・ZOOCO 】小さなバッテリーで自宅全焼 その後『ストレス性突発難聴』で〝一定の音域の聴力を失う〟 - ｄメニューニュース</title>
       <link>https://news.google.com/rss/articles/CBMieEFVX3lxTE92aTlWcy1KbXBiTU1Calo1V3Z6ZFh2SnJ1eE94S3hWR0pQaF9iTWVuQWJmMmtQN0NvbXVYSlVDNjhSWnF3UlJtQ3dXTWRTMmpRaFhTR2dqZFp1Um82eHpaNlVHWUVENUhXRlVYRnNIdnNSSFNoTEEtcdIBfkFVX3lxTFBnV3dTM25CTHU2eDBJMnZJczVxTFlKN2xReWt2cW1WNnVzdVFjWEZmemFHelBuRjlFallRc2NKU2Q0X3RlNURnYlVaVXFTZUFWMHAwNVl3V0t2QVFfNmZCYy1WRUk2WloyMkE5QXFXS3RDZ0NnalJrUWpfLXJDZw?oc=5</link>
       <guid isPermaLink="true">https://news.google.com/rss/articles/CBMieEFVX3lxTE92aTlWcy1KbXBiTU1Calo1V3Z6ZFh2SnJ1eE94S3hWR0pQaF9iTWVuQWJmMmtQN0NvbXVYSlVDNjhSWnF3UlJtQ3dXTWRTMmpRaFhTR2dqZFp1Um82eHpaNlVHWUVENUhXRlVYRnNIdnNSSFNoTEEtcdIBfkFVX3lxTFBnV3dTM25CTHU2eDBJMnZJczVxTFlKN2xReWt2cW1WNnVzdVFjWEZmemFHelBuRjlFallRc2NKU2Q0X3RlNURnYlVaVXFTZUFWMHAwNVl3V0t2QVFfNmZCYy1WRUk2WloyMkE5QXFXS3RDZ0NnalJrUWpfLXJDZw?oc=5</guid>
@@ -250,6 +286,15 @@
       <description>【 女性歌手・ZOOCO 】小さなバッテリーで自宅全焼 その後『ストレス性突発難聴』で〝一定の音域の聴力を失う〟 ｄメニューニュース</description>
       <category>一般</category>
       <source url="https://topics.smt.docomo.ne.jp">ｄメニューニュース</source>
+    </item>
+    <item>
+      <title>ヒュンメル、ガンバ大阪と手話シャツの寄付で聴覚障がい者支援に - サッカーキング</title>
+      <link>https://news.google.com/rss/articles/CBMib0FVX3lxTE91VEFNbUZGMlYybzBKaVctcXl0bFhMQnlNLV9FbEZ0cVlvbGMyVllPWXFTU1BHSmdQMW05cWRvRUhJem5TUDlIQlZZU2xKUGNJMzh5Y3k5N2ZHbWhnWmg1RDdxYWlONFdXOU9oUnNHSQ?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMib0FVX3lxTE91VEFNbUZGMlYybzBKaVctcXl0bFhMQnlNLV9FbEZ0cVlvbGMyVllPWXFTU1BHSmdQMW05cWRvRUhJem5TUDlIQlZZU2xKUGNJMzh5Y3k5N2ZHbWhnWmg1RDdxYWlONFdXOU9oUnNHSQ?oc=5</guid>
+      <pubDate>Thu, 23 Apr 2026 07:57:13 GMT</pubDate>
+      <description>ヒュンメル、ガンバ大阪と手話シャツの寄付で聴覚障がい者支援に サッカーキング</description>
+      <category>制度・政策</category>
+      <source url="https://www.soccer-king.jp">サッカーキング</source>
     </item>
     <item>
       <title>ヒュンメルがガンバ大阪と手話シャツの寄付で聴覚障がい者支援に - PR TIMES</title>
@@ -284,15 +329,6 @@
       <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiXkFVX3lxTE9uNzIzRGNOMGJtMDZEeExCc29Pb1hzWXRFR2JLLXVfOU84TmI4c3pqV201ZzdFQWtoSlBLa2JaTUVNVWxLcVphYTFLazFhbngzX1E3UmFMT2hmRmNpa2c?oc=5</guid>
       <pubDate>Thu, 23 Apr 2026 01:36:00 GMT</pubDate>
       <description>泣いて覚えた手話で大舞台へ 沖縄カトリック小の児童ら「わらびー5」東京の童謡フェス出演 沖縄タイムス社</description>
-      <category>一般</category>
-      <source url="https://www.okinawatimes.co.jp">沖縄タイムス社</source>
-    </item>
-    <item>
-      <title>写真：泣いて覚えた手話で大舞台へ 沖縄カトリック小の児童ら「わらびー5」東京の童謡フェス出演 - 沖縄タイムス社</title>
-      <link>https://news.google.com/rss/articles/CBMiZkFVX3lxTE9ubUl4VUZRSkxEejQtR0hkaWJyVUFLTHpkaE84bklIQW01UHo2bEx2VXhrOGJCNzJkRU5qQ1A2d0hqLVc1RXNDamVtb054dDZjU2V3N2o1QmIxR2ZqczFrTHNVb0ZzQQ?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiZkFVX3lxTE9ubUl4VUZRSkxEejQtR0hkaWJyVUFLTHpkaE84bklIQW01UHo2bEx2VXhrOGJCNzJkRU5qQ1A2d0hqLVc1RXNDamVtb054dDZjU2V3N2o1QmIxR2ZqczFrTHNVb0ZzQQ?oc=5</guid>
-      <pubDate>Thu, 23 Apr 2026 01:36:00 GMT</pubDate>
-      <description>写真：泣いて覚えた手話で大舞台へ 沖縄カトリック小の児童ら「わらびー5」東京の童謡フェス出演 沖縄タイムス社</description>
       <category>一般</category>
       <source url="https://www.okinawatimes.co.jp">沖縄タイムス社</source>
     </item>
@@ -421,42 +457,6 @@
       <description>東大阪市に所在する、福祉発セレクトショップ〈ここことか〉。春夏シーズンは4月〜7月まで！Tシャツや手ぬぐい、文房具など、全国の福祉施設でつくられた、これからの季節におすすめのアイテムが並びます</description>
       <category>地域</category>
       <source url="https://co-coco.jp/">こここ</source>
-    </item>
-    <item>
-      <title>手話で万引きや酔っ払いにも対応 都内3カ所に〝手話ができるおまわりさん〟 制度は94年から（withnews by 朝日新聞） - Yahoo!ニュース</title>
-      <link>https://news.google.com/rss/articles/CBMif0FVX3lxTE1zNG9aZkdhV3RVWTNOUFRBU2REd1dMVUtzdXdnQ2k2dm92YVB5NDNLQ0MzS0JuTnV5Z3J0VUVfRV9yS3M0YWV2YlFyM3NPc003RVN6SURocWtGX0tnN1I4WUw5dlh1SUNjUHdhTTVQTk9UNmZBVXROLTU2eXZtTHc?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMif0FVX3lxTE1zNG9aZkdhV3RVWTNOUFRBU2REd1dMVUtzdXdnQ2k2dm92YVB5NDNLQ0MzS0JuTnV5Z3J0VUVfRV9yS3M0YWV2YlFyM3NPc003RVN6SURocWtGX0tnN1I4WUw5dlh1SUNjUHdhTTVQTk9UNmZBVXROLTU2eXZtTHc?oc=5</guid>
-      <pubDate>Sun, 19 Apr 2026 22:00:00 GMT</pubDate>
-      <description>手話で万引きや酔っ払いにも対応 都内3カ所に〝手話ができるおまわりさん〟 制度は94年から（withnews by 朝日新聞） Yahoo!ニュース</description>
-      <category>制度・政策</category>
-      <source url="https://news.yahoo.co.jp">Yahoo!ニュース</source>
-    </item>
-    <item>
-      <title>運転免許講習 手話通訳士、7府県警のみ 「予算措置、困難」 毎日新聞アンケート - 毎日新聞</title>
-      <link>https://news.google.com/rss/articles/CBMiaEFVX3lxTFAxTW9DeFFYb1VqWWhkbGxvb2M2al82MXQ3bnRDQnlxNU5SZFhiSHZSMU5EVDVGc2FYUENLc3JDMlRZaVNZOHpyUkFxQmExcGNGczUtNkZQU0ZCT01iNjd2XzQ1Rk04bkFV?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiaEFVX3lxTFAxTW9DeFFYb1VqWWhkbGxvb2M2al82MXQ3bnRDQnlxNU5SZFhiSHZSMU5EVDVGc2FYUENLc3JDMlRZaVNZOHpyUkFxQmExcGNGczUtNkZQU0ZCT01iNjd2XzQ1Rk04bkFV?oc=5</guid>
-      <pubDate>Sun, 19 Apr 2026 17:03:35 GMT</pubDate>
-      <description>運転免許講習 手話通訳士、7府県警のみ 「予算措置、困難」 毎日新聞アンケート 毎日新聞</description>
-      <category>地域</category>
-      <source url="https://mainichi.jp">毎日新聞</source>
-    </item>
-    <item>
-      <title>「認知症の世界」を歩けたら？ 話題の書籍から生まれた体験型展示、GWに鎌倉で開催！（神奈川県）</title>
-      <link>https://co-coco.jp/news/ninchisyosekaiten/</link>
-      <guid isPermaLink="true">https://co-coco.jp/news/ninchisyosekaiten/</guid>
-      <pubDate>Sun, 19 Apr 2026 02:30:01 GMT</pubDate>
-      <description>2026年5月1日（金）〜7日（木）まで〈鎌倉芸術館〉（神奈川県鎌倉市）のギャラリー1で、「認知症世界を歩いてみたら。展」が開催。認知症世界を旅する旅人となった来場者は、記憶や時間、空間の感覚が少しずつ揺らぐなか、思い通りにいかない出来事や不思議な感覚に出会います。会期中は「認知症世界の歩き方ウィーク in 鎌倉」となり、『認知症世界の歩き方』の著者・筧裕介さんらによる講演会とクロストークも。</description>
-      <category>地域</category>
-      <source url="https://co-coco.jp/">こここ</source>
-    </item>
-    <item>
-      <title>考え方も境遇も異なる、20代ろう者３人のリアルな胸の内を。彼らを取り巻く環境の現状について（水上賢治） - エキスパート - Yahoo!ニュース</title>
-      <link>https://news.google.com/rss/articles/CBMiiAFBVV95cUxQSktmS21faE1QWG9zSlhYRklOMDIwdUxDNHhhVFZIX2thTlZUaFpoR18wWklBY1lmWXl1ODhzeXl4b1BjRVVvS2ZzSkk5MmxnYmRLd0lKOGVhRXRuN3lkMUxrcnJ4ajF2elc5dmdkcTFtdTRCcGlLdWg0Y0wwZXQ2dmNmUjM2X3Nu?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiiAFBVV95cUxQSktmS21faE1QWG9zSlhYRklOMDIwdUxDNHhhVFZIX2thTlZUaFpoR18wWklBY1lmWXl1ODhzeXl4b1BjRVVvS2ZzSkk5MmxnYmRLd0lKOGVhRXRuN3lkMUxrcnJ4ajF2elc5dmdkcTFtdTRCcGlLdWg0Y0wwZXQ2dmNmUjM2X3Nu?oc=5</guid>
-      <pubDate>Sun, 19 Apr 2026 02:01:25 GMT</pubDate>
-      <description>考え方も境遇も異なる、20代ろう者３人のリアルな胸の内を。彼らを取り巻く環境の現状について（水上賢治） - エキスパート Yahoo!ニュース</description>
-      <category>一般</category>
-      <source url="https://news.yahoo.co.jp">Yahoo!ニュース</source>
     </item>
   </channel>
 </rss>
