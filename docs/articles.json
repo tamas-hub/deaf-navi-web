@@ -1,7 +1,16 @@
 {
-  "generatedAt": "2026-04-29T21:06:42.573Z",
+  "generatedAt": "2026-04-29T22:58:03.450Z",
   "count": 400,
   "articles": [
+    {
+      "id": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1pNHR6UTRVbmlXVnBCbHpfX2JROGVxblh4aWU3X25hdVV5UzhRTERYWEhMdDlueWk0cmlWZ0V6S0tsblJwd2dYNFdVdGtKZUZJT1JNWWNRd2VQMWF6Vk5QamF4aw?oc=5",
+      "title": "手話解説動画を制作 あす公開「幸せの、忘れもの。」 - 東京新聞デジタル",
+      "summary": "手話解説動画を制作 あす公開「幸せの、忘れもの。」 東京新聞デジタル",
+      "sourceName": "東京新聞デジタル",
+      "sourceUrl": "https://www.tokyo-np.co.jp",
+      "publishedAt": "2026-04-29T22:18:57.000Z",
+      "category": "general"
+    },
     {
       "id": "https://jdba.jp/jdba/6861/",
       "title": "【重要】会員制度および地域デフバスケットボール方針について",
@@ -57,7 +66,7 @@
       "category": "general"
     },
     {
-      "id": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1zNG9aZkdhV3RVWTNOUFRBU2REd1dMVUtzdXdnQ2k2dm92YVB5NDNLQ0MzS0JuTnV5Z3J0VUVfRV9yS3M0YWV2YlFyM3NPc003RVN6SURocWtGX0tnN1I4WUw5dlh1SUNjUHdhTTVQTk9UNmZBVXROLTU2eXZtTHc?oc=5",
+      "id": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQY2E0cFRKOThvTHBQZi1PNHRlTWF6Ujg2Vm1vSmJvNkNzSTBuTFMxWU5qNEFvXzRTSGZUMEM0NGpyc1ItUUJfZW55Q2RUellKb1ZrLXRkQkY1N2NFSWNVTFJYekkzYnM3Y1Jrd1AtOUFjTDEtdFc4WjNSdks2LVZ1R01VVzkyS3df?oc=5",
       "title": "手話で万引きや酔っ払いにも対応 都内3カ所に〝手話ができるおまわりさん〟 制度は94年から（withnews by 朝日新聞） - Yahoo!ニュース",
       "summary": "手話で万引きや酔っ払いにも対応 都内3カ所に〝手話ができるおまわりさん〟 制度は94年から（withnews by 朝日新聞） Yahoo!ニュース",
       "sourceName": "Yahoo!ニュース",
@@ -226,15 +235,6 @@
       "sourceUrl": "https://www.town.kami.miyagi.jp",
       "publishedAt": "2026-04-27T07:00:00.000Z",
       "category": "local"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE43LTdoVVVIeU41d2pIVVUzN0dMUjhiRlRzWUVXYnc1bDZlSUp1ZlJxQmtWNUk3dndJOVExeXNDODdWalRsaGRzdHZnZXlubmRwdHRr?oc=5",
-      "title": "U23デフサッカーW杯出場支援プロジェクト -「 夢で終わらせない挑戦」 - キャンプファイヤー",
-      "summary": "U23デフサッカーW杯出場支援プロジェクト -「 夢で終わらせない挑戦」 キャンプファイヤー",
-      "sourceName": "キャンプファイヤー",
-      "sourceUrl": "https://camp-fire.jp",
-      "publishedAt": "2026-04-27T06:56:46.000Z",
-      "category": "sports"
     },
     {
       "id": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPb2xxbTV1WExOSEsyMjVBdF9weGQ3b21VV01rcTlCV3NtWENreHpaUGVGdGd0ckZaM21uTGd5V0ZLem56VE5MSTRWYWt5VjRZME1Pbm9rYnIzanZvOWVHR3ZpWXhpT3JMN3lKTjUzSk9rWWZrQnFtcmRIV1FkWk5hSDg0N0dxY2JIXzJHUQ?oc=5",
@@ -417,15 +417,6 @@
       "category": "medical"
     },
     {
-      "id": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1ra1FvYzJ3YWhmSTdfY3VQZ2dBV2QxM21qM2NnSC00czRRRFZENTEyVFNTcENBMEFwSXE0V1RkUmJOT1l3bEJSNFpNRG5Qa2JMNFE?oc=5",
-      "title": "手話の利用拒否、後絶たず 筆談で意思疎通可と誤解 独自言語、情報格差も - 山陽新聞",
-      "summary": "手話の利用拒否、後絶たず 筆談で意思疎通可と誤解 独自言語、情報格差も 山陽新聞",
-      "sourceName": "山陽新聞",
-      "sourceUrl": "https://www.sanyonews.jp",
-      "publishedAt": "2026-04-25T07:00:00.000Z",
-      "category": "general"
-    },
-    {
       "id": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPb1FyRTNoV2RLS3hqdHVZMWU0NjBtTEpsQ1ctZ2tzcFpxSUN2cXVNZkR1NnlQVUpKVWIwaGx5LXotUFMzZnRVY09zVURVQkpoOFhGTnlOQ2J4aWxYQlZDNTlIU3JobXBlTk9VT2FHN0gtR3IwazBYVEc3UnpMdDQ0cU82TUF1MTVkemt3aGtWTHPSAZYBQVVfeXFMT0FkWlA3T2dEVjdUNGo1a0NsVFlWZFI2eVp0UVlhU25DX05fMTdtcXJFdlhsRzdFdFhwQjVZanRHRXB1djM5MV92YVJUTlJ0S09GYWNubVdZNVNUR0IwRy1qUDRrcFRrdVZLLXl2bUVTZnF1dFJiU0pRY1lkRU5DUXV4VnQ2OW1zanp0Nmg1dWtoMFg5dTJB?oc=5",
       "title": "突発性難聴を公表の安西ひろこ、医師からの告知「治る事は厳しいです！治療は終わりです！」 - ｄメニューニュース",
       "summary": "突発性難聴を公表の安西ひろこ、医師からの告知「治る事は厳しいです！治療は終わりです！」 ｄメニューニュース",
@@ -458,15 +449,6 @@
       "summary": "安西ひろこ、医師からの言葉に「ず～んときます」 突発性難聴公表から4ヶ月…診断結果明かす オリコンニュース",
       "sourceName": "オリコンニュース",
       "sourceUrl": "https://www.oricon.co.jp",
-      "publishedAt": "2026-04-25T00:44:00.000Z",
-      "category": "medical"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPSmxDMk1IZWtYYUY3YnJsRFh1T3htOUZOaHN5czZWVzAwbUQyMGFWb3ZiNWVYWHdLWEVWQklBZFR2ODdQZ0ZXZjhLMm9rWDJrR01lb21KalJndTlNM3NjV0NUcTQ5cW03UjNXZ3A1WG1mR3Y3aVNucHdoUE5KMjJSX9IBhgFBVV95cUxPdGxGWkp1TnBjTkx0T0hoOXdkX2dXc1FRa0l5WFBlZk9FZjVBVnVPWERja3RTellLbnZXTnowMlBUbUY0X280ZFExQnFMZno0bGNXS1RjalpZaWh6dHJJeE5mZzBRWjNmbzBLS0dXelVJRkxwNXVvc1l5VHpqeFF5b3FQNnJEUQ?oc=5",
-      "title": "安西ひろこ、医師からの言葉に「ず〜んときます」 突発性難聴公表から4ヶ月…診断結果明かす - ｄメニューニュース",
-      "summary": "安西ひろこ、医師からの言葉に「ず〜んときます」 突発性難聴公表から4ヶ月…診断結果明かす ｄメニューニュース",
-      "sourceName": "ｄメニューニュース",
-      "sourceUrl": "https://topics.smt.docomo.ne.jp",
       "publishedAt": "2026-04-25T00:44:00.000Z",
       "category": "medical"
     },
@@ -516,6 +498,15 @@
       "category": "education"
     },
     {
+      "id": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQVWo4UDV3cFBSejIwNjlWWlJoQ0NfZm5FU0h0LVBTNDJSUEhTMjc3V2w1SkdkSVpuQmdNMVBrWmJpMFVBU0dlcUtaXzRiVlgxYmk0d1FkdWZOdGM2aWRhSXJ0bFRBbkZiaGo0Tkc5UUtXRU5kQTlvV2ZEenNReWwySmxkWm03VHFiTVhEbkxn?oc=5",
+      "title": "騒がしい場所で話が聞き取れない……それは片耳の難聴「一側性難聴」のサインかも (Medical Note) - Yahoo!ニュース",
+      "summary": "騒がしい場所で話が聞き取れない……それは片耳の難聴「一側性難聴」のサインかも (Medical Note) Yahoo!ニュース",
+      "sourceName": "Yahoo!ニュース",
+      "sourceUrl": "https://news.yahoo.co.jp",
+      "publishedAt": "2026-04-24T02:50:10.000Z",
+      "category": "general"
+    },
+    {
       "id": "https://co-coco.jp/series/design/toketa/",
       "title": "「こんにちはカード」「しつもんカード」で子どもと大人の関係が変わる？ 里親制度の先進都市・福岡から生まれたコミュニケーションキット",
       "summary": "子ども向けとして初めて販売された、里親家庭理解の支援ツール「フォスタリングカードキット TOKETA（とけた）」。このカードが子どもと大人の関係をどのように変えていくか、福岡市で活動する〈福祉とデザイン〉を訪問し、ディレクターである田北雅裕さん（九州大学大学院 准教授）と新開咲紀さんのお二人からお話を伺いました。「福祉」と「デザイン」の交わるところをたずねる連載、『デザインのまなざし』第17回。",
@@ -534,6 +525,15 @@
       "category": "local"
     },
     {
+      "id": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBfVFdlZjQ5ZXljNGxTc1c3S3ZkTFgtZGlTT05DZTN3Q3pSaFFZRWlZSHNRcjh1Rmp2T2Q3QkFRWVlBVThULXh5THdfS1JSMm93M2lLTU1aaEhWR0ZLMENfRzV4bllsbVF0a0kzM3hJdHJ2ajFEd0NsS0IxUFZMU1k?oc=5",
+      "title": "警察官不在でも聴覚障がい者に対応 三重県内すべての交番・駐在所で手話通訳システム導入（三重テレビ放送） - Yahoo!ニュース",
+      "summary": "警察官不在でも聴覚障がい者に対応 三重県内すべての交番・駐在所で手話通訳システム導入（三重テレビ放送） Yahoo!ニュース",
+      "sourceName": "Yahoo!ニュース",
+      "sourceUrl": "https://news.yahoo.co.jp",
+      "publishedAt": "2026-04-24T01:30:37.000Z",
+      "category": "local"
+    },
+    {
       "id": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxOb3BxalZwbGZyZVB1bzhFbkdlMEJGT04tY19lbDk2MzhPbTl1bElGVnc1MWlKZVhkVmJqVzNETTVxdXFNUW9GOXQ2eGlwVHFYR1AtbTNrc3RSTzBhLWxjZ01rSnZoQlo3c2Z3c3JTY3Rkc0dyb29YR0hPWm13NzZiU1ZzQUpyTldvYk5CRDB1dFhWX3VnVGRZWG5sTUxDOUl1RFlXamRiaUxtQ2RnUXpsMVVWU092cmptVVh6encxUE9TVk1QV1FuTGJ3eVI4N2FVd1VoWnVURF9lclZHNWFUZ1RDcHM2SjBleXhBSzh4WmhsWGJlYVA2TmNSVHRKRzVZM3hyQzNkTkhSZmhjRktXSDFaY2hjVXVSTm1oTEZBN1FPWEJWU04ybFhVcEZHSEYxajBoZ1BNYTJ3dGlROU1sNTUzTE5aN3BpaXRYNGp1Y2M5TzlNTXdkRkdqX2o1Zw?oc=5",
       "title": "交番や駐在所に「手話リンク」 警官不在でも通話可能に 三重県警 - 伊勢新聞",
       "summary": "交番や駐在所に「手話リンク」 警官不在でも通話可能に 三重県警 伊勢新聞",
@@ -541,15 +541,6 @@
       "sourceUrl": "https://www.isenp.co.jp",
       "publishedAt": "2026-04-24T01:06:43.000Z",
       "category": "local"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNempNd21lWlU0STVEZzdrZWF2am9ITmlLV0pnaDYyMkdaN1dVajNJNU1kUGNEX19MaVFmTExFUHhieDhVLThvbG9RWDBpaWpNRkllRHA1Y3B1cjBpUmVhV1ZxbDZBdmRHYWtKS2p3am9wYXBfU04tMlRPZDd4RWVXVElUWkFVdVFka2xDM01nOGV1TWZDRm1yb9IBngFBVV95cUxPcTdENjB1OUNDUDVxcTBSOHVoYW9FSlpWZHlnYWlWcTZScEtFYzVtMHJlcmxST3NaTVFDYkhtN3UtYjJuT2NQWm9xNU5uaEwzRE1YYTU3WS1tZF9QRENSaWJwUGRxWUo5YWE3cUNMWW90cnlVT0ttclhza09zdm1WdUY3bjhUdmhjUGpnTTRkMlc5enFTRkJheDk3Wkg4QQ?oc=5",
-      "title": "安西ひろこ、突発性難聴の治療終了を報告…医師の宣告に心境吐露も、「笑って生きていく」と前向きな決意 - ｄメニューニュース",
-      "summary": "安西ひろこ、突発性難聴の治療終了を報告…医師の宣告に心境吐露も、「笑って生きていく」と前向きな決意 ｄメニューニュース",
-      "sourceName": "ｄメニューニュース",
-      "sourceUrl": "https://topics.smt.docomo.ne.jp",
-      "publishedAt": "2026-04-23T21:00:00.000Z",
-      "category": "medical"
     },
     {
       "id": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBVT2M0bFc5aUVUOWg2RUtUVzRnQnd1RXhXMDNGU215emk5alBNRXFGem5ndjVLVzltckFiVy1MaEhrSWNyTk8yLXU1RzZQVklsUkhFNw?oc=5",
@@ -651,9 +642,18 @@
       "category": "local"
     },
     {
-      "id": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBTUzBpOEo0ek5PMnJBMHloZk5kN3Byb3V1WXZjX3pheDlZbmt5SUJVaGtSQ0J0UXZyMEYtSFJCLW45WEplenFwSUdMNzJaQUlJVHc?oc=5",
-      "title": "Dynamic Duo、難聴児支援に寄付、継続的な社会貢献 写真枚 国際ニュース - AFPBB News",
-      "summary": "Dynamic Duo、難聴児支援に寄付、継続的な社会貢献 写真枚 国際ニュース AFPBB News",
+      "id": "https://news.google.com/rss/articles/CBMif0FVX3lxTE10QUVncmVJZUlPM212V2pIN3l5UTNuQS1qT3FtektWYld3X1dOU3dOQ203cjFNN3Z6c2JFYngtNHJiRmlYcVFscXdUdks2bTh4bEJFclVIUFo5NU5VZDlwTV9Ya3FiS0ZKUDcyQmpHeDJOd3l1RlVVX0VSSU1Fcmc?oc=5",
+      "title": "熊本市東区で「要約筆記者養成講座」 聴覚障害者への文字通訳学ぶ（みんなの経済新聞ネットワーク） - Yahoo!ニュース",
+      "summary": "熊本市東区で「要約筆記者養成講座」 聴覚障害者への文字通訳学ぶ（みんなの経済新聞ネットワーク） Yahoo!ニュース",
+      "sourceName": "Yahoo!ニュース",
+      "sourceUrl": "https://news.yahoo.co.jp",
+      "publishedAt": "2026-04-22T03:00:00.000Z",
+      "category": "local"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBTUzBpOEo0ek5PMnJBMHloZk5kN3Byb3V1WXZjX3pheDlZbmt5SUJVaGtSQ0J0UXZyMEYtSFJCLW45WEplenFwSUdMNzJaQUlJVHfSAVRBVV95cUxNQjEtWW5SUWt3bjd3d0lodkhNUFhjbjkyemhtNTdSZVVtNDV2RWxUbDNNUVAyckdSSzdJenZQN1BOczEwMlZtandoZzdGZEsxck1NQ0k?oc=5",
+      "title": "Dynamic Duo、難聴児支援に寄付、継続的な社会貢献 - AFPBB News",
+      "summary": "Dynamic Duo、難聴児支援に寄付、継続的な社会貢献 AFPBB News",
       "sourceName": "AFPBB News",
       "sourceUrl": "https://www.afpbb.com",
       "publishedAt": "2026-04-22T01:31:29.000Z",
@@ -705,6 +705,15 @@
       "category": "local"
     },
     {
+      "id": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9oWlotUUdJOU52OEJqRXV0RXc3R0x5XzhtX09ya25UMWtyNHc2SjRzdUFTdUxJWFZsV1RmMjZjVjNSeGU4c3k4eWRpbVJvZHVfbU0zVGF6TkFORHJDWjBtSDhSLVBDRlU?oc=5",
+      "title": "手話ができるおまわりさん、胸に黄色いバッジ 巡回中の出会いが契機 - 朝日新聞",
+      "summary": "手話ができるおまわりさん、胸に黄色いバッジ 巡回中の出会いが契機 朝日新聞",
+      "sourceName": "朝日新聞",
+      "sourceUrl": "https://www.asahi.com",
+      "publishedAt": "2026-04-20T07:00:00.000Z",
+      "category": "general"
+    },
+    {
       "id": "https://co-coco.jp/series/cococotoka/05_202604-07/",
       "title": "全国の福祉施設でつくられたプロダクトを販売する〈ここことか〉。新年度が楽しくなる文房具屋、Tシャツなどが勢揃い！",
       "summary": "東大阪市に所在する、福祉発セレクトショップ〈ここことか〉。春夏シーズンは4月〜7月まで！Tシャツや手ぬぐい、文房具など、全国の福祉施設でつくられた、これからの季節におすすめのアイテムが並びます",
@@ -741,15 +750,6 @@
       "category": "general"
     },
     {
-      "id": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQZXpHaDFZWlFZUVloUHFWaFVOVEhfdHp0aUNIQUROLS1WUGY1emNLLTR5Tk9lMWJHMUdma1hYU3BhUEcwTDA0UG9yYUp0bGExYXcyRXo4eU1OOHFQdlItbE1zblItamk0V05SNHpzdlFHVC1sYlhrR2xaODF2ZHJNQUIwSQ?oc=5",
-      "title": "2026年4月18日 | 週間手話ニュース - web.nhk",
-      "summary": "2026年4月18日 | 週間手話ニュース web.nhk",
-      "sourceName": "web.nhk",
-      "sourceUrl": "https://www.web.nhk",
-      "publishedAt": "2026-04-18T02:40:00.000Z",
-      "category": "general"
-    },
-    {
       "id": "https://www.jfd.or.jp/2026/04/17/pid30053",
       "title": "鳥取県 平井伸治知事、東大阪市 野田義和市長に感謝状を贈呈しました",
       "summary": "昨年の第25回夏季デフリンピック競技大会 東京2025開催に際し、デフリンピック運営委員会に行政職員を派遣してくださった鳥取県と東大阪市を訪れ、東京都・東京都スポーツ文化事業団・全日本ろうあ連盟の連名による感謝状を贈呈 […]",
@@ -768,6 +768,15 @@
       "category": "medical"
     },
     {
+      "id": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1aemlicDgyZEtGYnRiOHlWeC1aY1dVSllSUWhPNERJdC1RSl9hdDRPcHBfekMxU2ZaYmpaTE9Jd0dycG0tODVXZG5yRVFxZldTQnc1QndIdC1qWWtwWFc4UW1PYWZYZmVR?oc=5",
+      "title": "どうすれば安全安心：多量飲酒の男性、加齢性難聴多く - 毎日新聞",
+      "summary": "どうすれば安全安心：多量飲酒の男性、加齢性難聴多く 毎日新聞",
+      "sourceName": "毎日新聞",
+      "sourceUrl": "https://mainichi.jp",
+      "publishedAt": "2026-04-17T07:00:00.000Z",
+      "category": "general"
+    },
+    {
       "id": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBUXzF1MW1mZWpWemhpOWswNE5QUHhCeVp0bndfZU1EQXBjX2ZFdmF2RUpzWG83eGRXdWFpMlNHM0Y0YWg2R2tHZUtmVFF2SXpyQWgxYTJabEI4WjB6cTQ3QlpxMHY5R3JoRl8tTmtQaVlYSGc?oc=5",
       "title": "「大変だとは思わなかった」脚本家兼手話通訳の女性が語る 耳が聞こえない親への想い：家、ついて行ってイイですか？ - tv-tokyo.co.jp",
       "summary": "「大変だとは思わなかった」脚本家兼手話通訳の女性が語る 耳が聞こえない親への想い：家、ついて行ってイイですか？ tv-tokyo.co.jp",
@@ -775,15 +784,6 @@
       "sourceUrl": "https://www.tv-tokyo.co.jp",
       "publishedAt": "2026-04-17T07:00:00.000Z",
       "category": "general"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5nRzBUSTEyNzBJSXotWmhTMy1McGNvazdqTEJ2MkRQMmdqZ0tRMFpLbnRxeVIzeGhlMTEwem9LRi1HTDV1WWR0ZjZYdw?oc=5",
-      "title": "夢への道のり「必ず力になる」 デフサッカー日本代表・松元選手、秋田市で講演 - 47NEWS",
-      "summary": "夢への道のり「必ず力になる」 デフサッカー日本代表・松元選手、秋田市で講演 47NEWS",
-      "sourceName": "47NEWS",
-      "sourceUrl": "https://www.47news.jp",
-      "publishedAt": "2026-04-17T07:00:00.000Z",
-      "category": "sports"
     },
     {
       "id": "https://co-coco.jp/news/kirienosekai_horio/",
@@ -795,15 +795,6 @@
       "category": "general"
     },
     {
-      "id": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1ydkFEeWJTNFJiaVhzWnhhU1BoSUc4aEgxR1BPbGJLbHBlRFZWQWlLd0NLbWNHT2l5cUJyTnB3Um5aNEJYcU1PNHROWVloNWVxZ2tVeVVFSnN6Z0FoenlwTm5R?oc=5",
-      "title": "夢への道のり「必ず力になる」 デフサッカー日本代表・松元選手、秋田市で講演 - 秋田魁新報電子版",
-      "summary": "夢への道のり「必ず力になる」 デフサッカー日本代表・松元選手、秋田市で講演 秋田魁新報電子版",
-      "sourceName": "秋田魁新報電子版",
-      "sourceUrl": "https://www.sakigake.jp",
-      "publishedAt": "2026-04-17T00:30:00.000Z",
-      "category": "sports"
-    },
-    {
       "id": "https://co-coco.jp/series/hataraku/miki_oobayashi/",
       "title": "手話で対話し、ケアする介護福祉士に私がなった理由。 聴覚障害者専用の老人ホーム「あすらや荘」（広島県呉市）",
       "summary": "手話を大切なことばとして生きる「ろう者」はどんな仕事をしているのでしょうか。第45回は広島県呉（くれ）市で介護福祉士として働く大林美樹（おおばやし・みき）さんを訪ねました。",
@@ -813,12 +804,12 @@
       "category": "local"
     },
     {
-      "id": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8zU0J5eWdWTkc3SFltaEs0WWo2ZVBaZmNjWHYzQ1A2YTFJcmFibDRKSWdxVFZDejJkNGFxZDlMWFpfM1hQWDlWTnZ1N3hycl9wNUdJMDIyVEtEUVFMS2hEQjg1OHZSSTE0eWc?oc=5",
-      "title": "白井出身のデフ陸上選手・田井さん 母校の中学で講演 千葉 [千葉県] - 朝日新聞",
-      "summary": "白井出身のデフ陸上選手・田井さん 母校の中学で講演 千葉 [千葉県] 朝日新聞",
+      "id": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1MbG9CbHFMcmd0UGt0Rjhvak5LaklVaTduc1U1aTg4N1JGWnFJd09JQmdRTnkxQ0F0ZkNFWWxNdzZVaFlqeE91aUtPc1BROEVtTTVKa3BYT1JKNEk?oc=5",
+      "title": "東京パワーテクノロジー所属 東京2025デフリンピック銀メダリスト 瀧澤 諒斗選手がU23デフサッカーワールドカップ2026(セルビア)に参加するデフサッカー育成代表に選出 - 朝日新聞",
+      "summary": "東京パワーテクノロジー所属 東京2025デフリンピック銀メダリスト 瀧澤 諒斗選手がU23デフサッカーワールドカップ2026(セルビア)に参加するデフサッカー育成代表に選出 朝日新聞",
       "sourceName": "朝日新聞",
       "sourceUrl": "https://www.asahi.com",
-      "publishedAt": "2026-04-16T11:13:49.000Z",
+      "publishedAt": "2026-04-16T07:00:00.000Z",
       "category": "sports"
     },
     {
@@ -838,6 +829,24 @@
       "sourceUrl": "https://jdba.sakura.ne.jp/",
       "publishedAt": "2026-04-15T12:50:43.000Z",
       "category": "sports"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPWlV2UE5YWERHMlA4c3lyMkRoTnBveUJFOTcyRDlkR3dnUXNkV2FibEtBV0JKNWFYOW1hZHRmajNaTi1xWHlPWjBlUnp3NlAwQU5ITEtvMzFaR0lFOEJxcjJQQ2JzcFZ3MXI3Q2NJT3htS0hIUDBBSy1maE5pMlYzdXhGN2ZUd1M0b3NFRGdKcw?oc=5",
+      "title": "［俳優 梅沢富美男さん］難聴（２）鼓膜は再生したが、聴力は回復せず…おしゃれな補聴器に興味わく - 読売新聞",
+      "summary": "［俳優 梅沢富美男さん］難聴（２）鼓膜は再生したが、聴力は回復せず…おしゃれな補聴器に興味わく 読売新聞",
+      "sourceName": "読売新聞",
+      "sourceUrl": "https://www.yomiuri.co.jp",
+      "publishedAt": "2026-04-15T07:00:00.000Z",
+      "category": "medical"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOTmFIQ0FYa3FmUHlBN1FjbFMtUC1rVkNsRDB5WmxTdXliVDI3eXZKRmxyMWJ2U1lVM0NodVk2U1JPTTB6WXd4X2x1Z1kwZElHZV93dzJvTFprWGNTVjJPaTZrcHlmLWVOOFMwZk1Ed1phME5Gb3FaX0pmZjU5OWxqWHZPT0hZemxJT20yc25EaEJQRW9EbkE?oc=5",
+      "title": "加齢性難聴…放置せず補聴器の活用を - 読売新聞",
+      "summary": "加齢性難聴…放置せず補聴器の活用を 読売新聞",
+      "sourceName": "読売新聞",
+      "sourceUrl": "https://www.yomiuri.co.jp",
+      "publishedAt": "2026-04-15T07:00:00.000Z",
+      "category": "medical"
     },
     {
       "id": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8ySFFqQ1YxWnk5eEVGM25rY1FTNl9JNFRMeVRYaTQwbjhaRUcxODBneTM5SDhtU29MU3RHV2tZalZJNGlPNDBsMjJpRTJMNndNMHZfYXp0dHYxYXdPdjdDYUhXb2lGNkluYXBoTTdLMA?oc=5",
@@ -912,15 +921,6 @@
       "category": "general"
     },
     {
-      "id": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPaHl1cElRMXlndExuX2JscnIxY3dndUpOMVhGRzBicHN1a1luRVBoWE83Qm9VOXJISzhjZ09uN0xUa3VRVnNFaWZ3NDNMMng2eEZlb3l2djQ2cGY0UU42WElDb2UtWTJjYzd1Z2huTmtEcnd5NnRMTW11UEJwbDZuRXptbEFjWUV0b2N0Ykxn?oc=5",
-      "title": "PANCETTAが2014年初演作「Moon」をリメイク、舞台手話通訳付き公演も (ステージナタリー) - Yahoo!ニュース",
-      "summary": "PANCETTAが2014年初演作「Moon」をリメイク、舞台手話通訳付き公演も (ステージナタリー) Yahoo!ニュース",
-      "sourceName": "Yahoo!ニュース",
-      "sourceUrl": "https://news.yahoo.co.jp",
-      "publishedAt": "2026-04-14T07:00:00.000Z",
-      "category": "general"
-    },
-    {
       "id": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5HWmVVRElDX1VFaTEwdWppNFFFaVVPbFpLMjZOY0o4UF9JbVJNRjVGd1VWUHYzRjRvMkNhVlRkX1dmR2dMZ2Faa3ZNeWFuT2dNSVpzSzgzazRKU0F5YzEw?oc=5",
       "title": "PANCETTAが2014年初演作「Moon」をリメイク、舞台手話通訳付き公演も - ぴあエンタメ情報",
       "summary": "PANCETTAが2014年初演作「Moon」をリメイク、舞台手話通訳付き公演も ぴあエンタメ情報",
@@ -930,12 +930,12 @@
       "category": "general"
     },
     {
-      "id": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFA3SjM1RE1DRjBIb0ZFX1puZE1rWktJUFFXdTdSSVBrWTZydFhyMENpTk00UEUyTndFcXozWG5GeldlSUx6WkpxWU9Ubw?oc=5",
-      "title": "デフアカデミー／尾中友哉（ろう難聴児の放課後等デイサービス・＃1399） - TVer",
-      "summary": "デフアカデミー／尾中友哉（ろう難聴児の放課後等デイサービス・＃1399） TVer",
-      "sourceName": "TVer",
-      "sourceUrl": "https://tver.jp",
-      "publishedAt": "2026-04-12T15:15:23.000Z",
+      "id": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPaHl1cElRMXlndExuX2JscnIxY3dndUpOMVhGRzBicHN1a1luRVBoWE83Qm9VOXJISzhjZ09uN0xUa3VRVnNFaWZ3NDNMMng2eEZlb3l2djQ2cGY0UU42WElDb2UtWTJjYzd1Z2huTmtEcnd5NnRMTW11UEJwbDZuRXptbEFjWUV0b2N0Ykxn?oc=5",
+      "title": "PANCETTAが2014年初演作「Moon」をリメイク、舞台手話通訳付き公演も (ステージナタリー) - Yahoo!ニュース",
+      "summary": "PANCETTAが2014年初演作「Moon」をリメイク、舞台手話通訳付き公演も (ステージナタリー) Yahoo!ニュース",
+      "sourceName": "Yahoo!ニュース",
+      "sourceUrl": "https://news.yahoo.co.jp",
+      "publishedAt": "2026-04-14T07:00:00.000Z",
       "category": "general"
     },
     {
@@ -954,15 +954,6 @@
       "sourceName": "MBS 毎日放送",
       "sourceUrl": "https://www.mbs.jp",
       "publishedAt": "2026-04-12T07:00:00.000Z",
-      "category": "general"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5MY0VnLWxCUnQ1N0hkT3ZXRWFUd0hJNFBMY3RodkFWb3VFcGY3NGJTcDdnRFBuaXdRZmkyRncwcjBUUFgza1JqUnBjR2dZeFE?oc=5",
-      "title": "山脇立嗣 脚本 ろう者×聴者 共に創り上げる舞台 - アットプレス",
-      "summary": "山脇立嗣 脚本 ろう者×聴者 共に創り上げる舞台 アットプレス",
-      "sourceName": "アットプレス",
-      "sourceUrl": "https://www.atpress.ne.jp",
-      "publishedAt": "2026-04-11T07:00:00.000Z",
       "category": "general"
     },
     {
@@ -1008,33 +999,6 @@
       "sourceName": "Yahoo!ニュース",
       "sourceUrl": "https://news.yahoo.co.jp",
       "publishedAt": "2026-04-10T07:00:00.000Z",
-      "category": "sports"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5GamVycVpHVGgwMTluTmw2Vm80Y0djWHB1RHAtS0NaWFFQMnJRRzlBM0xuc1l3aEUyOUVud3R1X0xuQ0FWTGlZR090bFBXSlF2enB2SXp2RDduM2FvR1VmOFZZV2dSNWtJaDFyYUlB?oc=5",
-      "title": "「ろう者にとって大きな前進」／役所に手話で問い合わせ／横浜市 2026年4月10日付 - 公明新聞電子版プラス",
-      "summary": "「ろう者にとって大きな前進」／役所に手話で問い合わせ／横浜市 2026年4月10日付 公明新聞電子版プラス",
-      "sourceName": "公明新聞電子版プラス",
-      "sourceUrl": "https://digital.komei-shimbun.jp",
-      "publishedAt": "2026-04-09T22:13:55.000Z",
-      "category": "local"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9HWGd1aG12Nzh3LTFnTV9aTFNMVUttR25IYVpRTGRodFNDQ294VzRrd01XSUFENDZwRHZzVzdwbllxZWhxUnZ1a3hSQk5SVkFUdWM0S1J1SjIyaXRFQWc?oc=5",
-      "title": "眞謝さんに奨励金 豊見城 デフバレー日本代表 - 沖縄タイムス社",
-      "summary": "眞謝さんに奨励金 豊見城 デフバレー日本代表 沖縄タイムス社",
-      "sourceName": "沖縄タイムス社",
-      "sourceUrl": "https://www.okinawatimes.co.jp",
-      "publishedAt": "2026-04-09T07:00:00.000Z",
-      "category": "sports"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPcjdnUXNhQkRaYnJOcGc5OXM2T01wanNVT25EREJHbllUV0Y5d1ctakJKRzRhV0pLNU8xTDRhVVlaMDdjM3ZweFlUMktLSW52WHVpYXRQc2RtNXZRRGJkX2IyRG40VUlXTE4yakszU2xZYnFwNS1hRjd5OGxseWJScGUtMmVMbGhzdHRBWGFlak56UV8xQnpQbDlnNHQ3V1dhQWc?oc=5",
-      "title": "白井出身のデフ陸上選手・田井さん 母校の中学で講演 千葉 [千葉県] - 朝日新聞",
-      "summary": "白井出身のデフ陸上選手・田井さん 母校の中学で講演 千葉 [千葉県] 朝日新聞",
-      "sourceName": "朝日新聞",
-      "sourceUrl": "https://www.asahi.com",
-      "publishedAt": "2026-04-09T07:00:00.000Z",
       "category": "sports"
     },
     {
@@ -1101,15 +1065,6 @@
       "category": "local"
     },
     {
-      "id": "https://news.google.com/rss/articles/CBMid0FVX3lxTE54MUQ3WXFFUml4SlFhejFTNXlJeHlPbDB0NzYzMlFpZFJ5TjE0VlNjX2JPRWVvX0tyeFFsU3pacC1YUVVrUmtZU3JzT2FuZGF0MzRIb3FyVXUtdHlzMU1BSnltcFhLci1KSFhRdWo1R0Y2RjEwRnpV?oc=5",
-      "title": "ろう者と聴者が協働する手話言語学 Sign Linguistics with Collaboration of the Deaf and the Hearing - 慶應義塾",
-      "summary": "ろう者と聴者が協働する手話言語学 Sign Linguistics with Collaboration of the Deaf and the Hearing 慶應義塾",
-      "sourceName": "慶應義塾",
-      "sourceUrl": "https://www.keio.ac.jp",
-      "publishedAt": "2026-04-06T21:38:08.000Z",
-      "category": "general"
-    },
-    {
       "id": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAyUktvbk8zRVJiUUJ5N0JPemFlUmVkOV9xWF9PTWRVdGJjcHl1Y1FGcGRWSTg2TmRoVDB3NDd2UGhrWHU0T0QtNXVVbmx3YUhGQ2NSM0xOVWZOZzNtYzZkYy16cHJJTW43VnpqenNRcGk1VUpJUnUycHUwUkRrdjg?oc=5",
       "title": "障がい者コミュニケーションと手話言語 条例の基本理念啓発へ セミナーやパンフレット作成 函館市（函館新聞デジタル） - Yahoo!ニュース",
       "summary": "障がい者コミュニケーションと手話言語 条例の基本理念啓発へ セミナーやパンフレット作成 函館市（函館新聞デジタル） Yahoo!ニュース",
@@ -1117,6 +1072,15 @@
       "sourceUrl": "https://news.yahoo.co.jp",
       "publishedAt": "2026-04-06T07:00:00.000Z",
       "category": "policy"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9IRUR0WXNOTGJ1amdpSmVuaVgyMGtqVGh1MFFWekQ4LUZTZ3BoZnNyYVF6dWIwU3hnUmNnZjgxWkE4Unptc3RXbTVlZ2xHZHdpYlV6RWZCTGV3cGhBQmZRR2hpMDVOb2pHSGZoRXItQlFZRlk3ZnZF?oc=5",
+      "title": "「音がない世界」で戦うデフバスケ、日本代表はどうやって戦術を共有しているのか コーダの監督が見てほしい「聴覚に頼らない意思疎通」 - 山陽新聞",
+      "summary": "「音がない世界」で戦うデフバスケ、日本代表はどうやって戦術を共有しているのか コーダの監督が見てほしい「聴覚に頼らない意思疎通」 山陽新聞",
+      "sourceName": "山陽新聞",
+      "sourceUrl": "https://www.sanyonews.jp",
+      "publishedAt": "2026-04-06T07:00:00.000Z",
+      "category": "sports"
     },
     {
       "id": "https://jfd.shop-pro.jp/?pid=190875242#new_tab",
@@ -1198,15 +1162,6 @@
       "sourceUrl": "https://co-coco.jp/",
       "publishedAt": "2026-04-02T02:30:37.000Z",
       "category": "general"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBfMG5XcmI4eC16dTVoS0ZTbm40SExYWGI4bU1GVW9ocG1haGxuY3g4aUt6dWdBSlBPdmJBUEFya1N1VkFiVmdwSUtyc0xqRUxLaTIyMll0Zw?oc=5",
-      "title": "「共に、世界一へ デフサッカー日本代表の軌跡」ⓒRKB - 多様なドキュメント13本上映 4月3日から福岡市中央区で映画祭 デフサッカー松元選手の登壇も - 写真・画像(1/2) - 西日本新聞me",
-      "summary": "「共に、世界一へ デフサッカー日本代表の軌跡」ⓒRKB - 多様なドキュメント13本上映 4月3日から福岡市中央区で映画祭 デフサッカー松元選手の登壇も - 写真・画像(1/2) 西日本新聞me",
-      "sourceName": "西日本新聞me",
-      "sourceUrl": "https://www.nishinippon.co.jp",
-      "publishedAt": "2026-04-01T22:54:47.000Z",
-      "category": "sports"
     },
     {
       "id": "https://news.google.com/rss/articles/CBMingFBVV95cUxNUnVkUHJpWVcwMHEtZldDTExMUGdwelItYUhjeWNHME9kSWI0cl9xYjNsR29qclRjSlYwWmNMSlNVeWpHa251X1dnMVZuZms0Z3pPYlZIZjZNU09KZElFdTAtcnd3ZGlqNUlwaHdjUkFWeHoxa0hlemgxaE96U3ViMi1HbXBFNVZfZmMwUDJvRjhPQ1RoSG4tbHdRYlBWdw?oc=5",
@@ -1335,6 +1290,15 @@
       "category": "sports"
     },
     {
+      "id": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5Vb2FzRjZNQ1pERlBWNExqdzI1bnZlR0o2Vk5CclZSYnVTeXE3eU01bWtKRFJqWGFublZ0UnZXN3dyNzlLWHpDYTBONDcyOWx2WWMwbFpZcTBwcWxBSkE?oc=5",
+      "title": "「第43回全国高校生の手話によるスピーチコンテスト」出場者募集 - asahi-welfare.or.jp",
+      "summary": "「第43回全国高校生の手話によるスピーチコンテスト」出場者募集 asahi-welfare.or.jp",
+      "sourceName": "asahi-welfare.or.jp",
+      "sourceUrl": "https://www.asahi-welfare.or.jp",
+      "publishedAt": "2026-03-31T01:18:21.000Z",
+      "category": "general"
+    },
+    {
       "id": "https://co-coco.jp/news/snack_allright/",
       "title": "見えづらい困りごとを語り合う「スナック」が4月4日（土）に大阪・梅田で開催！ ハッタツソンフェス・スピンアウト企画",
       "summary": "2026年4月4日（土）に大阪・梅田で開催される対話イベント「春のスナックAllright」は、「誰もが、何かの当事者」をテーマに、さまざまな特性のある人々が集い、ゆるやかな対話を楽しむ一夜限りのスナック。発達障害に関する社会課題の解決に取り組むイベント「ハッタツソンフェス」のスピンアウト企画として実施されます。主催は、通信販売会社〈株式会社フェリシモ〉が展開する「オールライト研究所」と、ハッタツ",
@@ -1362,33 +1326,6 @@
       "category": "sports"
     },
     {
-      "id": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE51cVVSeG9CS0dUQ0p2T3IxZDZjd1RqRkdtVWpLSXg2dlFlbFlOWHhiSWxtTUJUejdiN1oyVjAzTHNWS01ldGZsS2h1OA?oc=5",
-      "title": "菰方選手、全豪デフテニス２種目Ｖを報告 鈴鹿市長に「いい状態で試合できた」 三重 - 47NEWS",
-      "summary": "菰方選手、全豪デフテニス２種目Ｖを報告 鈴鹿市長に「いい状態で試合できた」 三重 47NEWS",
-      "sourceName": "47NEWS",
-      "sourceUrl": "https://www.47news.jp",
-      "publishedAt": "2026-03-30T07:00:00.000Z",
-      "category": "sports"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNeThHYkUyYmQ0TkdaMk1OYmR0ZXpHMFpRVHRkWUowTUpTSjJRUjNDZjJUNUZ2ZTdaNTlNSWowX1RvSFVGSlVlMjd0WFY1RzNwWlgyQWZLVUNZWGV3eHdwZ0JVWUowOXpLXy1FOGMySjdBR1N0RkdUcEF3Y2lzaHdHUGIzYUc2alN4RlRUTTV3?oc=5",
-      "title": "菰方選手、全豪デフテニス2種目V 鈴鹿市長に報告「いい状態で試合できた」 三重 (伊勢新聞) - Yahoo!ニュース",
-      "summary": "菰方選手、全豪デフテニス2種目V 鈴鹿市長に報告「いい状態で試合できた」 三重 (伊勢新聞) Yahoo!ニュース",
-      "sourceName": "Yahoo!ニュース",
-      "sourceUrl": "https://news.yahoo.co.jp",
-      "publishedAt": "2026-03-30T07:00:00.000Z",
-      "category": "sports"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFA1bWFpdDdmUjFMSEZPSk1RU2JhTWdSQjBjZXg0N18tMm9WN0lSSW83UmhQVTlCcXFXVjlKc1VNRTN1NXNiLW95SVk0aXE4OG8?oc=5",
-      "title": "「分かりやすくて楽しかった」…金メダリストの指導でデフバスケ 人吉市で体験会 - 熊本日日新聞社",
-      "summary": "「分かりやすくて楽しかった」…金メダリストの指導でデフバスケ 人吉市で体験会 熊本日日新聞社",
-      "sourceName": "熊本日日新聞社",
-      "sourceUrl": "https://kumanichi.com",
-      "publishedAt": "2026-03-29T07:00:00.000Z",
-      "category": "sports"
-    },
-    {
       "id": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBkQUdOdEdiY0NUbWNoTUJQR0x3aEswd3ROUWtvbnBFUllnVFFqWlpncUYycFFxTVJTdTMzZXpHYmtURklQV0k2ZTNuR0VtZw?oc=5",
       "title": "【ろう者の両親を持つ「CODA」】「知的な障害が起きてるの？」心ない言葉に傷つき…CODAが語る偏見と葛藤「楽のために通訳してるわけじゃない」社会との「橋渡し役」の現実と手話が繋ぐ未来 - FNNプライムオンライン",
       "summary": "【ろう者の両親を持つ「CODA」】「知的な障害が起きてるの？」心ない言葉に傷つき…CODAが語る偏見と葛藤「楽のために通訳してるわけじゃない」社会との「橋渡し役」の現実と手話が繋ぐ未来 FNNプライムオンライン",
@@ -1396,15 +1333,6 @@
       "sourceUrl": "https://www.fnn.jp",
       "publishedAt": "2026-03-28T07:00:00.000Z",
       "category": "general"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB1dDNJQmFXcjdOZnlpLVFLOXl2UEZ6Q0lPU2ZZOFFWUXVWOTZuenFNb2ZEOVBTMl9fbW45dm1uWDZSZjNDWTRYWFUzVGFwQzlIN3RVM1l6TGhEcXBoRXc?oc=5",
-      "title": "卓球・全国ろうあ者選手権 黒野さん（大野出身）初出場Ｖ １７歳でトップ選手３人撃破 夢はデフリンピック - 福井新聞社",
-      "summary": "卓球・全国ろうあ者選手権 黒野さん（大野出身）初出場Ｖ １７歳でトップ選手３人撃破 夢はデフリンピック 福井新聞社",
-      "sourceName": "福井新聞社",
-      "sourceUrl": "https://www.fukuishimbun.co.jp",
-      "publishedAt": "2026-03-27T07:00:00.000Z",
-      "category": "sports"
     },
     {
       "id": "https://news.google.com/rss/articles/CBMib0FVX3lxTE44X1ZqZk5XMnpOakpmclZaelJYbmd4UDQ2ZElRNVBpaTU2UGdXOEtxb3pYclBBc1JtU1RMcFl1aHc4SEdESkRPYUw3WHJZUWoxUjZjSGYxYjE1cDZ6clFwQ0xnS0ZvLUhmQ2tvZnFwZw?oc=5",
@@ -1421,15 +1349,6 @@
       "summary": "デフテニス・ダブルス金 菰方里菜選手に三重県民栄誉賞：地域ニュース 読売新聞",
       "sourceName": "読売新聞",
       "sourceUrl": "https://www.yomiuri.co.jp",
-      "publishedAt": "2026-03-27T07:00:00.000Z",
-      "category": "sports"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9JSy1WelFDcFpjbUVxRmFVcGlZUWlKUVZoUmlqSVpKZk42ajdTYUV5OEdySkl3bW1jbUJVS3dQQV83RzJQNldTN2tib2k0SXE1TFhUUGVMVTkyMWdZS0RucE1Kbko?oc=5",
-      "title": "茅ヶ崎市民栄誉賞 長谷山さんが10人目に デフバレーで金メダル | 茅ヶ崎・寒川 - タウンニュース",
-      "summary": "茅ヶ崎市民栄誉賞 長谷山さんが10人目に デフバレーで金メダル | 茅ヶ崎・寒川 タウンニュース",
-      "sourceName": "タウンニュース",
-      "sourceUrl": "https://www.townnews.co.jp",
       "publishedAt": "2026-03-27T07:00:00.000Z",
       "category": "sports"
     },
@@ -1466,15 +1385,6 @@
       "summary": "交番などで聴覚障害者が手話で通報や相談 警察官が不在だった場合に手話のオペレーターに映像 4月に導入開始 山梨 TBS NEWS DIG",
       "sourceName": "TBS NEWS DIG",
       "sourceUrl": "https://newsdig.tbs.co.jp",
-      "publishedAt": "2026-03-26T07:00:00.000Z",
-      "category": "general"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1vRXpsZVk0ZlRBQmsxRktvMTFNTjJBaTAtYkhvOVY3TUZJWVBhdFpQYzdIdzBkT0dKTkhURWpjWU0xTDlPMGROWGZhQWRNZC1PY3l3?oc=5",
-      "title": "韓国・国立国語院等を訪問、手話施策推進法について意見交換を行いました - 全日本ろうあ連盟",
-      "summary": "韓国・国立国語院等を訪問、手話施策推進法について意見交換を行いました 全日本ろうあ連盟",
-      "sourceName": "全日本ろうあ連盟",
-      "sourceUrl": "https://www.jfd.or.jp",
       "publishedAt": "2026-03-26T07:00:00.000Z",
       "category": "general"
     },
@@ -1533,24 +1443,6 @@
       "category": "general"
     },
     {
-      "id": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE4zWjJyaGZLWW1rYTlVTHRZWjBQNEhJVC1qYnRGN2lXVjdEeFB0emV6MDlJYXY4TEoyc0NfeXNaLWVPMG5oa0dRUkpTLTl2LVdRaDVj?oc=5",
-      "title": "2025年度「手話言語条例を考える行政担当者学習会」開催 - 全日本ろうあ連盟",
-      "summary": "2025年度「手話言語条例を考える行政担当者学習会」開催 全日本ろうあ連盟",
-      "sourceName": "全日本ろうあ連盟",
-      "sourceUrl": "https://www.jfd.or.jp",
-      "publishedAt": "2026-03-25T07:00:00.000Z",
-      "category": "policy"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAwbUU0WDBMU3l3VXBuX0RuRWwwcXgtVnYwRGtaSzFadzQtU2ZPRkVKNHZUUG5qdDlwSzZmQURmemhlLVJhQTM5Z0xLNDAwTDJVaS1VQnJ2c01fRFRWVWkydEdYUEV0aTA?oc=5",
-      "title": "消滅危機言語は「存在した記録」 島独自の手話を研究するろう者 [愛媛県] - 朝日新聞",
-      "summary": "消滅危機言語は「存在した記録」 島独自の手話を研究するろう者 [愛媛県] 朝日新聞",
-      "sourceName": "朝日新聞",
-      "sourceUrl": "https://www.asahi.com",
-      "publishedAt": "2026-03-25T07:00:00.000Z",
-      "category": "education"
-    },
-    {
       "id": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9Xc05teTlya2NOZDFWMk1QZGxWZTBPWWx6XzE0SUU4ZTdRbGdHNldVcjRwcFBCc3JNSzN1UGJUelVVc3lnTlZDMFNtZXRRZktOVzJKejc4Tms4cnVHWDBiV0lZdmxnYXM?oc=5",
       "title": "「方言ではなく言語」 消えゆく島独自の手話、ろう者が研究するわけ [愛媛県] - 朝日新聞",
       "summary": "「方言ではなく言語」 消えゆく島独自の手話、ろう者が研究するわけ [愛媛県] 朝日新聞",
@@ -1587,20 +1479,20 @@
       "category": "sports"
     },
     {
-      "id": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE0zQ0NCSVEzcTRoOGdSUDc3UTJyaWkxa3Y3TDd4bklkekRXbU4wWFVEdGJXWU82WXVvWHh4LXpubkNPMTZxSkdkZG5xU0ZYWXE5ZHlYajlIZ3RhUHBKbWpYbHVn?oc=5",
-      "title": "デフサッカー日本代表・松元選手、２８日に秋田市で講演会 世界一への挑戦語る - 秋田魁新報電子版",
-      "summary": "デフサッカー日本代表・松元選手、２８日に秋田市で講演会 世界一への挑戦語る 秋田魁新報電子版",
-      "sourceName": "秋田魁新報電子版",
-      "sourceUrl": "https://www.sakigake.jp",
+      "id": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5zd3I5X0RqTlpoRTZQc1dUSjhwRVc3bDE2Z0tOWlpjcWk4MjdpaDdPSlV4b28zbkgxUHUzVnF3Tzd2Ynk3cHM2OU44X0ZJTF93c1R5V2FVLW1OMWU3anlwSnJBRWJnOWJmQkE?oc=5",
+      "title": "第25回夏季デフリンピック競技大会 東京2025 大会報告書等の公表について - PR TIMES",
+      "summary": "第25回夏季デフリンピック競技大会 東京2025 大会報告書等の公表について PR TIMES",
+      "sourceName": "PR TIMES",
+      "sourceUrl": "https://prtimes.jp",
       "publishedAt": "2026-03-25T07:00:00.000Z",
       "category": "sports"
     },
     {
-      "id": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1VejZabXhFcnd4TVVycExudU1RVGlGTHJpVVJLNndMWlJlQjhTUm5wZU9pZnFiSkhVM25fSE9LRTQxTHBWMUgtUzM4VQ?oc=5",
-      "title": "デフサッカー日本代表・松元選手、２８日に秋田市で講演会 世界一への挑戦語る - 47NEWS",
-      "summary": "デフサッカー日本代表・松元選手、２８日に秋田市で講演会 世界一への挑戦語る 47NEWS",
-      "sourceName": "47NEWS",
-      "sourceUrl": "https://www.47news.jp",
+      "id": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1KVVpEY0t0UzlKZVJCWTBhWjJOenk4Y3RoY3MyTkdKbXhDWmlqTFgzU1g0dFBmV01DV1gtcXhxZTlvVFJBRkZJYjFTeVRaeW1JbGE4?oc=5",
+      "title": "【プレスリリース】第25回夏季デフリンピック競技大会 東京2025 大会報告書等の公表について - 全日本ろうあ連盟",
+      "summary": "【プレスリリース】第25回夏季デフリンピック競技大会 東京2025 大会報告書等の公表について 全日本ろうあ連盟",
+      "sourceName": "全日本ろうあ連盟",
+      "sourceUrl": "https://www.jfd.or.jp",
       "publishedAt": "2026-03-25T07:00:00.000Z",
       "category": "sports"
     },
@@ -1740,13 +1632,13 @@
       "category": "general"
     },
     {
-      "id": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE82cWhlVHZvYk1wT3NJTnRxa3h5cENSd3NWOTZzZU1NR0RDWHJTaDE1ZWpkMHNIVWRIVm5ZWnV2MG1Pa2stR3I4YmR0RG5nME1qV3pVa240SlM2SXhyajFz?oc=5",
-      "title": "【松山市】手話言語条例がついに成立しました - 選挙ドットコム",
-      "summary": "【松山市】手話言語条例がついに成立しました 選挙ドットコム",
-      "sourceName": "選挙ドットコム",
-      "sourceUrl": "https://go2senkyo.com",
-      "publishedAt": "2026-03-20T07:00:00.000Z",
-      "category": "policy"
+      "id": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5YZzVDWFM4VUlsdkJ0Z0VfSDJEcXJYY014M0lhS3Mwd1JEbl96dFpHblR6ZFVOdWFMcmM3YTA1aFI0Y2xqRnByZTNMejZkaHh4MC1XVldBT2hsOGJOd3VlNi1qb0l4QQ?oc=5",
+      "title": "デフサッカー（ろう者サッカー） - TEAM BEYOND",
+      "summary": "デフサッカー（ろう者サッカー） TEAM BEYOND",
+      "sourceName": "TEAM BEYOND",
+      "sourceUrl": "https://teambeyond.metro.tokyo.lg.jp",
+      "publishedAt": "2026-03-19T19:16:23.000Z",
+      "category": "sports"
     },
     {
       "id": "https://co-coco.jp/series/record/question03/",
@@ -1767,6 +1659,15 @@
       "category": "general"
     },
     {
+      "id": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1QOFpKcHoyeGE2dEFrNmpjakxmQndHNXFXLTdmTlNOY0pZNnAxZ05iN1RFbFNIRXJ5aW94R1hFWWVpakVHLUlCX2U2WXpCbjZ6Z3NHdGZteTlMUXdwVkdtRXFZd0w5RDQ?oc=5",
+      "title": "字幕も手話もつけず ろう者と聴者が「遭遇」する演劇で見えた景色 - 朝日新聞",
+      "summary": "字幕も手話もつけず ろう者と聴者が「遭遇」する演劇で見えた景色 朝日新聞",
+      "sourceName": "朝日新聞",
+      "sourceUrl": "https://www.asahi.com",
+      "publishedAt": "2026-03-19T07:00:00.000Z",
+      "category": "general"
+    },
+    {
       "id": "https://news.google.com/rss/articles/CBMidEFVX3lxTE01WWpsNG1sakJPRHZuRFdkTmdFUURLQ1V3ZUtfT3RyclhHX3JNNkdWX3FOZV9tUm9oUHplNWlsY045b3ptTzdrUW9ONjFsY1RaZ1dlUW5XZ012djlNc0lub2thbGZQNGlsakxiNDFSU1U3bG55?oc=5",
       "title": "第48回全国ろうあ者卓球選手権大会 女子の結果｜卓球レポート - バタフライ卓球用品",
       "summary": "第48回全国ろうあ者卓球選手権大会 女子の結果｜卓球レポート バタフライ卓球用品",
@@ -1783,15 +1684,6 @@
       "sourceUrl": "https://ichihara-machisapo.jp",
       "publishedAt": "2026-03-19T07:00:00.000Z",
       "category": "local"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1QOFpKcHoyeGE2dEFrNmpjakxmQndHNXFXLTdmTlNOY0pZNnAxZ05iN1RFbFNIRXJ5aW94R1hFWWVpakVHLUlCX2U2WXpCbjZ6Z3NHdGZteTlMUXdwVkdtRXFZd0w5RDQ?oc=5",
-      "title": "字幕も手話もつけず ろう者と聴者が「遭遇」する演劇で見えた景色 - 朝日新聞",
-      "summary": "字幕も手話もつけず ろう者と聴者が「遭遇」する演劇で見えた景色 朝日新聞",
-      "sourceName": "朝日新聞",
-      "sourceUrl": "https://www.asahi.com",
-      "publishedAt": "2026-03-19T07:00:00.000Z",
-      "category": "general"
     },
     {
       "id": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5ZNVV3RkFIQ0FJTWplSDNCeHNoMHFya2FqSV95WTg0TFVZeEdOUl9ncnRYaVF3NjFMWXFnUzhOREJyNE5UU1N5cG9ESXJTdk91UXfSAVRBVV95cUxQU0U2azI3cE1WYXIwS0ozY2JpZDhyX1U3RGFYSjJGM1dkTlNZdEV0OU8wMnRhTUh3UENnS01ENGVTMmJGUWZEMktOUk5CZzI0bzhHVnc?oc=5",
@@ -1857,6 +1749,15 @@
       "category": "local"
     },
     {
+      "id": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBwbmItcEY4RUJpODFYQmU3QTd1Skc2aVF6eHNwMUN1WTM3dVk3ZHJpV1JOQU1Zbm9DMWNTalEyeFU4UzBHWi1GV1BfT3ZLX3loVHFxelkzck9LOFVmbFRBMWxXN0xwZWg3Wi1TSFl5cTRDUkY5dTV1X0JXVQ?oc=5",
+      "title": "東京2025デフリンピック バドミントン混合団体金メダリストの片山 結愛氏と対談しました - pref.kagawa.lg.jp",
+      "summary": "東京2025デフリンピック バドミントン混合団体金メダリストの片山 結愛氏と対談しました pref.kagawa.lg.jp",
+      "sourceName": "pref.kagawa.lg.jp",
+      "sourceUrl": "https://www.pref.kagawa.lg.jp",
+      "publishedAt": "2026-03-16T07:00:00.000Z",
+      "category": "sports"
+    },
+    {
       "id": "https://co-coco.jp/news/gekitsuku/",
       "title": "全国の福祉施設と鑑賞体験を考える〈劇場をつくるラボ〉による活動事例集『劇つく本』が発行。PDFで誰でも閲覧可能！",
       "summary": "障害のある人の芸術文化への参加（創作・発表・鑑賞など）について考える〈劇場をつくるラボ〉（企画・運営：precog）が5周年を迎えるにあたり、これまでの活動をまとめた事例集『劇つく本』を発行。PDF版も公開中です。",
@@ -1920,6 +1821,15 @@
       "category": "local"
     },
     {
+      "id": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNRndudGd6dTFfLW9kSHJuZWNTNWxEY2tUZjlmYUVFckF5Zi1zYkFERjBwY0JYS2l5NHZ5MFY0eV9sa0U2U21BVGYtZ1EzRGxpSUZtaUFMLXFleVMyeFF6d0t0Nk9VRTdXSUxaZDVYTXJET2xnLXVuN0xtRFA3Z2J5cVo3QXVmcUpVaW5FbHBnV3M?oc=5",
+      "title": "【柔道】東京2025デフリンピック柔道女子個人70キログラム級 銅メダリスト 西東京市民の衣川 暁（きぬがわ あかつき）選手の報告会を実施しました！ - city.nishitokyo.lg.jp",
+      "summary": "【柔道】東京2025デフリンピック柔道女子個人70キログラム級 銅メダリスト 西東京市民の衣川 暁（きぬがわ あかつき）選手の報告会を実施しました！ city.nishitokyo.lg.jp",
+      "sourceName": "city.nishitokyo.lg.jp",
+      "sourceUrl": "https://www.city.nishitokyo.lg.jp",
+      "publishedAt": "2026-03-12T07:00:00.000Z",
+      "category": "sports"
+    },
+    {
       "id": "https://jdba.jp/jdba/6739/",
       "title": "【動画】第23回全国デフバスケットボール大会「九州ミミリーグ」開催に向けた挨拶",
       "summary": "「第23回全国デフバスケットボール大会 九州ミミリーグ」を、熊本県人吉市・人吉スポーツパレスにて開催します。男女リーグ交流戦、体験教室、展示ブース、デフリンピック報告会など、多彩なプログラムを予定しています。熊本からデフ […]",
@@ -1938,21 +1848,21 @@
       "category": "local"
     },
     {
-      "id": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1BUldhVGdlS1hmZm5aOXlsV0I1QlZxbG9aWjdVRGwtTmRDdm9vVHpfTGN5X19SMkZZTFg4Rmg3NkhjM1F1T3dleURINnFZUFFVWFhtVmRFRlJoaGZW?oc=5",
-      "title": "やまなし手話言語の日(まちできweb 2024年9月23日) - city.kai.yamanashi.jp",
-      "summary": "やまなし手話言語の日(まちできweb 2024年9月23日) city.kai.yamanashi.jp",
-      "sourceName": "city.kai.yamanashi.jp",
-      "sourceUrl": "https://www.city.kai.yamanashi.jp",
-      "publishedAt": "2026-03-11T06:05:08.000Z",
-      "category": "general"
-    },
-    {
       "id": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1FRTdUbklXNzJRaDRzck9mcFYtc3RhYlh6bTRsbGpseW1Ldi1IQTJBMlFya2ZGYk1FU3Y3d3dYaElYLTUwcjN6MWtvV1VJMWxkbFFjclB1M3ZOWEhLM3c?oc=5",
       "title": "やまなし手話言語の日(まちできweb 2025年9月23 日) - city.kai.yamanashi.jp",
       "summary": "やまなし手話言語の日(まちできweb 2025年9月23 日) city.kai.yamanashi.jp",
       "sourceName": "city.kai.yamanashi.jp",
       "sourceUrl": "https://www.city.kai.yamanashi.jp",
       "publishedAt": "2026-03-11T02:47:31.000Z",
+      "category": "general"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFB1ZmNKMnV5SS1FNmFHeDI3RTU4bTNaRERud1QwRnE2WGdpRkZjRF9yV1Q1aWRGcm13V29Gd1ZtaVVuamVjTDNQT3BiV1pYQQ?oc=5",
+      "title": "ろうのLGBTQ＋当事者を支える手話通訳者 「コミュニケーションの壁、なくなるといい」【KBCレインボーウィーク】 - KBC九州朝日放送",
+      "summary": "ろうのLGBTQ＋当事者を支える手話通訳者 「コミュニケーションの壁、なくなるといい」【KBCレインボーウィーク】 KBC九州朝日放送",
+      "sourceName": "KBC九州朝日放送",
+      "sourceUrl": "https://kbc.co.jp",
+      "publishedAt": "2026-03-10T07:00:00.000Z",
       "category": "general"
     },
     {
@@ -1965,22 +1875,31 @@
       "category": "local"
     },
     {
-      "id": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9tWjI1d29DdzRYU19QaWJZRlBueTJNMGlDZGVWdFJ6UUhITEtiQW4wc2pEMm1sTjFQNV9RSUltZ0pQaURRUE1Ob2U4Q0hPRWNydHJ5dkpWY2NPeWtoQlc3SF9zTW1wSW13M1VTNVdRUHhValdudllseGtocHBPZw?oc=5",
-      "title": "歳だからと放置は危険｢難聴と認知症｣意外な関係（東洋経済オンライン） - ｄメニューニュース",
-      "summary": "歳だからと放置は危険｢難聴と認知症｣意外な関係（東洋経済オンライン） ｄメニューニュース",
-      "sourceName": "ｄメニューニュース",
-      "sourceUrl": "https://topics.smt.docomo.ne.jp",
+      "id": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPTmFVNW1VZ283N1I4eUFvekdZNzRGaDJJUEVOZHRZX2g2dVZTVGtpNVV2WGNzMjdtOEZwaXR6ek1fX21yZmt2eDFLaVFLaTlwc1Z1anlhQTFqQU5tc3dycjFSeHh3NFMyVWRZSk9jZUUyRmFKXzQyaDhoa0p6ME1qTg?oc=5",
+      "title": "「第25回夏季デフリンピック競技大会 東京2025」閉会式ご臨席（東京体育館／東京都渋谷区） - kunaicho.go.jp",
+      "summary": "「第25回夏季デフリンピック競技大会 東京2025」閉会式ご臨席（東京体育館／東京都渋谷区） kunaicho.go.jp",
+      "sourceName": "kunaicho.go.jp",
+      "sourceUrl": "https://www.kunaicho.go.jp",
+      "publishedAt": "2026-03-09T11:34:04.000Z",
+      "category": "sports"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5fSE5KbXFoc1UtcTZpSUg0QVRSM0FmS3JobGg3ZjVEYVVPNFhNMTI3Z2UwWl9kQ2VnS2Vic19ZZkl3d1VkcTE5ZTZBa1d6U3BzbW0xQVAyX3J4YTFWYmww?oc=5",
+      "title": "｢歳だから仕方ない…｣と放置はキケンな《難聴と認知症》の意外な関係 予防のために40〜50代からできること - 東洋経済オンライン",
+      "summary": "｢歳だから仕方ない…｣と放置はキケンな《難聴と認知症》の意外な関係 予防のために40〜50代からできること 東洋経済オンライン",
+      "sourceName": "東洋経済オンライン",
+      "sourceUrl": "https://toyokeizai.net",
       "publishedAt": "2026-03-09T07:00:00.000Z",
       "category": "general"
     },
     {
-      "id": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBMLTJpMDk5eEt1WVBJRUJMTlQ0cEJmdk8zY3JjdzV2UUtOUVlkLVhCc1ZwN1VvbGRReUtzb0lxOC10ZXNraUpiM19vU1JDZHhNcXowTw?oc=5",
-      "title": "地元で金メダルをお披露目 福井市でデフバスケの丸山選手が報告会 - 中日新聞Web",
-      "summary": "地元で金メダルをお披露目 福井市でデフバスケの丸山選手が報告会 中日新聞Web",
-      "sourceName": "中日新聞Web",
-      "sourceUrl": "https://www.chunichi.co.jp",
-      "publishedAt": "2026-03-09T07:00:00.000Z",
-      "category": "sports"
+      "id": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFByMElBdksxWEZHblgwcEJNellSaHZRNFJQcHpZdnJJdENsdWozakNNRVNCdV9KbldzUFhOQ3JBOWwwS3M0dHo3OTRzbW9VOFNNbDJNODZhYUZvQQ?oc=5",
+      "title": "全国ろうあ者選手権 女子は高校2年の黒野千晏が全勝で初出場・初Vを達成 - 卓球王国WEB",
+      "summary": "全国ろうあ者選手権 女子は高校2年の黒野千晏が全勝で初出場・初Vを達成 卓球王国WEB",
+      "sourceName": "卓球王国WEB",
+      "sourceUrl": "https://world-tt.com",
+      "publishedAt": "2026-03-08T08:00:00.000Z",
+      "category": "general"
     },
     {
       "id": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBQbS01aGwwUkZ3eW1ibkF3dDFEQjREekZVbDJrTEkzR3JZMHNORzZ0OXpPN2JXS2Y4VU1Md0xGTmdmUjVjU3NkSTNFNGdjNG1hRkJRSTRVUzlFbXo0LUI4RE9MOVEyUHFxR2pLUHAybkI1alRpVWpjTTFMN3ZHdm8?oc=5",
@@ -2028,6 +1947,15 @@
       "category": "general"
     },
     {
+      "id": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5WcG15VmNTdlo5eEFGd3kxbkxtS0V0X2k5TVRoNG8wLW1yZm9TYnV2MUpTd09WMWttend4dERqS1gwdldHYkJoMjc4Qjk0Ulg3LWIw?oc=5",
+      "title": "内閣府、気象庁、厚生労働省、総務省にきこえない・きこえにくい人への災害対応に関する施策要望を提出 - 全日本ろうあ連盟",
+      "summary": "内閣府、気象庁、厚生労働省、総務省にきこえない・きこえにくい人への災害対応に関する施策要望を提出 全日本ろうあ連盟",
+      "sourceName": "全日本ろうあ連盟",
+      "sourceUrl": "https://www.jfd.or.jp",
+      "publishedAt": "2026-03-06T08:00:00.000Z",
+      "category": "local"
+    },
+    {
       "id": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5lTVhjUjNOd2Rlc0s4bWVtTXdzd0toTEFPWTJtLUhYLXVsQzZ2ZEl0MUY5NTh3V0tVLXJJTWhCSWNPN245WDhaT0VRTEtteEJYQjJOR0JsYnprVEFqbTZiS2V3?oc=5",
       "title": "デフリンピックとその先へ ～これからのデフスポーツとの関わりを考える～ | Volunteer's Summit 2025 特設ページ - ぼ活！",
       "summary": "デフリンピックとその先へ ～これからのデフスポーツとの関わりを考える～ | Volunteer's Summit 2025 特設ページ ぼ活！",
@@ -2055,20 +1983,20 @@
       "category": "general"
     },
     {
+      "id": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBabFBiVjAtN0xNbkl5MDI4ZTQ1S1NQRjhuSWYyY1oxQWVFdUZNTzBmbUZCVEFSaDVLbTA0LS1DWXBiaWMzV01hTnBaSTJfakR0UTR4RnVyd1dLeUQ1clUyOU4xQ3ZUU1hLX0E?oc=5",
+      "title": "【200名にアンケート調査】ろう者や手話者の恋愛事情を大公開！交際前に不安を感じていた人は約5割！つらかった経験を紹介＆周囲の理解を得るためのヒントなどを一挙公開！ - PR TIMES",
+      "summary": "【200名にアンケート調査】ろう者や手話者の恋愛事情を大公開！交際前に不安を感じていた人は約5割！つらかった経験を紹介＆周囲の理解を得るためのヒントなどを一挙公開！ PR TIMES",
+      "sourceName": "PR TIMES",
+      "sourceUrl": "https://prtimes.jp",
+      "publishedAt": "2026-03-05T08:00:00.000Z",
+      "category": "general"
+    },
+    {
       "id": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5HYkdXS1FJRnM0NjRjYnZ5TGRxLVBCSi16b0R2dmUxUF9KbzRGeHpaR1FXWnY5aHpUMGZrdjJ3RUl3dkFuN2Q3TTJ6bmZLc1VLQzBXcC1uZ29JaE5BaC1hYVRsYk1qeW8wVWMtcUdBTWZnOTNfc19XZA?oc=5",
       "title": "令和７年度パラアスリート及び地域スポーツ団体と連携したスポーツ機会創出事業（デフ陸上競技体験）を開催します！ - pref.miyagi.jp",
       "summary": "令和７年度パラアスリート及び地域スポーツ団体と連携したスポーツ機会創出事業（デフ陸上競技体験）を開催します！ pref.miyagi.jp",
       "sourceName": "pref.miyagi.jp",
       "sourceUrl": "https://www.pref.miyagi.jp",
-      "publishedAt": "2026-03-05T08:00:00.000Z",
-      "category": "sports"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1TUTFSaE1aQ01IU2kzVkRBOExRZG1oRE9ZWWxYOTF6MWI1c0N5Nkl6RVc4Q3lxc0FTRDk3eW44TTB6b0p1TmxzV2c4OUU0bkd4ajRVOTRKMUdnV1JZWUxCSXBYUmVWM3l3ZGlOMzZNdHI?oc=5",
-      "title": "デフサッカー 世界へ抱負…５月にＵ２３大会 愛知・半田の加藤豪さん ：地域ニュース - 読売新聞",
-      "summary": "デフサッカー 世界へ抱負…５月にＵ２３大会 愛知・半田の加藤豪さん ：地域ニュース 読売新聞",
-      "sourceName": "読売新聞",
-      "sourceUrl": "https://www.yomiuri.co.jp",
       "publishedAt": "2026-03-05T08:00:00.000Z",
       "category": "sports"
     },
@@ -2091,18 +2019,18 @@
       "category": "sports"
     },
     {
-      "id": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9tVFJwYnZ3aGVXbGtEUjM5UmlKTVZaVllZVkdlVEpmcUpQZGdHdmctczF2cUZtYjQxZk9WVkxfOXF6YkZEWlByQkFGZmtMQ3l4TkRadHZFdDRPZTRzeElWTTM3YTVNaXNQcHQ2RGRmQQ?oc=5",
-      "title": "岐阜：聴覚障害者への対応学ぶ 新人警官 手話や筆談のコツなど 岐阜県警：地域ニュース - 読売新聞",
-      "summary": "岐阜：聴覚障害者への対応学ぶ 新人警官 手話や筆談のコツなど 岐阜県警：地域ニュース 読売新聞",
+      "id": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBzSF9aMVBUcm91RkRjZzdKenh3OEhvbHkxdnRtLU1vc2U2ZVBacU9QRHllS3RIemxwelp2YzBBZlVfOVBJMjlWWkpZc1JvZXhvX1NTazVzeVhMSDl0X3J3REhzNEpNR3ZZT2k4ZzJoNHU?oc=5",
+      "title": "岐阜県警の新人警官 聴覚障害者への対応学ぶ…手話や筆談のコツなど ：地域ニュース - 読売新聞",
+      "summary": "岐阜県警の新人警官 聴覚障害者への対応学ぶ…手話や筆談のコツなど ：地域ニュース 読売新聞",
       "sourceName": "読売新聞",
       "sourceUrl": "https://www.yomiuri.co.jp",
       "publishedAt": "2026-03-04T08:00:00.000Z",
       "category": "local"
     },
     {
-      "id": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBzSF9aMVBUcm91RkRjZzdKenh3OEhvbHkxdnRtLU1vc2U2ZVBacU9QRHllS3RIemxwelp2YzBBZlVfOVBJMjlWWkpZc1JvZXhvX1NTazVzeVhMSDl0X3J3REhzNEpNR3ZZT2k4ZzJoNHU?oc=5",
-      "title": "岐阜県警の新人警官 聴覚障害者への対応学ぶ…手話や筆談のコツなど ：地域ニュース - 読売新聞",
-      "summary": "岐阜県警の新人警官 聴覚障害者への対応学ぶ…手話や筆談のコツなど ：地域ニュース 読売新聞",
+      "id": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9tVFJwYnZ3aGVXbGtEUjM5UmlKTVZaVllZVkdlVEpmcUpQZGdHdmctczF2cUZtYjQxZk9WVkxfOXF6YkZEWlByQkFGZmtMQ3l4TkRadHZFdDRPZTRzeElWTTM3YTVNaXNQcHQ2RGRmQQ?oc=5",
+      "title": "岐阜：聴覚障害者への対応学ぶ 新人警官 手話や筆談のコツなど 岐阜県警：地域ニュース - 読売新聞",
+      "summary": "岐阜：聴覚障害者への対応学ぶ 新人警官 手話や筆談のコツなど 岐阜県警：地域ニュース 読売新聞",
       "sourceName": "読売新聞",
       "sourceUrl": "https://www.yomiuri.co.jp",
       "publishedAt": "2026-03-04T08:00:00.000Z",
@@ -2136,9 +2064,27 @@
       "category": "general"
     },
     {
+      "id": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1oTFpaWkctRUxsemd3TXdxbkpROUhhMXN4ZWdNLTd2SlFpYmZMc2JqNllIangtUkZUV3NIYzBEdDZmV25VRUl3QUU2TFFFd2hZSVA2RUdNd2VqdzhGN0wwM2pTQWhxdmM?oc=5",
+      "title": "聴覚障害者の困りごとって？ 「悔しかった」当事者が作るアニメ教材 - 朝日新聞",
+      "summary": "聴覚障害者の困りごとって？ 「悔しかった」当事者が作るアニメ教材 朝日新聞",
+      "sourceName": "朝日新聞",
+      "sourceUrl": "https://www.asahi.com",
+      "publishedAt": "2026-03-03T08:00:00.000Z",
+      "category": "general"
+    },
+    {
       "id": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5oSmVMRW00N2tjTnlZM1pOUXBGeXRTM1lPX3A5S2tZWnlOVEVNaWp4bnVRMnpSc2lJNG5NZXpOMmxvOGdaNnNUbDVXRjkzb1VzdlkxSDl2cw?oc=5",
       "title": "交番や駐在所に「手話リンク」導入 手話で警察に問い合わせが可能に 大分 - TBS NEWS DIG",
       "summary": "交番や駐在所に「手話リンク」導入 手話で警察に問い合わせが可能に 大分 TBS NEWS DIG",
+      "sourceName": "TBS NEWS DIG",
+      "sourceUrl": "https://newsdig.tbs.co.jp",
+      "publishedAt": "2026-03-03T08:00:00.000Z",
+      "category": "general"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBhVzA1dXdyWm9SdmxFMmd1cjd1czVMbDlTWmliRGNWWThRcnFmazMwWFVHa0RpLVZmMnhmRW8yMmJmQ241ZngxanNzRlN1S0xfRTMxUkRNSQ?oc=5",
+      "title": "スマホの“手話通訳”介し警察官と対話、「手話リンク」交番・駐在所に導入 これまでは「筆談」のみ、聴覚障がい者の利便性向上へ【高知】 - TBS NEWS DIG",
+      "summary": "スマホの“手話通訳”介し警察官と対話、「手話リンク」交番・駐在所に導入 これまでは「筆談」のみ、聴覚障がい者の利便性向上へ【高知】 TBS NEWS DIG",
       "sourceName": "TBS NEWS DIG",
       "sourceUrl": "https://newsdig.tbs.co.jp",
       "publishedAt": "2026-03-03T08:00:00.000Z",
@@ -2154,20 +2100,11 @@
       "category": "general"
     },
     {
-      "id": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1oTFpaWkctRUxsemd3TXdxbkpROUhhMXN4ZWdNLTd2SlFpYmZMc2JqNllIangtUkZUV3NIYzBEdDZmV25VRUl3QUU2TFFFd2hZSVA2RUdNd2VqdzhGN0wwM2pTQWhxdmM?oc=5",
-      "title": "聴覚障害者の困りごとって？ 「悔しかった」当事者が作るアニメ教材 - 朝日新聞",
-      "summary": "聴覚障害者の困りごとって？ 「悔しかった」当事者が作るアニメ教材 朝日新聞",
-      "sourceName": "朝日新聞",
-      "sourceUrl": "https://www.asahi.com",
-      "publishedAt": "2026-03-03T08:00:00.000Z",
-      "category": "general"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9EOHF1OHRVckx2NEJzek5vM1ZMR3ZFb0NxOXlOWGItQjgtVFctbm95a0lGVWJrZHhNTjM5RUtXQ25sZjJFWXFpZkItbXA4aVZIcnBLZg?oc=5",
-      "title": "デフサッカー、男女とも「銀」 東郷で働く杉本さんと阿部さん、快挙を報告 - 中日新聞Web",
-      "summary": "デフサッカー、男女とも「銀」 東郷で働く杉本さんと阿部さん、快挙を報告 中日新聞Web",
-      "sourceName": "中日新聞Web",
-      "sourceUrl": "https://www.chunichi.co.jp",
+      "id": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBPR25NSDFWdXppSEVkcXdPN2Zhdjc3enJaYW5mQmp6YWdxWWs2NlZFZkctVXl5cWxDNC00Y0poLTFJemdZSkpsT0Fkcll5eUlOcjVBbHBlc2xLVHpaZUNlN09SbldlSTVu?oc=5",
+      "title": "「アンチコメントがうれしい」 デフアスリートが振り返る3カ月前 - 毎日新聞",
+      "summary": "「アンチコメントがうれしい」 デフアスリートが振り返る3カ月前 毎日新聞",
+      "sourceName": "毎日新聞",
+      "sourceUrl": "https://mainichi.jp",
       "publishedAt": "2026-03-03T08:00:00.000Z",
       "category": "sports"
     },
@@ -2186,6 +2123,15 @@
       "summary": "「共生社会」でごまかさないで デフリンピックが残したもの 毎日新聞",
       "sourceName": "毎日新聞",
       "sourceUrl": "https://mainichi.jp",
+      "publishedAt": "2026-03-02T08:00:00.000Z",
+      "category": "sports"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9xLVc3emNBWkRsUlVVTUIzU3E3QV9CUFJGR3VBVTFUejh6cmstR19uRVh6Z1pzd0VXWDZJOS04MVNwa0xsTG8waGNpV2RESDgyN3IwUnVsVmNNVkVhd3lxNk1OQVZBckoyXzdELU0tRldmSG9vVUo3VF94YjVySzQ?oc=5",
+      "title": "【柔道】東京2025デフリンピック柔道個人70キログラム級銅メダリスト 衣川暁選手が市内の向台小学校を訪問しました！ - city.nishitokyo.lg.jp",
+      "summary": "【柔道】東京2025デフリンピック柔道個人70キログラム級銅メダリスト 衣川暁選手が市内の向台小学校を訪問しました！ city.nishitokyo.lg.jp",
+      "sourceName": "city.nishitokyo.lg.jp",
+      "sourceUrl": "https://www.city.nishitokyo.lg.jp",
       "publishedAt": "2026-03-02T08:00:00.000Z",
       "category": "sports"
     },
@@ -2253,21 +2199,12 @@
       "category": "sports"
     },
     {
-      "id": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9tRzJyQmRZMml3b3Ywa3dWWURELTUyN0FRcDdscWZoZEsxSm9oYUdxRkJ4alZ1dnhsU1RTWlVPeU8ybWJsb0FYN3pUYw?oc=5",
-      "title": "デフ柔道男子の個人・団体戦で銅メダル 蒲生選手たたえる 福島県郡山市で祝賀会 - 47NEWS",
-      "summary": "デフ柔道男子の個人・団体戦で銅メダル 蒲生選手たたえる 福島県郡山市で祝賀会 47NEWS",
-      "sourceName": "47NEWS",
-      "sourceUrl": "https://www.47news.jp",
+      "id": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9OMHB4QUItTmVZSWNSTmgzcFlvNUVXQTdVTlFvZTJSX0U3TDdmczI2R0w5MUZ1WENxcGRLUTFlelYwZjI2MnpxNkVGTHk0ei15UDJyVUpSaw?oc=5",
+      "title": "デフ陸上の佐々木琢磨選手にプロ野球中日の松山晋也投手などに東奥スポーツ賞 贈呈式で意気込み語る - TBS NEWS DIG",
+      "summary": "デフ陸上の佐々木琢磨選手にプロ野球中日の松山晋也投手などに東奥スポーツ賞 贈呈式で意気込み語る TBS NEWS DIG",
+      "sourceName": "TBS NEWS DIG",
+      "sourceUrl": "https://newsdig.tbs.co.jp",
       "publishedAt": "2026-03-01T08:00:00.000Z",
-      "category": "sports"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5RdUdHeTJpcEFtZHpPSi04WmoxQlBFVTRCQzZTekRPR1hib2NIUTZHXzMtNUd1VkNSSm9BSEpTa3NqUmZxMm5UTGFMa0lMdjB3emF3?oc=5",
-      "title": "「障害がある人にも進んでコミュニケーションを」 デフサッカー銀の岩渕亜依選手、母校の船橋市立小で授業 - 東京新聞デジタル",
-      "summary": "「障害がある人にも進んでコミュニケーションを」 デフサッカー銀の岩渕亜依選手、母校の船橋市立小で授業 東京新聞デジタル",
-      "sourceName": "東京新聞デジタル",
-      "sourceUrl": "https://www.tokyo-np.co.jp",
-      "publishedAt": "2026-02-28T08:00:00.000Z",
       "category": "sports"
     },
     {
@@ -2280,15 +2217,6 @@
       "category": "general"
     },
     {
-      "id": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1kRFdxZ0UyVWd2emFLUk1QLWp5T1NhbkQ2aER3OFZxLV9kZmJ0aUZuWTU5bGMxZmZ2eGJOM0RUdzdiZGxCMUg1V1lXenJVM1g3a0cwaWpCR0hfWUtlWlBKaFpadE0?oc=5",
-      "title": "迷惑電話と勘違い？聴覚障害者向け「電話リレーサービス」が切られてしまう - hicbc.com",
-      "summary": "迷惑電話と勘違い？聴覚障害者向け「電話リレーサービス」が切られてしまう hicbc.com",
-      "sourceName": "hicbc.com",
-      "sourceUrl": "https://hicbc.com",
-      "publishedAt": "2026-02-27T08:00:00.000Z",
-      "category": "general"
-    },
-    {
       "id": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBwUU5UdWxkLWxiTjM2MDE4V192TnVYREFxaFgxU2dERE5pSWRzSjM3R0tIam82S2Zvdlp3WVJUZW1MTGxGbmdKYWZtbTA1cEp5dU82NHktV3U4a2ZQeEpLaVJUNmN6eENTYTE4NHFkeUs?oc=5",
       "title": "愛知：警官不在時 手話で通話 全交番、駐在所 聴覚障害者ら向け ：地域ニュース - 読売新聞",
       "summary": "愛知：警官不在時 手話で通話 全交番、駐在所 聴覚障害者ら向け ：地域ニュース 読売新聞",
@@ -2296,6 +2224,15 @@
       "sourceUrl": "https://www.yomiuri.co.jp",
       "publishedAt": "2026-02-27T08:00:00.000Z",
       "category": "local"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1kRFdxZ0UyVWd2emFLUk1QLWp5T1NhbkQ2aER3OFZxLV9kZmJ0aUZuWTU5bGMxZmZ2eGJOM0RUdzdiZGxCMUg1V1lXenJVM1g3a0cwaWpCR0hfWUtlWlBKaFpadE0?oc=5",
+      "title": "迷惑電話と勘違い？聴覚障害者向け「電話リレーサービス」が切られてしまう - hicbc.com",
+      "summary": "迷惑電話と勘違い？聴覚障害者向け「電話リレーサービス」が切られてしまう hicbc.com",
+      "sourceName": "hicbc.com",
+      "sourceUrl": "https://hicbc.com",
+      "publishedAt": "2026-02-27T08:00:00.000Z",
+      "category": "general"
     },
     {
       "id": "https://jdba.jp/jdba/6693/",
@@ -2343,15 +2280,6 @@
       "category": "local"
     },
     {
-      "id": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9jNnNGcnFIY0FyaTA3UkUyRGNyalZqQTYzQzd5U05xbWN2ZzVrVkZsS3JOZ0gybVZGMDlGLUp1ZV9DSUdHemFkd3FidXN2T3Vva3h1UUxWTUNrZ0hQTkRR?oc=5",
-      "title": "ろう者の女性が抱える“疎外感”を描いたスペイン映画「幸せの、忘れもの。」5月公開 - ぴあエンタメ情報",
-      "summary": "ろう者の女性が抱える“疎外感”を描いたスペイン映画「幸せの、忘れもの。」5月公開 ぴあエンタメ情報",
-      "sourceName": "ぴあエンタメ情報",
-      "sourceUrl": "https://lp.p.pia.jp",
-      "publishedAt": "2026-02-26T08:00:00.000Z",
-      "category": "general"
-    },
-    {
       "id": "https://co-coco.jp/series/minority_children/singer_teraosaho/",
       "title": "シンガーソングライター・寺尾紗穂さんと考える、音楽の持つ「強さ」と「怖さ」（東京都世田谷区）",
       "summary": "保育者の青山誠さんと、さまざまな領域で活動する人をたずねる連載『マイノリティ化する子どもたちと』。第4回は、シンガーソングライター／文筆家としてさまざまな発信を行う寺尾紗穂さんと、上町しぜんの国保育園の園内をめぐりながら語り合いました。社会の中で存在が見えづらかったり、自ら声を発しづらかったりする方々の傍で、何を聞き、どう表していけばいいのか考えます。",
@@ -2379,6 +2307,15 @@
       "category": "general"
     },
     {
+      "id": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9nZXRGS19wclN6QS1zQTYtSUFtWHZUYXp5cXoteENsbGQyU2xqYmVkdmQ5b1N1VTFiRnpPM3lWc2JWbHI4ZjFYUTJHWDJIUFN5dFczc2hfdmNfLXVkVUthWmxENFNBVjJleWhLVVZZLTNFMEJl?oc=5",
+      "title": "東京2025世界陸上・東京2025デフリンピックメダリスト表彰式|令和8年(2026年)2月|知事の部屋 - metro.tokyo.lg.jp",
+      "summary": "東京2025世界陸上・東京2025デフリンピックメダリスト表彰式|令和8年(2026年)2月|知事の部屋 metro.tokyo.lg.jp",
+      "sourceName": "metro.tokyo.lg.jp",
+      "sourceUrl": "https://www.metro.tokyo.lg.jp",
+      "publishedAt": "2026-02-25T08:00:00.000Z",
+      "category": "sports"
+    },
+    {
       "id": "https://ameblo.jp/jtd2009/entry-12957839837.html",
       "title": "2026/3/29矢来能楽堂にて第８回手話狂言発表会が行われます！",
       "summary": "2026年3月29日（日）矢来能楽堂にて手話狂言発表会を開催いたします！2月7日よりスタートした文化庁 文化芸術振興費補助金「舞台芸術等総合支援事業（芸術家等人材育成）」による手話狂言ワークショップ――いよいよ、その成果を披露する特別な一日です。狂言師の先生、そして日本ろう者劇団員から直接学び、普段なかなか立つことのできない“能楽堂”の舞台へ。声はありません。けれど、心を揺さぶる「ことば」がありま",
@@ -2386,24 +2323,6 @@
       "sourceUrl": "https://ameblo.jp/jtd2009/",
       "publishedAt": "2026-02-25T02:11:04.000Z",
       "category": "culture"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5pNFVGSzd1QUs1aEJSbFRnWU9GQ1dWWnZZZ2FndXVjR1JqUUZ0OEdOcEhhcHlGMWFYZDB4R2ZyclRtUFQtOXltZzVVV09obWZJdGxmTWlqa1dZLU80UTdqNW14VWpSSGM?oc=5",
-      "title": "手話ならではの伝え方、字幕との違い 通訳を入れて初めて知ったこと - 朝日新聞",
-      "summary": "手話ならではの伝え方、字幕との違い 通訳を入れて初めて知ったこと 朝日新聞",
-      "sourceName": "朝日新聞",
-      "sourceUrl": "https://www.asahi.com",
-      "publishedAt": "2026-02-24T08:00:00.000Z",
-      "category": "general"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1GS3lFMUxsWVdGNUNjbVZJbFJja1A5cllRRVlaY1VwbGRWN01CMWN6X0tNMHFJRW52dUtnUGpsYXlTc3RDQzN0TDdRc002UVNWVmVHMF85cGhfVy1W?oc=5",
-      "title": "（記者サロン）手話通訳つけて配信 伝えたいこと意識、場面が浮かぶように - 朝日新聞",
-      "summary": "（記者サロン）手話通訳つけて配信 伝えたいこと意識、場面が浮かぶように 朝日新聞",
-      "sourceName": "朝日新聞",
-      "sourceUrl": "https://www.asahi.com",
-      "publishedAt": "2026-02-24T08:00:00.000Z",
-      "category": "general"
     },
     {
       "id": "https://co-coco.jp/news/grundtvig_event/",
@@ -2442,24 +2361,6 @@
       "category": "sports"
     },
     {
-      "id": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1kazZ0VDJ4T21ma25uMm45T0ZmRmFKRU8xbDFGVmlEajVtS09Ld3IyMzQtYlF2amVhaUhRTTJkRERCcXlKX0pGRDFXdU9Vdw?oc=5",
-      "title": "デフバスケ代表目指し合宿 男女１８人が参加、市民と交流も 浜松市中央区 - 静岡新聞DIGITAL",
-      "summary": "デフバスケ代表目指し合宿 男女１８人が参加、市民と交流も 浜松市中央区 静岡新聞DIGITAL",
-      "sourceName": "静岡新聞DIGITAL",
-      "sourceUrl": "https://news.at-s.com",
-      "publishedAt": "2026-02-22T08:00:00.000Z",
-      "category": "sports"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFAzZ19Qb2pJcDJlN1N0TWkzYUFweFFhWWE2eFRFdjYwWFRDVVNWTEpxa0pMU0ZLMHdGMmFwb001QU9VcTR6dlQ0N1RsWWZoajRBY1pWOU10elo?oc=5",
-      "title": "デフ陸上「金」「銅」の佐々木 故郷五戸が祝福｜青森スポーツ｜青森ニュース｜Web東奥 - 東奥日報社",
-      "summary": "デフ陸上「金」「銅」の佐々木 故郷五戸が祝福｜青森スポーツ｜青森ニュース｜Web東奥 東奥日報社",
-      "sourceName": "東奥日報社",
-      "sourceUrl": "https://www.toonippo.co.jp",
-      "publishedAt": "2026-02-22T08:00:00.000Z",
-      "category": "sports"
-    },
-    {
       "id": "https://co-coco.jp/news/war_children/",
       "title": "戦時下を生きた子どもたちを、アートはどう表した？ 3美術館の巡回展、郡山市で開催中（福島）",
       "summary": "福島県の郡山市立美術館で、2026年1月31日（土）から3月22日（日）まで開催されている「戦後80年 戦争と子どもたち」。板橋区立美術館、新潟市美術館との共同企画として、戦時中から終戦直後にかけて制作された子どもを主題とする美術作品をはじめ、子どもたちに向けの絵本や教科書、紙芝居などを紹介します。",
@@ -2485,15 +2386,6 @@
       "sourceUrl": "https://co-coco.jp/",
       "publishedAt": "2026-02-20T08:30:25.000Z",
       "category": "education"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1naFllXzJza2JoNXlvUnNzVFVnR1hFM3pzdzk5bndWUTVqaUJzNnhUajk0TTlQU1BBcGlTQ0xndkE5UUtTdmpnRTFaZkotMEs2YTN4WFdBd3pIZ09WOGlyeA?oc=5",
-      "title": "手話通訳士についてのお知らせ | Volunteer's Summit 2025 特設ページ - ぼ活！",
-      "summary": "手話通訳士についてのお知らせ | Volunteer's Summit 2025 特設ページ ぼ活！",
-      "sourceName": "ぼ活！",
-      "sourceUrl": "https://vokatsu.jp",
-      "publishedAt": "2026-02-20T08:00:00.000Z",
-      "category": "general"
     },
     {
       "id": "https://co-coco.jp/news/deaf-puppet/",
@@ -2541,15 +2433,6 @@
       "category": "policy"
     },
     {
-      "id": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPNF80MldvTmlueTZCV0FodDdpb0RLZ0RDSldQSy1jdzdoTnJSSC1WU2kyd3U2NmZobmNXNzgwU1U0YWJjUFdEVWhfVDdkVFFLX0NFenRYZE5TREliSUczSnlJaUF3ZGo5NC04Z0hUbUNBVEYtaFNwMlJuWjRsOFhSY29R?oc=5",
-      "title": "デフサッカー通じ多様性学ぶ 日本代表の岡田さんが授業 南島原・有家小 - 長崎新聞ホームページ",
-      "summary": "デフサッカー通じ多様性学ぶ 日本代表の岡田さんが授業 南島原・有家小 長崎新聞ホームページ",
-      "sourceName": "長崎新聞ホームページ",
-      "sourceUrl": "https://www.nagasaki-np.co.jp",
-      "publishedAt": "2026-02-19T08:00:00.000Z",
-      "category": "sports"
-    },
-    {
       "id": "https://co-coco.jp/news/yokoenohattatsu/",
       "title": "「できる／できない」に縛られた社会を揺さぶる、9つの物語。ついに新刊発売、トークイベントも（京都市／大津市）",
       "summary": "目に見える評価や能力ではなく、「個性の広がり」や「感情の豊かさ」といった内面へと目を向けるあり方を、人の物語と共に紹介する書籍『〈ヨコへの発達〉というまなざし』。社会福祉の父・糸賀一雄から始まるこの新たな発達論を、垂髪（うない）あかりさんと坂本彩さんが、さまざまな当事者の葛藤と共に紹介します。発行は〈クリエイツかもがわ〉。",
@@ -2577,20 +2460,20 @@
       "category": "general"
     },
     {
-      "id": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE14RURkQllUdENDdmxSNzd4RngxaC13ZkdCcFk3eURQY2kxbkN2cEFlcHVtT0VFRWJTQV85dGtoenBDaUtUal9RdFdzLTNSNkg3ZUdn?oc=5",
-      "title": "デフリンピック運営委員会への派遣職員の方々の派遣元自治体へお礼に行きました - 全日本ろうあ連盟",
-      "summary": "デフリンピック運営委員会への派遣職員の方々の派遣元自治体へお礼に行きました 全日本ろうあ連盟",
-      "sourceName": "全日本ろうあ連盟",
-      "sourceUrl": "https://www.jfd.or.jp",
-      "publishedAt": "2026-02-18T08:00:00.000Z",
-      "category": "sports"
-    },
-    {
       "id": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5iUXBTYXZicTJLcS1sMnNXT2FBenhYOVlRM05LVExLemlVQ2NMYjg0SVhLWk5OYnhZV1dxdUxBNXBENW51ZkY4d1FqOXVxNWUxOFdzUDM2VXo5T2RLR3M4NQ?oc=5",
       "title": "「東京デフリンピック」共生社会とスポーツ、舞台裏を振り返る：時事ドットコム - 時事ドットコム",
       "summary": "「東京デフリンピック」共生社会とスポーツ、舞台裏を振り返る：時事ドットコム 時事ドットコム",
       "sourceName": "時事ドットコム",
       "sourceUrl": "https://www.jiji.com",
+      "publishedAt": "2026-02-18T08:00:00.000Z",
+      "category": "sports"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE14RURkQllUdENDdmxSNzd4RngxaC13ZkdCcFk3eURQY2kxbkN2cEFlcHVtT0VFRWJTQV85dGtoenBDaUtUal9RdFdzLTNSNkg3ZUdn?oc=5",
+      "title": "デフリンピック運営委員会への派遣職員の方々の派遣元自治体へお礼に行きました - 全日本ろうあ連盟",
+      "summary": "デフリンピック運営委員会への派遣職員の方々の派遣元自治体へお礼に行きました 全日本ろうあ連盟",
+      "sourceName": "全日本ろうあ連盟",
+      "sourceUrl": "https://www.jfd.or.jp",
       "publishedAt": "2026-02-18T08:00:00.000Z",
       "category": "sports"
     },
@@ -2620,6 +2503,15 @@
       "sourceUrl": "https://www.tokyo-np.co.jp",
       "publishedAt": "2026-02-17T08:00:00.000Z",
       "category": "general"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE16NFBFbmhLeUdfdG5YWjg3YmpLbms4RFFZaVY5WjNBeXVzTXhJcGpESW5sZlNxOVFDUlY1VHZOdEZMc0ZDYmdUVmNsQXF2UU94OTF3MGFKUzlMdHc?oc=5",
+      "title": "令和8年2月2日 東京2025デフリンピック活動報告会（吉良選手、榎本選手） - city.ichikawa.lg.jp",
+      "summary": "令和8年2月2日 東京2025デフリンピック活動報告会（吉良選手、榎本選手） city.ichikawa.lg.jp",
+      "sourceName": "city.ichikawa.lg.jp",
+      "sourceUrl": "https://www.city.ichikawa.lg.jp",
+      "publishedAt": "2026-02-17T08:00:00.000Z",
+      "category": "sports"
     },
     {
       "id": "https://www.deafswim.or.jp/2026/02/17/%e3%80%90%e3%81%8a%e7%9f%a5%e3%82%89%e3%81%9b%e3%80%91%e3%83%87%e3%83%95%e6%97%a5%e6%9c%ac%e8%a8%98%e9%8c%b2%e7%9f%ad%e6%b0%b4%e8%b7%af%e3%81%8c%e6%9b%b4%e6%96%b0%e3%81%97%e3%81%be%e3%81%97%e3%81%9f/",
@@ -2658,13 +2550,13 @@
       "category": "culture"
     },
     {
-      "id": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBmRVR3WXZBQ0NXdU9qSk9jVU5vSU9XTjJudWN1MnRWd1lHZFJwazg2Zl9sMUxVcS1LTWhLYXVxdFVZcFJYU1owY0t3Rk1DbHM3X2dFNFd5VHNaV2FEOTJZSHJSTHI5T3d2RzNn?oc=5",
-      "title": "第4回「聴覚障害者の生活」編（約15分） - pref.kagoshima.jp",
-      "summary": "第4回「聴覚障害者の生活」編（約15分） pref.kagoshima.jp",
-      "sourceName": "pref.kagoshima.jp",
-      "sourceUrl": "http://www.pref.kagoshima.jp",
-      "publishedAt": "2026-02-14T08:00:00.000Z",
-      "category": "general"
+      "id": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPUGUzcE9TcjE5NHFMTUNWc3B0UzhlY0FrZ2RRQXpSZlhtNnlkYUhsTUlrcHJjUWMtTVpmTEpwb1M1SmtHSGZoa1dLYnRhcEJUUjhJQmhteGdhVGVPN1Ffa3JWVmlaTDBlTDY5M2F1TUN2UHIwbmJXMzdESnByTVEyMzJ2TVhoSlRnUWRLWFRuTURlQk9Qdk40?oc=5",
+      "title": "東京2025デフリンピック 応援を力に初の金メダル - city.nagaoka.niigata.jp",
+      "summary": "東京2025デフリンピック 応援を力に初の金メダル city.nagaoka.niigata.jp",
+      "sourceName": "city.nagaoka.niigata.jp",
+      "sourceUrl": "https://www.city.nagaoka.niigata.jp",
+      "publishedAt": "2026-02-14T08:58:11.000Z",
+      "category": "sports"
     },
     {
       "id": "https://www.deafswim.or.jp/2026/02/14/%e3%80%90%e3%81%8a%e7%9f%a5%e3%82%89%e3%81%9b%e3%80%912-15%e6%97%a5%e8%8c%a8%e9%81%b8%e6%89%8b%e3%81%8c-%e3%83%86%e3%83%ac%e3%83%93%e7%a5%9e%e5%a5%88%e5%b7%9d%e3%80%8c%e9%9f%b3%e3%81%aa%e3%81%8d/",
@@ -2712,6 +2604,15 @@
       "category": "culture"
     },
     {
+      "id": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1CYW1OMHJFRV9hdm1meTFISmxLZW90ZnhkaXAzdjREN3BMZWE3SVZlQXlNVnRPbG1tcFY2RFRVYnhPVXI2SUhLTmtTLXdTOWlJMTNpNUtGN1ZPV2ZhU08tOXhHLWVveHQ4T3ZF?oc=5",
+      "title": "子ども蝕む【イヤホン難聴】のサイン 「音量75dB」で予防する方法 医師が徹底解説 - コクリコ - 講談社コクリコ",
+      "summary": "子ども蝕む【イヤホン難聴】のサイン 「音量75dB」で予防する方法 医師が徹底解説 - コクリコ 講談社コクリコ",
+      "sourceName": "講談社コクリコ",
+      "sourceUrl": "https://cocreco.kodansha.co.jp",
+      "publishedAt": "2026-02-12T08:00:00.000Z",
+      "category": "general"
+    },
+    {
       "id": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5iUWFqRS1QakpLOE5VUC1nVVZJdzh0WWwyNFBnNlZ4aGFndUstT1VPaEJ4WUZSRGItZzNyTFVLOWl5aFdmRHh4ay13ckhrMUZ2bDk1dFZWakVLdw?oc=5",
       "title": "警官不在でも聴覚障害者との意思疎通可能に 県警が手話リンクサービスを導入 - QAB 琉球朝日放送",
       "summary": "警官不在でも聴覚障害者との意思疎通可能に 県警が手話リンクサービスを導入 QAB 琉球朝日放送",
@@ -2749,9 +2650,9 @@
     },
     {
       "id": "https://news.google.com/rss/articles/CBMibEFVX3lxTE05cW9fV3gtdHF0VzJ0X0o5QVU4cTdIQkp4b1JWUzFWMldmRllRNGtxNkFncWt4ektjWFF2NnJIelRWWlVVeEItRHdzaWRfcVR3NFl0QnYwNkE2TjdwR3RoQ2NESWFxcElfMk15NA?oc=5",
-      "title": "電話リレーサービス 電話に誰もがアクセスできる社会を目指して（2/2） - nippon-foundation.or.jp",
-      "summary": "電話リレーサービス 電話に誰もがアクセスできる社会を目指して（2/2） nippon-foundation.or.jp",
-      "sourceName": "nippon-foundation.or.jp",
+      "title": "電話リレーサービス 電話に誰もがアクセスできる社会を目指して（2/2） - 日本財団",
+      "summary": "電話リレーサービス 電話に誰もがアクセスできる社会を目指して（2/2） 日本財団",
+      "sourceName": "日本財団",
       "sourceUrl": "https://www.nippon-foundation.or.jp",
       "publishedAt": "2026-02-12T05:11:09.000Z",
       "category": "general"
@@ -2784,13 +2685,31 @@
       "category": "general"
     },
     {
-      "id": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE4yYnZ4dnhhdGlwNHpPVllfSE1yVjlGVC00MTByWm1ReU5XalFadHlpYWdpbnZQNW45RFpNUGNmU1V0dDVxVmVHbmZjcFd3a1pnT0RTdzZzaTY?oc=5",
-      "title": "デフ陸上「金」佐々木選手に五戸町が特別功労賞、21日授与｜青森スポーツ,行政・政治｜青森ニュース｜Web東奥 - 東奥日報社",
-      "summary": "デフ陸上「金」佐々木選手に五戸町が特別功労賞、21日授与｜青森スポーツ,行政・政治｜青森ニュース｜Web東奥 東奥日報社",
-      "sourceName": "東奥日報社",
-      "sourceUrl": "https://www.toonippo.co.jp",
+      "id": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5hY0tid3VOSjQya1BQS2dhdFhMdFVVWm5TY0YwekFjY1ZXZ3owUmI4TjBtZnNHZjJMbHhrMDlKSFB3cE9lTDlka3owR1U5bmNqZ0laMjhUdW8?oc=5",
+      "title": "『難聴』で「認知症」になる可能性があるってホント？ 予防するための“補聴器の活用”とは？ - メディカルドック",
+      "summary": "『難聴』で「認知症」になる可能性があるってホント？ 予防するための“補聴器の活用”とは？ メディカルドック",
+      "sourceName": "メディカルドック",
+      "sourceUrl": "https://medicaldoc.jp",
+      "publishedAt": "2026-02-10T08:00:00.000Z",
+      "category": "medical"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1idGxiY2pacnY1Tnl3SkdMbjlyQXJCdXBlMW0xTm9rTFJqQWRBUS1WcF8ybFlleFRlYjR0NmhhQmN1MHlmRnRDU01Idk1JY2xzSl9mNFpPYzFKTTktdnNtclROajRzZ3pGM0E?oc=5",
+      "title": "東京2025デフリンピックで最先端テクノロジーが切り拓くスポーツの未来を特集『テック・エクスプローラー:東京デフリンピック』2月14日（土）・15日（日）・16日（月）放送 | BBCスタジオジャパン株式会社のプレスリリース - PR TIMES",
+      "summary": "東京2025デフリンピックで最先端テクノロジーが切り拓くスポーツの未来を特集『テック・エクスプローラー:東京デフリンピック』2月14日（土）・15日（日）・16日（月）放送 | BBCスタジオジャパン株式会社のプレスリリース PR TIMES",
+      "sourceName": "PR TIMES",
+      "sourceUrl": "https://prtimes.jp",
       "publishedAt": "2026-02-10T08:00:00.000Z",
       "category": "sports"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE11Tm45RXo0cmxodG9qaXJXWlBGUGM1aGo4WHRmSExDUk5taUNic3g3Zzd1SUVjSldWUUVtWkRFQm45dElSc3hBVDZ5QTNMNXd1T3VtUzJTbXk?oc=5",
+      "title": "樋口ミユ・森川理文・山崎皓司の視点で語る、PLAT発！市民と創造する演劇「赤鬼」舞台手話通訳付きバージョン - ナタリー",
+      "summary": "樋口ミユ・森川理文・山崎皓司の視点で語る、PLAT発！市民と創造する演劇「赤鬼」舞台手話通訳付きバージョン ナタリー",
+      "sourceName": "ナタリー",
+      "sourceUrl": "https://natalie.mu",
+      "publishedAt": "2026-02-09T08:00:00.000Z",
+      "category": "local"
     },
     {
       "id": "https://shikaku.in/event/id/3541",
@@ -2847,6 +2766,15 @@
       "category": "sports"
     },
     {
+      "id": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE4zV1RpZF9CREp1YTFQbkhaTVNkanJPWVRCTzlWYUJkakowOWJrTVZUZmUtVjlvUVJhejhMWTRfV2Vvb21NSHhiV0lWQQ?oc=5",
+      "title": "デフサッカー銀メダルの社員 伊東美和さんを特別表彰 関彰商事 - NEWSつくば",
+      "summary": "デフサッカー銀メダルの社員 伊東美和さんを特別表彰 関彰商事 NEWSつくば",
+      "sourceName": "NEWSつくば",
+      "sourceUrl": "https://newstsukuba.jp",
+      "publishedAt": "2026-02-06T08:00:00.000Z",
+      "category": "sports"
+    },
+    {
       "id": "https://co-coco.jp/news/sunderu/",
       "title": "団地×アートのコミュニティ拠点「Studio 04」からフリーマガジン創刊！ 隣りあう人たちの声を聞く『住んでる』全4号",
       "summary": "UR都市機構が、2026年1月にフリーマガジン『住んでる（Sunderu）』を創刊。東北地方で表現活動を行ってきた〈一般社団法人NOOK〉の編集のもと、大島四丁目団地「Studio04」の展覧会やワークショップの資料を紹介するとともに、団地や地域で暮らす人びとの声を起点に街の歴史や日常の営みを多角的に伝えるメディアです。「Studio04」ほか区内公共施設などで配布を開始、Webでも無料公開もされ",
@@ -2865,6 +2793,15 @@
       "category": "local"
     },
     {
+      "id": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5VVF9XQVF2RzNtWG90QjRheUp2TkNPY1FqUEFmVkphUjJ6SVA0WFQ5VkRxcnBDUFpEMGJDSUdYZURPTTViVUNmcDdQMnNIdlU?oc=5",
+      "title": "ろう者・難聴者の映像表現が集う「第21回さがの映像祭」香港作品『私たちの話し方』特別上映、出演者来日トークも実施 - AGARA紀伊民報",
+      "summary": "ろう者・難聴者の映像表現が集う「第21回さがの映像祭」香港作品『私たちの話し方』特別上映、出演者来日トークも実施 AGARA紀伊民報",
+      "sourceName": "AGARA紀伊民報",
+      "sourceUrl": "https://www.agara.co.jp",
+      "publishedAt": "2026-02-05T08:00:00.000Z",
+      "category": "general"
+    },
+    {
       "id": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFA0eE81YjlkMkppNEdycTdnOEJnSXd0aTVyNEg2M3ctNFJSRjRKQ1dqRl80S1lobThlalRnTGFnZ0pzWGVncTF2aXdQZGo1MkFkd2hn?oc=5",
       "title": "東京2025デフリンピックに向けた日本手話言語解説のための集中研修会（報告） - 全日本ろうあ連盟",
       "summary": "東京2025デフリンピックに向けた日本手話言語解説のための集中研修会（報告） 全日本ろうあ連盟",
@@ -2879,6 +2816,15 @@
       "summary": "デフリンピックの歴史に新たなページを開いた東京2025デフリンピック スポーツ庁 Web広報マガジン",
       "sourceName": "スポーツ庁 Web広報マガジン",
       "sourceUrl": "https://sports.go.jp",
+      "publishedAt": "2026-02-05T08:00:00.000Z",
+      "category": "sports"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5vclFFRWw3N0Y4YU1wcGl5RHhERkZwNVMweU83YjN2TEpvVnpmVkVGNElLczdDWlR6cmg3ZXhOaGZRQXYteU43T1d1N1pDYWg3cVRZ?oc=5",
+      "title": "目に見える応援 心強かった デフサッカー「銀」・高木桜花さん 袖ケ浦市が特別表彰 来年のW杯へ抱負 - 東京新聞デジタル",
+      "summary": "目に見える応援 心強かった デフサッカー「銀」・高木桜花さん 袖ケ浦市が特別表彰 来年のW杯へ抱負 東京新聞デジタル",
+      "sourceName": "東京新聞デジタル",
+      "sourceUrl": "https://www.tokyo-np.co.jp",
       "publishedAt": "2026-02-05T08:00:00.000Z",
       "category": "sports"
     },
@@ -2901,29 +2847,11 @@
       "category": "local"
     },
     {
-      "id": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1UQ0R6RnJlWmJRZGcwMlAwUXZ0TGMwTFhkcXBwMHBUb2ozbUw5YW9sb0I2VDVkVW0zNnljR1k2cjkzRTBnalNId2NrVElpd1hpcm41Q1hKUFUtQQ?oc=5",
-      "title": "“無人の交番”でも意思疎通 ビデオ通話で手話通訳 愛知県内全ての交番と駐在所に｢手話リンク｣導入 スマホでQRコード読み取り - TBS NEWS DIG",
-      "summary": "“無人の交番”でも意思疎通 ビデオ通話で手話通訳 愛知県内全ての交番と駐在所に｢手話リンク｣導入 スマホでQRコード読み取り TBS NEWS DIG",
-      "sourceName": "TBS NEWS DIG",
-      "sourceUrl": "https://newsdig.tbs.co.jp",
-      "publishedAt": "2026-02-04T08:00:00.000Z",
-      "category": "local"
-    },
-    {
       "id": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9lME03emRVODF6Yi0xWTRYdkhDNndMZENQemNHazFCZVBzNTRHcm9PMXhyUTZTR3c4cWJoM0EyRTJrRV9lSkVTNHdLd0FYV1ZyV195dE9Bekhycm1DUkRITjhyS3lxMndteFNEamxn?oc=5",
       "title": "東京デフリンピックの開催で社会に変化は？手話サークル「子どもの時から聴覚障害者と健聴者が交流できる場を増やすべき」 - TOKYO MX",
       "summary": "東京デフリンピックの開催で社会に変化は？手話サークル「子どもの時から聴覚障害者と健聴者が交流できる場を増やすべき」 TOKYO MX",
       "sourceName": "TOKYO MX",
       "sourceUrl": "https://s.mxtv.jp",
-      "publishedAt": "2026-02-04T08:00:00.000Z",
-      "category": "sports"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBDazlSMUxTb1lhaWhfc1BCcVYxMDBVQUJQLVVDQXJmX1FReEk1YXk3UUdvR3J5UHhub3FHaTJGOFoxN1VSbEl4QW5WX09aUQ?oc=5",
-      "title": "島津製作所所属、菰方里菜選手 デフテニス全豪オープンで優勝 - ゴムタイムス",
-      "summary": "島津製作所所属、菰方里菜選手 デフテニス全豪オープンで優勝 ゴムタイムス",
-      "sourceName": "ゴムタイムス",
-      "sourceUrl": "https://www.gomutimes.co.jp",
       "publishedAt": "2026-02-04T08:00:00.000Z",
       "category": "sports"
     },
@@ -2982,6 +2910,15 @@
       "category": "local"
     },
     {
+      "id": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPN3FzQW1paGZBRzRqZlZzeU9EM1MtRHBlSFJaMHpBT1B0T0paR3QzUUJkc0NGcmtFZERWaS02dGxHcDdpZXVVMVlPQUtuR0FsV09QWTJCSnBkbzZ1OGZtWFNMY08xdG8xclUtc0xMSk1jWWtfblNhc2ZZRVBtUlRKUXBPQ213SGdjamc?oc=5",
+      "title": "第25回夏季デフリンピック競技大会における千葉県ゆかりの選手に対する表彰式について - pref.chiba.lg.jp",
+      "summary": "第25回夏季デフリンピック競技大会における千葉県ゆかりの選手に対する表彰式について pref.chiba.lg.jp",
+      "sourceName": "pref.chiba.lg.jp",
+      "sourceUrl": "https://www.pref.chiba.lg.jp",
+      "publishedAt": "2026-02-03T08:00:00.000Z",
+      "category": "sports"
+    },
+    {
       "id": "https://www.deafswim.or.jp/2026/02/03/%e3%80%90%e3%81%94%e5%a0%b1%e5%91%8a%e3%80%91%e6%9d%b1%e4%ba%ac%e9%83%bd%e3%82%86%e3%81%8b%e3%82%8a%e3%81%ae%e3%83%a1%e3%83%80%e3%83%aa%e3%82%b9%e3%83%88%ef%bc%94%e5%90%8d%e3%81%8c%e6%9d%b1%e4%ba%ac/",
       "title": "【ご報告】東京都ゆかりのメダリスト４名が東京都栄誉賞及び都民スポーツ大賞に受賞決定！",
       "summary": "昨年１１月に東京で開催された第25回夏季デフリンピック競技大会(東京2025デフリンピック)において、メダル獲 続きを読む…",
@@ -3005,6 +2942,15 @@
       "summary": "「手話リンク」を導入しました city.tokorozawa.saitama.jp",
       "sourceName": "city.tokorozawa.saitama.jp",
       "sourceUrl": "https://www.city.tokorozawa.saitama.jp",
+      "publishedAt": "2026-02-02T08:00:00.000Z",
+      "category": "general"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMi7wJBVV95cUxPVWxyRU5nYlRtb0xzV2liT3ZxSW51NGp3WUNQMVFubHozdzZxeTg2UXgxdUJLOXpwak8yWVVOZG5UcjJ4eXV6RG03WjBOUlp2XzBXN1NfSGx6UHRJdzNOSF9PdHduYUQxcUVCZGtXalVOdGZBVlRFVWlCajNqZi14OFkzRGhiY0tqak42eVVMdFlYWWpjOEcyTW1xbTg1R1lMRHQ5cmRaMHpWTzFtU2NUMnZoaXdJWC1NeE9iRHFOa1VGcDNiQWdLX1o4QlhUdXN0U3dmeTdOMG1tY3h0bGw5Nno1VXpoTkM3bW1vZnRDWl9qQnFLc0xoeXRERUxfMUdwcmN4M1JfaXNHcy16OE5pYzFjZm0yT08zY09FdWUxX0RGTnNlZWRUQmlsaDV1Y3dOTDFEWVhBQ3I2dXRmbklnbnFBS1liNEFGVW1WcHdZWVVGMDBHNElzZEJDRmlMUUJ1dFZGcURxNnROSVdhMlpN?oc=5",
+      "title": "―「あおー！」五島弁で語り合う政治の原点。手話通訳がつなぐ「誰一人取り残さない議会」への決意― - komei.or.jp",
+      "summary": "―「あおー！」五島弁で語り合う政治の原点。手話通訳がつなぐ「誰一人取り残さない議会」への決意― komei.or.jp",
+      "sourceName": "komei.or.jp",
+      "sourceUrl": "https://www.komei.or.jp",
       "publishedAt": "2026-02-02T08:00:00.000Z",
       "category": "general"
     },
@@ -3034,6 +2980,15 @@
       "sourceUrl": "https://shikaku.in/",
       "publishedAt": "2026-01-30T08:31:18.000Z",
       "category": "local"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9GeHpUMU51TjktZF9lRktJTjhBQlI1b3JXZ1ljWkIzT0J0TWJWV0kzM0x0bGFBQnFKYU5Eb1lBUkFSczR3VElaanVUMEh2VkdvSHVrTmRPNA?oc=5",
+      "title": "みんなにやさしい交番に 「手話リンク」の運用開始 24時間手話通訳オペレーターを通じ警察官と連絡可能に（山形） - TBS NEWS DIG",
+      "summary": "みんなにやさしい交番に 「手話リンク」の運用開始 24時間手話通訳オペレーターを通じ警察官と連絡可能に（山形） TBS NEWS DIG",
+      "sourceName": "TBS NEWS DIG",
+      "sourceUrl": "https://newsdig.tbs.co.jp",
+      "publishedAt": "2026-01-30T08:00:00.000Z",
+      "category": "general"
     },
     {
       "id": "https://news.google.com/rss/articles/CBMickFVX3lxTE5ERmx1YVZHX0lwaWxrQ1ZFb0dkcHRZemlHLXlpNzRSbnp6Q0pCMXdnbnFFRC1DQkpRRnA1eG0xdzBtdE1SZHQyUjVuT0o2YnI5b3NMZG1uWWNLZEJBWlFPZGR0U2lzaFNIeGJ6SjAzc2RBdw?oc=5",
@@ -3207,20 +3162,20 @@
       "category": "sports"
     },
     {
+      "id": "https://news.google.com/rss/articles/CBMif0FVX3lxTE41VjlNbDlXTXVmaHVjU0RscmJyUkFVZEZGR29RWnZFZWdmcEFiQnVtbWh6dWhuRG9zajBwZlpOQjdjT2pfU0Q4MUFMZkE0T0l4SGJFeFFIM3lHZlhjTm5BZkVPa25NWkFTcEVCeDU1OXpaTGdWWXlnZHVSN3c1QWM?oc=5",
+      "title": "1月19日（月曜日）横浜市ゆかりの「東京2025デフリンピック」メダリストの皆さまに「横浜市スポーツ栄誉賞」を贈呈しました - 横浜市",
+      "summary": "1月19日（月曜日）横浜市ゆかりの「東京2025デフリンピック」メダリストの皆さまに「横浜市スポーツ栄誉賞」を贈呈しました 横浜市",
+      "sourceName": "横浜市",
+      "sourceUrl": "https://www.city.yokohama.lg.jp",
+      "publishedAt": "2026-01-28T08:00:00.000Z",
+      "category": "sports"
+    },
+    {
       "id": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBheTF2Q09sRzd1OTN3TkVWRm9jMUJabmgyNk0yLURXZlBVRzZPQUItbHFXZDNVVkR5ek10blBsekdoWDRLUGI0OW9tbWFqLWpPdUZmd3pBVkpKQQ?oc=5",
       "title": "新得合宿でつかんだ金メダル！ デフバスケ女子日本代表が報告 - 北海道新聞デジタル",
       "summary": "新得合宿でつかんだ金メダル！ デフバスケ女子日本代表が報告 北海道新聞デジタル",
       "sourceName": "北海道新聞デジタル",
       "sourceUrl": "https://www.hokkaido-np.co.jp",
-      "publishedAt": "2026-01-28T08:00:00.000Z",
-      "category": "sports"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9ELV90TUQtQUVSUWxmTTcxLURaWTh6bXJfZUY2MklNSXo2Y1V4ZmV4TTFmSXd2Ml9lVzJjNEUtSjB1NXBNMGg2QmFNamgyTWMxdUduczJWS3ZmbllfWTJVTjdn?oc=5",
-      "title": "東京デフバスケ男子代表・石川さん（横手市出身）が大会報告会 「音がなくても世界は熱くなれる」 - 秋田魁新報電子版",
-      "summary": "東京デフバスケ男子代表・石川さん（横手市出身）が大会報告会 「音がなくても世界は熱くなれる」 秋田魁新報電子版",
-      "sourceName": "秋田魁新報電子版",
-      "sourceUrl": "https://www.sakigake.jp",
       "publishedAt": "2026-01-28T08:00:00.000Z",
       "category": "sports"
     },
@@ -3241,6 +3196,24 @@
       "sourceUrl": "https://www.kunaicho.go.jp",
       "publishedAt": "2026-01-27T16:09:04.000Z",
       "category": "local"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9hMC1JWXc4djAyRVk4Q1pWVFV5QW5ZYThZNTVxX1d2MlE4dUtIX2dvYU9MWFU0UE0xSm1IaXp3M3V0ZWlsTEFtd09qS01nbkVZSl94UmlWX0FPZmo2MjU0OUlWMGhBZHo0RUJjeThFbjJiTWdSaDdwdWlB?oc=5",
+      "title": "「第40回全国高校生の手話によるスピーチコンテスト」ご臨席（有楽町朝日ホール／東京都千代田区） - kunaicho.go.jp",
+      "summary": "「第40回全国高校生の手話によるスピーチコンテスト」ご臨席（有楽町朝日ホール／東京都千代田区） kunaicho.go.jp",
+      "sourceName": "kunaicho.go.jp",
+      "sourceUrl": "https://www.kunaicho.go.jp",
+      "publishedAt": "2026-01-27T16:08:58.000Z",
+      "category": "local"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9HbXRMWGVLSjRQWWo0dkFnbEhyemhLQ2xVWW5FUGhtTmRMQ1VzNWFlbXg1WkVPTW4tQmwzaE1DdHA2TFJyc0otcTBsckNFUXRJWF93OEJVbXNnc01oSHVxQ0JSbGZSeEYtMHZjOUdDX29fZTJSazRnbGFn?oc=5",
+      "title": "「第25回夏季デフリンピック競技大会 東京2025」日本選手団代表ご接見（秋篠宮邸／東京都港区） - kunaicho.go.jp",
+      "summary": "「第25回夏季デフリンピック競技大会 東京2025」日本選手団代表ご接見（秋篠宮邸／東京都港区） kunaicho.go.jp",
+      "sourceName": "kunaicho.go.jp",
+      "sourceUrl": "https://www.kunaicho.go.jp",
+      "publishedAt": "2026-01-27T15:46:07.000Z",
+      "category": "sports"
     },
     {
       "id": "https://news.google.com/rss/articles/CBMiekFVX3lxTE94UGtBUUFxQkdFbU1OVUs3cWJ2WDdldTNDb053TDVNcVA5U0E3Y1JSUVhrc05UUHgxSUk3Q0xhZ0d4ckNnVmRrUnRvRjFlRlN3OEhBMFJaWkdVRURCcjBrWEItWlhsdlU3ZTFHUERtdVBtbExBZ2JGMXFR?oc=5",
@@ -3276,15 +3249,6 @@
       "sourceName": "kunaicho.go.jp",
       "sourceUrl": "https://www.kunaicho.go.jp",
       "publishedAt": "2026-01-27T12:11:49.000Z",
-      "category": "local"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5FRW1yc0UtV0M5el9hYy00dGVEdFJtRGl4SFBBck0tLVFMVG1QcGFSY3dOWkNtRWs0THNJb09hRi1xTjNWNzdoTWFMa0pUWXB3ZHF2TDZrYUUwd0VTU3BnX1dPWUpjQ0dndXNlazFRaHBPUU1Gd0xiWWl3?oc=5",
-      "title": "「第41回全国高校生の手話によるスピーチコンテスト」ご臨席（有楽町朝日ホール／東京都千代田区） - kunaicho.go.jp",
-      "summary": "「第41回全国高校生の手話によるスピーチコンテスト」ご臨席（有楽町朝日ホール／東京都千代田区） kunaicho.go.jp",
-      "sourceName": "kunaicho.go.jp",
-      "sourceUrl": "https://www.kunaicho.go.jp",
-      "publishedAt": "2026-01-27T12:11:44.000Z",
       "category": "local"
     },
     {
@@ -3351,29 +3315,20 @@
       "category": "general"
     },
     {
-      "id": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9xQjk3cjdud0tPRFg5VTVpd2U1R3h1R0pBbDV6YUo0bEQxRDF4TUp5QWxNUV9aV3VKTGVaeFRVdENoM3BzRVJPcUpDdTBxZ1h3eVZQbVhYNXRWYWRjNGhhX2syRmUta3dIWjkyZ2Jn?oc=5",
-      "title": "島津製作所女子テニス部を支える聴覚障害のあるデフリンピックメダリストの菰方里菜さん デフテニスの全豪オープン・シングルス３連覇へ！ - KBS京都",
-      "summary": "島津製作所女子テニス部を支える聴覚障害のあるデフリンピックメダリストの菰方里菜さん デフテニスの全豪オープン・シングルス３連覇へ！ KBS京都",
-      "sourceName": "KBS京都",
-      "sourceUrl": "https://www.kbs-kyoto.co.jp",
-      "publishedAt": "2026-01-26T08:00:00.000Z",
-      "category": "sports"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5fSTBJUnFuc1BEVHJjNWVvTHhpSy1oOGlOd05YYmlpa3lsODRyOEdhWi1VNE02b1c2VFRZa3psWGJtaUFzLVVUcDVELWdaWklSbUxQdnR0ZmR6dnN0WGpKUkF4eWwwQklIYkhKQlphV3c1N29ic1hKczFSMWI3RGM?oc=5",
-      "title": "「聴覚障害は他の人にはない武器」円盤投げ・湯上剛輝が日本パラスポーツ賞大賞を受賞（日テレNEWS NNN） - Yahoo!ニュース",
-      "summary": "「聴覚障害は他の人にはない武器」円盤投げ・湯上剛輝が日本パラスポーツ賞大賞を受賞（日テレNEWS NNN） Yahoo!ニュース",
-      "sourceName": "Yahoo!ニュース",
-      "sourceUrl": "https://news.yahoo.co.jp",
-      "publishedAt": "2026-01-23T08:00:00.000Z",
-      "category": "general"
-    },
-    {
       "id": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1CZW54T2dBVVQ5N1FCMW5OOENDODU4TXFadW1sN04zeUZuWGpSY0o2UnNzQlFKa2FzZ3VnbE1GeWVUVW42Q2dDVklZN1pLbmZ5ZEZoNzZNZVlFZ1VxWGFhVmhGcWpXN2dTZUctUEJWaE52OXg5?oc=5",
       "title": "デフリンピックの認知度が73.1％まで大幅に上昇しました|1月 - metro.tokyo.lg.jp",
       "summary": "デフリンピックの認知度が73.1％まで大幅に上昇しました|1月 metro.tokyo.lg.jp",
       "sourceName": "metro.tokyo.lg.jp",
       "sourceUrl": "https://www.metro.tokyo.lg.jp",
+      "publishedAt": "2026-01-23T08:00:00.000Z",
+      "category": "sports"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMidEFVX3lxTE93MFlsSXhZZ3lOel9HdldISzRrY0FVRWdpVzQtZWJHdF8wX0UzY1RkVkx3RDBVZjFaZjFwZUtYeXl6UmpmRUY1d0Rra2JlYzZYdzl5MEZnUHU1eDFkbmZ2MHJpSEtHV05Ta3VLaWFDNU5mMWtq?oc=5",
+      "title": "デフリンピック卓球女子日本代表・山田瑞恵選手が荒川区長を表敬訪問～東京デフリンピック2025の結果を報告～ - city.arakawa.tokyo.jp",
+      "summary": "デフリンピック卓球女子日本代表・山田瑞恵選手が荒川区長を表敬訪問～東京デフリンピック2025の結果を報告～ city.arakawa.tokyo.jp",
+      "sourceName": "city.arakawa.tokyo.jp",
+      "sourceUrl": "https://www.city.arakawa.tokyo.jp",
       "publishedAt": "2026-01-23T08:00:00.000Z",
       "category": "sports"
     },
@@ -3423,6 +3378,15 @@
       "category": "education"
     },
     {
+      "id": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE55Y0s0MEZOVkhRWWhQWlktWHdTQ2pZWGptRTFYWFRvMkVyR1ZQQi1oWWo4MjVsNDgxT1JXcHlmU2RtX1F1SFJvbjJtNzU?oc=5",
+      "title": "共に、世界一へ デフサッカー日本代表の軌跡の予告編・動画「予告編」 - 映画.com",
+      "summary": "共に、世界一へ デフサッカー日本代表の軌跡の予告編・動画「予告編」 映画.com",
+      "sourceName": "映画.com",
+      "sourceUrl": "https://eiga.com",
+      "publishedAt": "2026-01-22T08:00:00.000Z",
+      "category": "sports"
+    },
+    {
       "id": "https://shikaku.in/event/id/3528",
       "title": "【東京都】鑑賞サポート付舞台公演『序列』",
       "summary": "第36回下北沢演劇祭参加作品 Kトゥエンティワン本公演『序列』（脚本・演出：福田久美子）を（鑑賞サポート付き）上演いたします。 （日本語字幕タブレット・上演台本の無料貸し出しを致します。） 【公演スケジュール】 2月4日（水）19:30 2月5日（木）14:30 / 19:30 2月6日（金）14:30 / 19:30 2月7日（土）13:30 / 18:30 2月8日（日）13:30 【劇場】 ",
@@ -3430,6 +3394,15 @@
       "sourceUrl": "https://shikaku.in/",
       "publishedAt": "2026-01-21T14:28:11.000Z",
       "category": "local"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBreHYtUFI4RjQ0SkgwejJKVnBaRmdiNEF6LWd5U1pxVHpIR05Ubm9SR2ZuanBQM0VCSkdQRkVCUHNFdDRRTjJwUFVxdzBQbjByZHktTUh2b2tuWDA1OFM2LW4wd003Tjd4R0RsbA?oc=5",
+      "title": "難聴早期発見、認知症を防げ 高齢者に検査、自治体が支援 医療・介護費減に期待 - 日本経済新聞",
+      "summary": "難聴早期発見、認知症を防げ 高齢者に検査、自治体が支援 医療・介護費減に期待 日本経済新聞",
+      "sourceName": "日本経済新聞",
+      "sourceUrl": "https://www.nikkei.com",
+      "publishedAt": "2026-01-21T08:00:00.000Z",
+      "category": "policy"
     },
     {
       "id": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1ZSFlZcmVVS0k2TE94dVJFWHF4SFl1ckFrUWNRMlZfTjZTME1JWFo2Rm0xbGlpS19zSDlQR3p0X2hPdnZYel91QWE4QXQxaTJiWUFYMmMzckN2dw?oc=5",
@@ -3549,15 +3522,6 @@
       "category": "culture"
     },
     {
-      "id": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1PNVFTRmxKeVF5Q3oweVF1UWhDeVFOV1lCM2ZVaGQxLTZJTGtNbEVzX0dJb3ZacERNVFNlY1BFNjdNSUZSLWYw?oc=5",
-      "title": "ひと／東京デフリンピック・デフバレーで金メダルを獲得、清水建設・中田美緒さん - 日刊建設工業新聞",
-      "summary": "ひと／東京デフリンピック・デフバレーで金メダルを獲得、清水建設・中田美緒さん 日刊建設工業新聞",
-      "sourceName": "日刊建設工業新聞",
-      "sourceUrl": "https://www.decn.co.jp",
-      "publishedAt": "2026-01-15T21:02:29.000Z",
-      "category": "sports"
-    },
-    {
       "id": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNT1BsWFJXXzVtQkVJQXMzVk1MZU4tM0sweDFEQU1DNXBXY2tMMG1zTjM0SXk5X1hHVi16TGJqWjNkRU41YXZlNjFMaFVCYkVzcVlodUJTcF9qcm5ES0ZFSFA1VWtHTG05aDNwNFlXQUZ5SXBXTlcyd3JYWDltSWdmQVdIRWVhSmMxZmE4RGpR?oc=5",
       "title": "ろう者のためのマラソンガイド - city.ishigaki.okinawa.jp",
       "summary": "ろう者のためのマラソンガイド city.ishigaki.okinawa.jp",
@@ -3572,6 +3536,15 @@
       "summary": "山本 典城監督が日本ろう者サッカー協会とデフサッカー女子・デフフットサル女子監督契約更新 PR TIMES",
       "sourceName": "PR TIMES",
       "sourceUrl": "https://prtimes.jp",
+      "publishedAt": "2026-01-15T08:00:00.000Z",
+      "category": "sports"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE11MjNuYi1QOXFXQVUyMmFKeXlha3E0Q2JRM2Q4bU9MUGFFOU9Fd3U4Uk1VRVZ3aXhwTGk5a1B5NFJwOU41enp6QWR4Vm9WN3poWGo4Vw?oc=5",
+      "title": "東京デフリンピックが示した\"みんなが楽しめる\"未来 テレビ各局が挑んだ大会報道 - 民放online",
+      "summary": "東京デフリンピックが示した\"みんなが楽しめる\"未来 テレビ各局が挑んだ大会報道 民放online",
+      "sourceName": "民放online",
+      "sourceUrl": "https://minpo.online",
       "publishedAt": "2026-01-15T08:00:00.000Z",
       "category": "sports"
     },
@@ -3601,6 +3574,33 @@
       "sourceUrl": "https://www.yomiuri.co.jp",
       "publishedAt": "2026-01-14T08:00:00.000Z",
       "category": "local"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBhM2dDTGhhR2NWVWplZU96dFR6b3l2R19FME1HeWxzS3NKajd5ZnpaV1lXNjNJTXRwTlRadlZjWEVhTWh6UWZRdmF2UzJoR3B6MGtzVA?oc=5",
+      "title": "表情、体の動きでユーモアたっぷりに手話狂言 「岐阜ろう劇団いぶき」が大垣で上演 - 中日新聞Web",
+      "summary": "表情、体の動きでユーモアたっぷりに手話狂言 「岐阜ろう劇団いぶき」が大垣で上演 中日新聞Web",
+      "sourceName": "中日新聞Web",
+      "sourceUrl": "https://www.chunichi.co.jp",
+      "publishedAt": "2026-01-14T08:00:00.000Z",
+      "category": "culture"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9ydFdqeXpDb1FqMWZFNG9hcktxbXFJSERsbEROLXBVM1NZNDVxa0VlUkFJNVNKbzNHalVaVVdUOWtJdFFWYTVLSnlqMWZKNUdsYkFqV0xXZEY4TVpsOTJv?oc=5",
+      "title": "認知症リスク要因 “難聴が最も影響大” 東海大などのグループ - NHKニュース",
+      "summary": "認知症リスク要因 “難聴が最も影響大” 東海大などのグループ NHKニュース",
+      "sourceName": "NHKニュース",
+      "sourceUrl": "https://news.web.nhk",
+      "publishedAt": "2026-01-13T08:00:00.000Z",
+      "category": "general"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNVW93OUtEOHBWRFY4a05WcHA2VWhwUFhJVHpzeWZFX3FQOU82dE45ZGQyYjRKWXN5dVpWMlY2aWx2LXdMUFg5ckYtWnI3U29sRjdySFVxZmtGTk91a0ZGMG5tc3ZPdDRWeGZGSkZqdjR2UWZ6eGNxZFdUNzZDWWNzOVRZdDNWNVBhTHZjS3paWDBneWxQY1VCd1pvME13U19aWnRN?oc=5",
+      "title": "おそうしき 絵と手話で…別れ 聴覚障害児も一緒に - 読売新聞",
+      "summary": "おそうしき 絵と手話で…別れ 聴覚障害児も一緒に 読売新聞",
+      "sourceName": "読売新聞",
+      "sourceUrl": "https://www.yomiuri.co.jp",
+      "publishedAt": "2026-01-13T08:00:00.000Z",
+      "category": "general"
     }
   ]
 }

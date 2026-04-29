@@ -6,8 +6,17 @@
     <atom:link href="https://tamas-hub.github.io/deaf-navi-web/feed.xml" rel="self" type="application/rss+xml" />
     <description>聴覚障害・難聴・ろう者コミュニティ向けに、全日本ろうあ連盟や主要報道機関から最新ニュースを厳選。制度・政策・医療・教育・地域情報を毎時自動更新するキュレーションサイト。手話・情報保障・補聴器・人工内耳・手話言語条例など幅広いテーマをカバー。</description>
     <language>ja-JP</language>
-    <lastBuildDate>Wed, 29 Apr 2026 21:06:42 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 29 Apr 2026 22:58:03 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>手話解説動画を制作 あす公開「幸せの、忘れもの。」 - 東京新聞デジタル</title>
+      <link>https://news.google.com/rss/articles/CBMiY0FVX3lxTE1pNHR6UTRVbmlXVnBCbHpfX2JROGVxblh4aWU3X25hdVV5UzhRTERYWEhMdDlueWk0cmlWZ0V6S0tsblJwd2dYNFdVdGtKZUZJT1JNWWNRd2VQMWF6Vk5QamF4aw?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiY0FVX3lxTE1pNHR6UTRVbmlXVnBCbHpfX2JROGVxblh4aWU3X25hdVV5UzhRTERYWEhMdDlueWk0cmlWZ0V6S0tsblJwd2dYNFdVdGtKZUZJT1JNWWNRd2VQMWF6Vk5QamF4aw?oc=5</guid>
+      <pubDate>Wed, 29 Apr 2026 22:18:57 GMT</pubDate>
+      <description>手話解説動画を制作 あす公開「幸せの、忘れもの。」 東京新聞デジタル</description>
+      <category>一般</category>
+      <source url="https://www.tokyo-np.co.jp">東京新聞デジタル</source>
+    </item>
     <item>
       <title>【重要】会員制度および地域デフバスケットボール方針について</title>
       <link>https://jdba.jp/jdba/6861/</link>
@@ -64,8 +73,8 @@
     </item>
     <item>
       <title>手話で万引きや酔っ払いにも対応 都内3カ所に〝手話ができるおまわりさん〟 制度は94年から（withnews by 朝日新聞） - Yahoo!ニュース</title>
-      <link>https://news.google.com/rss/articles/CBMif0FVX3lxTE1zNG9aZkdhV3RVWTNOUFRBU2REd1dMVUtzdXdnQ2k2dm92YVB5NDNLQ0MzS0JuTnV5Z3J0VUVfRV9yS3M0YWV2YlFyM3NPc003RVN6SURocWtGX0tnN1I4WUw5dlh1SUNjUHdhTTVQTk9UNmZBVXROLTU2eXZtTHc?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMif0FVX3lxTE1zNG9aZkdhV3RVWTNOUFRBU2REd1dMVUtzdXdnQ2k2dm92YVB5NDNLQ0MzS0JuTnV5Z3J0VUVfRV9yS3M0YWV2YlFyM3NPc003RVN6SURocWtGX0tnN1I4WUw5dlh1SUNjUHdhTTVQTk9UNmZBVXROLTU2eXZtTHc?oc=5</guid>
+      <link>https://news.google.com/rss/articles/CBMiiAFBVV95cUxQY2E0cFRKOThvTHBQZi1PNHRlTWF6Ujg2Vm1vSmJvNkNzSTBuTFMxWU5qNEFvXzRTSGZUMEM0NGpyc1ItUUJfZW55Q2RUellKb1ZrLXRkQkY1N2NFSWNVTFJYekkzYnM3Y1Jrd1AtOUFjTDEtdFc4WjNSdks2LVZ1R01VVzkyS3df?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiiAFBVV95cUxQY2E0cFRKOThvTHBQZi1PNHRlTWF6Ujg2Vm1vSmJvNkNzSTBuTFMxWU5qNEFvXzRTSGZUMEM0NGpyc1ItUUJfZW55Q2RUellKb1ZrLXRkQkY1N2NFSWNVTFJYekkzYnM3Y1Jrd1AtOUFjTDEtdFc4WjNSdks2LVZ1R01VVzkyS3df?oc=5</guid>
       <pubDate>Tue, 28 Apr 2026 22:17:00 GMT</pubDate>
       <description>手話で万引きや酔っ払いにも対応 都内3カ所に〝手話ができるおまわりさん〟 制度は94年から（withnews by 朝日新聞） Yahoo!ニュース</description>
       <category>制度・政策</category>
@@ -232,15 +241,6 @@
       <description>令和8年度大崎地域手話奉仕員養成講座（入門課程）募集！！ town.kami.miyagi.jp</description>
       <category>地域</category>
       <source url="https://www.town.kami.miyagi.jp">town.kami.miyagi.jp</source>
-    </item>
-    <item>
-      <title>U23デフサッカーW杯出場支援プロジェクト -「 夢で終わらせない挑戦」 - キャンプファイヤー</title>
-      <link>https://news.google.com/rss/articles/CBMiU0FVX3lxTE43LTdoVVVIeU41d2pIVVUzN0dMUjhiRlRzWUVXYnc1bDZlSUp1ZlJxQmtWNUk3dndJOVExeXNDODdWalRsaGRzdHZnZXlubmRwdHRr?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiU0FVX3lxTE43LTdoVVVIeU41d2pIVVUzN0dMUjhiRlRzWUVXYnc1bDZlSUp1ZlJxQmtWNUk3dndJOVExeXNDODdWalRsaGRzdHZnZXlubmRwdHRr?oc=5</guid>
-      <pubDate>Mon, 27 Apr 2026 06:56:46 GMT</pubDate>
-      <description>U23デフサッカーW杯出場支援プロジェクト -「 夢で終わらせない挑戦」 キャンプファイヤー</description>
-      <category>デフスポーツ</category>
-      <source url="https://camp-fire.jp">キャンプファイヤー</source>
     </item>
     <item>
       <title>聴覚障害者の最新ニュース - 朝日新聞</title>
@@ -423,15 +423,6 @@
       <source url="https://newsdig.tbs.co.jp">TBS NEWS DIG</source>
     </item>
     <item>
-      <title>手話の利用拒否、後絶たず 筆談で意思疎通可と誤解 独自言語、情報格差も - 山陽新聞</title>
-      <link>https://news.google.com/rss/articles/CBMiUkFVX3lxTE1ra1FvYzJ3YWhmSTdfY3VQZ2dBV2QxM21qM2NnSC00czRRRFZENTEyVFNTcENBMEFwSXE0V1RkUmJOT1l3bEJSNFpNRG5Qa2JMNFE?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiUkFVX3lxTE1ra1FvYzJ3YWhmSTdfY3VQZ2dBV2QxM21qM2NnSC00czRRRFZENTEyVFNTcENBMEFwSXE0V1RkUmJOT1l3bEJSNFpNRG5Qa2JMNFE?oc=5</guid>
-      <pubDate>Sat, 25 Apr 2026 07:00:00 GMT</pubDate>
-      <description>手話の利用拒否、後絶たず 筆談で意思疎通可と誤解 独自言語、情報格差も 山陽新聞</description>
-      <category>一般</category>
-      <source url="https://www.sanyonews.jp">山陽新聞</source>
-    </item>
-    <item>
       <title>突発性難聴を公表の安西ひろこ、医師からの告知「治る事は厳しいです！治療は終わりです！」 - ｄメニューニュース</title>
       <link>https://news.google.com/rss/articles/CBMikAFBVV95cUxPb1FyRTNoV2RLS3hqdHVZMWU0NjBtTEpsQ1ctZ2tzcFpxSUN2cXVNZkR1NnlQVUpKVWIwaGx5LXotUFMzZnRVY09zVURVQkpoOFhGTnlOQ2J4aWxYQlZDNTlIU3JobXBlTk9VT2FHN0gtR3IwazBYVEc3UnpMdDQ0cU82TUF1MTVkemt3aGtWTHPSAZYBQVVfeXFMT0FkWlA3T2dEVjdUNGo1a0NsVFlWZFI2eVp0UVlhU25DX05fMTdtcXJFdlhsRzdFdFhwQjVZanRHRXB1djM5MV92YVJUTlJ0S09GYWNubVdZNVNUR0IwRy1qUDRrcFRrdVZLLXl2bUVTZnF1dFJiU0pRY1lkRU5DUXV4VnQ2OW1zanp0Nmg1dWtoMFg5dTJB?oc=5</link>
       <guid isPermaLink="true">https://news.google.com/rss/articles/CBMikAFBVV95cUxPb1FyRTNoV2RLS3hqdHVZMWU0NjBtTEpsQ1ctZ2tzcFpxSUN2cXVNZkR1NnlQVUpKVWIwaGx5LXotUFMzZnRVY09zVURVQkpoOFhGTnlOQ2J4aWxYQlZDNTlIU3JobXBlTk9VT2FHN0gtR3IwazBYVEc3UnpMdDQ0cU82TUF1MTVkemt3aGtWTHPSAZYBQVVfeXFMT0FkWlA3T2dEVjdUNGo1a0NsVFlWZFI2eVp0UVlhU25DX05fMTdtcXJFdlhsRzdFdFhwQjVZanRHRXB1djM5MV92YVJUTlJ0S09GYWNubVdZNVNUR0IwRy1qUDRrcFRrdVZLLXl2bUVTZnF1dFJiU0pRY1lkRU5DUXV4VnQ2OW1zanp0Nmg1dWtoMFg5dTJB?oc=5</guid>
@@ -457,6 +448,15 @@
       <description>補聴器、わが子の必需品 購入・修理費補助が拡充 群馬県 2026.4.25付 公明新聞電子版プラス</description>
       <category>制度・政策</category>
       <source url="https://digital.komei-shimbun.jp">公明新聞電子版プラス</source>
+    </item>
+    <item>
+      <title>安西ひろこ、医師からの言葉に「ず～んときます」 突発性難聴公表から4ヶ月…診断結果明かす - オリコンニュース</title>
+      <link>https://news.google.com/rss/articles/CBMiVkFVX3lxTE9ucXNXTkhFcWQzV1hXbDdGUXBLSHBlTnQwNmZhcmlxVG94alNmSDNUbm9zZkwxekFYY2FlbmZJaWN1aGk2ZVBYRkxaYlFKSkpSYzRDdzdB?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiVkFVX3lxTE9ucXNXTkhFcWQzV1hXbDdGUXBLSHBlTnQwNmZhcmlxVG94alNmSDNUbm9zZkwxekFYY2FlbmZJaWN1aGk2ZVBYRkxaYlFKSkpSYzRDdzdB?oc=5</guid>
+      <pubDate>Sat, 25 Apr 2026 00:44:00 GMT</pubDate>
+      <description>安西ひろこ、医師からの言葉に「ず～んときます」 突発性難聴公表から4ヶ月…診断結果明かす オリコンニュース</description>
+      <category>医療</category>
+      <source url="https://www.oricon.co.jp">オリコンニュース</source>
     </item>
   </channel>
 </rss>
