@@ -6,7 +6,7 @@
     <atom:link href="https://tamas-hub.github.io/deaf-navi-web/feed.xml" rel="self" type="application/rss+xml" />
     <description>聴覚障害・難聴・ろう者コミュニティ向けに、全日本ろうあ連盟や主要報道機関から最新ニュースを厳選。制度・政策・医療・教育・地域情報を毎時自動更新するキュレーションサイト。手話・情報保障・補聴器・人工内耳・手話言語条例など幅広いテーマをカバー。</description>
     <language>ja-JP</language>
-    <lastBuildDate>Wed, 29 Apr 2026 17:40:13 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 29 Apr 2026 19:27:25 GMT</lastBuildDate>
     <ttl>60</ttl>
     <item>
       <title>【重要】会員制度および地域デフバスケットボール方針について</title>
@@ -405,6 +405,15 @@
       <source url="https://newsdig.tbs.co.jp">TBS NEWS DIG</source>
     </item>
     <item>
+      <title>コンミョン、突発性難聴で入院も…治療中の近況明かす「今はかなり良くなった」（Kstyle） - Yahoo!ニュース</title>
+      <link>https://news.google.com/rss/articles/CBMif0FVX3lxTE1QbkZZU1pUZ2NuVnNncWVqVmJKdmNyemloSEF6bEptT3doUm1YeGg0UVI1UTBVaDZEbWFteXlEeU1tT2cwWVIxZDh3Q2tXZk9PVjJvN0M2blZEcHRGSmd6TktSS09DeTQ1Z1JqWXZFMDE1SmE5M3JaN0Z1SkdaSVE?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMif0FVX3lxTE1QbkZZU1pUZ2NuVnNncWVqVmJKdmNyemloSEF6bEptT3doUm1YeGg0UVI1UTBVaDZEbWFteXlEeU1tT2cwWVIxZDh3Q2tXZk9PVjJvN0M2blZEcHRGSmd6TktSS09DeTQ1Z1JqWXZFMDE1SmE5M3JaN0Z1SkdaSVE?oc=5</guid>
+      <pubDate>Sat, 25 Apr 2026 05:21:18 GMT</pubDate>
+      <description>コンミョン、突発性難聴で入院も…治療中の近況明かす「今はかなり良くなった」（Kstyle） Yahoo!ニュース</description>
+      <category>医療</category>
+      <source url="https://news.yahoo.co.jp">Yahoo!ニュース</source>
+    </item>
+    <item>
       <title>突発性難聴を公表の安西ひろこ、医師からの告知「治る事は厳しいです！治療は終わりです！」 - ｄメニューニュース</title>
       <link>https://news.google.com/rss/articles/CBMikAFBVV95cUxPb1FyRTNoV2RLS3hqdHVZMWU0NjBtTEpsQ1ctZ2tzcFpxSUN2cXVNZkR1NnlQVUpKVWIwaGx5LXotUFMzZnRVY09zVURVQkpoOFhGTnlOQ2J4aWxYQlZDNTlIU3JobXBlTk9VT2FHN0gtR3IwazBYVEc3UnpMdDQ0cU82TUF1MTVkemt3aGtWTHPSAZYBQVVfeXFMT0FkWlA3T2dEVjdUNGo1a0NsVFlWZFI2eVp0UVlhU25DX05fMTdtcXJFdlhsRzdFdFhwQjVZanRHRXB1djM5MV92YVJUTlJ0S09GYWNubVdZNVNUR0IwRy1qUDRrcFRrdVZLLXl2bUVTZnF1dFJiU0pRY1lkRU5DUXV4VnQ2OW1zanp0Nmg1dWtoMFg5dTJB?oc=5</link>
       <guid isPermaLink="true">https://news.google.com/rss/articles/CBMikAFBVV95cUxPb1FyRTNoV2RLS3hqdHVZMWU0NjBtTEpsQ1ctZ2tzcFpxSUN2cXVNZkR1NnlQVUpKVWIwaGx5LXotUFMzZnRVY09zVURVQkpoOFhGTnlOQ2J4aWxYQlZDNTlIU3JobXBlTk9VT2FHN0gtR3IwazBYVEc3UnpMdDQ0cU82TUF1MTVkemt3aGtWTHPSAZYBQVVfeXFMT0FkWlA3T2dEVjdUNGo1a0NsVFlWZFI2eVp0UVlhU25DX05fMTdtcXJFdlhsRzdFdFhwQjVZanRHRXB1djM5MV92YVJUTlJ0S09GYWNubVdZNVNUR0IwRy1qUDRrcFRrdVZLLXl2bUVTZnF1dFJiU0pRY1lkRU5DUXV4VnQ2OW1zanp0Nmg1dWtoMFg5dTJB?oc=5</guid>
@@ -448,15 +457,6 @@
       <description>安西ひろこ、医師からの言葉に「ず～んときます」 突発性難聴公表から4ヶ月…診断結果明かす オリコンニュース</description>
       <category>医療</category>
       <source url="https://www.oricon.co.jp">オリコンニュース</source>
-    </item>
-    <item>
-      <title>認知症発症のリスク1位は難聴、2位は運動不足…ではすべき運動とは？ 49歳オジ記者が学ぶ認知症予防のための「理想の運動習慣」（文春オンライン） - Yahoo!ニュース</title>
-      <link>https://news.google.com/rss/articles/CBMif0FVX3lxTE5sSGF3M0dVcV9tb2ZodDFlQUhCUjF3blVMX3RDZEdJNWM0N2ZfR3RvS3V3ekplc0dNV2hWSFNjb2dTSXNPT2ZMMmRaaWp4MndjZXJua2tod1daY2lzSzY0em44SHlvc21WQlBrbWxzT2ZSY2JaTHhJdm1NNjBlMnc?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMif0FVX3lxTE5sSGF3M0dVcV9tb2ZodDFlQUhCUjF3blVMX3RDZEdJNWM0N2ZfR3RvS3V3ekplc0dNV2hWSFNjb2dTSXNPT2ZMMmRaaWp4MndjZXJua2tod1daY2lzSzY0em44SHlvc21WQlBrbWxzT2ZSY2JaTHhJdm1NNjBlMnc?oc=5</guid>
-      <pubDate>Fri, 24 Apr 2026 22:12:17 GMT</pubDate>
-      <description>認知症発症のリスク1位は難聴、2位は運動不足…ではすべき運動とは？ 49歳オジ記者が学ぶ認知症予防のための「理想の運動習慣」（文春オンライン） Yahoo!ニュース</description>
-      <category>一般</category>
-      <source url="https://news.yahoo.co.jp">Yahoo!ニュース</source>
     </item>
   </channel>
 </rss>
