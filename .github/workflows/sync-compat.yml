@@ -1,0 +1,35 @@
+name: Sync legacy compatibility files
+
+on:
+  schedule:
+    - cron: '30 21,3,9 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: legacy-compat-sync
+  cancel-in-progress: false
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v5
+      - name: Sync public compatibility files
+        run: npm run sync
+      - name: Verify redirect and API compatibility
+        run: npm test
+      - name: Commit updates
+        run: |
+          if git diff --quiet; then
+            echo "No compatibility updates."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -- articles*.json feed*.xml sitemap*.xml app/v1 '*.html' archive otomado
+          git commit -m "chore: sync legacy compatibility files"
+          git push

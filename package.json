@@ -1,0 +1,11 @@
+{
+  "name": "deaf-navi-web-legacy-redirect",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "node scripts/build-redirects.mjs",
+    "sync": "node scripts/sync-compat.mjs",
+    "test": "node scripts/verify.mjs"
+  }
+}
