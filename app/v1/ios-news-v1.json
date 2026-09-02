@@ -1,5 +1,25 @@
 [
   {
+    "id": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE96M2NJbENQcWI5TmthMENHdDN5LTFPMV90YlNFQ005MFk3Rm1nU01iY3hpZXpTakoxU0ZSQWFjZ05FekdmNllTQ1R6OGdRYjhsUTd2Vg?oc=5",
+    "title": "メル・ギブソンが謝罪、手話通訳者をまねた行為に「思慮に欠けた愚行だった」 - THE RIVER",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE96M2NJbENQcWI5TmthMENHdDN5LTFPMV90YlNFQ005MFk3Rm1nU01iY3hpZXpTakoxU0ZSQWFjZ05FekdmNllTQ1R6OGdRYjhsUTd2Vg?oc=5",
+    "publishedAt": "2026-09-02T22:00:00Z",
+    "sourceName": "THE RIVER",
+    "sourceURL": "https://theriver.jp",
+    "category": "policy"
+  },
+  {
+    "id": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5fX3FUYXU0Yk5DXzBzNG1OR0k0YjNoSTZVcWJRRlB3WkI5bG9PTi1wazZwXzRhZE9ORU1qd3ljYkFwX0ZNYzlPSnBBcmpJckU?oc=5",
+    "title": "（57）災害時 テレビに手話CGを - 熊本日日新聞社",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5fX3FUYXU0Yk5DXzBzNG1OR0k0YjNoSTZVcWJRRlB3WkI5bG9PTi1wazZwXzRhZE9ORU1qd3ljYkFwX0ZNYzlPSnBBcmpJckU?oc=5",
+    "publishedAt": "2026-09-02T21:05:00Z",
+    "sourceName": "熊本日日新聞社",
+    "sourceURL": "https://kumanichi.com",
+    "category": "policy"
+  },
+  {
     "id": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQb0hEVjFSVk5GdG1jamxFaDUzTGd2ZnM3NmdvYUVoWUliMG4xOUNhQmJFTEpfWWlwNEV0VmFxdUhVbzJJRXJEWjZfa1dmSWdtd1E4LWNBRWd1MTJQNUQ2WUl6QmVQTXl2NDg1THJJVU5UNGdJQXN1MV9sbVh6TFB3LWZGWkV5MkhIWUdqUW8xNm1sYm52Z1E?oc=5",
     "title": "メル・ギブソン「悪意は全くなかった」イベントで手話通訳者を嘲笑した疑いで非難を浴び謝罪 - 日刊スポーツ",
     "summary": "",
@@ -20,13 +40,13 @@
     "category": "culture"
   },
   {
-    "id": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5hdVp2ZGFEdXJvVDNuVnhlYURFQzh5X1VSbU41Xzl4QjdSNlBrXzk1NDhiajl6cVZmMWRWZ2NQRHdpY1kyRkprOEN1dVJTN09EV283NWpZbUpNLXEzSWxETlJpR2pNcHhpTVE?oc=5",
-    "title": "【東京女子医科大学】難聴が認知症のリスクに？公開シンポジウム開催 - PR TIMES",
+    "id": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB5eXRBUjJ4cUE2aVNNM3RUSUMzU0FLRzRqMmt4SG5xbGg2alp4VE1BbkRxUWxzdXR1ZVI0aEtvMXlDRDZobEk0THNaM3lGeC1Xb0ZLYnBRSk5yQlF1NzYwakxkODA5QnNQLXlnQ2Z4RUczaTVLS1hiZDNn?oc=5",
+    "title": "【東京女子医科大学】難聴が認知症のリスクに？公開シンポジウム開催 - イザ！",
     "summary": "",
-    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5hdVp2ZGFEdXJvVDNuVnhlYURFQzh5X1VSbU41Xzl4QjdSNlBrXzk1NDhiajl6cVZmMWRWZ2NQRHdpY1kyRkprOEN1dVJTN09EV283NWpZbUpNLXEzSWxETlJpR2pNcHhpTVE?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB5eXRBUjJ4cUE2aVNNM3RUSUMzU0FLRzRqMmt4SG5xbGg2alp4VE1BbkRxUWxzdXR1ZVI0aEtvMXlDRDZobEk0THNaM3lGeC1Xb0ZLYnBRSk5yQlF1NzYwakxkODA5QnNQLXlnQ2Z4RUczaTVLS1hiZDNn?oc=5",
     "publishedAt": "2026-09-02T08:00:27Z",
-    "sourceName": "PR TIMES",
-    "sourceURL": "https://prtimes.jp",
+    "sourceName": "イザ！",
+    "sourceURL": "https://www.iza.ne.jp",
     "category": "culture"
   },
   {
@@ -161,11 +181,11 @@
   },
   {
     "id": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPVmx4aGs3QTRJc0FKenlmZW9uRlhWMUctbmhsUmthRHNPemxDWkxTOTBibXRsbG1tcXlSckJaY2RkX0dtU1dNNXAxZ1VNby1LSkxaWHNDUlNWQWcxZnV5MjBEWGFFT0ROYlg3YkpSVXU5WThsTXViTjVpa3dnNlc0TGk3aHV4LUV0bng4Yml4bzFOZ1RWcUZlSEotcERyYlo1TGREQUp1cjlGaHVFbVJzUHNab2l1Q0E5OTJHTzIwcXl1SmozQTRrdkg2bDN6U1Zfbzlmc253UmU1eG5kRzU2cnl4RHI?oc=5",
-    "title": "人工内耳30年の感謝を胸に、シドニーマラソンを完走・矢部孝春 - SBS",
+    "title": "人工内耳30年の感謝を胸に、シドニーマラソンを完走・矢部孝春 - sbs.com.au",
     "summary": "",
     "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPVmx4aGs3QTRJc0FKenlmZW9uRlhWMUctbmhsUmthRHNPemxDWkxTOTBibXRsbG1tcXlSckJaY2RkX0dtU1dNNXAxZ1VNby1LSkxaWHNDUlNWQWcxZnV5MjBEWGFFT0ROYlg3YkpSVXU5WThsTXViTjVpa3dnNlc0TGk3aHV4LUV0bng4Yml4bzFOZ1RWcUZlSEotcERyYlo1TGREQUp1cjlGaHVFbVJzUHNab2l1Q0E5OTJHTzIwcXl1SmozQTRrdkg2bDN6U1Zfbzlmc253UmU1eG5kRzU2cnl4RHI?oc=5",
     "publishedAt": "2026-09-01T09:04:16Z",
-    "sourceName": "SBS",
+    "sourceName": "sbs.com.au",
     "sourceURL": "https://www.sbs.com.au",
     "category": "medical"
   },
@@ -500,10 +520,10 @@
     "category": "general"
   },
   {
-    "id": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9MU25mMHE0QTZpZzJIUGRRcHgwdng2eWJFWUJQMmVlSzdzYWtMcTJpd0R6Tmh3NEJoY3BjZ1RLZmw2WXdKZUVKSThPNEVKLUdTYVVJSEFnaVpNRW9lMnZrQTFCakpBS3VQbkVhWTI3QmR3OWV5S0hXampNM0hDTWs?oc=5",
-    "title": "メダリスト目指す難聴のジュニア選手 支える家族のリアルとは？ 父・母・姉それぞれの目線（nobico（のびこ）） - Yahoo!ニュース",
+    "id": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOLXlXcEJJVGpVZkdmY0JKVHhZemJHek1OakdySDVFUGNMZ3ZibVNMR0Qwd1M3MUJGaVlDMHBWSHJTcXU4ejhGemd1eWo0UEJ5MktQbzVFLWhoVEJiWW13ZF95YlpPS2R5V0lyb1g4ck05NFNYWXBiUldGZzJCYmhjWVh1Tjd3amlMbVF4TnlB?oc=5",
+    "title": "メダリスト目指す難聴のジュニア選手 支える家族のリアルとは？ 父・母・姉それぞれの目線 (nobico（のびこ）) - Yahoo!ニュース",
     "summary": "",
-    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9MU25mMHE0QTZpZzJIUGRRcHgwdng2eWJFWUJQMmVlSzdzYWtMcTJpd0R6Tmh3NEJoY3BjZ1RLZmw2WXdKZUVKSThPNEVKLUdTYVVJSEFnaVpNRW9lMnZrQTFCakpBS3VQbkVhWTI3QmR3OWV5S0hXampNM0hDTWs?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOLXlXcEJJVGpVZkdmY0JKVHhZemJHek1OakdySDVFUGNMZ3ZibVNMR0Qwd1M3MUJGaVlDMHBWSHJTcXU4ejhGemd1eWo0UEJ5MktQbzVFLWhoVEJiWW13ZF95YlpPS2R5V0lyb1g4ck05NFNYWXBiUldGZzJCYmhjWVh1Tjd3amlMbVF4TnlB?oc=5",
     "publishedAt": "2026-08-31T02:52:38Z",
     "sourceName": "Yahoo!ニュース",
     "sourceURL": "https://news.yahoo.co.jp",
@@ -551,11 +571,11 @@
   },
   {
     "id": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1sUzNLYk5yQnduZnF6ZFRuRWlnclBZNmxXNFBpd1A4X2t5OUlSTHFjckRPTkIwbTA2X1dIUEg2VkV2NDZyWHA0NDVKcjVhVU54LUxhTDRRWQ?oc=5",
-    "title": "デフ陸上／文科相、東京パワーテクノロジーの３選手たたえる – - denkishimbun.com",
+    "title": "デフ陸上／文科相、東京パワーテクノロジーの３選手たたえる – - 電気新聞ウェブサイト",
     "summary": "",
     "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1sUzNLYk5yQnduZnF6ZFRuRWlnclBZNmxXNFBpd1A4X2t5OUlSTHFjckRPTkIwbTA2X1dIUEg2VkV2NDZyWHA0NDVKcjVhVU54LUxhTDRRWQ?oc=5",
     "publishedAt": "2026-08-30T21:00:30Z",
-    "sourceName": "denkishimbun.com",
+    "sourceName": "電気新聞ウェブサイト",
     "sourceURL": "https://www.denkishimbun.com",
     "category": "sports"
   },
@@ -610,6 +630,16 @@
     "category": "local"
   },
   {
+    "id": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9qaW1GaGJlLXplXy1BVThmZlJjR1lDb0lRVlliY25VUFJ2djZFRmpLamZjUzZJUVNlZ3l0emJHNlNubkdyTW5rQllNZ0sxMEhuaE5HQVNiaUFPVWs?oc=5",
+    "title": "【手話・字幕】防災用語「内水氾濫」 Mets Vs Diamondbacks (zLlMLOlJmO) - Mshale",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9qaW1GaGJlLXplXy1BVThmZlJjR1lDb0lRVlliY25VUFJ2djZFRmpLamZjUzZJUVNlZ3l0emJHNlNubkdyTW5rQllNZ0sxMEhuaE5HQVNiaUFPVWs?oc=5",
+    "publishedAt": "2026-08-30T10:04:13Z",
+    "sourceName": "Mshale",
+    "sourceURL": "https://mshale.com",
+    "category": "policy"
+  },
+  {
     "id": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9ybkExUlNTLWR6c0lFZ002aHNuVDRnQWptd3dKU0ZzWkswOS1aWTMzbWVRN2ZydDZ1SlYwU2RMS29DRnRnTmk4Qkd2T0tZSmZ6QTVmeUZLS0pXOHViY1NyUXMyLWRxNHlQ?oc=5",
     "title": "ジトーミル州の行政サービスセンター27カ所が手話通訳とのビデオ通話に対応 - Межа. Новини України.",
     "summary": "",
@@ -640,10 +670,10 @@
     "category": "policy"
   },
   {
-    "id": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1SSVZOMGtmOGJCSk5NTUhWYzUzb1lFSUJ4YjhNU1BPVXpzQ2N1d3BLSWp6eW1NWjdLWEpMZkdyRGJ4NHFoRlRsTzBCck00QQ?oc=5",
+    "id": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBaNDhUYlFwbE5XVmwydVVqRW1TR0lORUZDelNiWThLWUJ1MGpTU3lKa1QxSXhweTd2VEhhVHdndDNTZ3p4UGp5OEo2TGRuT2s?oc=5",
     "title": "難聴パイプライン分析2026（臨床試験フェーズ別、医薬品種類別）グローバル市場調査レポートを発表 - アットプレス",
     "summary": "",
-    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1SSVZOMGtmOGJCSk5NTUhWYzUzb1lFSUJ4YjhNU1BPVXpzQ2N1d3BLSWp6eW1NWjdLWEpMZkdyRGJ4NHFoRlRsTzBCck00QQ?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBaNDhUYlFwbE5XVmwydVVqRW1TR0lORUZDelNiWThLWUJ1MGpTU3lKa1QxSXhweTd2VEhhVHdndDNTZ3p4UGp5OEo2TGRuT2s?oc=5",
     "publishedAt": "2026-08-30T03:00:00Z",
     "sourceName": "アットプレス",
     "sourceURL": "https://www.atpress.ne.jp",
@@ -861,11 +891,11 @@
   },
   {
     "id": "https://news.google.com/rss/articles/CBMiPkFVX3lxTFBTc0dtekpZWXJGWW1RdXlrQTRVUUVDLWc5UWlSNFV0cFdFT2JacFVGODFmeU5IdVR4R1NNNTZB?oc=5",
-    "title": "聞こえの不安を自分ごとに変える 補聴器店オーディオ・ノバの防災体験 - predge.jp",
+    "title": "聞こえの不安を自分ごとに変える 補聴器店オーディオ・ノバの防災体験 - PR EDGE",
     "summary": "",
     "url": "https://news.google.com/rss/articles/CBMiPkFVX3lxTFBTc0dtekpZWXJGWW1RdXlrQTRVUUVDLWc5UWlSNFV0cFdFT2JacFVGODFmeU5IdVR4R1NNNTZB?oc=5",
     "publishedAt": "2026-08-27T23:00:44Z",
-    "sourceName": "predge.jp",
+    "sourceName": "PR EDGE",
     "sourceURL": "https://predge.jp",
     "category": "policy"
   },
@@ -920,13 +950,13 @@
     "category": "policy"
   },
   {
-    "id": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBqYXJCaVBQU2VmQWlWNm9NN3lnTVh2N3VrbEQ5ZjZYOHNFUEQySzVwNnA3ZDVSLXBEUWRtTUFrYnpvbE9HUUh1ZFV5U0FZbmoxS1dBWVp1RlNsYmdoX0ZaVU5fWUItZlFQaGlj?oc=5",
-    "title": "盲ろう者の安心・安全な歩行をサポートするガイドブック『新版 盲ろう者の移動介助』を発売！ - 時事ドットコム",
+    "id": "https://news.google.com/rss/articles/CBMickFVX3lxTFBXZkE5b2JfY2FvN2I3SmMzWmhiUnpPc3YwSU9nNlJOS25SSUw2NHdQZXJuVXN2d1drbC1jTFBHN3JRXzIwd3MxYl9Vd2QwLWdfNVAwYkh2cEszaTJnMmtyaUcyMkJuZW9XcGJmRk9FOTdGZw?oc=5",
+    "title": "盲ろう者の安心・安全な歩行をサポートするガイドブック『新版 盲ろう者の移動介助』を発売！ - news.infoseek.co.jp",
     "summary": "",
-    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBqYXJCaVBQU2VmQWlWNm9NN3lnTVh2N3VrbEQ5ZjZYOHNFUEQySzVwNnA3ZDVSLXBEUWRtTUFrYnpvbE9HUUh1ZFV5U0FZbmoxS1dBWVp1RlNsYmdoX0ZaVU5fWUItZlFQaGlj?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBXZkE5b2JfY2FvN2I3SmMzWmhiUnpPc3YwSU9nNlJOS25SSUw2NHdQZXJuVXN2d1drbC1jTFBHN3JRXzIwd3MxYl9Vd2QwLWdfNVAwYkh2cEszaTJnMmtyaUcyMkJuZW9XcGJmRk9FOTdGZw?oc=5",
     "publishedAt": "2026-08-27T13:40:00Z",
-    "sourceName": "時事ドットコム",
-    "sourceURL": "https://www.jiji.com",
+    "sourceName": "news.infoseek.co.jp",
+    "sourceURL": "https://news.infoseek.co.jp",
     "category": "general"
   },
   {
@@ -990,6 +1020,16 @@
     "category": "policy"
   },
   {
+    "id": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBhQlN2ZE9MenVmNzNSMHBrN0RiaEVlVDR3MDM0TTN5RFp4WThWOW13Vks5NHlnNm52UXdteXdNY0RwNm5INnB5R1pFallySHRuMjcwRXRR?oc=5",
+    "title": "難聴公表の気象予報士、舩橋沙貴さんが「きこえのパートナー」に就任 - foods-ch.infomart.co.jp",
+    "summary": "難聴公表の気象予報士、舩橋沙貴さんが「きこえのパートナー」に就任 foods-ch.infomart.co.jp",
+    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBhQlN2ZE9MenVmNzNSMHBrN0RiaEVlVDR3MDM0TTN5RFp4WThWOW13Vks5NHlnNm52UXdteXdNY0RwNm5INnB5R1pFallySHRuMjcwRXRR?oc=5",
+    "publishedAt": "2026-08-27T07:27:21Z",
+    "sourceName": "foods-ch.infomart.co.jp",
+    "sourceURL": "https://foods-ch.infomart.co.jp",
+    "category": "general"
+  },
+  {
     "id": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9nc0VrZmtpX3F1Mjl4c24wanh2aEZyb0pnaXlKWTExNnZMclV0blk1Q3dKandieG8wS25CN3VMR1RTM2tGZFZ5SG5INDVTalpDNnNMcEQxczJOd0tXYV80?oc=5",
     "title": "【 梅沢富美男 】 補聴器を新たに 「僕は70才を過ぎて補聴器ユーザーになりました」 - TBS NEWS DIG",
     "summary": "",
@@ -1007,6 +1047,16 @@
     "publishedAt": "2026-08-27T07:00:00Z",
     "sourceName": "47NEWS",
     "sourceURL": "https://www.47news.jp",
+    "category": "policy"
+  },
+  {
+    "id": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBxek5YaFNkM29CMDF2QThXTVg1cW5rUjZCWXlXeGlLSmMtTGpWQUhaREMxYWI2T3h6SnM1WmZVVVhUNUE0b2twTkE3QzdhWlZ3aFlkNE9wWVFmbXN4Z25hMEtFekE?oc=5",
+    "title": "【てれまさ】▽認知症予防に 高齢者の補聴器補助▽“生きた化石”メタセコイア▽熊本地震で廃車をリサイクル ほか - nhk.or.jp",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBxek5YaFNkM29CMDF2QThXTVg1cW5rUjZCWXlXeGlLSmMtTGpWQUhaREMxYWI2T3h6SnM1WmZVVVhUNUE0b2twTkE3QzdhWlZ3aFlkNE9wWVFmbXN4Z25hMEtFekE?oc=5",
+    "publishedAt": "2026-08-27T07:00:00Z",
+    "sourceName": "nhk.or.jp",
+    "sourceURL": "https://www.nhk.or.jp",
     "category": "policy"
   },
   {
@@ -1100,6 +1150,16 @@
     "category": "general"
   },
   {
+    "id": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1YbHpZdUNoTGl4eEVTdjdRVy1hZFBOMlRqNUFqd1EwMDNQMEFpc2tqTXZWdFpTSlFMbk5vSkpUeC1SWmktSTFZZEpuQ2NIRXhDSTAzdnp6WFFYSmgxUUh5ZWhmNjVUU2Vn?oc=5",
+    "title": "プレスリリース：難聴公表の気象予報士、舩橋沙貴さんが「きこえのパートナー」に就任（PR TIMES） - 毎日新聞",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1YbHpZdUNoTGl4eEVTdjdRVy1hZFBOMlRqNUFqd1EwMDNQMEFpc2tqTXZWdFpTSlFMbk5vSkpUeC1SWmktSTFZZEpuQ2NIRXhDSTAzdnp6WFFYSmgxUUh5ZWhmNjVUU2Vn?oc=5",
+    "publishedAt": "2026-08-26T07:23:02Z",
+    "sourceName": "毎日新聞",
+    "sourceURL": "https://mainichi.jp",
+    "category": "general"
+  },
+  {
     "id": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE15Ym41bjl0Z1M0ZWx5QnNYZXV6aXhDWFNoWnFvaVVNZHBHbURlUmxxRDdadmJET3lCbElsdFVBbXJKdndaOGF6UG9qQkJUSlJaRFpKag?oc=5",
     "title": "「むちむちが好きです」“補聴器をつけた天使”26歳グラドル・我妻ゆりか、ショーパン体育座り“太もも”、ファン歓喜「至高の太もも」「誰よりも綺麗」 - 中日新聞Web",
     "summary": "",
@@ -1121,11 +1181,11 @@
   },
   {
     "id": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPN3p1WXh1amVxLS1tY3lIbWRwU2h6VEZVb3R6bmlEb3F5endMRTJnSFY2dFF2Skp4clBKZVlqZHB3NEc5V2xRZUZuU3RYcXlmbGd3Q01EbkVrV2FmbmNaVTBYbDJ1ajJ2QUV3ZUxaYVBYOU5SUVZCQ3kteU9JME1aN1EzQ2NXMkpONXlnYURHQ3JDc2ZfekRSZzlyLWVFM05HQXZLWjY5cWd5QlNV?oc=5",
-    "title": "カンボジア人ジャーナリストが、3年以上耳鳴りと難聴に悩まされた後、聴力を回復させた。 - vietnam.vn",
+    "title": "カンボジア人ジャーナリストが、3年以上耳鳴りと難聴に悩まされた後、聴力を回復させた。 - Vietnam.vn",
     "summary": "",
     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPN3p1WXh1amVxLS1tY3lIbWRwU2h6VEZVb3R6bmlEb3F5endMRTJnSFY2dFF2Skp4clBKZVlqZHB3NEc5V2xRZUZuU3RYcXlmbGd3Q01EbkVrV2FmbmNaVTBYbDJ1ajJ2QUV3ZUxaYVBYOU5SUVZCQ3kteU9JME1aN1EzQ2NXMkpONXlnYURHQ3JDc2ZfekRSZzlyLWVFM05HQXZLWjY5cWd5QlNV?oc=5",
     "publishedAt": "2026-08-26T06:08:05Z",
-    "sourceName": "vietnam.vn",
+    "sourceName": "Vietnam.vn",
     "sourceURL": "https://www.vietnam.vn",
     "category": "general"
   },
@@ -1290,6 +1350,16 @@
     "category": "general"
   },
   {
+    "id": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1FR1kxZ2dGMDVpdzZmR1BDR0VJRXYzQkhXTGpjXy1pRTktcThGVlRpeVZjSS05VmdnSnZheWlKMURtRk1GeXFicVV1R1ViblBSbXBsMXZVYk1xXzJRbHZLN0J4OGxVVTQ?oc=5",
+    "title": "「海は誰にでも同じ波が来る」 聴覚障害の元プロボディーボーダー [島根県] - 朝日新聞",
+    "summary": "",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1FR1kxZ2dGMDVpdzZmR1BDR0VJRXYzQkhXTGpjXy1pRTktcThGVlRpeVZjSS05VmdnSnZheWlKMURtRk1GeXFicVV1R1ViblBSbXBsMXZVYk1xXzJRbHZLN0J4OGxVVTQ?oc=5",
+    "publishedAt": "2026-08-25T07:00:00Z",
+    "sourceName": "朝日新聞",
+    "sourceURL": "https://www.asahi.com",
+    "category": "local"
+  },
+  {
     "id": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNMHdKYUNQZE8yaFdxb3hVTlE2My10b1lpZVZhZnU5SEhZNTcwcmZ4cjNBLTlJSDJTVDBlUzAzZTBxeGdqdXI3Wnc3dWRTb0VleFprcGwxdG9mbEREVjA0NDF4eU96Smd6c3RLSEJ5RmZjbkVsMkJSU1FUM0V1bThzR0pB?oc=5",
     "title": "心でつながる手話チャンネルたてばやし - city.tatebayashi.gunma.jp",
     "summary": "",
@@ -1360,20 +1430,10 @@
     "category": "policy"
   },
   {
-    "id": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1FR1kxZ2dGMDVpdzZmR1BDR0VJRXYzQkhXTGpjXy1pRTktcThGVlRpeVZjSS05VmdnSnZheWlKMURtRk1GeXFicVV1R1ViblBSbXBsMXZVYk1xXzJRbHZLN0J4OGxVVTQ?oc=5",
-    "title": "「海は誰にでも同じ波が来る」 聴覚障害の元プロボディーボーダー [島根県] - 朝日新聞",
+    "id": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBQWHEtbzM3a2psaWZwU0lSc3ZMOVlxakFoS0xoazdWM0pDOGdMelZCNF81a0x3UlN5RDFfUFNyWVY5Z253SnJFRmtTT1lyQTBNWUlGdGlWQmhxRjE4MHJPN1VfbzFLZWQ4ZWZQWVpVUmlob2FKZlFPdEZpU1ZHSUk?oc=5",
+    "title": "「海は誰にでも同じ波が来る」 聴覚障害の元プロボディーボーダー（朝日新聞） - Yahoo!ニュース",
     "summary": "",
-    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1FR1kxZ2dGMDVpdzZmR1BDR0VJRXYzQkhXTGpjXy1pRTktcThGVlRpeVZjSS05VmdnSnZheWlKMURtRk1GeXFicVV1R1ViblBSbXBsMXZVYk1xXzJRbHZLN0J4OGxVVTQ?oc=5",
-    "publishedAt": "2026-08-25T01:15:01Z",
-    "sourceName": "朝日新聞",
-    "sourceURL": "https://www.asahi.com",
-    "category": "local"
-  },
-  {
-    "id": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOMjZfeEItcEw3VmNJX25BTGx1Q3NXaEpHMy1sTFhCS2Y3blBGdTVKWTRBTnQtbHBFd1NtSGdzMV9MVnZ1d0ZNRWFGdG1hZ2p5MUZMZVFPUk5HejJMNXNVX1RndU5TaWFYNFlZSFNSR1BIbkxwYUduT1hOeDZFNDdjSEVMTXJWYjIxNTVTX2VB?oc=5",
-    "title": "「海は誰にでも同じ波が来る」 聴覚障害の元プロボディーボーダー (朝日新聞) - Yahoo!ニュース",
-    "summary": "",
-    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOMjZfeEItcEw3VmNJX25BTGx1Q3NXaEpHMy1sTFhCS2Y3blBGdTVKWTRBTnQtbHBFd1NtSGdzMV9MVnZ1d0ZNRWFGdG1hZ2p5MUZMZVFPUk5HejJMNXNVX1RndU5TaWFYNFlZSFNSR1BIbkxwYUduT1hOeDZFNDdjSEVMTXJWYjIxNTVTX2VB?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBQWHEtbzM3a2psaWZwU0lSc3ZMOVlxakFoS0xoazdWM0pDOGdMelZCNF81a0x3UlN5RDFfUFNyWVY5Z253SnJFRmtTT1lyQTBNWUlGdGlWQmhxRjE4MHJPN1VfbzFLZWQ4ZWZQWVpVUmlob2FKZlFPdEZpU1ZHSUk?oc=5",
     "publishedAt": "2026-08-25T01:15:01Z",
     "sourceName": "Yahoo!ニュース",
     "sourceURL": "https://news.yahoo.co.jp",
@@ -1441,11 +1501,11 @@
   },
   {
     "id": "https://news.google.com/rss/articles/CBMickFVX3lxTE9HOFQxYWN2S1BLQ3JUd2gzM1BZb2ZPdEhfV0RRTjI1X2FyNmN0cWxYb3FCZjJSTHh1UTFEalNzdHpYZ1NmbGY1Z1F0Mi1kWHNzV3VPRzQ0Q1NaVzFsZ0Nob3ZQN1hEOGFBLV9XOG1vLXFqZw?oc=5",
-    "title": "10年以上無料で提供してきた聴覚障害者支援アプリ「こえとら」を、これからも未来へ - Infoseek",
+    "title": "10年以上無料で提供してきた聴覚障害者支援アプリ「こえとら」を、これからも未来へ - news.infoseek.co.jp",
     "summary": "",
     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9HOFQxYWN2S1BLQ3JUd2gzM1BZb2ZPdEhfV0RRTjI1X2FyNmN0cWxYb3FCZjJSTHh1UTFEalNzdHpYZ1NmbGY1Z1F0Mi1kWHNzV3VPRzQ0Q1NaVzFsZ0Nob3ZQN1hEOGFBLV9XOG1vLXFqZw?oc=5",
     "publishedAt": "2026-08-24T13:10:02Z",
-    "sourceName": "Infoseek",
+    "sourceName": "news.infoseek.co.jp",
     "sourceURL": "https://news.infoseek.co.jp",
     "category": "general"
   },
@@ -2051,11 +2111,11 @@
   },
   {
     "id": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5qQnhRbVlZWXpKeE9HbWNvUi1BOXRQNHp5ZzFBUlU2ZlE5Zy0wbmdjbEhpbXQyc0hBUmVrbFRzRnB0OGwtSmVFZGlfZi1rUFpXYmF4a1JqZU5zOWFTU1BEWXQ2Zlc4Nm9QeDdYYUZsM0p0RVlTQ3c?oc=5",
-    "title": "4時間セミの鳴き声聞き続け聴覚障害 「自然の音は無害」ではないとSNSで話題に 中国 - sankei.com",
+    "title": "4時間セミの鳴き声聞き続け聴覚障害 「自然の音は無害」ではないとSNSで話題に 中国 - 産経ニュース",
     "summary": "",
     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5qQnhRbVlZWXpKeE9HbWNvUi1BOXRQNHp5ZzFBUlU2ZlE5Zy0wbmdjbEhpbXQyc0hBUmVrbFRzRnB0OGwtSmVFZGlfZi1rUFpXYmF4a1JqZU5zOWFTU1BEWXQ2Zlc4Nm9QeDdYYUZsM0p0RVlTQ3c?oc=5",
     "publishedAt": "2026-08-20T07:00:00Z",
-    "sourceName": "sankei.com",
+    "sourceName": "産経ニュース",
     "sourceURL": "https://www.sankei.com",
     "category": "general"
   },
@@ -2490,13 +2550,13 @@
     "category": "policy"
   },
   {
-    "id": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE05VDg2MlhxbmwxVk9OaE9pTDBPZ1Fab295UHB5bzBYcnU2MDN1dTN2UjB1NTJDRk5hNnhsRUV6UWVFc19tZlpYVWs5NjRtZXZGQmFyYlB3?oc=5",
-    "title": "避難所ろう者に情報届かず 「見える方法で伝えて」 - 西日本新聞me",
+    "id": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE45VFJldjg3a0hrVkVMUjVUb1dQTF9QeXB1ZnRISDZKSTlGMVoxSkRGOGlITjNSYy03MUlaa29tWWRvTmc1YmZjTUVqcw?oc=5",
+    "title": "避難所ろう者に情報届かず 「見える方法で伝えて」 - 47NEWS",
     "summary": "",
-    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE05VDg2MlhxbmwxVk9OaE9pTDBPZ1Fab295UHB5bzBYcnU2MDN1dTN2UjB1NTJDRk5hNnhsRUV6UWVFc19tZlpYVWs5NjRtZXZGQmFyYlB3?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE45VFJldjg3a0hrVkVMUjVUb1dQTF9QeXB1ZnRISDZKSTlGMVoxSkRGOGlITjNSYy03MUlaa29tWWRvTmc1YmZjTUVqcw?oc=5",
     "publishedAt": "2026-08-17T07:00:00Z",
-    "sourceName": "西日本新聞me",
-    "sourceURL": "https://www.nishinippon.co.jp",
+    "sourceName": "47NEWS",
+    "sourceURL": "https://www.47news.jp",
     "category": "policy"
   },
   {
@@ -2531,11 +2591,11 @@
   },
   {
     "id": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5QUUh2SndVRTlyWk42YXhjX0hhaVlyY0xTZ0N3ZV9IdUh5c1VVcFRqMEFYNk1ub2wwcnlNOURkSWpubU5SczNCMmlVUml0djh2NWE0TDVWNlcyNkE?oc=5",
-    "title": "「ダンス分野の手話通訳者育成ワークショップ」開催！ - DIVERSITY IN THE ARTS TODAY",
-    "summary": "",
+    "title": "「ダンス分野の手話通訳者育成ワークショップ」開催！ - diversity-in-the-arts.jp",
+    "summary": "「ダンス分野の手話通訳者育成ワークショップ」開催！ diversity-in-the-arts.jp",
     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5QUUh2SndVRTlyWk42YXhjX0hhaVlyY0xTZ0N3ZV9IdUh5c1VVcFRqMEFYNk1ub2wwcnlNOURkSWpubU5SczNCMmlVUml0djh2NWE0TDVWNlcyNkE?oc=5",
     "publishedAt": "2026-08-17T06:53:14Z",
-    "sourceName": "DIVERSITY IN THE ARTS TODAY",
+    "sourceName": "diversity-in-the-arts.jp",
     "sourceURL": "https://www.diversity-in-the-arts.jp",
     "category": "policy"
   },
@@ -3938,65 +3998,5 @@
     "sourceName": "article.auone.jp",
     "sourceURL": "https://article.auone.jp",
     "category": "general"
-  },
-  {
-    "id": "https://www.otjc.org/news/9668.php",
-    "title": "【開催延期のお知らせ】令和８年度 難聴者・中途失聴者向け講座 「きこえのトリセツ」",
-    "summary": "令和８年度各種専門分野 難聴者・中途失聴者向け講座 「きこえのトリセツ」について ８月８日（土）は、台風接近による影響が予想されるため、 参加者の皆様の安全を最優先し、開催を延期いたします。 延期後の日程に… 続きを読む ›",
-    "url": "https://www.otjc.org/news/9668.php",
-    "publishedAt": "2026-08-06T02:45:06Z",
-    "sourceName": "沖縄聴覚障害者情報センター",
-    "sourceURL": "https://www.otjc.org/",
-    "category": "policy"
-  },
-  {
-    "id": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBIUEFyZ2R6ck9NVFM2ZnItRUJfekhFNHRYb3hZbzF0VVF3bnJhWHVhYXdvbUdmVjRKdk1fT0RDVXZpT19Bb2RMQ0piZU9uS0FySFNBdTM0VE5YSnNNZXhrYWNCYlNzdEVQQWw4LW1KR2NDTjRYMWtUNTcwd2VTQQ?oc=5",
-    "title": "第108回全国高校野球選手権大会 開会式 手話言語版 - バーチャル高校野球",
-    "summary": "",
-    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBIUEFyZ2R6ck9NVFM2ZnItRUJfekhFNHRYb3hZbzF0VVF3bnJhWHVhYXdvbUdmVjRKdk1fT0RDVXZpT19Bb2RMQ0piZU9uS0FySFNBdTM0VE5YSnNNZXhrYWNCYlNzdEVQQWw4LW1KR2NDTjRYMWtUNTcwd2VTQQ?oc=5",
-    "publishedAt": "2026-08-06T02:43:18Z",
-    "sourceName": "バーチャル高校野球",
-    "sourceURL": "https://vk.sportsbull.jp",
-    "category": "general"
-  },
-  {
-    "id": "https://news.google.com/rss/articles/CBMickFVX3lxTE5tT2Y0Mmw4dTQtelVyZDFLbElfOEZwU25iUmhLRTFEem5mYktIaGJNLWxOX1h5X0ZXS1A1RlZaY3lqZ0JQODZyaFBJRHBnOS1JMDZDc3V3S2RJRjUwbU1HQkxYNmw0djYxcTN6N3MzQ3d2QQ?oc=5",
-    "title": "熊本地震の被災者の災害関連死防止へ「病院船」で医療提供開始…「相談できる場所があるだけで安心」 - 読売新聞",
-    "summary": "",
-    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5tT2Y0Mmw4dTQtelVyZDFLbElfOEZwU25iUmhLRTFEem5mYktIaGJNLWxOX1h5X0ZXS1A1RlZaY3lqZ0JQODZyaFBJRHBnOS1JMDZDc3V3S2RJRjUwbU1HQkxYNmw0djYxcTN6N3MzQ3d2QQ?oc=5",
-    "publishedAt": "2026-08-06T00:59:00Z",
-    "sourceName": "読売新聞",
-    "sourceURL": "https://www.yomiuri.co.jp",
-    "category": "policy"
-  },
-  {
-    "id": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9jWTI1OFM5RmJHUW5TMXktU0RwRWQwb3dHSGpkMU1wai1kYTU5U0Q0bnBSRTJHcDQwTkdaWTRHLTc0QzhieHBZaC1aR2FsYmZVQWx2cVlLZTYyUHJvc1pFaXFSVkNONHI2ZWtncjln?oc=5",
-    "title": "補聴器の落下防止ストラップ「のっけるん」の取り扱いをビックカメラ有楽町店、ビックカメラ・ドットコムにて開始！ - tv-tokyo.co.jp",
-    "summary": "補聴器の落下防止ストラップ「のっけるん」の取り扱いをビックカメラ有楽町店、ビックカメラ・ドットコムにて開始！ tv-tokyo.co.jp",
-    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9jWTI1OFM5RmJHUW5TMXktU0RwRWQwb3dHSGpkMU1wai1kYTU5U0Q0bnBSRTJHcDQwTkdaWTRHLTc0QzhieHBZaC1aR2FsYmZVQWx2cVlLZTYyUHJvc1pFaXFSVkNONHI2ZWtncjln?oc=5",
-    "publishedAt": "2026-08-05T23:50:00Z",
-    "sourceName": "tv-tokyo.co.jp",
-    "sourceURL": "https://www.tv-tokyo.co.jp",
-    "category": "medical"
-  },
-  {
-    "id": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1ETDlWYm94aE5RTEhjZ0xfcWhwTkxzRmM5dHZMM0VfbFRpR01wc04xS211Wm1LT195MUtxMkR3VVRCc2ZKeFA5R1JWY1VHaTB5S0NCOFVkZkZxSl9Pa19KNXhEdl9DMC1KeDBIUVNHTQ?oc=5",
-    "title": "手話ダンス、高校生に手ほどき 福伸電機従業員が体験会 手の動き、表情で歌詞表現 福崎|北播 - 神戸新聞",
-    "summary": "",
-    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1ETDlWYm94aE5RTEhjZ0xfcWhwTkxzRmM5dHZMM0VfbFRpR01wc04xS211Wm1LT195MUtxMkR3VVRCc2ZKeFA5R1JWY1VHaTB5S0NCOFVkZkZxSl9Pa19KNXhEdl9DMC1KeDBIUVNHTQ?oc=5",
-    "publishedAt": "2026-08-05T20:10:00Z",
-    "sourceName": "神戸新聞",
-    "sourceURL": "https://www.kobe-np.co.jp",
-    "category": "culture"
-  },
-  {
-    "id": "https://news.google.com/rss/articles/CBMi7wNBVV95cUxQaHNjNzBoSERmQUg3VmpCbXpiY1RmallrenRDa2lpZlI0TUNkWEVnRkhJd0hCMVRvaUV1NDJEMnlfdVRBS1Y0cFZSMkI4XzJCaFNGTjUtelY1VkNVMmhQemZKUjk1RVhVWkRzUlkzQ1VieHhMMjRtdE1PVWJjaFE0c3BENkdWUnIzQXZaa2dNNXZxNEpUUFhzM1EyT3N6c0xpMVJ1cGJUbXVwSTdaT1lrWjVvNmNyRVQxeG93WWZTc1JiczZmS1hMcVR0M1RIcmRFa0xoV3U4b0tHX3A2eF92RWdxODRMQjJrYl9jUjdRd3M5bUhLS0lNSGZlWFhlcVdwdC1YQV9HN3dLODliNXF5aFRuYmlEYzJXMEtWWVJrRGhhQm1xZjBjcW5PRl9NNV9CQy1ELW5PY0l5MmtjcHkyRzdyWXdoc0ZTVnNRN0ZOQ3RtNlNtOUJmSmZqR3Vxa2VWb3NPalN4aXVuWi1qelZPcUV2dFpqWnloc3dvV2VKc3Q4WlJ1TXZ1Rm1HZ09nMzI3clRtTG5FcWhENzFKenprb0xPTDA0VUQzYlZWQmJNRThfZEJvc21sNF9XMHN1N2FPMEZlRFBnV2QxUG9jYjdQcmwtRi1FSGRzS3gtMXhiYU9xVHFZRnQyOVJjYWNyMnM?oc=5",
-    "title": "難聴リスクを抱える人が増加する中… カシオ、補聴器＆イヤホン機能を備えた新製品発表 片耳8グラム、耳穴をふさがないヒアリングアシストイヤホン - 山陽新聞",
-    "summary": "",
-    "url": "https://news.google.com/rss/articles/CBMi7wNBVV95cUxQaHNjNzBoSERmQUg3VmpCbXpiY1RmallrenRDa2lpZlI0TUNkWEVnRkhJd0hCMVRvaUV1NDJEMnlfdVRBS1Y0cFZSMkI4XzJCaFNGTjUtelY1VkNVMmhQemZKUjk1RVhVWkRzUlkzQ1VieHhMMjRtdE1PVWJjaFE0c3BENkdWUnIzQXZaa2dNNXZxNEpUUFhzM1EyT3N6c0xpMVJ1cGJUbXVwSTdaT1lrWjVvNmNyRVQxeG93WWZTc1JiczZmS1hMcVR0M1RIcmRFa0xoV3U4b0tHX3A2eF92RWdxODRMQjJrYl9jUjdRd3M5bUhLS0lNSGZlWFhlcVdwdC1YQV9HN3dLODliNXF5aFRuYmlEYzJXMEtWWVJrRGhhQm1xZjBjcW5PRl9NNV9CQy1ELW5PY0l5MmtjcHkyRzdyWXdoc0ZTVnNRN0ZOQ3RtNlNtOUJmSmZqR3Vxa2VWb3NPalN4aXVuWi1qelZPcUV2dFpqWnloc3dvV2VKc3Q4WlJ1TXZ1Rm1HZ09nMzI3clRtTG5FcWhENzFKenprb0xPTDA0VUQzYlZWQmJNRThfZEJvc21sNF9XMHN1N2FPMEZlRFBnV2QxUG9jYjdQcmwtRi1FSGRzS3gtMXhiYU9xVHFZRnQyOVJjYWNyMnM?oc=5",
-    "publishedAt": "2026-08-05T16:17:23Z",
-    "sourceName": "山陽新聞",
-    "sourceURL": "https://www.sanyonews.jp",
-    "category": "medical"
   }
 ]
