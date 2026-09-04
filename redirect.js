@@ -1,6 +1,6 @@
 (() => {
   const oldBase = '/deaf-navi-web';
-  const newBase = 'https://deaf-navi.github.io/deaf-navi-web';
+  const newBase = 'https://deafnavi.com';
   const path = location.pathname.startsWith(oldBase)
     ? location.pathname.slice(oldBase.length)
     : '/';

@@ -1,5 +1,5 @@
 const OLD_BASE = '/deaf-navi-web';
-const NEW_BASE = 'https://deaf-navi.github.io/deaf-navi-web';
+const NEW_BASE = 'https://deafnavi.com';
 
 function redirectUrl(url) {
   const path = url.pathname.startsWith(OLD_BASE)

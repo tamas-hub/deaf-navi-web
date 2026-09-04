@@ -3,7 +3,12 @@ import { dirname, join, resolve } from 'node:path';
 import { fileURLToPath } from 'node:url';
 
 const ROOT = resolve(dirname(fileURLToPath(import.meta.url)), '..');
-const NEW_BASE = 'https://deaf-navi.github.io/deaf-navi-web/';
+const NEW_BASE = 'https://deafnavi.com/';
+const ALLOWED_APP_BASES = new Set([
+  `${NEW_BASE}app/v1/`,
+  'https://deaf-navi.github.io/deaf-navi-web/app/v1/',
+  'https://tamas-hub.github.io/deaf-navi-web/app/v1/',
+]);
 const ISO_SECONDS = /^\d{4}-\d{2}-\d{2}T\d{2}:\d{2}:\d{2}Z$/;
 const ARTICLE_KEYS = ['id', 'title', 'summary', 'url', 'publishedAt', 'sourceName', 'sourceURL', 'category'];
 const LEGACY_CATEGORIES = new Set(['all', 'policy', 'medical', 'education', 'culture', 'sports', 'local', 'general']);
@@ -47,7 +52,7 @@ const manifest = JSON.parse(await readFile(join(ROOT, 'app/v1/manifest.json'), '
 if (!index.includes(NEW_BASE) || !index.includes('redirect.js')) throw new Error('root redirect is invalid');
 if (!guide.includes(`${NEW_BASE}guide.html`)) throw new Error('guide redirect is invalid');
 if (!redirectJs.includes('location.replace(target)')) throw new Error('redirect script is invalid');
-if (manifest.appBaseUrl !== `${NEW_BASE}app/v1/`) throw new Error('manifest uses an unexpected API base URL');
+if (!ALLOWED_APP_BASES.has(manifest.appBaseUrl)) throw new Error('manifest uses an unexpected API base URL');
 
 function isHttpUrl(value) {
   try {

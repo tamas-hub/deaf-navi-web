@@ -3,8 +3,11 @@ import { dirname, join, resolve } from 'node:path';
 import { fileURLToPath } from 'node:url';
 
 const ROOT = resolve(dirname(fileURLToPath(import.meta.url)), '..');
-const NEW_BASE = 'https://deaf-navi.github.io/deaf-navi-web/';
-const SITE_PATH = '/deaf-navi-web/';
+const NEW_BASE = 'https://deafnavi.com/';
+const SOURCE_LOCATIONS = [
+  { origin: 'https://deaf-navi.github.io', path: '/deaf-navi-web/' },
+  { origin: 'https://deafnavi.com', path: '/' },
+];
 const LEGACY_HTML_PATHS = [
   'deaf-navi-world.html',
   'deaf-navi-world-en.html',
@@ -20,13 +23,25 @@ function escapeHtml(value) {
 
 function outputPathFor(urlValue) {
   const url = new URL(urlValue);
-  if (url.origin !== new URL(NEW_BASE).origin || !url.pathname.startsWith(SITE_PATH)) return null;
+  const source = SOURCE_LOCATIONS.find((candidate) => (
+    url.origin === candidate.origin && url.pathname.startsWith(candidate.path)
+  ));
+  if (!source) return null;
 
-  const relative = url.pathname.slice(SITE_PATH.length);
+  const relative = url.pathname.slice(source.path.length);
   if (!relative) return 'index.html';
   if (relative.endsWith('/')) return join(relative, 'index.html');
   if (relative.endsWith('.html')) return relative;
   return null;
+}
+
+function targetForOutput(outputPath) {
+  const normalized = outputPath.split('\\').join('/');
+  if (normalized === 'index.html') return NEW_BASE;
+  if (normalized.endsWith('/index.html')) {
+    return new URL(normalized.slice(0, -'index.html'.length), NEW_BASE).href;
+  }
+  return new URL(normalized, NEW_BASE).href;
 }
 
 function redirectPage(target) {
@@ -66,7 +81,7 @@ export async function buildRedirects() {
 
   for (const location of locations) {
     const outputPath = outputPathFor(location);
-    if (outputPath) targets.set(outputPath, location);
+    if (outputPath) targets.set(outputPath, targetForOutput(outputPath));
   }
   for (const relative of LEGACY_HTML_PATHS) {
     targets.set(relative, `${NEW_BASE}${relative}`);
