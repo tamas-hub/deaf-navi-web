@@ -1,14 +1,134 @@
 {
-  "generatedAt": "2026-10-12T10:40:39.356Z",
+  "generatedAt": "2026-10-13T02:34:34.868Z",
   "variant": "prod",
   "profile": "expanded",
   "count": 5000,
   "source": {
-    "currentOverflowCount": 551,
+    "currentOverflowCount": 548,
     "previousOldCount": 5000,
     "maxOldArticles": 5000
   },
   "articles": [
+    {
+      "id": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1McXJ3QzIwX0haZGYwZGs4aTlmYkdKMnpLVWozbWVodVc3Ym1famFpRV9rcWdPZjVuUGRTMEx2QnlGMUYyRGlLdklDbE1BTmpJMjRwODlmeUNncVY3UG9DZzBLaDVEekZh?oc=5",
+      "title": "手話で伝える「危険」 災害時の情報伝達探る 双葉・伝承館6周年企画:震災関連 - 福島民友新聞社",
+      "summary": "",
+      "sourceName": "福島民友新聞社",
+      "sourceUrl": "https://www.minyu-net.com",
+      "publishedAt": "2026-09-21T01:12:02.000Z",
+      "sourceType": "rss",
+      "category": "safety",
+      "thumbnail": {
+        "url": "https://www.minyu-net.com/common/news/2026092109505455103_0.jpg",
+        "source": "og:image",
+        "pageUrl": "https://www.minyu-net.com/news/detail/2026092109505455103"
+      },
+      "sourceTier": "news",
+      "discoveryMethod": "google-news"
+    },
+    {
+      "id": "https://www.jfd.or.jp/goods/",
+      "title": "9月23日発売！連盟創立80周年記念グッズのクリアフォルダとトートバッグ",
+      "summary": "",
+      "sourceName": "全日本ろうあ連盟",
+      "sourceUrl": "https://www.jfd.or.jp/",
+      "publishedAt": "2026-09-21T00:00:39.000Z",
+      "sourceType": "rss",
+      "category": "general",
+      "sourceTier": "official",
+      "discoveryMethod": "direct-feed"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB5TnBhTFhMNlJjQkp6OG5Kc0Y4NjVrdUFndzhVVEplRUU5WHdmb3VNMzUyLXB0ZlJNQnl1cUM1VW40dTJZT0Zub2JLOThoTU5raHVR?oc=5",
+      "title": "旧高速道KK線を行こう 参加者募集 東京デフリンピック1周年記念 11月7日、選手のトークショーも - 東京新聞",
+      "summary": "",
+      "sourceName": "東京新聞",
+      "sourceUrl": "https://www.tokyo-np.co.jp",
+      "publishedAt": "2026-09-20T22:12:05.000Z",
+      "sourceType": "rss",
+      "category": "sports",
+      "thumbnail": {
+        "url": "https://static.tokyo-np.co.jp/image/article/size1/e/d/1/9/ed19ba9c9761190c9ad98260b875bb43_1.jpg",
+        "source": "og:image",
+        "pageUrl": "https://www.tokyo-np.co.jp/article/516809"
+      },
+      "sourceTier": "news",
+      "discoveryMethod": "google-news"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE54ZU01RFFCNXFObGN6VU9NUm41NU1aX0tLY3R3OUVDdXJHcFdpRGVXNVFXdGlLQU1iSXhJMERkczVQRkpNTXJENDlPY3lEYk9SQkhxcVg5NDJ0Z2pQ?oc=5",
+      "title": "神戸の予定・21〜23日 KOBE GAMES 2026、手話言語の国際デー2026 - news.kobekeizai.jp",
+      "summary": "",
+      "sourceName": "news.kobekeizai.jp",
+      "sourceUrl": "https://news.kobekeizai.jp",
+      "publishedAt": "2026-09-20T22:00:00.000Z",
+      "sourceType": "rss",
+      "category": "general",
+      "region": "kinki",
+      "prefecture": "兵庫県",
+      "thumbnail": {
+        "url": "https://blog-imgs-162.fc2.com/k/o/b/kobekeizai/20250503065000736.png",
+        "source": "og:image",
+        "pageUrl": "https://news.kobekeizai.jp/blog-entry-23480.html"
+      },
+      "sourceTier": "news",
+      "discoveryMethod": "google-news"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBWQ21ISHVMWFVhN05XaktyQy1RRlQ3cnhTclc3bFppejNkQ0pFNzF1SmI1WnBfT3lwQ1lFQm1QajdGNzdDa0R0M1RrMnhydXRmdjhMVnhPR2drUQ?oc=5",
+      "title": "手話普及願い青い光 23日の手話言語の国際デーに合わせ「道の駅玉村宿」（群馬・玉村町）でライトアップ - 上毛新聞電子版",
+      "summary": "",
+      "sourceName": "上毛新聞電子版",
+      "sourceUrl": "https://www.jomo-news.co.jp",
+      "publishedAt": "2026-09-20T21:00:00.000Z",
+      "sourceType": "rss",
+      "category": "local",
+      "thumbnail": {
+        "url": "https://jomo.ismcdn.jp/mwimgs/c/5/675h/img_c59ac1d6fad176911a206a4b7d7809b285794.jpg",
+        "source": "og:image",
+        "pageUrl": "https://www.jomo-news.co.jp/articles/-/1027302"
+      },
+      "sourceTier": "news",
+      "discoveryMethod": "google-news"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMicEFVX3lxTE93R2pLREFxUXRCRGNMNTlkNGRBTWd1dUFpb3JnY2pSXzNMbzEySHROYXBuaEp4X3g0Qms2MWRrSk9LNGUxazVlY3NNeFlOU01OeHlYdmJELU5ycUsyTE5VLVRoRDJrZ1hWZ2sxSmFFZ2U?oc=5",
+      "title": "9月23日は手話言語の国際デーです - pref.saitama.lg.jp",
+      "summary": "",
+      "sourceName": "pref.saitama.lg.jp",
+      "sourceUrl": "https://www.pref.saitama.lg.jp",
+      "publishedAt": "2026-09-20T15:23:10.000Z",
+      "sourceType": "rss",
+      "category": "general",
+      "sourceTier": "official",
+      "discoveryMethod": "google-news"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9nelE3aU4teW5MMWZYZk0yMkM5VTZia0pYNG1ScFJMSGJaLUl3UGlyUmFtZXBVcV94RmR0RjZDNmUweUdvUTctRklyaU0?oc=5",
+      "title": "Samsung Galaxy Budsの補聴器機能が米FDAの認可を取得｜Buds3 ProとBuds4 Proが市販の補聴器として使えるように【海外ニュース】 - Smart Watch Life",
+      "summary": "",
+      "sourceName": "Smart Watch Life",
+      "sourceUrl": "https://www.smartwatchlife.jp",
+      "publishedAt": "2026-09-20T12:59:30.000Z",
+      "sourceType": "rss",
+      "category": "medical",
+      "sourceTier": "news",
+      "discoveryMethod": "google-news"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE94N2FSLXJIc25OMHp4WUpUR2gzdmdLdUJPRHpzNnhVN0F3cnRPX01XYklYemV4NW4xSmpCX3ZFUHBzTG93QzhaUDdERm9RT2lURW1wcWJuVkFRVTF5dFFZYQ?oc=5",
+      "title": "沖縄国際手話祭 ろう者・難聴者・聴者が共に歌う ギネス世界記録に認定 - 琉球新報デジタル",
+      "summary": "",
+      "sourceName": "琉球新報デジタル",
+      "sourceUrl": "https://ryukyushimpo.jp",
+      "publishedAt": "2026-09-20T07:00:00.000Z",
+      "sourceType": "rss",
+      "category": "general",
+      "region": "kyushu_okinawa",
+      "prefecture": "沖縄県",
+      "sourceTier": "news",
+      "discoveryMethod": "google-news"
+    },
     {
       "id": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5BR0JSUzlUU0ZHendCUmF6T2xzT1pOR053d2hqaDhQNTFPTmpkTDdLb214NEJCV2Q3aEx6djE1LWg2djlST29Zc1FuMThLYnc3QzNnVFhhMmdmOWxDbXBUZHFEcnZUVFltcGI0dnI2Zm42S1FFWnFPbFFxUQ?oc=5",
       "title": "AI機器は、聴覚障害者の自立を促進するのに役立つ。 - Vietnam.vn",
@@ -581,6 +701,20 @@
       "discoveryMethod": "google-news"
     },
     {
+      "id": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9NX0dNM2JJSFFrM3Z0dGRSX2EzdzFiaGlBMDRDV1dRRUdqdkFDUVFIRVVNR19NOHVCYjRvdmx1U0RpbEFjZWs5SU1xOXFpRDZ3a25RWW5OME45dw?oc=5",
+      "title": "差別と闘い 手話通訳士に 帯広で全道ろうあ者大会 伊藤さん 「コーダ」の半生語る - 北海道新聞デジタル",
+      "summary": "",
+      "sourceName": "北海道新聞デジタル",
+      "sourceUrl": "https://www.hokkaido-np.co.jp",
+      "publishedAt": "2026-09-18T07:00:00.000Z",
+      "sourceType": "rss",
+      "category": "accessibility",
+      "region": "hokkaido_tohoku",
+      "prefecture": "北海道",
+      "sourceTier": "news",
+      "discoveryMethod": "google-news"
+    },
+    {
       "id": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFB0cFFZWVBjSTl3Ujlxa3FRS3o3QmRpNjFTNjFvNG16ZjFReWl5QTZXNmlfdEdWZGFHRmZHTE9oZHQtd2tIOFZtcDgyOA?oc=5",
       "title": "「見えない障害」聴覚障害知って理解を 久留米市でパネル展、9月20日まで - 47NEWS",
       "summary": "",
@@ -661,20 +795,6 @@
       "publishedAt": "2026-09-18T07:00:00.000Z",
       "sourceType": "rss",
       "category": "medical",
-      "sourceTier": "news",
-      "discoveryMethod": "google-news"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9NX0dNM2JJSFFrM3Z0dGRSX2EzdzFiaGlBMDRDV1dRRUdqdkFDUVFIRVVNR19NOHVCYjRvdmx1U0RpbEFjZWs5SU1xOXFpRDZ3a25RWW5OME45dw?oc=5",
-      "title": "差別と闘い 手話通訳士に 帯広で全道ろうあ者大会 伊藤さん 「コーダ」の半生語る - 北海道新聞デジタル",
-      "summary": "",
-      "sourceName": "北海道新聞デジタル",
-      "sourceUrl": "https://www.hokkaido-np.co.jp",
-      "publishedAt": "2026-09-18T07:00:00.000Z",
-      "sourceType": "rss",
-      "category": "accessibility",
-      "region": "hokkaido_tohoku",
-      "prefecture": "北海道",
       "sourceTier": "news",
       "discoveryMethod": "google-news"
     },
@@ -1272,18 +1392,6 @@
       "discoveryMethod": "google-news"
     },
     {
-      "id": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5zY3h6NWxSenNXelAtLTdPaVJTVXNCN09jTTZHTjBLQXlPNjhCdF9oMnZOWG1kMFZpNmNwUUx0U08tZE96MFg0eUZsT3ZVRFdFeVVwaHFMRURDbjRkdUtJTQ?oc=5",
-      "title": "補聴器の補助金はいくら？国は最大144,900円・自治体621市区町村の助成額と条件【2026年版】 - 補助金ポータル",
-      "summary": "",
-      "sourceName": "補助金ポータル",
-      "sourceUrl": "https://hojyokin-portal.jp",
-      "publishedAt": "2026-09-16T07:00:00.000Z",
-      "sourceType": "rss",
-      "category": "policy",
-      "sourceTier": "news",
-      "discoveryMethod": "google-news"
-    },
-    {
       "id": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE8yOFE2clU1NFNmT1oyWVBJTk9tN3ZKQVIwVnBKV3lJMmFIZTYtT3l1VTlvazRFSkI2dUdkRnVqNzZfWVdIdi0xQVg0eWZnTS1rZV9OM21NZ0xIUkNmdzhRLXhSTQ?oc=5",
       "title": "認知度上昇も、なお課題 国内初開催１年で調査―デフリンピック - 時事ドットコム",
       "summary": "",
@@ -1292,6 +1400,18 @@
       "publishedAt": "2026-09-16T07:00:00.000Z",
       "sourceType": "rss",
       "category": "sports",
+      "sourceTier": "news",
+      "discoveryMethod": "google-news"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5zY3h6NWxSenNXelAtLTdPaVJTVXNCN09jTTZHTjBLQXlPNjhCdF9oMnZOWG1kMFZpNmNwUUx0U08tZE96MFg0eUZsT3ZVRFdFeVVwaHFMRURDbjRkdUtJTQ?oc=5",
+      "title": "補聴器の補助金はいくら？国は最大144,900円・自治体621市区町村の助成額と条件【2026年版】 - 補助金ポータル",
+      "summary": "",
+      "sourceName": "補助金ポータル",
+      "sourceUrl": "https://hojyokin-portal.jp",
+      "publishedAt": "2026-09-16T07:00:00.000Z",
+      "sourceType": "rss",
+      "category": "policy",
       "sourceTier": "news",
       "discoveryMethod": "google-news"
     },
@@ -1716,18 +1836,6 @@
       "discoveryMethod": "google-news"
     },
     {
-      "id": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPck53YVZqdEQ2UHdPdXluZl9lMDN6Qm0wZmt1dERCV1M1dmJsZkgxQklPVDlYeEE2N2RoUlkzU2IzdjUxTjNxdFRKUDlNTmM2alJjMUVKTTkzWjNacWllS1ViVThmMEhHSXBOWGJzWHI4NWFPX1RWTWF3dzAzVHFHeWthZmNGNms?oc=5",
-      "title": "【特許出願】米Fortell、聞きたい声を強調するAI補聴器 - 日本経済新聞",
-      "summary": "",
-      "sourceName": "日本経済新聞",
-      "sourceUrl": "https://www.nikkei.com",
-      "publishedAt": "2026-09-15T07:00:00.000Z",
-      "sourceType": "rss",
-      "category": "technology",
-      "sourceTier": "news",
-      "discoveryMethod": "google-news"
-    },
-    {
       "id": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBLdzZhMTk0ZEFHMjBBd0V2Q29nY2Z1NnNBU1RuRjAycGQ3Nll0TDBPS3V0NzVpTzRkQWtGMFBCQ0JVa3VHMzhjY0hqWEp4QUxBekRDdVlVa0dNTmp1aXhmQWtUalI?oc=5",
       "title": "ソフトボール八王子クラブ 聴覚障害チームと交流 手話通訳介し安全に - タウンニュース",
       "summary": "",
@@ -1773,6 +1881,18 @@
       "sourceType": "rss",
       "category": "technology",
       "sourceTier": "broad",
+      "discoveryMethod": "google-news"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPck53YVZqdEQ2UHdPdXluZl9lMDN6Qm0wZmt1dERCV1M1dmJsZkgxQklPVDlYeEE2N2RoUlkzU2IzdjUxTjNxdFRKUDlNTmM2alJjMUVKTTkzWjNacWllS1ViVThmMEhHSXBOWGJzWHI4NWFPX1RWTWF3dzAzVHFHeWthZmNGNms?oc=5",
+      "title": "【特許出願】米Fortell、聞きたい声を強調するAI補聴器 - 日本経済新聞",
+      "summary": "",
+      "sourceName": "日本経済新聞",
+      "sourceUrl": "https://www.nikkei.com",
+      "publishedAt": "2026-09-15T07:00:00.000Z",
+      "sourceType": "rss",
+      "category": "technology",
+      "sourceTier": "news",
       "discoveryMethod": "google-news"
     },
     {
@@ -2085,18 +2205,6 @@
       "discoveryMethod": "google-news"
     },
     {
-      "id": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBoaEljeXNuaXpXRFIzQTBrNkZVN3c4a2xzZFlrVVJWdnd3Y1YzVktrTmxRck5nRUM2VEJYWVJjeXpSWmZLZmlXLTR6a2JNNUd3QndYRTJNRDJHaVdyVzBJZEZuT1JaUQ?oc=5",
-      "title": "「手話言語の国際デー/手話の日（9月23日）」に向け ANA石垣八重山支店×東運輸×石垣市 3者連携プロジェクトを始動 - ANA",
-      "summary": "「手話言語の国際デー/手話の日（9月23日）」に向け ANA石垣八重山支店×東運輸×石垣市 3者連携プロジェクトを始動 ANA",
-      "sourceName": "ANA",
-      "sourceUrl": "https://www.anahd.co.jp",
-      "publishedAt": "2026-09-14T07:00:00.000Z",
-      "sourceType": "rss",
-      "category": "local",
-      "sourceTier": "news",
-      "discoveryMethod": "google-news"
-    },
-    {
       "id": "https://news.google.com/rss/articles/CBMibEFVX3lxTE91QUdBZDdCQ190bUt6UUQ2SHBISDhGUHJ3RkdWdEViOTQ3bnFGbVNwNXozM0k4X0xDUTNMS1VNLTNBQTZhbHBLZXNUbE5GU0FyOXQ3RklxM1hXRnlZREZUa0pLV1RoeTk0VHNVSA?oc=5",
       "title": "リアルタイム音声認識アプリ「YYSystem」の可能性は無限大！使う人とともにつくり上げる社会課題解決への挑戦 - Aisin Seiki",
       "summary": "",
@@ -2131,6 +2239,30 @@
       "category": "local",
       "region": "hokkaido_tohoku",
       "prefecture": "北海道",
+      "sourceTier": "news",
+      "discoveryMethod": "google-news"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1qckZ2dWxSemcyT0VsSlVsN2l4R0piRG5aQ2JiWnNGeVpJOFhJSVVseE1oNXlhdHRBcFNHTzVNYUxhSGlPamVzZ01NdlU4VFE4UzhZckVIRzFNeGNYbGg1aTFGNXpxcXN3Y0E2LWYwX0ZSYmVKWTZpRnowTnJzVG8?oc=5",
+      "title": "認知症・難聴悪化の林家パー子、車いすで笑顔 ネット“一安心”「元気そうで良かった」「ご自愛ください」（ENCOUNT） - Yahoo!ニュース",
+      "summary": "",
+      "sourceName": "Yahoo!ニュース",
+      "sourceUrl": "https://news.yahoo.co.jp",
+      "publishedAt": "2026-09-14T07:00:00.000Z",
+      "sourceType": "rss",
+      "category": "general",
+      "sourceTier": "news",
+      "discoveryMethod": "google-news"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBoaEljeXNuaXpXRFIzQTBrNkZVN3c4a2xzZFlrVVJWdnd3Y1YzVktrTmxRck5nRUM2VEJYWVJjeXpSWmZLZmlXLTR6a2JNNUd3QndYRTJNRDJHaVdyVzBJZEZuT1JaUQ?oc=5",
+      "title": "「手話言語の国際デー/手話の日（9月23日）」に向け ANA石垣八重山支店×東運輸×石垣市 3者連携プロジェクトを始動 - ANA",
+      "summary": "「手話言語の国際デー/手話の日（9月23日）」に向け ANA石垣八重山支店×東運輸×石垣市 3者連携プロジェクトを始動 ANA",
+      "sourceName": "ANA",
+      "sourceUrl": "https://www.anahd.co.jp",
+      "publishedAt": "2026-09-14T07:00:00.000Z",
+      "sourceType": "rss",
+      "category": "local",
       "sourceTier": "news",
       "discoveryMethod": "google-news"
     },
@@ -2378,11 +2510,11 @@
       "discoveryMethod": "google-news"
     },
     {
-      "id": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE0zci1vd3NyNGhBb2FmUmh6b1pBeU9ZY01SWC1sUkJqNDBKSVVlS0c0R01yeS1HdWJVSGQ3UE9fbFR1MXVWbFhkVVpMWQ?oc=5",
-      "title": "全国ろうあ者スポーツ大会、9競技で熱戦 佐賀県勢は3競技に熱いプレー - 47NEWS",
+      "id": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1wUVhxdjhSdFcycFM5M2Zva0VBc1VSamJ6SGllbHpYU3d5M3dUaEFlQmxPTFU1NW85eERjbWdNa1lsTDRYU0hVT3dMQmc4UlZmNTVicEM4NHpxYjVmRkRGWC1sMDNLWE9qc2JiOHdZS2pvT3JUek1Z?oc=5",
+      "title": "全国ろうあ者スポーツ大会、9競技で熱戦 佐賀県勢は3競技に熱いプレー（Saga Shimbun） - topics.smt.docomo.ne.jp",
       "summary": "",
-      "sourceName": "47NEWS",
-      "sourceUrl": "https://www.47news.jp",
+      "sourceName": "topics.smt.docomo.ne.jp",
+      "sourceUrl": "https://topics.smt.docomo.ne.jp",
       "publishedAt": "2026-09-13T07:00:00.000Z",
       "sourceType": "rss",
       "category": "local",
@@ -2392,11 +2524,11 @@
       "discoveryMethod": "google-news"
     },
     {
-      "id": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1wUVhxdjhSdFcycFM5M2Zva0VBc1VSamJ6SGllbHpYU3d5M3dUaEFlQmxPTFU1NW85eERjbWdNa1lsTDRYU0hVT3dMQmc4UlZmNTVicEM4NHpxYjVmRkRGWC1sMDNLWE9qc2JiOHdZS2pvT3JUek1Z?oc=5",
-      "title": "全国ろうあ者スポーツ大会、9競技で熱戦 佐賀県勢は3競技に熱いプレー（Saga Shimbun） - topics.smt.docomo.ne.jp",
+      "id": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE0zci1vd3NyNGhBb2FmUmh6b1pBeU9ZY01SWC1sUkJqNDBKSVVlS0c0R01yeS1HdWJVSGQ3UE9fbFR1MXVWbFhkVVpMWQ?oc=5",
+      "title": "全国ろうあ者スポーツ大会、9競技で熱戦 佐賀県勢は3競技に熱いプレー - 47NEWS",
       "summary": "",
-      "sourceName": "topics.smt.docomo.ne.jp",
-      "sourceUrl": "https://topics.smt.docomo.ne.jp",
+      "sourceName": "47NEWS",
+      "sourceUrl": "https://www.47news.jp",
       "publishedAt": "2026-09-13T07:00:00.000Z",
       "sourceType": "rss",
       "category": "local",
@@ -2627,20 +2759,6 @@
       "discoveryMethod": "google-news"
     },
     {
-      "id": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBnaE96TmZTbkItYmtpWUlrUUZ4M0d2R0N2MGZUaTlOY1lWLXNzdWdnQ0xuRHR4R0QxRy10bGVOOTBOc0RiMkI5b0FJMkRuckk?oc=5",
-      "title": "【令和8年熊本地震】メガネや補聴器でお困りの方へ、熊本県内4箇所で無償支援を実施 - Newscast.jp",
-      "summary": "",
-      "sourceName": "Newscast.jp",
-      "sourceUrl": "https://newscast.jp",
-      "publishedAt": "2026-09-11T07:00:00.000Z",
-      "sourceType": "rss",
-      "category": "safety",
-      "region": "kyushu_okinawa",
-      "prefecture": "熊本県",
-      "sourceTier": "broad",
-      "discoveryMethod": "google-news"
-    },
-    {
       "id": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFA5YmhfSUVHWmtkNWY4cFZLQzRVY255eHpQcjRzRk5YQlFsR0NXbE1KQnQ4Z2NISUFQSVlVSjBYVjZoNFJWT0pMeG9ndzl1V0E?oc=5",
       "title": "難聴公表の気象予報士、舩橋沙貴さんが「きこえのパートナー」に就任 - Newscast.jp",
       "summary": "",
@@ -2679,6 +2797,20 @@
       "sourceType": "rss",
       "category": "accessibility",
       "sourceTier": "news",
+      "discoveryMethod": "google-news"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBnaE96TmZTbkItYmtpWUlrUUZ4M0d2R0N2MGZUaTlOY1lWLXNzdWdnQ0xuRHR4R0QxRy10bGVOOTBOc0RiMkI5b0FJMkRuckk?oc=5",
+      "title": "【令和8年熊本地震】メガネや補聴器でお困りの方へ、熊本県内4箇所で無償支援を実施 - Newscast.jp",
+      "summary": "",
+      "sourceName": "Newscast.jp",
+      "sourceUrl": "https://newscast.jp",
+      "publishedAt": "2026-09-11T07:00:00.000Z",
+      "sourceType": "rss",
+      "category": "safety",
+      "region": "kyushu_okinawa",
+      "prefecture": "熊本県",
+      "sourceTier": "broad",
       "discoveryMethod": "google-news"
     },
     {
@@ -3432,18 +3564,6 @@
       "discoveryMethod": "google-news"
     },
     {
-      "id": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBCVlhxMndiZU0wOTBhTVlUQ3BpSFMzUUNWNEhHWXVfWm03TmFzM3BqZndnOHZ2OWtndDVnVWhwVHRVVmI5bDlIQmc1dHBFeDFoZ2ZXeElrVFlfd05rTlNZeGdLZG9XTTU4UFlEaTVnV1N0RTVVVXdmWVppOWtOV3c?oc=5",
-      "title": "0歳息子に重度難聴の診断「ママと呼んでもらえないかも」◆心を置き去りにしてケアに奔走した30代の母（時事通信） - Yahoo!ニュース",
-      "summary": "",
-      "sourceName": "Yahoo!ニュース",
-      "sourceUrl": "https://news.yahoo.co.jp",
-      "publishedAt": "2026-09-09T07:00:00.000Z",
-      "sourceType": "rss",
-      "category": "medical",
-      "sourceTier": "news",
-      "discoveryMethod": "google-news"
-    },
-    {
       "id": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5VbTVkTGo0THdaR2tjOUNpSG9ILTZKbDJkNjNheUFSX0dBVmd4SHBqSElHVzZlQ2M4aTJTWnNJbVdndkc2b29JRFNBVU5SdDZqTExXZ0FsV0hsU09GYW05QVp4b0RsbDZPN0tpc0ptblFrQmpKN09GdEJ3VlVrRGc?oc=5",
       "title": "佳子さま11回目の鳥取県訪問へ「全国高校手話パフォーマンス甲子園」にご出席（TSKさんいん中央テレビ） - news.yahoo.co.jp",
       "summary": "",
@@ -3454,6 +3574,18 @@
       "category": "culture",
       "region": "chugoku_shikoku",
       "prefecture": "鳥取県",
+      "sourceTier": "news",
+      "discoveryMethod": "google-news"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBCVlhxMndiZU0wOTBhTVlUQ3BpSFMzUUNWNEhHWXVfWm03TmFzM3BqZndnOHZ2OWtndDVnVWhwVHRVVmI5bDlIQmc1dHBFeDFoZ2ZXeElrVFlfd05rTlNZeGdLZG9XTTU4UFlEaTVnV1N0RTVVVXdmWVppOWtOV3c?oc=5",
+      "title": "0歳息子に重度難聴の診断「ママと呼んでもらえないかも」◆心を置き去りにしてケアに奔走した30代の母（時事通信） - Yahoo!ニュース",
+      "summary": "",
+      "sourceName": "Yahoo!ニュース",
+      "sourceUrl": "https://news.yahoo.co.jp",
+      "publishedAt": "2026-09-09T07:00:00.000Z",
+      "sourceType": "rss",
+      "category": "medical",
       "sourceTier": "news",
       "discoveryMethod": "google-news"
     },
@@ -4978,18 +5110,6 @@
       "discoveryMethod": "direct-feed"
     },
     {
-      "id": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBTU2JUc1F1REc3djVZZGQ1Yk1GR2ZMWndma3FlSHA1UVB6QnRHZFlQSWRURjFHNDNkVVpEZDZGbmQxc2R4YVlHeVJBY3hCV2c?oc=5",
-      "title": "世界の難聴の市場規模、疾患概要、疫学予測：2026年調査レポートを発表 - Newscast.jp",
-      "summary": "",
-      "sourceName": "Newscast.jp",
-      "sourceUrl": "https://newscast.jp",
-      "publishedAt": "2026-09-03T07:00:00.000Z",
-      "sourceType": "rss",
-      "category": "local",
-      "sourceTier": "broad",
-      "discoveryMethod": "google-news"
-    },
-    {
       "id": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBjcnpOSk5LYVAyN3gwOFl2YUZSTUE2R0poZFhHV1lfRVNISmRCaE9tREotbkl0NFp4eTlDa1JGbjZlM1NCcDlkTnZxbnNHdlU?oc=5",
       "title": "世界の難聴の市場規模、疾患概要、疫学予測：2026年調査レポートを発表 - atpress.ne.jp",
       "summary": "",
@@ -4999,6 +5119,18 @@
       "sourceType": "rss",
       "category": "local",
       "sourceTier": "news",
+      "discoveryMethod": "google-news"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBTU2JUc1F1REc3djVZZGQ1Yk1GR2ZMWndma3FlSHA1UVB6QnRHZFlQSWRURjFHNDNkVVpEZDZGbmQxc2R4YVlHeVJBY3hCV2c?oc=5",
+      "title": "世界の難聴の市場規模、疾患概要、疫学予測：2026年調査レポートを発表 - Newscast.jp",
+      "summary": "",
+      "sourceName": "Newscast.jp",
+      "sourceUrl": "https://newscast.jp",
+      "publishedAt": "2026-09-03T07:00:00.000Z",
+      "sourceType": "rss",
+      "category": "local",
+      "sourceTier": "broad",
       "discoveryMethod": "google-news"
     },
     {
@@ -5254,18 +5386,6 @@
       "discoveryMethod": "google-news"
     },
     {
-      "id": "https://news.google.com/rss/articles/CBMixwNBVV95cUxNdTI0S19FalFSdkhuYU55clhrdGRnQ1FoYzV4UW4xVEFCblRDWU9YUFpKRGVuM0xoZklVcGUyV2wzYXRJTlFfVVZuMmxvWlYyX1QxN2VFd3FjckpCTy0yNC0wLW94YlVsZm9Ec3ZaTnZJLVd5RjhGU3dDNmdMYVBjUGZKajlrLWRka1JXbG54Qllld3Z5X0N2YnMyVk9iUkpqYkoxdjhxcEZSSW1CWndjdWZGaXV2NTRRZ0Ryam15cHFhMlB6UmstejFreDZWek1ITGpraFlhTGtsQy1ydTBwNmZPZjBIUXlTazlUQ2hJUXNrRF9SUDFKUkhDLUgxQ2ZZOEF5VGxYUHZVMVowMFdvRDRjd0RlUFlyR3lKUHVKaUJUR0JGTmNrN3VQNzRJLTlmSTJGem1QQjcyWGRDalozVE1lRGVPb2tCUkEzYmxjanRMcHA5a2tXUUdFMEM2Tm5xSUtHLWJQdjEtQlVydHVWR2pfSVFzaG1wT3Q3bzNOcVJkLW5TMU9fS2VSZEp1VUNOeDV1S2djSHl5VGt3NnpxX2QwNzAtd1B1YjFYU2F3V0lUWTFHa2szWmNuNGdLSGFqSnZLOHM4TQ?oc=5",
-      "title": "メル・ギブソン、手話通訳者を茶化したように見える行動で謝罪 - SmartNews",
-      "summary": "",
-      "sourceName": "SmartNews",
-      "sourceUrl": "https://www.smartnews.com",
-      "publishedAt": "2026-09-02T07:00:00.000Z",
-      "sourceType": "rss",
-      "category": "accessibility",
-      "sourceTier": "news",
-      "discoveryMethod": "google-news"
-    },
-    {
       "id": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE93d3p2dHIzT1I4M3AtTDVjaGdDeHpyUFR1WGNhX2JFVnJIcVVQSTJoLXp0aVpXMEVGR0M1b0IwZzFqYzBnY1dTblQ2QUlkeVE?oc=5",
       "title": "突発性感音難聴（SSNHL）パイプライン分析2026（臨床試験フェーズ別、医薬品種類別）グローバル市場調査レポートを発表 - Newscast.jp",
       "summary": "",
@@ -5275,6 +5395,18 @@
       "sourceType": "rss",
       "category": "local",
       "sourceTier": "broad",
+      "discoveryMethod": "google-news"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMixwNBVV95cUxNdTI0S19FalFSdkhuYU55clhrdGRnQ1FoYzV4UW4xVEFCblRDWU9YUFpKRGVuM0xoZklVcGUyV2wzYXRJTlFfVVZuMmxvWlYyX1QxN2VFd3FjckpCTy0yNC0wLW94YlVsZm9Ec3ZaTnZJLVd5RjhGU3dDNmdMYVBjUGZKajlrLWRka1JXbG54Qllld3Z5X0N2YnMyVk9iUkpqYkoxdjhxcEZSSW1CWndjdWZGaXV2NTRRZ0Ryam15cHFhMlB6UmstejFreDZWek1ITGpraFlhTGtsQy1ydTBwNmZPZjBIUXlTazlUQ2hJUXNrRF9SUDFKUkhDLUgxQ2ZZOEF5VGxYUHZVMVowMFdvRDRjd0RlUFlyR3lKUHVKaUJUR0JGTmNrN3VQNzRJLTlmSTJGem1QQjcyWGRDalozVE1lRGVPb2tCUkEzYmxjanRMcHA5a2tXUUdFMEM2Tm5xSUtHLWJQdjEtQlVydHVWR2pfSVFzaG1wT3Q3bzNOcVJkLW5TMU9fS2VSZEp1VUNOeDV1S2djSHl5VGt3NnpxX2QwNzAtd1B1YjFYU2F3V0lUWTFHa2szWmNuNGdLSGFqSnZLOHM4TQ?oc=5",
+      "title": "メル・ギブソン、手話通訳者を茶化したように見える行動で謝罪 - SmartNews",
+      "summary": "",
+      "sourceName": "SmartNews",
+      "sourceUrl": "https://www.smartnews.com",
+      "publishedAt": "2026-09-02T07:00:00.000Z",
+      "sourceType": "rss",
+      "category": "accessibility",
+      "sourceTier": "news",
       "discoveryMethod": "google-news"
     },
     {
@@ -6079,6 +6211,18 @@
       "discoveryMethod": "google-news"
     },
     {
+      "id": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9MU25mMHE0QTZpZzJIUGRRcHgwdng2eWJFWUJQMmVlSzdzYWtMcTJpd0R6Tmh3NEJoY3BjZ1RLZmw2WXdKZUVKSThPNEVKLUdTYVVJSEFnaVpNRW9lMnZrQTFCakpBS3VQbkVhWTI3QmR3OWV5S0hXampNM0hDTWs?oc=5",
+      "title": "メダリスト目指す難聴のジュニア選手 支える家族のリアルとは？ 父・母・姉それぞれの目線（nobico（のびこ）） - Yahoo!ニュース",
+      "summary": "",
+      "sourceName": "Yahoo!ニュース",
+      "sourceUrl": "https://news.yahoo.co.jp",
+      "publishedAt": "2026-08-31T07:00:00.000Z",
+      "sourceType": "rss",
+      "category": "general",
+      "sourceTier": "news",
+      "discoveryMethod": "google-news"
+    },
+    {
       "id": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE0waFJyakFHNTF3TDNwTEZLay1sVW1WcmdnYksyRHhJbWdrbmItZXpfcTY0djFaWmREamMtMW5CUmhuaVRIVGNTNXhnWQ?oc=5",
       "title": "米子で１０月開催、全国盲ろう者大会知って 関係者、米子市長に理解促進呼びかけ - 47NEWS",
       "summary": "",
@@ -6092,18 +6236,6 @@
         "source": "og:image",
         "pageUrl": "https://www.47news.jp/14870912.html"
       },
-      "sourceTier": "news",
-      "discoveryMethod": "google-news"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9MU25mMHE0QTZpZzJIUGRRcHgwdng2eWJFWUJQMmVlSzdzYWtMcTJpd0R6Tmh3NEJoY3BjZ1RLZmw2WXdKZUVKSThPNEVKLUdTYVVJSEFnaVpNRW9lMnZrQTFCakpBS3VQbkVhWTI3QmR3OWV5S0hXampNM0hDTWs?oc=5",
-      "title": "メダリスト目指す難聴のジュニア選手 支える家族のリアルとは？ 父・母・姉それぞれの目線（nobico（のびこ）） - Yahoo!ニュース",
-      "summary": "",
-      "sourceName": "Yahoo!ニュース",
-      "sourceUrl": "https://news.yahoo.co.jp",
-      "publishedAt": "2026-08-31T07:00:00.000Z",
-      "sourceType": "rss",
-      "category": "general",
       "sourceTier": "news",
       "discoveryMethod": "google-news"
     },
@@ -12194,6 +12326,18 @@
       "discoveryMethod": "google-news"
     },
     {
+      "id": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBvRXpzXzBma1Jkc21OVjdmVGRXdVl3VzJlVGlkeGNsWXVJMnNQOTBMVl9ScjhjazNkdVN2NVJlQV9DMVc4RkJwb21jUWpvTHdxOUsyUjhHeVZnVlM0SlQ4anBQR2EwQ2VoaUE?oc=5",
+      "title": "「聴覚障がいのある方もフォークリフト運転手も守りたい」 パナソニック エレクトリックワークス株式会社の安全への取り組み事例を公開 - prtimes.jp",
+      "summary": "",
+      "sourceName": "prtimes.jp",
+      "sourceUrl": "https://prtimes.jp",
+      "publishedAt": "2026-08-03T07:00:00.000Z",
+      "sourceType": "rss",
+      "category": "general",
+      "sourceTier": "news",
+      "discoveryMethod": "google-news"
+    },
+    {
       "id": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5QbG1zNzItbmFoT0tLWDM5MkFLY29GOEhxbnEyODItNVYyaTU5T1NLcGxCQW83VWVsdHcydUFNVE00UnJGTThnU1lfLW9HaWc?oc=5",
       "title": "盲ろう者ケアホームを見学（奥田正枝、68、元看護師、熊本市） - 熊本日日新聞社",
       "summary": "",
@@ -12204,18 +12348,6 @@
       "category": "local",
       "region": "kyushu_okinawa",
       "prefecture": "熊本県",
-      "sourceTier": "news",
-      "discoveryMethod": "google-news"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBvRXpzXzBma1Jkc21OVjdmVGRXdVl3VzJlVGlkeGNsWXVJMnNQOTBMVl9ScjhjazNkdVN2NVJlQV9DMVc4RkJwb21jUWpvTHdxOUsyUjhHeVZnVlM0SlQ4anBQR2EwQ2VoaUE?oc=5",
-      "title": "「聴覚障がいのある方もフォークリフト運転手も守りたい」 パナソニック エレクトリックワークス株式会社の安全への取り組み事例を公開 - prtimes.jp",
-      "summary": "",
-      "sourceName": "prtimes.jp",
-      "sourceUrl": "https://prtimes.jp",
-      "publishedAt": "2026-08-03T07:00:00.000Z",
-      "sourceType": "rss",
-      "category": "general",
       "sourceTier": "news",
       "discoveryMethod": "google-news"
     },
@@ -13097,9 +13229,9 @@
     },
     {
       "id": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPSjlUZ1J3QlkxVTN0aHhqTXdRYXNBVG56enJOVEk3TURpTHBOeWQ2YXQzRjIxVmgtUGFqWl81emJEVFhqZjFjVjBCWmhuclNDMVA3TnVQTkEzbEJMTEo3R01zOVJoc0laMFdFbTFXWDg3UExMRElJcVlNMTlFRTZ5TE85bzFUUUlxODd4ZWJIaFMzQkNlcWU5eDJWWEhIS0ZPRXJLOE93?oc=5",
-      "title": "「越谷市手話言語条例」を制定しました - 越谷市公式ホームページ",
-      "summary": "",
-      "sourceName": "越谷市公式ホームページ",
+      "title": "「越谷市手話言語条例」を制定しました - 越谷市",
+      "summary": "「越谷市手話言語条例」を制定しました 越谷市",
+      "sourceName": "越谷市",
       "sourceUrl": "https://www.city.koshigaya.saitama.jp",
       "publishedAt": "2026-07-30T07:00:00.000Z",
       "sourceType": "rss",
@@ -15236,7 +15368,7 @@
       "discoveryMethod": "google-news"
     },
     {
-      "id": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBLYlVUblNfN0hkSzlUTzhwYWp0SWk0dWZQYzBKcE1xa01KZkxtNDhwVjBLV3VYa0ZrZWx6RWRIa2ZuV3VBSF9sNFFzMm9FczBjalE?oc=5",
+      "id": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA1UXd0YWlfc3JGTk11ZVBHUWlpSXA4MVF2WVM4STN1MFljcXVJMUZnV2FpNnBvYjR5NkJWekR2S0hCc1h6bkJuaEZXOVduQXhwWmNNSThrRXUzMUU?oc=5",
       "title": "｢補聴器は高いから…｣と聞こえづらさを放置していない？ AirPods Proを聴覚サポートに使う､知る人ぞ知る裏ワザ - 東洋経済オンライン",
       "summary": "",
       "sourceName": "東洋経済オンライン",
@@ -15272,7 +15404,19 @@
       "discoveryMethod": "google-news"
     },
     {
-      "id": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA1UXd0YWlfc3JGTk11ZVBHUWlpSXA4MVF2WVM4STN1MFljcXVJMUZnV2FpNnBvYjR5NkJWekR2S0hCc1h6bkJuaEZXOVduQXhwWmNNSThrRXUzMUU?oc=5",
+      "id": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5qUFVyVS02WllwTktyZG1FSGEyMVVtZHdQaHZzV3ExYXRtaDBSaXNDVFgzbllJLWNpM2lqNl8xLTU1Z0dMeTB1QTFNMkRQX3hTT3AyNnR2dUxRTlpYVG4zQ1p3SG8tYUthcHc?oc=5",
+      "title": "オーティコン補聴器、一般社団法人 音声情報アクセシビリティと年間パートナー契約を締結 - prtimes.jp",
+      "summary": "",
+      "sourceName": "prtimes.jp",
+      "sourceUrl": "https://prtimes.jp",
+      "publishedAt": "2026-07-23T07:00:00.000Z",
+      "sourceType": "rss",
+      "category": "accessibility",
+      "sourceTier": "news",
+      "discoveryMethod": "google-news"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBLYlVUblNfN0hkSzlUTzhwYWp0SWk0dWZQYzBKcE1xa01KZkxtNDhwVjBLV3VYa0ZrZWx6RWRIa2ZuV3VBSF9sNFFzMm9FczBjalE?oc=5",
       "title": "｢補聴器は高いから…｣と聞こえづらさを放置していない？ AirPods Proを聴覚サポートに使う､知る人ぞ知る裏ワザ - 東洋経済オンライン",
       "summary": "",
       "sourceName": "東洋経済オンライン",
@@ -15292,18 +15436,6 @@
       "publishedAt": "2026-07-23T07:00:00.000Z",
       "sourceType": "rss",
       "category": "medical",
-      "sourceTier": "news",
-      "discoveryMethod": "google-news"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5qUFVyVS02WllwTktyZG1FSGEyMVVtZHdQaHZzV3ExYXRtaDBSaXNDVFgzbllJLWNpM2lqNl8xLTU1Z0dMeTB1QTFNMkRQX3hTT3AyNnR2dUxRTlpYVG4zQ1p3SG8tYUthcHc?oc=5",
-      "title": "オーティコン補聴器、一般社団法人 音声情報アクセシビリティと年間パートナー契約を締結 - prtimes.jp",
-      "summary": "",
-      "sourceName": "prtimes.jp",
-      "sourceUrl": "https://prtimes.jp",
-      "publishedAt": "2026-07-23T07:00:00.000Z",
-      "sourceType": "rss",
-      "category": "accessibility",
       "sourceTier": "news",
       "discoveryMethod": "google-news"
     },
@@ -15466,18 +15598,6 @@
       "discoveryMethod": "google-news"
     },
     {
-      "id": "https://news.google.com/rss/articles/CBMiakFVX3lxTE12Wk84REN2OGtIY0ZCYU94ZUFiNGhkM2pvME85T3RsOHh1X3VpMDQ1QW1LcGV0T0FfU29qb0I1UUxTbWtJYjdrak9sWmhqamtkanVTZF95R1ViWjNHa0hsVnkwYnZUZ1dTTkE?oc=5",
-      "title": "「イヤフォンじゃなくて補聴器です」誤認心配のユーザー 自転車“青切符”制度の不安と対策 - ITmedia",
-      "summary": "",
-      "sourceName": "ITmedia",
-      "sourceUrl": "https://www.itmedia.co.jp",
-      "publishedAt": "2026-07-22T07:00:00.000Z",
-      "sourceType": "rss",
-      "category": "policy",
-      "sourceTier": "news",
-      "discoveryMethod": "google-news"
-    },
-    {
       "id": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9Xd0NkX1NXMHNwdzdWNkNIeE05Zm9CM2VZcFlSWFpzTjB6OGZpV0pZRXpnck9tUXZHdWx0bUtDOGNHTlJZZjEta3VsSi1UMFlNa1VYTlV6Nkc2TVFLVEZEdUx2MTlxdDB3MnJOYUVyY3ZLWUEyZmNwVnpxRHVjZjA?oc=5",
       "title": "『ゴジラ』シリーズ出演の韓国系米国人ろう者俳優ケイリー・ホトルさん、18歳で死去（中央日報日本語版） - news.yahoo.co.jp",
       "summary": "",
@@ -15486,6 +15606,18 @@
       "publishedAt": "2026-07-22T07:00:00.000Z",
       "sourceType": "rss",
       "category": "general",
+      "sourceTier": "news",
+      "discoveryMethod": "google-news"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMiakFVX3lxTE12Wk84REN2OGtIY0ZCYU94ZUFiNGhkM2pvME85T3RsOHh1X3VpMDQ1QW1LcGV0T0FfU29qb0I1UUxTbWtJYjdrak9sWmhqamtkanVTZF95R1ViWjNHa0hsVnkwYnZUZ1dTTkE?oc=5",
+      "title": "「イヤフォンじゃなくて補聴器です」誤認心配のユーザー 自転車“青切符”制度の不安と対策 - ITmedia",
+      "summary": "",
+      "sourceName": "ITmedia",
+      "sourceUrl": "https://www.itmedia.co.jp",
+      "publishedAt": "2026-07-22T07:00:00.000Z",
+      "sourceType": "rss",
+      "category": "policy",
       "sourceTier": "news",
       "discoveryMethod": "google-news"
     },
@@ -16444,6 +16576,18 @@
       "discoveryMethod": "google-news"
     },
     {
+      "id": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFAyd0VPd1pTMEdHaHdxZ3pGRGtXM05jOGItMUtqNDNwUlpGX052eXV0SnZWVHVEcEhEV3Zza25LWHBWSVAyQ0JYbEF3?oc=5",
+      "title": "青年団「銀河鉄道の夜」舞台手話通訳付き公演 - ナタリー",
+      "summary": "",
+      "sourceName": "ナタリー",
+      "sourceUrl": "https://natalie.mu",
+      "publishedAt": "2026-07-16T07:00:00.000Z",
+      "sourceType": "rss",
+      "category": "accessibility",
+      "sourceTier": "news",
+      "discoveryMethod": "google-news"
+    },
+    {
       "id": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9GRlRHRFNBSjczVENYX2tzbEdsZ3JibkdybXRZbmxOdVdfVk50UW90WUk5Q1J6NTdpWnFMZERlbHlpVFFlLThsNC1zZy1TV3ZxUzdj?oc=5",
       "title": "U-23デフサッカーワールドカップ2026で準優勝 東京リゾート＆スポーツ専門学校の学生・教員が国際舞台で活躍【東京リゾート＆スポーツ専門学校】 - ドリームニュース",
       "summary": "",
@@ -16490,18 +16634,6 @@
       "category": "local",
       "region": "hokkaido_tohoku",
       "prefecture": "北海道",
-      "sourceTier": "news",
-      "discoveryMethod": "google-news"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFAyd0VPd1pTMEdHaHdxZ3pGRGtXM05jOGItMUtqNDNwUlpGX052eXV0SnZWVHVEcEhEV3Zza25LWHBWSVAyQ0JYbEF3?oc=5",
-      "title": "青年団「銀河鉄道の夜」舞台手話通訳付き公演 - ナタリー",
-      "summary": "",
-      "sourceName": "ナタリー",
-      "sourceUrl": "https://natalie.mu",
-      "publishedAt": "2026-07-16T07:00:00.000Z",
-      "sourceType": "rss",
-      "category": "accessibility",
       "sourceTier": "news",
       "discoveryMethod": "google-news"
     },
@@ -17250,18 +17382,6 @@
       "discoveryMethod": "google-news"
     },
     {
-      "id": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAwbk9KQmpkWnFobWZBd0dfWVBqUWF0dmZCcHR5SWRwWUxsQ3ZqTDIwTF94aWQ4WDU2N2NNU2V2dk1kdjQ5RjRTa2hkWVlKYXE5TE41NzlFRjJXTjlOWlBZ?oc=5",
-      "title": "【東洋大学赤羽台キャンパス：北区中学生バスケットボール大会の観覧とデフバスケ日本代表選手との交... - 選挙ドットコム",
-      "summary": "",
-      "sourceName": "選挙ドットコム",
-      "sourceUrl": "https://go2senkyo.com",
-      "publishedAt": "2026-07-13T07:00:00.000Z",
-      "sourceType": "rss",
-      "category": "sports",
-      "sourceTier": "news",
-      "discoveryMethod": "google-news"
-    },
-    {
       "id": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBMUzBjTko0ZDh0TkhEOFNiRWdUb3VSR1k1Zm5ORlNzM0hYU0MyZnJyYUVpSGgwbDB1d0NBZTRYbXYxOG9wbnNaT3l4Y2cyVDhwYjdEZDFaeUdmTHhTRDZsSE5GU0ZKYXRMd2c?oc=5",
       "title": "親子がろう者と手話で買い物を楽しむ『手話の森マルシェ』8/2に幕張で開催 - prtimes.jp",
       "summary": "",
@@ -17270,6 +17390,18 @@
       "publishedAt": "2026-07-13T07:00:00.000Z",
       "sourceType": "rss",
       "category": "general",
+      "sourceTier": "news",
+      "discoveryMethod": "google-news"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAwbk9KQmpkWnFobWZBd0dfWVBqUWF0dmZCcHR5SWRwWUxsQ3ZqTDIwTF94aWQ4WDU2N2NNU2V2dk1kdjQ5RjRTa2hkWVlKYXE5TE41NzlFRjJXTjlOWlBZ?oc=5",
+      "title": "【東洋大学赤羽台キャンパス：北区中学生バスケットボール大会の観覧とデフバスケ日本代表選手との交... - 選挙ドットコム",
+      "summary": "",
+      "sourceName": "選挙ドットコム",
+      "sourceUrl": "https://go2senkyo.com",
+      "publishedAt": "2026-07-13T07:00:00.000Z",
+      "sourceType": "rss",
+      "category": "sports",
       "sourceTier": "news",
       "discoveryMethod": "google-news"
     },
@@ -18704,18 +18836,6 @@
       "discoveryMethod": "google-news"
     },
     {
-      "id": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE15VTI1V0lDd0Z2cURia21LMXN5Vy13VmRwbVZCRDJhMzNoZlBteGpxYktLMVcyR0MtT2VUbmJmSlFycWFfMDJZYjZvZjh1Zw?oc=5",
-      "title": "「1人も取り残さない社会へ」盲ろう者を支える「通訳・介助員」と、見えない聞こえない絶望を乗り越え生きる女性との絆 - FNNプライムオンライン",
-      "summary": "",
-      "sourceName": "FNNプライムオンライン",
-      "sourceUrl": "https://www.fnn.jp",
-      "publishedAt": "2026-07-04T07:00:00.000Z",
-      "sourceType": "rss",
-      "category": "general",
-      "sourceTier": "news",
-      "discoveryMethod": "google-news"
-    },
-    {
       "id": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBuc0pBaGxzZEtvNFVkR2dfOXg4Mi1WRFFsblk5YXpiYkx4SWRicjRlb2xpWHZPSFM2aHVjYXdwREVNVS1UcmhpRTRZaXQ4dw?oc=5",
       "title": "「傍らのひと」（２５）旧優生保護法巡る訴訟で手話通訳 差別をなくす使命を感じる - 静岡新聞DIGITAL",
       "summary": "",
@@ -18724,6 +18844,18 @@
       "publishedAt": "2026-07-04T07:00:00.000Z",
       "sourceType": "rss",
       "category": "accessibility",
+      "sourceTier": "news",
+      "discoveryMethod": "google-news"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE15VTI1V0lDd0Z2cURia21LMXN5Vy13VmRwbVZCRDJhMzNoZlBteGpxYktLMVcyR0MtT2VUbmJmSlFycWFfMDJZYjZvZjh1Zw?oc=5",
+      "title": "「1人も取り残さない社会へ」盲ろう者を支える「通訳・介助員」と、見えない聞こえない絶望を乗り越え生きる女性との絆 - FNNプライムオンライン",
+      "summary": "",
+      "sourceName": "FNNプライムオンライン",
+      "sourceUrl": "https://www.fnn.jp",
+      "publishedAt": "2026-07-04T07:00:00.000Z",
+      "sourceType": "rss",
+      "category": "general",
       "sourceTier": "news",
       "discoveryMethod": "google-news"
     },
@@ -18924,11 +19056,11 @@
       "discoveryMethod": "google-news"
     },
     {
-      "id": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5oYU43aHkyYTNjeXVra1VWRm95YU84U3JsZzRGVVNxRmtpeVQteXFqdTVaR2JaUjd4RS04dzExbjRFQnk3LWw2MFUydjVjMlhQWUlyWA?oc=5",
-      "title": "盲ろう者への理解を広げる縦型ショート動画「知ろう！もうろう」の続編を7月3日より毎週金曜配信スタート！ - ニコニコニュース",
+      "id": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB3QzVTNkFrU3QzZl90SXlYeEhTcDdfeHBZR1NzWWJYVUZ2MTNWRUdzNkVsd3JpZml5TTBzUHVJenN0d2FrN2VSTnNHMThjREEydDRN?oc=5",
+      "title": "「自信を持って まず一歩を」 聴覚障害ある米外交官が筑波技術大で講演 - 東京新聞デジタル",
       "summary": "",
-      "sourceName": "ニコニコニュース",
-      "sourceUrl": "https://news.nicovideo.jp",
+      "sourceName": "東京新聞デジタル",
+      "sourceUrl": "https://www.tokyo-np.co.jp",
       "publishedAt": "2026-07-03T07:00:00.000Z",
       "sourceType": "rss",
       "category": "general",
@@ -18936,11 +19068,11 @@
       "discoveryMethod": "google-news"
     },
     {
-      "id": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB3QzVTNkFrU3QzZl90SXlYeEhTcDdfeHBZR1NzWWJYVUZ2MTNWRUdzNkVsd3JpZml5TTBzUHVJenN0d2FrN2VSTnNHMThjREEydDRN?oc=5",
-      "title": "「自信を持って まず一歩を」 聴覚障害ある米外交官が筑波技術大で講演 - 東京新聞デジタル",
+      "id": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB4X0tFS2lfTk1PWFBQaHJWM3VjV2l0WGstQkZ4b21lRUVjOW9LaWg4QmlESWVNR0RtbWQ2Zm5ab0dJLVptelZyNHBNM3dJOGl3NlY0cmJwdl9MLWdkWUtwZ1JNaFdkSVdaX3c?oc=5",
+      "title": "盲ろう者への理解を広げる縦型ショート動画「知ろう！もうろう」の続編を7月3日より毎週金曜配信スタート！ - prtimes.jp",
       "summary": "",
-      "sourceName": "東京新聞デジタル",
-      "sourceUrl": "https://www.tokyo-np.co.jp",
+      "sourceName": "prtimes.jp",
+      "sourceUrl": "https://prtimes.jp",
       "publishedAt": "2026-07-03T07:00:00.000Z",
       "sourceType": "rss",
       "category": "general",
@@ -18960,11 +19092,11 @@
       "discoveryMethod": "google-news"
     },
     {
-      "id": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB4X0tFS2lfTk1PWFBQaHJWM3VjV2l0WGstQkZ4b21lRUVjOW9LaWg4QmlESWVNR0RtbWQ2Zm5ab0dJLVptelZyNHBNM3dJOGl3NlY0cmJwdl9MLWdkWUtwZ1JNaFdkSVdaX3c?oc=5",
-      "title": "盲ろう者への理解を広げる縦型ショート動画「知ろう！もうろう」の続編を7月3日より毎週金曜配信スタート！ - prtimes.jp",
+      "id": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5oYU43aHkyYTNjeXVra1VWRm95YU84U3JsZzRGVVNxRmtpeVQteXFqdTVaR2JaUjd4RS04dzExbjRFQnk3LWw2MFUydjVjMlhQWUlyWA?oc=5",
+      "title": "盲ろう者への理解を広げる縦型ショート動画「知ろう！もうろう」の続編を7月3日より毎週金曜配信スタート！ - ニコニコニュース",
       "summary": "",
-      "sourceName": "prtimes.jp",
-      "sourceUrl": "https://prtimes.jp",
+      "sourceName": "ニコニコニュース",
+      "sourceUrl": "https://news.nicovideo.jp",
       "publishedAt": "2026-07-03T07:00:00.000Z",
       "sourceType": "rss",
       "category": "general",
@@ -20736,6 +20868,18 @@
       "discoveryMethod": "google-news"
     },
     {
+      "id": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4yOFRpV1VXRDN4ZlBiYlhVYjNPOFNScHUtWWwxZVlVQTVfS2lrczVueFdzS0hxT1lwUkdvODFfVGZPVFBhaFlYamNZMUwtLUx2Ti1leUlR?oc=5",
+      "title": "聴覚障害者の意思疎通を支援 岐阜文芸社、システム販売契約 - 岐阜新聞デジタル",
+      "summary": "",
+      "sourceName": "岐阜新聞デジタル",
+      "sourceUrl": "https://www.gifu-np.co.jp",
+      "publishedAt": "2026-06-20T07:00:00.000Z",
+      "sourceType": "rss",
+      "category": "policy",
+      "sourceTier": "news",
+      "discoveryMethod": "google-news"
+    },
+    {
       "id": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5QRzFaM1B2WS1iVlZoMWhsV3lyRzNWd1V5SG1KVXV2aHpyYndCQjB0dXZOZjc3LTlGcTNTTEZHYlhvdDl5ZUNseGFPOXcwMFBSek45Mm1aRmQ2MlZ6VVE?oc=5",
       "title": "聴覚障害者の意思疎通を支援 岐阜文芸社、システム販売契約 - 岐阜新聞デジタル",
       "summary": "",
@@ -20758,18 +20902,6 @@
       "category": "accessibility",
       "region": "chugoku_shikoku",
       "prefecture": "山口県",
-      "sourceTier": "news",
-      "discoveryMethod": "google-news"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4yOFRpV1VXRDN4ZlBiYlhVYjNPOFNScHUtWWwxZVlVQTVfS2lrczVueFdzS0hxT1lwUkdvODFfVGZPVFBhaFlYamNZMUwtLUx2Ti1leUlR?oc=5",
-      "title": "聴覚障害者の意思疎通を支援 岐阜文芸社、システム販売契約 - 岐阜新聞デジタル",
-      "summary": "",
-      "sourceName": "岐阜新聞デジタル",
-      "sourceUrl": "https://www.gifu-np.co.jp",
-      "publishedAt": "2026-06-20T07:00:00.000Z",
-      "sourceType": "rss",
-      "category": "policy",
       "sourceTier": "news",
       "discoveryMethod": "google-news"
     },
@@ -21457,9 +21589,9 @@
     },
     {
       "id": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5zRWoxRXV5eFVnRVB4SUFVRUlMWTlqbFRlMWRBX1h5bGZQcXVyZ19TOUlock9MWE1QRkQxT0VzUWZZb1lSTV9jdA?oc=5",
-      "title": "旭川市手話言語に関する基本条例制定10周年 手で話そう - asatan.com",
+      "title": "旭川市手話言語に関する基本条例制定10周年 手で話そう - ASATAN",
       "summary": "",
-      "sourceName": "asatan.com",
+      "sourceName": "ASATAN",
       "sourceUrl": "https://asatan.com",
       "publishedAt": "2026-06-15T07:00:00.000Z",
       "sourceType": "rss",
@@ -22448,8 +22580,8 @@
       "discoveryMethod": "google-news"
     },
     {
-      "id": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA2cHd2VGR4Tm1mbl9TcUg1TVNJbG0tM3ZsM1p5d01BYzZtOHZ2NllFdXJnRUZOQ0UyMnY2V3VibzZCM3V2WGgyb0FtNnVRTjJLeGVvZE9hVUxPbG1ZVzQwQUx0VTh5eG0wbVNZZUZWVm9mMUxSX2ZfODJCTFg3Vms?oc=5",
-      "title": "補聴器助成、高まるニーズ／青森県弘前市（陸奥新報） - news.yahoo.co.jp",
+      "id": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPUTNtTHRzS01JdWpOVmhqTXVTMkVsVUZ3TWpKaTF4T0xhN2pUbDZKQkJkMm5xa3NsSy04YlAzSVV3andkMklHVVlTeHI2S3dJbnNJRlNrbnhjTDZ2ZFFWNXFNQkhRY1hiZk9IMHZSenJ1eURpdEFaaktENE4zSzN6Wlg1NlhWMDRjbHhDbXZB?oc=5",
+      "title": "補聴器助成、高まるニーズ／青森県弘前市 (陸奥新報) - news.yahoo.co.jp",
       "summary": "",
       "sourceName": "news.yahoo.co.jp",
       "sourceUrl": "https://news.yahoo.co.jp",
@@ -22462,8 +22594,8 @@
       "discoveryMethod": "google-news"
     },
     {
-      "id": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPUTNtTHRzS01JdWpOVmhqTXVTMkVsVUZ3TWpKaTF4T0xhN2pUbDZKQkJkMm5xa3NsSy04YlAzSVV3andkMklHVVlTeHI2S3dJbnNJRlNrbnhjTDZ2ZFFWNXFNQkhRY1hiZk9IMHZSenJ1eURpdEFaaktENE4zSzN6Wlg1NlhWMDRjbHhDbXZB?oc=5",
-      "title": "補聴器助成、高まるニーズ／青森県弘前市 (陸奥新報) - news.yahoo.co.jp",
+      "id": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA2cHd2VGR4Tm1mbl9TcUg1TVNJbG0tM3ZsM1p5d01BYzZtOHZ2NllFdXJnRUZOQ0UyMnY2V3VibzZCM3V2WGgyb0FtNnVRTjJLeGVvZE9hVUxPbG1ZVzQwQUx0VTh5eG0wbVNZZUZWVm9mMUxSX2ZfODJCTFg3Vms?oc=5",
+      "title": "補聴器助成、高まるニーズ／青森県弘前市（陸奥新報） - news.yahoo.co.jp",
       "summary": "",
       "sourceName": "news.yahoo.co.jp",
       "sourceUrl": "https://news.yahoo.co.jp",
@@ -22838,20 +22970,6 @@
       "discoveryMethod": "google-news"
     },
     {
-      "id": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1uTldOMjJtekVSbldSend1YXlMT0swRUMwd2s3TTl5TFhDeWk1Y1ZCOHl4NklsZFMxT2Z5eVpKNVE3R1BlRGtZWFQzV3NXTEkxUGlMX2xJaEFNc0lfWVRqenVzQVRUS2hqUl8ycVBR?oc=5",
-      "title": "病を知る ひょうご＞(39)突発性難聴 発症1週間以内、早期治療が鍵|社会 - 神戸新聞",
-      "summary": "",
-      "sourceName": "神戸新聞",
-      "sourceUrl": "http://www.kobe-np.co.jp",
-      "publishedAt": "2026-06-01T07:00:00.000Z",
-      "sourceType": "rss",
-      "category": "medical",
-      "region": "kinki",
-      "prefecture": "兵庫県",
-      "sourceTier": "news",
-      "discoveryMethod": "google-news"
-    },
-    {
       "id": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA3Y1FMeWVmYmV2dDRpejNraW14ZGdwelBOYzZ4aEUzYmhWTXdJQnd1cjM0djhXVnczWThEUDhyYWFxS1o3WmI5TG9XTS1FeThreUpVaWxQOUlYY3AwS0tfV1FqVUg3LWVxX3c?oc=5",
       "title": "東京2025デフリンピック 男子サッカー銀メダリストデフアスリート岡田拓也選手が東京パワーテクノロジーに入社 - prtimes.jp",
       "summary": "",
@@ -22884,6 +23002,20 @@
       "publishedAt": "2026-06-01T07:00:00.000Z",
       "sourceType": "rss",
       "category": "accessibility",
+      "sourceTier": "news",
+      "discoveryMethod": "google-news"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1uTldOMjJtekVSbldSend1YXlMT0swRUMwd2s3TTl5TFhDeWk1Y1ZCOHl4NklsZFMxT2Z5eVpKNVE3R1BlRGtZWFQzV3NXTEkxUGlMX2xJaEFNc0lfWVRqenVzQVRUS2hqUl8ycVBR?oc=5",
+      "title": "病を知る ひょうご＞(39)突発性難聴 発症1週間以内、早期治療が鍵|社会 - 神戸新聞",
+      "summary": "",
+      "sourceName": "神戸新聞",
+      "sourceUrl": "http://www.kobe-np.co.jp",
+      "publishedAt": "2026-06-01T07:00:00.000Z",
+      "sourceType": "rss",
+      "category": "medical",
+      "region": "kinki",
+      "prefecture": "兵庫県",
       "sourceTier": "news",
       "discoveryMethod": "google-news"
     },
@@ -22972,20 +23104,6 @@
       "discoveryMethod": "google-news"
     },
     {
-      "id": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBJT0NMT1FCR0w2WHdNekdmZHB0Y3pBVFRONVR4OGRqQmtWTGRCbEl6c2hfbzEzNkx6dS0yUFRHNUhjVHdPUHQtTVdzaXlWRU5HSGxObDBxaUpWZFl1WlVFR00ydWFSOGktS19hXzVGSHRiQmxLSkE?oc=5",
-      "title": "避難行動要支援者の避難行動支援に関する制度 - 木更津市",
-      "summary": "",
-      "sourceName": "木更津市",
-      "sourceUrl": "https://www.city.kisarazu.lg.jp",
-      "publishedAt": "2026-05-29T07:00:00.000Z",
-      "sourceType": "rss",
-      "category": "safety",
-      "region": "kinki",
-      "prefecture": "三重県",
-      "sourceTier": "official",
-      "discoveryMethod": "google-news"
-    },
-    {
       "id": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1SMDhrS3JudkhqcXJORXhYU0tQaWFlRzQwV3lJUnptdW9iLW9FdmVZbWZtOFJhUXRKSkF3NndzeFVkaDZHX0JWd3NfeHpHaUdRNkhObjdic2RoOEtRVTVn?oc=5",
       "title": "目標の約3倍！28万人を動員した「東京2025デフリンピック」が頂点に！東京都『伝わる広報大賞』 - AdverTimes.（アドタイ） by 宣伝会議",
       "summary": "",
@@ -23021,6 +23139,20 @@
       "sourceType": "rss",
       "category": "sports",
       "sourceTier": "news",
+      "discoveryMethod": "google-news"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBJT0NMT1FCR0w2WHdNekdmZHB0Y3pBVFRONVR4OGRqQmtWTGRCbEl6c2hfbzEzNkx6dS0yUFRHNUhjVHdPUHQtTVdzaXlWRU5HSGxObDBxaUpWZFl1WlVFR00ydWFSOGktS19hXzVGSHRiQmxLSkE?oc=5",
+      "title": "避難行動要支援者の避難行動支援に関する制度 - 木更津市",
+      "summary": "",
+      "sourceName": "木更津市",
+      "sourceUrl": "https://www.city.kisarazu.lg.jp",
+      "publishedAt": "2026-05-29T07:00:00.000Z",
+      "sourceType": "rss",
+      "category": "safety",
+      "region": "kinki",
+      "prefecture": "三重県",
+      "sourceTier": "official",
       "discoveryMethod": "google-news"
     },
     {
@@ -24256,18 +24388,6 @@
       "discoveryMethod": "google-news"
     },
     {
-      "id": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1pbnhWb1E0akFKckU5dUJmR3VYMGxValFIR0s3WG5maWFsZXNyN2UtOEwyaGNtMkdkV09zWWdoTUxpbzB6QnQtaGNqeTVMODYzWVRJdHJNUkpBc0I2NWhHYkRFZUpQRlZ3Ni1xMlVQZUdBbkNXenVV?oc=5",
-      "title": "市民公開講座「難聴と誤嚥」（5.23開催） - Tohoku University",
-      "summary": "",
-      "sourceName": "Tohoku University",
-      "sourceUrl": "https://www.tohoku.ac.jp",
-      "publishedAt": "2026-05-14T07:00:00.000Z",
-      "sourceType": "rss",
-      "category": "event",
-      "sourceTier": "official",
-      "discoveryMethod": "google-news"
-    },
-    {
       "id": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB0SXVmWFNqeFRfVHVSQlVXNFEzaUpzRHJTbGw3N3FHY2FmaENxOGNaRHVHejNtUnVGWFIyOXVEaGU5ampYeUF1TWpFWG9jRFk3RWhZSVpPLTJ4U19OMlhlNUFZLXdMbUJ5bUE?oc=5",
       "title": "オーティコン補聴器、「みみともサマーキャンプ 2026」を今年も開催 - prtimes.jp",
       "summary": "",
@@ -24277,6 +24397,18 @@
       "sourceType": "rss",
       "category": "medical",
       "sourceTier": "news",
+      "discoveryMethod": "google-news"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1pbnhWb1E0akFKckU5dUJmR3VYMGxValFIR0s3WG5maWFsZXNyN2UtOEwyaGNtMkdkV09zWWdoTUxpbzB6QnQtaGNqeTVMODYzWVRJdHJNUkpBc0I2NWhHYkRFZUpQRlZ3Ni1xMlVQZUdBbkNXenVV?oc=5",
+      "title": "市民公開講座「難聴と誤嚥」（5.23開催） - Tohoku University",
+      "summary": "",
+      "sourceName": "Tohoku University",
+      "sourceUrl": "https://www.tohoku.ac.jp",
+      "publishedAt": "2026-05-14T07:00:00.000Z",
+      "sourceType": "rss",
+      "category": "event",
+      "sourceTier": "official",
       "discoveryMethod": "google-news"
     },
     {
@@ -24441,9 +24573,9 @@
     },
     {
       "id": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9jQlJzLWJnVGpJeWRBekdsSjVfZDc2NXU0YS13Y2o5d2FMR2ZGaWNIV2xZa19YWFdxdTF1T0twWWpKYTRPNXNrZjZDRWUtUEN0Q05j?oc=5",
-      "title": "難聴者用日本語字幕版｜一部の劇場にて期間限定上映決定！ - 『魔法科高校の劣等生』公式サイト",
+      "title": "難聴者用日本語字幕版｜一部の劇場にて期間限定上映決定！ - アニメ「魔法科高校の劣等生」",
       "summary": "",
-      "sourceName": "『魔法科高校の劣等生』公式サイト",
+      "sourceName": "アニメ「魔法科高校の劣等生」",
       "sourceUrl": "https://mahouka.jp",
       "publishedAt": "2026-05-12T07:00:00.000Z",
       "sourceType": "rss",
@@ -24834,6 +24966,18 @@
       "category": "event",
       "sourceTier": "official",
       "discoveryMethod": "direct-feed"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB5ODhDcDNsMGhBdlVvOU9XR3NpUERRd0x4REVya0R5bmgyQjJYUHhMTHJZSl9tNkNrTEJnSndoSm0zbXhEWnlTZDhDVjVBeXJ2cWpzVkgtSUZWSGdzdmFzWElzTG1feUNIbDl0LUcwbjlmUkFS?oc=5",
+      "title": "【デジタル版限定】歌を手話通訳 深まる交流杉山悠美さん(甲斐）が活動続ける【地域／山梨】 - www.sannichi.co.jp",
+      "summary": "",
+      "sourceName": "www.sannichi.co.jp",
+      "sourceUrl": "https://www.sannichi.co.jp",
+      "publishedAt": "2026-05-06T07:00:00.000Z",
+      "sourceType": "rss",
+      "category": "accessibility",
+      "sourceTier": "news",
+      "discoveryMethod": "google-news"
     },
     {
       "id": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBpbG9kMFlNU04zbmpLa0haV2dXMjBJeVB3RW5yeFU4T1FMeWFmd0d1WkozcnlHZEtkRTM5WHAycjlvNTJDcWNpWkp6OFI5eHlSdE5Wb2V6anlGLWZzNGxEVDM5Q3JwLTVGdzZ4SQ?oc=5",
@@ -25812,18 +25956,6 @@
       "discoveryMethod": "google-news"
     },
     {
-      "id": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBuQzB1dUhGU0x4T1MwaFQ3d1AtMzFYWGJYdmp2YjZKaV9jVUNQRDJDMzhtM3FwUlQwNWQ1UU5JZkk3R1JwOE1pdkExV2M1WkQwWXhTME1IeWFCRHBIb1E?oc=5",
-      "title": "パリ日本文化会館『ろう者の目からみた日本』 - 在仏日本人会",
-      "summary": "",
-      "sourceName": "在仏日本人会",
-      "sourceUrl": "https://zaifutsunihonjinkai.fr",
-      "publishedAt": "2026-04-18T07:00:00.000Z",
-      "sourceType": "rss",
-      "category": "general",
-      "sourceTier": "news",
-      "discoveryMethod": "google-news"
-    },
-    {
       "id": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE4wZVVlZHdQUmJVc1c0bExEaExxaEluMWxyWnN3MHVlXy0zSnFURUY1OFp6VHNzTS1NaElTbnJ2MnR3N3JaV21pYzBpTFh5azJXaVlHUw?oc=5",
       "title": "小田急、手話通訳オペレーター介した旅客案内開始へ 鉄道業界で初 16駅と問い合わせページ内に導入 - 観光経済新聞",
       "summary": "",
@@ -25832,6 +25964,18 @@
       "publishedAt": "2026-04-18T07:00:00.000Z",
       "sourceType": "rss",
       "category": "accessibility",
+      "sourceTier": "news",
+      "discoveryMethod": "google-news"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBuQzB1dUhGU0x4T1MwaFQ3d1AtMzFYWGJYdmp2YjZKaV9jVUNQRDJDMzhtM3FwUlQwNWQ1UU5JZkk3R1JwOE1pdkExV2M1WkQwWXhTME1IeWFCRHBIb1E?oc=5",
+      "title": "パリ日本文化会館『ろう者の目からみた日本』 - 在仏日本人会",
+      "summary": "",
+      "sourceName": "在仏日本人会",
+      "sourceUrl": "https://zaifutsunihonjinkai.fr",
+      "publishedAt": "2026-04-18T07:00:00.000Z",
+      "sourceType": "rss",
+      "category": "general",
       "sourceTier": "news",
       "discoveryMethod": "google-news"
     },
@@ -63223,133 +63367,6 @@
       "sourceUrl": "https://www.asahi.com",
       "publishedAt": "2023-05-21T07:00:00.000Z",
       "category": "general",
-      "sourceType": "rss"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4tei1Xcm5LQVlxdFU1NERMM3dFd0l5TlpxT3QwNTNDa0Y3ZkxJWVQwWkZPRzBpMHlCeGdzNG9ndmpJSTE0dGp5bDZHY1k0Mmd2dXdaeXhZTEdnVzBlTWxXWTk5YXJZQQ?oc=5",
-      "title": "手話×音声、一緒につくる演劇 ろう者と聴者で新しい表現に挑戦 - 朝日新聞",
-      "summary": "手話×音声、一緒につくる演劇 ろう者と聴者で新しい表現に挑戦 朝日新聞",
-      "sourceName": "朝日新聞",
-      "sourceUrl": "https://www.asahi.com",
-      "publishedAt": "2023-05-20T07:00:00.000Z",
-      "category": "general",
-      "sourceType": "rss",
-      "curationScore": 11,
-      "curationSignals": [
-        "ろう者",
-        "手話"
-      ]
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPV0hYYTc2U1dKM2pBU2VqVmE0aU1zX0pNTFY5RURZMUxNMXJxeEhtZmtNYUNMdFphWDB1ZzRSOFlxcE96anJfTFBUaWVaS182WUhLNy1sZS1ScmR0dUNVUDNGcGFFSXVaVHBEUGh3N0xmd0RvU1RsYVpxMjlrMElFWXg4cjZrbXpnOHlQNk1uWXFRRVExaTlpaDRPSHNPWGI5NVZ3SkNoc2sySzhWanBz?oc=5",
-      "title": "【2連覇！】川畑菜奈選手、アジア太平洋ろう者フットサル選手権大会 - city.tokorozawa.saitama.jp",
-      "summary": "【2連覇！】川畑菜奈選手、アジア太平洋ろう者フットサル選手権大会 city.tokorozawa.saitama.jp",
-      "sourceName": "city.tokorozawa.saitama.jp",
-      "sourceUrl": "https://www.city.tokorozawa.saitama.jp",
-      "publishedAt": "2023-05-18T07:00:00.000Z",
-      "category": "general",
-      "sourceType": "rss"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5BdFhnSUtyRk9JTUtlc2pwZm13OGlmRVhzV0lsaTRhU3U5bzdiNUhoRWNJU2J6dm1xY3BqQlhZV1FlLU0yTGtEalAzTTFzS3ZQRUJ2SWJRdVlfWWdQWTRENjRJV0JaWXh6?oc=5",
-      "title": "第14回「ろうの映画芸術 － ろう者主導の団体が創る新しい共生社会」（後編） - アーツカウンシル東京",
-      "summary": "第14回「ろうの映画芸術 － ろう者主導の団体が創る新しい共生社会」（後編） アーツカウンシル東京",
-      "sourceName": "アーツカウンシル東京",
-      "sourceUrl": "https://www.artscouncil-tokyo.jp",
-      "publishedAt": "2023-05-17T07:00:00.000Z",
-      "category": "general",
-      "sourceType": "rss",
-      "curationScore": 8,
-      "curationSignals": [
-        "ろう者"
-      ]
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1XVVN5TEJ4ZmY0eDgtWGxOcTlxZzhSR1BCLUxielZfNDZKNWswZFhBMG5CUnMwc1JzakV1V25wRnpWdFdaNG1mZk1nQlV4Mm9wdWZfTV9la2hMSXM?oc=5",
-      "title": "募集要項・応募用紙/手話パフォーマンス甲子園 - pref.tottori.lg.jp",
-      "summary": "募集要項・応募用紙/手話パフォーマンス甲子園 pref.tottori.lg.jp",
-      "sourceName": "pref.tottori.lg.jp",
-      "sourceUrl": "https://www.pref.tottori.lg.jp",
-      "publishedAt": "2023-05-16T15:07:13.000Z",
-      "category": "culture",
-      "sourceType": "rss"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBqTG5pbUpVczdwRm8tSUpSVmlTVFkzLWFIbF9wMExEWDBhWEdhcDNsSlpUa3oyeG9GdmhOMVY0ZmpLZDVyWHJ6WEVPTzRkN1Fab1E?oc=5",
-      "title": "【草彅剛主演】『デフ・ヴォイス 法廷の手話通訳士』ドラマ化 「ろう文化をきちんと理解して描かれた小説に出会った」 - 本の話",
-      "summary": "【草彅剛主演】『デフ・ヴォイス 法廷の手話通訳士』ドラマ化 「ろう文化をきちんと理解して描かれた小説に出会った」 本の話",
-      "sourceName": "本の話",
-      "sourceUrl": "https://books.bunshun.jp",
-      "publishedAt": "2023-05-16T09:05:51.000Z",
-      "category": "culture",
-      "sourceType": "rss",
-      "curationScore": 19,
-      "curationSignals": [
-        "手話通訳",
-        "ろう文化",
-        "手話",
-        "デフ"
-      ]
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA4SjBweDZkX0M1UzN5VUROQXBUd1ppN3BMX3NkRWRva1AyTGY1elpWYWJ2TzdCNmhVc2dNUWowclhtSFhaNlJXOWd1Tnp5SHhPSlE?oc=5",
-      "title": "【草彅剛主演『デフ・ヴォイス 法廷の手話通訳士』】コーダが語る“葛藤”「両親の耳が聴こえないと誰にも知られてはいけない」と… - 本の話",
-      "summary": "【草彅剛主演『デフ・ヴォイス 法廷の手話通訳士』】コーダが語る“葛藤”「両親の耳が聴こえないと誰にも知られてはいけない」と… 本の話",
-      "sourceName": "本の話",
-      "sourceUrl": "https://books.bunshun.jp",
-      "publishedAt": "2023-05-16T09:05:51.000Z",
-      "category": "accessibility",
-      "sourceType": "rss"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBlVExxMlp1Mlhab2h2dXZKemNSaExvQmJZVU9OdkU2S0Fvc3VVTGxRU2ljU3BYVFlGdDI4eE9iR1hyQS1vSFZKWjQtd1NoT1BqVFJuSkxQSXdVYlRGQXIyTF9yenl6WG00?oc=5",
-      "title": "第14回「ろうの映画芸術 － ろう者主導の団体が創る新しい共生社会」（前編） - アーツカウンシル東京",
-      "summary": "第14回「ろうの映画芸術 － ろう者主導の団体が創る新しい共生社会」（前編） アーツカウンシル東京",
-      "sourceName": "アーツカウンシル東京",
-      "sourceUrl": "https://www.artscouncil-tokyo.jp",
-      "publishedAt": "2023-05-16T07:00:00.000Z",
-      "category": "general",
-      "sourceType": "rss",
-      "curationScore": 8,
-      "curationSignals": [
-        "ろう者"
-      ]
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE40VHJOOHlNN05mSG41M2wzWVVCNVdGSVFqUXZKcEpXMXY3OGJMYm00cVhDU2M3NVBKa01ScVdHRktMOXRjLWI2QVRwdG9jWlFE?oc=5",
-      "title": "草彅剛が手話通訳士を演じる！「デフ・ヴォイス 法廷の手話通訳士」がドラマ化 - ステラnet",
-      "summary": "草彅剛が手話通訳士を演じる！「デフ・ヴォイス 法廷の手話通訳士」がドラマ化 ステラnet",
-      "sourceName": "ステラnet",
-      "sourceUrl": "https://www.steranet.jp",
-      "publishedAt": "2023-05-16T07:00:00.000Z",
-      "category": "accessibility",
-      "sourceType": "rss"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9kZzlRY29xSEwzVHFyT052cE1lN1FBQjBCWjFZWWdXVG1aR0xmUG9GWUdWdUFtX3dmOTVIc3E2MFRvdlRTbEUwMVVIM3ZNMWdVWThnR2ZkelJXT2ZhdEVrQk50bmV2Ykg1SlE?oc=5",
-      "title": "国内唯一の聴覚障害者のための大学「筑波技術大」の学生が担う 「デフリンピック大会エンブレム制作」がスタート - PR TIMES",
-      "summary": "国内唯一の聴覚障害者のための大学「筑波技術大」の学生が担う 「デフリンピック大会エンブレム制作」がスタート PR TIMES",
-      "sourceName": "PR TIMES",
-      "sourceUrl": "https://prtimes.jp",
-      "publishedAt": "2023-05-12T07:00:00.000Z",
-      "category": "sports",
-      "sourceType": "rss",
-      "curationScore": 22,
-      "curationSignals": [
-        "聴覚障害",
-        "デフリンピック",
-        "聴覚",
-        "デフ"
-      ]
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBYRU5ZdC1VMzRINHoyVU9peV82NUlWOERWQmNxbWJfc1ZkTnhCRmxsdi1fWldUX1FucTZSb1dHQzV6OU5nSXE1UTE3RklNeGxkUTZJ?oc=5",
-      "title": "2025年デフリンピック大会のエンブレム制作がスタート！ - 全日本ろうあ連盟",
-      "summary": "2025年デフリンピック大会のエンブレム制作がスタート！ 全日本ろうあ連盟",
-      "sourceName": "全日本ろうあ連盟",
-      "sourceUrl": "https://www.jfd.or.jp",
-      "publishedAt": "2023-05-12T07:00:00.000Z",
-      "category": "sports",
       "sourceType": "rss"
     }
   ]
