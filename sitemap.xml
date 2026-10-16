@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://deafnavi.com/</loc>
-    <lastmod>2026-10-15T23:41:58.916Z</lastmod>
+    <lastmod>2026-10-16T08:05:44.017Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -128,8 +128,13 @@
   </url>
   <url>
     <loc>https://deafnavi.com/guide.html</loc>
-    <lastmod>2026-08-14</lastmod>
+    <lastmod>2026-10-16</lastmod>
     <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://deafnavi.com/events.html</loc>
+    <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
@@ -139,7 +144,7 @@
   </url>
   <url>
     <loc>https://deafnavi.com/sitemap.html</loc>
-    <lastmod>2026-10-15T23:41:58.916Z</lastmod>
+    <lastmod>2026-10-16T08:05:44.017Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.4</priority>
   </url>
