@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://deafnavi.com/</loc>
-    <lastmod>2026-10-21T14:29:36.746Z</lastmod>
+    <lastmod>2026-10-22T00:29:10.740Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -183,6 +183,11 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://deafnavi.com/events/maimu-zarela-sunagawa-2026-10-25/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://deafnavi.com/events/oioi-db8da853227f80b5f898/</loc>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -224,6 +229,11 @@
   </url>
   <url>
     <loc>https://deafnavi.com/events/kaat-kaeru-captions-2026-11-06/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://deafnavi.com/events/maimu-zarela-sapporo-2026-11-06/</loc>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
@@ -318,6 +328,11 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://deafnavi.com/events/jtd-kyogen-hatsuharu-2027-01-30/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://deafnavi.com/events/fureai-shuwa-2027-02-06/</loc>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -347,7 +362,7 @@
   </url>
   <url>
     <loc>https://deafnavi.com/sitemap.html</loc>
-    <lastmod>2026-10-21T14:29:36.746Z</lastmod>
+    <lastmod>2026-10-22T00:29:10.740Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.4</priority>
   </url>
