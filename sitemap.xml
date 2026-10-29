@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://deafnavi.com/</loc>
-    <lastmod>2026-10-28T00:28:51.306Z</lastmod>
+    <lastmod>2026-10-29T01:56:54.791Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -208,11 +208,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://deafnavi.com/events/dream-begin-2026-11-01/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://deafnavi.com/events/geigeki-recallings-2026-11-01/</loc>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -244,6 +239,11 @@
   </url>
   <url>
     <loc>https://deafnavi.com/events/tonancyo-community-2026-11-03/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://deafnavi.com/events/yysystem-ailens-nagoya-2026-11-03/</loc>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
@@ -338,6 +338,16 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://deafnavi.com/events/yysystem-ailens-hiroshima-2026-11-23/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://deafnavi.com/events/yysystem-ailens-nagoya-2026-11-23/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://deafnavi.com/events/oioi-3baf0a91c984c8343567/</loc>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -354,11 +364,6 @@
   </url>
   <url>
     <loc>https://deafnavi.com/events/gifu-ibuki-kurayami-2026-12-05/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://deafnavi.com/events/spac-nihonjin-sign-2026-12-05/</loc>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
@@ -433,7 +438,7 @@
   </url>
   <url>
     <loc>https://deafnavi.com/sitemap.html</loc>
-    <lastmod>2026-10-28T00:28:51.306Z</lastmod>
+    <lastmod>2026-10-29T01:56:54.791Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.4</priority>
   </url>
@@ -456,10 +461,5 @@
     <loc>https://deafnavi.com/connect/sign-cafe/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://deafnavi.com/connect/sign-cafe/map/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
   </url>
 </urlset>
