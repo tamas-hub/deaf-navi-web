@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://deafnavi.com/</loc>
-    <lastmod>2026-11-02T10:55:46.336Z</lastmod>
+    <lastmod>2026-11-03T02:53:24.154Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -318,6 +318,11 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://deafnavi.com/events/fureai-shuwa-2026-11-14/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://deafnavi.com/events/matsusaka-mini-shuwa-2026-11-14/</loc>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -348,11 +353,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://deafnavi.com/events/kurume-kaiju-2026-11-21/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://deafnavi.com/events/musashino-deaf-lecture-2026-11-21/</loc>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -364,6 +364,11 @@
   </url>
   <url>
     <loc>https://deafnavi.com/events/tonancyo-kikoe-festa-2026-11-22/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://deafnavi.com/events/tonancyo-ikigai-etegami-2026-11-23/</loc>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
@@ -388,7 +393,17 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://deafnavi.com/events/myoko-shuwa-workshop-2026-11-29/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://deafnavi.com/events/gifu-ibuki-kurayami-2026-12-05/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://deafnavi.com/events/spac-nihonjin-sign-2026-12-05/</loc>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
@@ -438,7 +453,7 @@
   </url>
   <url>
     <loc>https://deafnavi.com/sitemap.html</loc>
-    <lastmod>2026-11-02T10:55:46.336Z</lastmod>
+    <lastmod>2026-11-03T02:53:24.154Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.4</priority>
   </url>
