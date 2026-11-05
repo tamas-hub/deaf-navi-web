@@ -1,6 +1,6 @@
 {
   "schemaVersion": "deaf-navi-app-sync.v1",
-  "generatedAt": "2026-11-04T10:49:50Z",
+  "generatedAt": "2026-11-05T01:28:24Z",
   "siteUrl": "https://deafnavi.com/",
   "appBaseUrl": "https://deafnavi.com/app/v1/",
   "refresh": {
@@ -29,8 +29,8 @@
       "rawJsonUrl": "https://deafnavi.com/articles.json",
       "iosCompatibleUrl": "https://deafnavi.com/app/v1/ios-news-v2.json",
       "legacyIosCompatibleUrl": "https://deafnavi.com/app/v1/ios-news-v1.json",
-      "count": 453,
-      "sourceGeneratedAt": "2026-11-04T10:48:51Z",
+      "count": 423,
+      "sourceGeneratedAt": "2026-11-05T01:27:59Z",
       "categories": [
         {
           "id": "all",
@@ -121,8 +121,8 @@
       "rawJsonUrl": "https://deafnavi.com/articles-world.json",
       "iosCompatibleUrl": "https://deafnavi.com/app/v1/ios-world-jp-v2.json",
       "legacyIosCompatibleUrl": "https://deafnavi.com/app/v1/ios-world-jp-v1.json",
-      "count": 592,
-      "sourceGeneratedAt": "2026-11-04T10:49:50Z",
+      "count": 598,
+      "sourceGeneratedAt": "2026-11-05T01:28:24Z",
       "language": "ja-JP",
       "regions": [
         {
@@ -208,8 +208,8 @@
         "japanesePostEdit": {
           "checked": 0,
           "updated": 0,
-          "cached": 234,
-          "skipped": 498,
+          "cached": 238,
+          "skipped": 503,
           "failed": 0,
           "enabled": true,
           "fallback": {
@@ -217,8 +217,8 @@
             "failures": 1,
             "circuitOpen": true
           },
-          "pending": 498,
-          "retainedPrevious": 138
+          "pending": 503,
+          "retainedPrevious": 166
         }
       }
     },
@@ -228,8 +228,8 @@
       "rawJsonUrl": "https://deafnavi.com/articles-world.json",
       "iosCompatibleUrl": "https://deafnavi.com/app/v1/ios-world-original-v2.json",
       "legacyIosCompatibleUrl": "https://deafnavi.com/app/v1/ios-world-original-v1.json",
-      "count": 592,
-      "sourceGeneratedAt": "2026-11-04T10:49:50Z",
+      "count": 598,
+      "sourceGeneratedAt": "2026-11-05T01:28:24Z",
       "language": "und",
       "regions": [
         {
@@ -314,8 +314,8 @@
       "title": "Deaf Navi World Multilingual",
       "url": "https://deafnavi.com/app/v1/world-multilingual.json",
       "rawJsonUrl": "https://deafnavi.com/articles-world.json",
-      "count": 592,
-      "sourceGeneratedAt": "2026-11-04T10:49:50Z",
+      "count": 598,
+      "sourceGeneratedAt": "2026-11-05T01:28:24Z",
       "defaultLocale": "ja-JP",
       "regions": [
         {
