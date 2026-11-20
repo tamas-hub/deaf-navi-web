@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://deafnavi.com/</loc>
-    <lastmod>2026-11-19T11:30:43.027Z</lastmod>
+    <lastmod>2026-11-20T02:15:36.143Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -108,11 +108,6 @@
   </url>
   <url>
     <loc>https://deafnavi.com/archive/2025-05.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.3</priority>
-  </url>
-  <url>
-    <loc>https://deafnavi.com/archive/2025-04.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.3</priority>
   </url>
@@ -333,6 +328,11 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://deafnavi.com/events/kochi-derashinera-cinderella-2026-11-20/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://deafnavi.com/events/tonancyo-shimenawa-2026-11-20/</loc>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -363,12 +363,27 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://deafnavi.com/events/okayama-kenbi-sign-insects-2026-11-22/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://deafnavi.com/events/osaka-big-i-arts-contest-2026-11-22/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://deafnavi.com/events/oioi-3baf0a91c984c8343567/</loc>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://deafnavi.com/events/myoko-shuwa-workshop-2026-11-29/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://deafnavi.com/events/yubitopia-shuwaberiba-2026-11-29/</loc>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
@@ -388,7 +403,17 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://deafnavi.com/events/chitose-fureai-music-festival-2026-12-05/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://deafnavi.com/events/gifu-ibuki-kurayami-2026-12-05/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://deafnavi.com/events/kure-human-festa-concert-2026-12-05/</loc>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
@@ -408,6 +433,36 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://deafnavi.com/events/common-beat-nagoya-71-2026-12-12/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://deafnavi.com/events/ishinomaki-sign-reading-2026-12-12/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://deafnavi.com/events/tokushima-moa-universal-art-2026-12-12/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://deafnavi.com/events/topmuseum-sign-qa-show-2026-12-12/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://deafnavi.com/events/fukuoka-visible-ninth-2026-12-13/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://deafnavi.com/events/momas-uchima-gallery-talk-2026-12-13/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://deafnavi.com/events/yysystem-ailens-aichi-2026-12-16/</loc>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -423,7 +478,17 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://deafnavi.com/events/nagano-nam-gallery-talk-2026-12-19/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://deafnavi.com/events/shiga-seinenbu-year-end-2026-12-19/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://deafnavi.com/events/tokushima-moa-writing-talk-2026-12-26/</loc>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
@@ -468,7 +533,7 @@
   </url>
   <url>
     <loc>https://deafnavi.com/sitemap.html</loc>
-    <lastmod>2026-11-19T11:30:43.027Z</lastmod>
+    <lastmod>2026-11-20T02:15:36.143Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.4</priority>
   </url>
