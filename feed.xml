@@ -6,8 +6,26 @@
     <atom:link href="https://deafnavi.com/feed.xml" rel="self" type="application/rss+xml" />
     <description>聴覚障害・難聴・手話のニュースを1日3回更新。ろう者・難聴者・中途失聴者や家族・支援者に、制度・情報保障・医療・教育などの新着を出典付きで紹介。国内イベント、全国の手話カフェ一覧、暮らしのガイドも探せます。</description>
     <language>ja-JP</language>
-    <lastBuildDate>Fri, 20 Nov 2026 11:24:24 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 02:09:14 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>イヤホン、「隠れ難聴」対応 ミライスピーカーやオーディオテクニカ</title>
+      <link>https://news.google.com/rss/articles/CBMibEFVX3lxTE9vVTRnZG9NQk9DbFpDanVyTGNEZW9oTGtlem5ySnB4ZG1ERGYwMHVVOGtfYVJCaVEya2EyWVZqR1M2N19UZWFaVzhfTDRHencxQzJJQThiSzBhdVVGd1lOcDJZMUxSMk1qeDkwQg?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMibEFVX3lxTE9vVTRnZG9NQk9DbFpDanVyTGNEZW9oTGtlem5ySnB4ZG1ERGYwMHVVOGtfYVJCaVEya2EyWVZqR1M2N19UZWFaVzhfTDRHencxQzJJQThiSzBhdVVGd1lOcDJZMUxSMk1qeDkwQg?oc=5</guid>
+      <pubDate>Fri, 20 Nov 2026 20:00:00 GMT</pubDate>
+      <description></description>
+      <category>一般</category>
+      <source url="https://www.nikkei.com">日本経済新聞</source>
+    </item>
+    <item>
+      <title>AI時代でも「AI補聴器」を7割が詳しく知らない。全国510人調査で判明、AIで“聞こえ”はどう変わる？</title>
+      <link>https://news.google.com/rss/articles/CBMiaEFVX3lxTE94N1pIVGJKb1JQNFUtaXd4X3FpSnFCcy10VVRuaFl5Z3RsakdkcHo5QUZCbE55QXg1OUYweGZLNG00eTA3UGwwaHZqS0Zwa0lhSEZjZ0VtODF5ZjdZNTI0NTV1T0g1ZG5X?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiaEFVX3lxTE94N1pIVGJKb1JQNFUtaXd4X3FpSnFCcy10VVRuaFl5Z3RsakdkcHo5QUZCbE55QXg1OUYweGZLNG00eTA3UGwwaHZqS0Zwa0lhSEZjZ0VtODF5ZjdZNTI0NTV1T0g1ZG5X?oc=5</guid>
+      <pubDate>Fri, 20 Nov 2026 10:51:14 GMT</pubDate>
+      <description></description>
+      <category>技術・AI</category>
+      <source url="https://news.nicovideo.jp">ニコニコニュース</source>
+    </item>
     <item>
       <title>見えなくても聞こえなくても楽しくー盲ろう者夫婦の絆を描くドキュメンタリー「てのひらにつむぐ」</title>
       <link>https://news.google.com/rss/articles/CBMiWkFVX3lxTE1wN3E2Rlh5RkJJM2U5anZ4NzF0aFc2eXZzYWNqZUZRRUJQTS16S24tNmFFdVRTckVyQ3dNRmVGZEd6ZXhkcWQ3a2stNlJobG44ZWxsY3Z5bWZVUQ?oc=5</link>
@@ -90,15 +108,6 @@
       <source url="https://topics.smt.docomo.ne.jp">ｄメニューニュース</source>
     </item>
     <item>
-      <title>AI時代でも「AI補聴器」を7割が詳しく知らない。全国510人調査で判明、AIで“聞こえ”はどう変わる？</title>
-      <link>https://news.google.com/rss/articles/CBMiakFVX3lxTE5Tcy1DTjRFMTMwMnhSbUFFRmVKeXVGcjZwNG4xRVBiWGFHeVRISnNVWnBvdG5UV04xOUZJM2dINHRjNi1CMzBpYUw3cmNWQnhkVkJwLVBtLV9RN3BwYzJKLVFIMDNkaVZ0Znc?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiakFVX3lxTE5Tcy1DTjRFMTMwMnhSbUFFRmVKeXVGcjZwNG4xRVBiWGFHeVRISnNVWnBvdG5UV04xOUZJM2dINHRjNi1CMzBpYUw3cmNWQnhkVkJwLVBtLV9RN3BwYzJKLVFIMDNkaVZ0Znc?oc=5</guid>
-      <pubDate>Fri, 20 Nov 2026 02:10:01 GMT</pubDate>
-      <description></description>
-      <category>技術・AI</category>
-      <source url="https://prtimes.jp">PR TIMES</source>
-    </item>
-    <item>
       <title>1/30(土) 2026年度「青年講座」</title>
       <link>https://shigajou.or.jp/info/1-30%e5%9c%9f-2026%e5%b9%b4%e5%ba%a6%e3%80%8c%e9%9d%92%e5%b9%b4%e8%ac%9b%e5%ba%a7%e3%80%8d.html</link>
       <guid isPermaLink="true">https://shigajou.or.jp/info/1-30%e5%9c%9f-2026%e5%b9%b4%e5%ba%a6%e3%80%8c%e9%9d%92%e5%b9%b4%e8%ac%9b%e5%ba%a7%e3%80%8d.html</guid>
@@ -109,8 +118,8 @@
     </item>
     <item>
       <title>松居大悟率いるゴジゲン第21回公演『ユリちゃんビヨンド』キービジュアル解禁！ 舞台手話通訳付き公演やアフターイベントも決定</title>
-      <link>https://news.google.com/rss/articles/CBMiX0FVX3lxTE81N0lJcnRlRUF1aTA2X19DdTJmUHRaQnFfYW9ob1ZKNGh5OExhU0RkVFNsMmZxQ3JwRVlwU2hjOEFjUThiU0pNUV9JSHQ4SnZYQUFTZld0a1hTVmFJMFNz?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiX0FVX3lxTE81N0lJcnRlRUF1aTA2X19DdTJmUHRaQnFfYW9ob1ZKNGh5OExhU0RkVFNsMmZxQ3JwRVlwU2hjOEFjUThiU0pNUV9JSHQ4SnZYQUFTZld0a1hTVmFJMFNz?oc=5</guid>
+      <link>https://news.google.com/rss/articles/CBMib0FVX3lxTE4ySU5VcVowTkpsSUlCS3k2VnpDNC1WUnpmN3c5ZXpsdlcyZFBoNW5QM3VhR2M0RDE4UkFZSEJWd2VLUFF4RkxiNVJtZGl5UzkxRHhQcUloU3I4UkllcE9DYmFxMlJmWGlrbFZkQnRKSQ?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMib0FVX3lxTE4ySU5VcVowTkpsSUlCS3k2VnpDNC1WUnpmN3c5ZXpsdlcyZFBoNW5QM3VhR2M0RDE4UkFZSEJWd2VLUFF4RkxiNVJtZGl5UzkxRHhQcUloU3I4UkllcE9DYmFxMlJmWGlrbFZkQnRKSQ?oc=5</guid>
       <pubDate>Fri, 20 Nov 2026 01:00:00 GMT</pubDate>
       <description></description>
       <category>情報保障・アクセシビリティ</category>
@@ -216,13 +225,13 @@
       <source url="https://mainichi.jp">毎日新聞</source>
     </item>
     <item>
-      <title>難聴は“脳のキャパ”を奪う？専門医が教える「難聴と認知症の関係」とイヤホン難聴がもたらす「耳への影響」（婦人公論.jp）</title>
-      <link>https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUk5oRTNOWWxWTS05SWJkTmlSUFpJODhXcjd5SEF4aDJSMngtY1d6dWtkUGxFWlJKTjhJZTFCWXBUa0JhRGoxbHZmbDA2dHc1c0ZveFFwWHk1VnFPdzl4WmNzZ0JMU3RmMmdZQmVJQXFLN3RDdmdlMkNPRWJacW5DX014NXRFd2oy?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUk5oRTNOWWxWTS05SWJkTmlSUFpJODhXcjd5SEF4aDJSMngtY1d6dWtkUGxFWlJKTjhJZTFCWXBUa0JhRGoxbHZmbDA2dHc1c0ZveFFwWHk1VnFPdzl4WmNzZ0JMU3RmMmdZQmVJQXFLN3RDdmdlMkNPRWJacW5DX014NXRFd2oy?oc=5</guid>
-      <pubDate>Thu, 19 Nov 2026 03:30:36 GMT</pubDate>
+      <title>難聴は“脳のキャパ”を奪う？専門医が教える「難聴と認知症の関係」とイヤホン難聴がもたらす「耳への影響」</title>
+      <link>https://news.google.com/rss/articles/CBMiT0FVX3lxTE1YMjBWQkU4UDN4OWtFb2I3UnJ3c2tjSGF5Y2FYOUZDX2NWbDVBaTFWU19kTC1VQjE4a1R1UUZyblhqTC05enVxV1p1dFJUclXSAVJBVV95cUxOS2JOdkFYVGVrNkRMc0FMNDN6WFc2Ni1ESGd6bFJqeUtVY2VjeFVoaXVsMlNFbjlfTGN4TFJMNnVTUEM3RG1ZdW9UaFZCSUlEcERB?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiT0FVX3lxTE1YMjBWQkU4UDN4OWtFb2I3UnJ3c2tjSGF5Y2FYOUZDX2NWbDVBaTFWU19kTC1VQjE4a1R1UUZyblhqTC05enVxV1p1dFJUclXSAVJBVV95cUxOS2JOdkFYVGVrNkRMc0FMNDN6WFc2Ni1ESGd6bFJqeUtVY2VjeFVoaXVsMlNFbjlfTGN4TFJMNnVTUEM3RG1ZdW9UaFZCSUlEcERB?oc=5</guid>
+      <pubDate>Thu, 19 Nov 2026 03:30:00 GMT</pubDate>
       <description></description>
       <category>一般</category>
-      <source url="https://news.yahoo.co.jp">Yahoo!ニュース</source>
+      <source url="https://fujinkoron.jp">婦人公論.jp</source>
     </item>
     <item>
       <title>ひょうご防災ネットサポートセンターからのお知らせ</title>
@@ -280,12 +289,21 @@
     </item>
     <item>
       <title>大音量で長時間「イヤホン難聴」に注意！蒸れやカビは「外耳道真菌症」の原因に。適切なイヤホンの使い方を医師が解説</title>
-      <link>https://news.google.com/rss/articles/CBMiXkFVX3lxTE9FLVc3MElwQ1RwR3pleW1nS2k0bTJRelVldzl5ZTFXaUxuUWtZNzVWZmx3Rm9SYjBSSmxfLVpDUi0zZE9vZnZvLXNmSGxlN1FLajYyM2d1TVpqa2hDeFE?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiXkFVX3lxTE9FLVc3MElwQ1RwR3pleW1nS2k0bTJRelVldzl5ZTFXaUxuUWtZNzVWZmx3Rm9SYjBSSmxfLVpDUi0zZE9vZnZvLXNmSGxlN1FLajYyM2d1TVpqa2hDeFE?oc=5</guid>
+      <link>https://news.google.com/rss/articles/CBMiX0FVX3lxTE9xMHBUdGQwVkNMcjFDNXdidFB5eVIwVm1uSmhDSFM1V2s1cXIyWmFON2MxeVNDYXpULUtRbDIxY0F1Q2ZlbFdkdTFBV0JUOWZsTGN1N3hzWXJMNVhJMzJj?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiX0FVX3lxTE9xMHBUdGQwVkNMcjFDNXdidFB5eVIwVm1uSmhDSFM1V2s1cXIyWmFON2MxeVNDYXpULUtRbDIxY0F1Q2ZlbFdkdTFBV0JUOWZsTGN1N3hzWXJMNVhJMzJj?oc=5</guid>
       <pubDate>Wed, 18 Nov 2026 23:00:00 GMT</pubDate>
       <description></description>
       <category>地域</category>
       <source url="https://news.livedoor.com">ライブドアニュース</source>
+    </item>
+    <item>
+      <title>アイコンで状況把握 「スマートグラス」で聴覚障害者らがバスケ観戦 [茨城県]</title>
+      <link>https://news.google.com/rss/articles/CBMiakFVX3lxTE9qaW9WWXhiX0hwODBuWFJEZHlYd040endLRXB1TUI1bTdqbE5IZ2w4UGRJYzhkNWdTd21LVnpIME5WTFc3LWVqZ0FPMUlQVUJsVXdIYkFSNDJHT0NPVGlZYlhFc1FBTFF3UUE?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiakFVX3lxTE9qaW9WWXhiX0hwODBuWFJEZHlYd040endLRXB1TUI1bTdqbE5IZ2w4UGRJYzhkNWdTd21LVnpIME5WTFc3LWVqZ0FPMUlQVUJsVXdIYkFSNDJHT0NPVGlZYlhFc1FBTFF3UUE?oc=5</guid>
+      <pubDate>Wed, 18 Nov 2026 22:12:36 GMT</pubDate>
+      <description></description>
+      <category>地域</category>
+      <source url="https://www.asahi.com">朝日新聞</source>
     </item>
     <item>
       <title>動画：Cynthia Erivo、Lincoln Centerのコンサートでアメリカ手話通訳者とダンス</title>
@@ -342,6 +360,15 @@
       <source url="https://news.nicovideo.jp">ニコニコニュース</source>
     </item>
     <item>
+      <title>沖縄の11町村、手話通訳者の対面派遣を未実施 県が調査、離島や北部で支援不足</title>
+      <link>https://news.google.com/rss/articles/CBMiXkFVX3lxTE1LRU9EWFkwa204c1dkU2liaUJCNnRyTEZVRl9aWWpNQVVVMHhPQVJLVTEzZS1fOUV2Z1ZGYW9WRmtIUUQwTV9zZkg0d0tLY0lmbWNMb1ladlI2YU40Umc?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiXkFVX3lxTE1LRU9EWFkwa204c1dkU2liaUJCNnRyTEZVRl9aWWpNQVVVMHhPQVJLVTEzZS1fOUV2Z1ZGYW9WRmtIUUQwTV9zZkg0d0tLY0lmbWNMb1ladlI2YU40Umc?oc=5</guid>
+      <pubDate>Wed, 18 Nov 2026 08:11:00 GMT</pubDate>
+      <description></description>
+      <category>情報保障・アクセシビリティ</category>
+      <source url="https://www.okinawatimes.co.jp">沖縄タイムス社</source>
+    </item>
+    <item>
       <title>難聴になるとクルマの事故率が1.3倍に！ 日本の運転免許試験で実施されない「聴力検査」問題と補聴器の重要性</title>
       <link>https://news.google.com/rss/articles/CBMilAFBVV95cUxNdFVRUTNhQUVjZHlQeXhHY2d0eXh5NVNSVTBhY0FDN2tmNkJjdlg3LURfaTlhUWw5aFhMQ0VobWJMRjFoN2RQMnR5MGQ2MnpQUldlUnhQODY3SFVJSC1EQ1ZGZTFwZk1EdjBVbVdxS0pheVBwM0NxMUNvNkhGWDhneTRBdThMYlhkMTNUSi10c0dsY1cz?oc=5</link>
       <guid isPermaLink="true">https://news.google.com/rss/articles/CBMilAFBVV95cUxNdFVRUTNhQUVjZHlQeXhHY2d0eXh5NVNSVTBhY0FDN2tmNkJjdlg3LURfaTlhUWw5aFhMQ0VobWJMRjFoN2RQMnR5MGQ2MnpQUldlUnhQODY3SFVJSC1EQ1ZGZTFwZk1EdjBVbVdxS0pheVBwM0NxMUNvNkhGWDhneTRBdThMYlhkMTNUSi10c0dsY1cz?oc=5</guid>
@@ -349,6 +376,15 @@
       <description></description>
       <category>医療</category>
       <source url="https://carview.yahoo.co.jp">carview!</source>
+    </item>
+    <item>
+      <title>ＡＰＤ（聴覚情報処理障害）聴力に問題がないのに言葉を聞き取れない…対処法は？</title>
+      <link>https://news.google.com/rss/articles/CBMijwFBVV95cUxQYy0tQVpJTzhkMk1zcFFlWE9GX3NDdGlHOHNPR21VdUx5ZmRvQmVVUU1ja3VpNWJyU3hrUG81Z3ltalBYZHM5UVA3VEtCb2U0U0dtdXdGeExaZjB5YnhvTHAwenljT1Z1elZaSmhTTzR5MWViTzRDQWFtaG1mT0pyUWwwRHZtNXNodWN2eE9PNA?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMijwFBVV95cUxQYy0tQVpJTzhkMk1zcFFlWE9GX3NDdGlHOHNPR21VdUx5ZmRvQmVVUU1ja3VpNWJyU3hrUG81Z3ltalBYZHM5UVA3VEtCb2U0U0dtdXdGeExaZjB5YnhvTHAwenljT1Z1elZaSmhTTzR5MWViTzRDQWFtaG1mT0pyUWwwRHZtNXNodWN2eE9PNA?oc=5</guid>
+      <pubDate>Wed, 18 Nov 2026 08:00:00 GMT</pubDate>
+      <description></description>
+      <category>一般</category>
+      <source url="https://www.yomiuri.co.jp">読売新聞</source>
     </item>
     <item>
       <title>（現場へ！）障害者と政治のいま：3 議場で手話通訳、工夫重ね</title>
@@ -369,13 +405,13 @@
       <source url="https://www.asahi.com">朝日新聞</source>
     </item>
     <item>
-      <title>沖縄の11町村、手話通訳者の対面派遣を未実施 県が調査、離島や北部で支援不足</title>
-      <link>https://news.google.com/rss/articles/CBMiXkFVX3lxTE1LRU9EWFkwa204c1dkU2liaUJCNnRyTEZVRl9aWWpNQVVVMHhPQVJLVTEzZS1fOUV2Z1ZGYW9WRmtIUUQwTV9zZkg0d0tLY0lmbWNMb1ladlI2YU40Umc?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiXkFVX3lxTE1LRU9EWFkwa204c1dkU2liaUJCNnRyTEZVRl9aWWpNQVVVMHhPQVJLVTEzZS1fOUV2Z1ZGYW9WRmtIUUQwTV9zZkg0d0tLY0lmbWNMb1ladlI2YU40Umc?oc=5</guid>
-      <pubDate>Wed, 18 Nov 2026 07:00:00 GMT</pubDate>
+      <title>オークネットグループ社員 東海林 直広選手・宗澤 麟太郎選手 第21回冬季デフリンピック競技大会フットサル競技の代表メンバーに選出</title>
+      <link>https://news.google.com/rss/articles/CBMickFVX3lxTFBta2gzNFh3LVlpOEI2cWF4Z0U1dURYUzZMV1IzaVZCcDZtVndCMTNPSXZKOGhjQnlqTHJoUWFoSk4xY1l1YkRYR0ZmeVRzUU1MUzdnalp1b3ZqZDUtbjZJVEJVMFJRUnE2bC1XSzduWTNCdw?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMickFVX3lxTFBta2gzNFh3LVlpOEI2cWF4Z0U1dURYUzZMV1IzaVZCcDZtVndCMTNPSXZKOGhjQnlqTHJoUWFoSk4xY1l1YkRYR0ZmeVRzUU1MUzdnalp1b3ZqZDUtbjZJVEJVMFJRUnE2bC1XSzduWTNCdw?oc=5</guid>
+      <pubDate>Wed, 18 Nov 2026 03:45:24 GMT</pubDate>
       <description></description>
-      <category>情報保障・アクセシビリティ</category>
-      <source url="https://www.okinawatimes.co.jp">沖縄タイムス社</source>
+      <category>デフスポーツ</category>
+      <source url="https://news.infoseek.co.jp">Infoseek</source>
     </item>
     <item>
       <title>鹿児島県手話通訳問題研究会講演会</title>
@@ -396,15 +432,6 @@
       <source url="https://news.dellows.jp">Dellows News</source>
     </item>
     <item>
-      <title>オークネットグループ社員 東海林 直広選手・宗澤 麟太郎選手 第21回冬季デフリンピック競技大会フットサル競技の代表メンバーに選出</title>
-      <link>https://news.google.com/rss/articles/CBMiakFVX3lxTE96UGZ6NzQwdnExRFF3YW9MbzRwQ2dqNWJ6NXFYaFU5emMzVWc5X3pYcGhlV1p3cXcxQnc2OHBSNC1wV3FEaW1GYXpDTTc4eF9kUy1wLVdjcERhYVNISUtRZzN0MURLQ1QwckE?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiakFVX3lxTE96UGZ6NzQwdnExRFF3YW9MbzRwQ2dqNWJ6NXFYaFU5emMzVWc5X3pYcGhlV1p3cXcxQnc2OHBSNC1wV3FEaW1GYXpDTTc4eF9kUy1wLVdjcERhYVNISUtRZzN0MURLQ1QwckE?oc=5</guid>
-      <pubDate>Wed, 18 Nov 2026 01:30:01 GMT</pubDate>
-      <description></description>
-      <category>デフスポーツ</category>
-      <source url="https://prtimes.jp">PR TIMES</source>
-    </item>
-    <item>
       <title>2027 年冬季デフリンピック 日本選手団女子フットサル競技へ4名が選出！</title>
       <link>https://news.google.com/rss/articles/CBMie0FVX3lxTE5VcWNSREltZXlQbDZCd2FyZ1JtZnozTE5hS2RKYUdpMzhKLTAyMDVOZWxmUFNFaXFDOTNNa1g3YzBlbldFLWk4TDdvelRzZE5RcVRibjV2QVI1X284SFp1MnhxdlViRnBHRmxmWFpNRjYwTlk5OG5yYmZGMA?oc=5</link>
       <guid isPermaLink="true">https://news.google.com/rss/articles/CBMie0FVX3lxTE5VcWNSREltZXlQbDZCd2FyZ1JtZnozTE5hS2RKYUdpMzhKLTAyMDVOZWxmUFNFaXFDOTNNa1g3YzBlbldFLWk4TDdvelRzZE5RcVRibjV2QVI1X284SFp1MnhxdlViRnBHRmxmWFpNRjYwTlk5OG5yYmZGMA?oc=5</guid>
@@ -414,6 +441,15 @@
       <source url="https://news.nicovideo.jp">ニコニコニュース</source>
     </item>
     <item>
+      <title>スマート眼鏡「SABERA」、「第30回全国中途失聴者・難聴者福祉大会 in 京都」に出展</title>
+      <link>https://news.google.com/rss/articles/CBMickFVX3lxTFAxOTlzNmRYUFYxTkY1UHZHN2dRdXh4eThCNlE1VjR5ZXA2akFBODhQUG1uYnkwS3ExNnpGUE5IaFhXckRYbU1CRFN1S1NnR3hGOUtEZ01BOFd1RHkxb1pYbHBHRjVYcURDZkFfNXlSVHkxQQ?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMickFVX3lxTFAxOTlzNmRYUFYxTkY1UHZHN2dRdXh4eThCNlE1VjR5ZXA2akFBODhQUG1uYnkwS3ExNnpGUE5IaFhXckRYbU1CRFN1S1NnR3hGOUtEZ01BOFd1RHkxb1pYbHBHRjVYcURDZkFfNXlSVHkxQQ?oc=5</guid>
+      <pubDate>Tue, 17 Nov 2026 15:10:00 GMT</pubDate>
+      <description></description>
+      <category>地域</category>
+      <source url="https://news.infoseek.co.jp">Infoseek</source>
+    </item>
+    <item>
       <title>手話推進の日動画 2026年11月号「お疲れ様です」</title>
       <link>https://www.otjc.org/news/9890.php</link>
       <guid isPermaLink="true">https://www.otjc.org/news/9890.php</guid>
@@ -421,42 +457,6 @@
       <description></description>
       <category>一般</category>
       <source url="https://www.otjc.org/">沖縄聴覚障害者情報センター</source>
-    </item>
-    <item>
-      <title>【お知らせ】2026 年度 第 10 回日本知的障害者選手権新春水泳競技大会エントリー締切日を延長しました</title>
-      <link>https://www.deafswim.or.jp/2026/11/17/%e3%80%90%e3%81%8a%e7%9f%a5%e3%82%89%e3%81%9b%e3%80%912026-%e5%b9%b4%e5%ba%a6-%e7%ac%ac-10-%e5%9b%9e%e6%97%a5%e6%9c%ac%e7%9f%a5%e7%9a%84%e9%9a%9c%e5%ae%b3%e8%80%85%e9%81%b8%e6%89%8b%e6%a8%a9%e6%96%b0/</link>
-      <guid isPermaLink="true">https://www.deafswim.or.jp/2026/11/17/%e3%80%90%e3%81%8a%e7%9f%a5%e3%82%89%e3%81%9b%e3%80%912026-%e5%b9%b4%e5%ba%a6-%e7%ac%ac-10-%e5%9b%9e%e6%97%a5%e6%9c%ac%e7%9f%a5%e7%9a%84%e9%9a%9c%e5%ae%b3%e8%80%85%e9%81%b8%e6%89%8b%e6%a8%a9%e6%96%b0/</guid>
-      <pubDate>Tue, 17 Nov 2026 13:47:26 GMT</pubDate>
-      <description>■ 締切日 2026 年 11 月 19 日 (木) 正午まで 2026 年 11 月 21 日 (土) 正午</description>
-      <category>一般</category>
-      <source url="https://www.deafswim.or.jp/">日本デフ水泳協会</source>
-    </item>
-    <item>
-      <title>【お知らせ】第7回世界デフ水泳選手権大会選考について記載しました。</title>
-      <link>https://www.deafswim.or.jp/2026/11/17/%e3%80%90%e3%81%8a%e7%9f%a5%e3%82%89%e3%81%9b%e3%80%91%e7%ac%ac7%e5%9b%9e%e4%b8%96%e7%95%8c%e3%83%87%e3%83%95%e6%b0%b4%e6%b3%b3%e9%81%b8%e6%89%8b%e6%a8%a9%e5%a4%a7%e4%bc%9a%e9%81%b8%e8%80%83%e3%81%ab/</link>
-      <guid isPermaLink="true">https://www.deafswim.or.jp/2026/11/17/%e3%80%90%e3%81%8a%e7%9f%a5%e3%82%89%e3%81%9b%e3%80%91%e7%ac%ac7%e5%9b%9e%e4%b8%96%e7%95%8c%e3%83%87%e3%83%95%e6%b0%b4%e6%b3%b3%e9%81%b8%e6%89%8b%e6%a8%a9%e5%a4%a7%e4%bc%9a%e9%81%b8%e8%80%83%e3%81%ab/</guid>
-      <pubDate>Tue, 17 Nov 2026 12:30:40 GMT</pubDate>
-      <description>2027年6月28日〜7月3日にポーランド・ルビンで開催される第7回世界デフ水泳選手権大会の日本代表選手および</description>
-      <category>デフスポーツ</category>
-      <source url="https://www.deafswim.or.jp/">日本デフ水泳協会</source>
-    </item>
-    <item>
-      <title>スマート眼鏡「SABERA」、「第30回全国中途失聴者・難聴者福祉大会 in 京都」に出展</title>
-      <link>https://news.google.com/rss/articles/CBMiVEFVX3lxTE41VTFvQ0xUckY1bFM2TXZNSi12cGZTMkZ5NjNvWk0tb01adjRkYnhHUVBSZU4wTXBxTlFtNFNGcFM5bTV6Z0g0c2RDd3I3QUw1aDQ0Qw?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiVEFVX3lxTE41VTFvQ0xUckY1bFM2TXZNSi12cGZTMkZ5NjNvWk0tb01adjRkYnhHUVBSZU4wTXBxTlFtNFNGcFM5bTV6Z0g0c2RDd3I3QUw1aDQ0Qw?oc=5</guid>
-      <pubDate>Tue, 17 Nov 2026 11:41:51 GMT</pubDate>
-      <description></description>
-      <category>地域</category>
-      <source url="https://ascii.jp">ASCII.jp</source>
-    </item>
-    <item>
-      <title>色増さん念願の「金」 青森障スポ・フライングディスク（聴覚障害）</title>
-      <link>https://news.google.com/rss/articles/CBMicEFVX3lxTFA5SWxjeDBzUmUtUHlEYVpGMVlDbTY1aW9zV0Fwek5tOXlqTWxIRm1VM3d1VWMzNGlBZ29rN21tRk1wZW1QRzF4T2p0ZFBSRjYwOEQtU19lR19nMGlTY08xZFQ1VnNQWHdBcHBHUXZjS00?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMicEFVX3lxTFA5SWxjeDBzUmUtUHlEYVpGMVlDbTY1aW9zV0Fwek5tOXlqTWxIRm1VM3d1VWMzNGlBZ29rN21tRk1wZW1QRzF4T2p0ZFBSRjYwOEQtU19lR19nMGlTY08xZFQ1VnNQWHdBcHBHUXZjS00?oc=5</guid>
-      <pubDate>Tue, 17 Nov 2026 10:21:00 GMT</pubDate>
-      <description></description>
-      <category>一般</category>
-      <source url="https://www.the-miyanichi.co.jp">宮崎日日新聞</source>
     </item>
   </channel>
 </rss>
